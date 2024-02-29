@@ -1,0 +1,8 @@
+From: Lou Burnard <lou.burnard@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] open source XML-editor?
+Date: Fri, 25 Nov 2005 23:11:06 +0000
+Message-ID: <43879A0A.3040203@computing-services.oxford.ac.uk>
+In-Reply-To: <1132944722.11359.11.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2824053722462955331=="

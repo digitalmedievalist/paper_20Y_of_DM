@@ -1,0 +1,47 @@
+--===============4803723185644041144==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Digital Classicist London seminarOrtal-Paz Saar & Berit Janssen (Utrecht)
+PEACE: The Portal on Jewish Funerary CultureFriday Mar 18, 2022, 17:00 GMTStreamed live at https://youtu.be/IUrKgB2JAv8The word =E2=80=9CPeace=E2=80=9D=E2=80=94Shalom=E2=80=94is frequently found o=
+n funerary inscriptions marking the last resting place of Jewish people in an=
+tiquity. Often, it is the only word inscribed in Hebrew letters, inserted int=
+o an otherwise Greek or Latin epitaph. Our paper will present a new digital p=
+roject titled PEACE, which stands for Portal of Epigraphy, Archaeology, Conse=
+rvation and Education on Jewish Funerary Culture (https://peace.sites.uu.nl/)=
+. The portal is currently found in its pilot stage, and focuses on epigraphic=
+ data. It encompasses four epigraphical databases with different geographical=
+ scopes (primarily ancient Palestine, Italy, Germany, and Spain), ranging fro=
+m the 5th century BCE to the 20th century, comprising inscriptions painted on=
+ catacomb walls as well as moulded on modern concrete. Bridging over these di=
+fferences is the fact that all the partner databases use EpiDoc to encode the=
+ir inscriptions. The PEACE portal allows to search all databases simultaneous=
+ly, and subsequently detect patterns of historical importance within Jewish f=
+unerary culture.PEACE employs the Elasticsearch engine for searching through the different da=
+tabases and visualizing the results. Search results can also be filtered, for=
+ instance according to sex of the persons mentioned on the inscription, their=
+ age, location, and language. This allows for a richer analysis of the data. =
+The portal pilot is not without its challenges, which range from a lack of un=
+iformity in the data to the languages employed by the inscriptions. The latte=
+r include Hebrew and Aramaic (RTL languages with no vocalization), Greek and =
+Latin, alongside modern European languages, and some inscriptions comprise mo=
+re than one language, or transliterations of one language into the alphabet o=
+f another.Despite the challenges, the epigraphy pilot of the PEACE portal shows interes=
+ting results. Queries of its 40,000 inscriptions outline fascinating patterns=
+ across time and space, from onomastic preferences to the use of specific dat=
+ing formats. As more databases join the portal, such patterns will become inc=
+reasingly accurate and a better picture of Jewish funerary culture and its re=
+lation with non-Jewish traditions will emerge.ALL WELCOME
+=3D=3D
+Dr Gabriel BODARD (he/him)
+Reader in Digital ClassicsInstitute of Classical Studies / Digital Humanities Research Hub
+University of London
+Senate House
+Malet Street
+London WC1E 7HUE: Gabriel.bodard(a)sas.ac.uk
+T: +44 (0)20 78628752Especially at the moment, I may email at odd hours of the day and night/days =
+of the week. I do not ever expect a reply outside of your working hours.
+--===============4803723185644041144==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

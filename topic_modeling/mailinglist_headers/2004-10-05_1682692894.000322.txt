@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Character reference conversions: help?
+Date: Tue, 05 Oct 2004 12:53:49 -0600
+Message-ID: <4162EDBD.5090706@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0291179480515128006=="

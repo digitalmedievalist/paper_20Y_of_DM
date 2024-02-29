@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] test
+Date: Fri, 27 Aug 2004 07:19:06 -0600
+Message-ID: <412F34CA.3020303@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2382444917943799576=="

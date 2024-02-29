@@ -1,0 +1,51 @@
+--===============5934780153913371085==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitCall for Papers [Please Cross-Post]The Digital Medievalist (DM) is a new on-line and refereed journal 
+intended for medievalists working with digital media. The first issue is 
+scheduled for publication this fall, with subsequent issues in Spring 
+2005 and Summer 2005. The journal is edited by the executive of the 
+Digital Medievalist Project, hosts of the <dm-l(a)uleth.ca> mailing list: 
+Peter Baker, Martin Foys, Murray McGillivray, Kenna Olsen, Daniel Paul 
+O'Donnell, Roberto Rosselli del Turco, and Elizabeth Solopova. Our 
+second issue will include a selection of papers on technological topics 
+from Medieval Conferences in Kalamazoo and Leeds 2004 as well as other 
+articles.DM accepts work of original research and scholarship, notes on
+technological topics, commentary pieces discussing developments in the
+field, bibliographic and review articles, and project reports describing
+beginning, on-going, or completed projects. Contributors may also
+describe tools and utilities they have developed, stylesheets,
+markup-methods, imaging techniques, project management methods, etc.
+Future editions will also contain reviews of publications, web-sites and
+digital projects. All contributions are refereed by authorities in 
+humanities computing.Contributions to DM should concern topics likely to be of interest to
+medievalists working with digital media, though they need not be
+exclusively medieval in focus. Contributions should be of an appropriate
+length to the subject under discussion. We anticipate most will be
+between 1000 and 10,000 words. Our preferred format is TEI-Lite xml. If
+you would like to discuss alternative submission formats, please contact
+the editorial board.Submissions received by September 30, 2004 will be eligible for 
+consideration for publication in the inaugural (Fall 2004) issue. 
+Contributions received after that date may be considered for subsequent 
+issues.Contact Addresses:
+For general enquiries, please contact the General Editor
+<daniel.odonnell(a)uleth.ca> or the editorial board
+<digitalmedievalist(a)uleth.ca>.Individual editors are also available to discuss contributions. 
+Addresses and general areas of interests are listed below:Peter Baker <psb6m(a)virginia.edu>: Interface Design and Utilities
+Martin Foys <foys(a)hermes.hood.edu>: Images and Material Culture
+Murray McGillivray <mmcgilli(a)ucalgary.ca>: Structural Markup and Tools
+Daniel Paul O'Donnell <daniel.odonnell(a)uleth.ca>: General Editor;
+Structural Markup; Project Reports
+Kenna Olsen <klolsen(a)ucalgary.ca>: Review Editor
+Roberto Rosselli de Turco <rosselli(a)ling.unipi.it>: Bibliography,
+Resources, and References
+Elizabeth Solopova <elizabeth.solopova(a)bodley.ox.ac.uk>: Metadata and
+Text Analysis-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+E-mail <daniel.odonnell(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>
+--===============5934780153913371085==--

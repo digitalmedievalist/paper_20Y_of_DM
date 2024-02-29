@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeX
+Date: Sun, 03 Apr 2005 21:44:45 -0600
+Message-ID: <4250B82D.8080304@uleth.ca>
+In-Reply-To: <4250A26A.6060204@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3962548839530859210=="

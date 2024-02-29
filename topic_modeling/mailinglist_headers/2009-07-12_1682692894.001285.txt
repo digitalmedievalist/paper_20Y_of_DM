@@ -1,0 +1,7 @@
+From: Peter Baker <psb6m@virginia.edu>
+To: dm-l@uleth.ca
+Subject: [dm-l] Junicode font, version 0.6.17
+Date: Sun, 12 Jul 2009 11:44:33 -0400
+Message-ID: <4A5A04E1.8070709@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8840388394464864361=="

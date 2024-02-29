@@ -1,0 +1,9 @@
+From: Marjorie Burghart <Marjorie.Burghart@univ-lyon2.fr>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] open source z39.5 compatible bibliographic database	software
+Date: Thu, 23 Sep 2004 12:58:27 +0200
+Message-ID: <1095937107.4152ac5366a89@imp1-q.free.fr>
+In-Reply-To: <413A8ADD.5060304@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1875903025234108238=="

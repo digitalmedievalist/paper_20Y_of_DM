@@ -1,0 +1,70 @@
+--===============1328213975557200087==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+*Cosme^2 (Consortium Sources M=C3=A9di=C3=A9vales 2)**Groupe de travail =C2=AB=C2=A0Lemmes=C2=A0=C2=BB - Atelier 4****Journ=C3=A9e d'initiation =C3=A0 la lemmatisation des textes m=C3=A9=
+di=C3=A9vaux****lundi 17 juin 2019 - 9h30-18h**Paris - IRHT - Salle Jeanne Vielliard - **40 avenue d'I=C3=A9na*=20
+<https://www.google.fr/maps/place/IRHT+-+Institut+de+la+recherche+et+d'histoi=
+res+des+textes/@48.8659918,2.2947109,15z/data=3D!4m5!3m4!1s0x0:0x222e82b445cb=
+4fbc!8m2!3d48.8659918!4d2.2947109>*(m=C3=A9tro=20
+I=C3=A9na)*En plus d'=C3=AAtre flexionnelles, les langues employ=C3=A9es dans l=
+'Occident=20
+m=C3=A9di=C3=A9val (latin et langues vernaculaires) se caract=C3=A9risent par=
+ une trés=20
+grande variation orthographique. La lemmatisation, c'est-=C3=A0-dire =
+le=20
+regroupement des diff=C3=A9rentes formes d'un mot sous leur lemme, se=
+ trouve=20
+ainsi =C3=AAtre une op=C3=A9ration fondamentale aux =C3=A9tudes des textes, n=
+otamment=20
+celles utilisant des proc=C3=A9dures de recherche formalis=C3=A9es et assist=
+=C3=A9es=20
+informatiquement.Dans le contexte actuel de multiplication des num=C3=A9risations des textes=20
+m=C3=A9di=C3=A9vaux, plusieursoutils et paramétres de lemmatisation ont =
+vu le jour=20
+et continuent d'=C3=AAtre d=C3=A9velopp=C3=A9s.De l'aide =C3=
+=A0 la traduction jusqu'=C3=A0 la=20
+pr=C3=A9paration aux analyses statistiques et s=C3=A9mantiques des larges cor=
+pus,=20
+ces outils demeurent, cependant, pas ou peu connus des m=C3=A9di=C3=A9vistes.L'objectif de cette journ=C3=A9e est de proposer une introduction =C3=
+=A0 la=20
+lemmatisation et la d=C3=A9couverte de quelques outils-cl=C3=A9 =C3=A0 partir=
+=20
+d'exercices pratiques. Elle vise aussi =C3=A0 faire se rencontrer les=
+=20
+concepteurs d'applications et leurs utilisateurs potentiels.Cette initiation s'adresse =C3=A0 tous les int=C3=A9ress=C3=A9s=C2=A0=
+: =C3=A9tudiants,=20
+doctorants, ing=C3=A9nieurs, chercheurs et enseignants-chercheurs. Pour que=20
+cette initiation s'accompagne d'une mise en pratique r=C3=A9e=
+lle, le nombre=20
+des participants est limit=C3=A9 =C3=A0 15.La participation est gratuite, mais devra obligatoirement faire l'obj=
+et=20
+d'une demande motiv=C3=A9e, pour que la limite fix=C3=A9e =C3=A0 15 p=
+articipants puisse=20
+=C3=AAtre v=C3=A9rifi=C3=A9e.La prise en charge des frais de transport, voire de logement (une=20
+nuit=C3=A9e), est possible dans la mesure des cr=C3=A9dits disponibles, =C3=
+=A0=20
+condition d'en faire la demande explicite au moment de la candidature=
+.=20
+L'ordre des candidatures sera pris en compte en cas de besoin.Pour faire acte de candidature, adressez par courriel une *demande=20
+motiv=C3=A9e* =C3=A0 eliana.magnani(a)univ-paris1.fr=20
+<mailto:eliana.magnani(a)univ-paris1.fr>avant le *15 mai 2019*, en=20
+pr=C3=A9cisant vos nom, pr=C3=A9nom, institution de rattachement, théme =
+de=20
+recherche, courriel et, le cas =C3=A9ch=C3=A9ant, les besoins de prise en cha=
+rge=20
+(transport, nuit=C3=A9e). Tous les candidats seront pr=C3=A9venus par courrie=
+l le=20
+20 mai de l'=C3=A9tat de leur candidature.*Programme*=C2=B79h30 - Accueil et tour de table introductif=C2=B710h - La lemmatisation des corpus m=C3=A9di=C3=A9vaux. Pourquoi et comm=
+ent=C2=A0?=20
+(Nicolas Perreaux et invit=C3=A9s =C3=A0 confirmer)=C2=B711h45 - Pause=C2=B712h - Installation, prise en main et utilisation de Collatinus.=20
+Lemmatiseur et analyseur morphologique de textes latins (Yves Ouvrard,=20
+Philippe Verkerk)=C2=B713h15 - Buffet=C2=B714h30 - Phyrra=C2=A0: lemmatisation et correction (latin, ancien fran=
+=C3=A7ais,=20
+etc.) (Thibault Cl=C3=A9rice, Vincent Jolivet, Ariane Pinche)=C2=B716h - Pause=C2=B716h30 - Palm. Plateforme d'analyse linguistique m=C3=A9di=C3=A9=
+vale=C2=A0: anglais,=20
+fran=C3=A7ais et latin m=C3=A9di=C3=A9vaux (Aude Mairey)=C2=B717h30 - Tour de table conclusif*Organisation*Eliana Magnani (CNRS-LaMOP), Nicolas Perreaux (SFB 1095 -=20
+Goethe-Universität) et l'=C3=A9quipe administrative de l=E2=80=
+=99IRHT*Comit=C3=A9 scientifique*Paul Bertrand (Univ. Louvain)Estelle Ingrand-Varenne (CNRS-CESCM)Eliana Magnani (CNRS-LaMOP)Nicolas Perreaux (SFB 1095 - Goethe-Universität)*Liens utiles*http://cosme.hypotheses.org/https://www.huma-num.fr/consortiumshttps://www.irht.cnrs.fr/https://outils.biblissima.fr/fr/collatinus-web/http://www.glossaria.eu/treetagger/http://palm.huma-num.fr/PALM/--===============1328213975557200087==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

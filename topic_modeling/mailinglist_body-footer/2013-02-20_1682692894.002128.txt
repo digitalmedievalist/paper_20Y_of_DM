@@ -1,0 +1,51 @@
+--===============4311859208779739476==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitCall for Workshops and TutorialsThe Linked TEI: Text Encoding in the Web2013 Annual Conference and Members’ Meeting of the TEI Consortium
+2-5 October 2013
+Università La Sapienza, Rome, Italy* Deadline for submissions: March 31, 2013
+* Workshop dates: 30 September - 2 October 2012Conference website: http://digilab2.let.uniroma1.it/teiconf2013/The Programme Committee of the 2013 Annual Conference and Members
+Meeting of the Text Encoding Initiative (TEI – http://www.tei-c.org)
+Consortium invites proposals for educational tutorials or workshops to
+precede the conference.The goal of the tutorials is to give an opportunity to learn more
+about the use of TEI markup under the guidance of experienced
+instructors and practitioners, whereas workshops are an opportunity
+for specific groups to meet and work together on a TEI related
+subject.Workshops and tutorials range in length from a single morning or
+afternoon to a maximum of two days. Tutorials are run on a
+cost-recovery basis: a separate fee is charged of participants that is
+intended to cover the costs of running the tutorial. Workshops are
+expected to be free of charges.If you are interested in proposing either a workshop or a tutorial for
+the 2013 Members’ Meeting and Conference, please
+contactmeeting(a)tei.org ***as early as possible*** and submit your
+proposal
+before 31 March 2013 via Conftool, the availability of which will be
+announced shortly. Expressions of interest should include as much as
+possible of the following information (the committee is willing to
+work with proposers in developing their proposals):* Topic
+* Rationale explaining why this topic is likely to draw sufficient
+attention of the TEI community
+* Length of the event
+* Infrastructural requirements
+- (In the case of a tutorial)
+---- * Proposed instructor or slate of instructors including brief
+discussion of relevant experience
+---- * Preliminary budget of your anticipated costs (if any)
+- (In the case of a workshop)
+---- * Core list of people who are likely to participate, keeping in
+mind that workshops are by essence open for participation
+---- * Organisational and infrastructure costs (e.g. coffee breaks and
+the like) will be determined later in conjunction with the local
+organising committeeTutorial proposals will be evaluated by the programme committee
+primarily on the basis of their likely appeal to the TEI community,
+the quality of the proposed instructors and method of instruction, and
+cost.Please send queries to meeting(a)tei-c.org.For the Programme Committee
+Arianna Ciula2013 TEI Conference and Members Meeting Programme Committee:
+Marjorie Burghart
+Lou Burnard
+Fabio Ciotti
+Arianna Ciula (chair)
+Gianfranco Crupi
+Sebastian Rahtz--===============4311859208779739476==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

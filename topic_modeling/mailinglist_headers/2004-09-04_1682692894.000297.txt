@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] open source z39.5 compatible bibliographic database software
+Date: Sat, 04 Sep 2004 21:41:17 -0600
+Message-ID: <413A8ADD.5060304@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5023913129743990983=="

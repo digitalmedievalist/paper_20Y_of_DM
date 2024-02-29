@@ -1,0 +1,9 @@
+--===============3430424489840901141==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear DM,
+with this Mail I confirm my subscription to DM.
+Regards,
+Dr. Chiara Buldorini--===============3430424489840901141==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

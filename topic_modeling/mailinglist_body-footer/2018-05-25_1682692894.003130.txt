@@ -1,0 +1,85 @@
+--===============0684377536773065828==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitApologies for any cross posting
+                       CALL  FOR  PARTICIPATION       Workshop on Computational Methods in the Humanities 2018
+                            (COMHUM 2018)
+         June 4–5, 2018 · University of Lausanne, Switzerland
+                https://wp.unil.ch/llist/en/programme/                 Registration Deadline: June 1, 2018
+INVITATION AND SCOPE OF THE WORKSHOP: https://wp.unil.ch/llist/en/
+event/comhum2018/You are cordially invited to attend the Workshop on Computational
+Methods in the Humanities 2018 (COMHUM 2018), listen to the talks
+(including invited talks by Bruno Cornelis, Maristella Agosti, and
+Manfred Thaller), and participate in the discussions.It is often said that the digital humanities are “situated at the
+intersection of computer science and the humanities,” but what does
+this mean?  We believe that the point of using computers in the
+humanities is not just to automatically analyze larger amounts of data
+or to accelerate research.  We therefore prefer to understand digital
+humanities as (1) the study of means and methods of constructing
+formal models in the humanities and (2) as the application of these
+means and methods for the construction of concrete models in
+particular humanities disciplines.  The central research questions are
+thus correspondingly (1) which computational methods are most
+appropriate for dealing with the particular challenges posed by
+humanities research, e.g., uncertainty, vagueness, incompleteness, but
+also with different positions (points of view, values, criteria,
+perspectives, approaches, readings, etc.)?  And (2) how can such
+computational methods be applied to concrete research questions in the
+humanities?PROGRAM: https://wp.unil.ch/llist/en/programme/Monday, June 4, 201811:00–11:30 Welcome
+11:30–12:30 Invited talk: Bruno Cornelis (Vrije Universiteit Brussel)
+12:30–14:00 Lunch
+14:00–15:00 Invited talk: Maristella Agosti (Università di Padova)
+15:00–15:30 Coffee
+15:30–17:00
+        • Mats Dahllöf: Clustering Writing Components from Medieval
+Manuscripts
+        • Elli Bleeker, Ronald Haentjens Dekker, and Bram Buitendijk:
+          Understanding Texts as Graphs: An Inclusive Approach to Text
+          Modeling
+        • Jean-Baptiste Camps and Julien Randon-Furling: A Dynamic
+          Model of Manuscript Transmission;         Elena Spadini:
+Exercises in
+          Modelling: Textual VariantsTuesday, June 5, 201809:15–10:00
+        • Christelle Cocco, Raphaël Ceré, and Pierre-Yves Brandt:
+          Quantification of Drawing Colours in Human Sciences
+        • Mattia Egloff and François Bavaud: Taking Into Account
+          Semantic Similarities in Correspondence Analysis
+10:00–10:30 Coffee
+10:30–11:30 Invited talk: Manfred Thaller (emeritus, Universität zu Köln):
+          Decoding What the Sender Did Not Want to Transmit.  Information
+          Technology and Historical Data
+11:30–13:00
+        • Barbara McGillivray, Giovanni Colavizza, and Tobias Blanke:
+          Towards a Quantitative Research Framework for Historical
+          Disciplines
+        • Franziska Diehr, Maximilian Brodhun, Sven Gronemeyer,
+          Christian Prager, Elisabeth Wagner, Katja Diederichs, and
+          Nikolai Grube: Modelling Vagueness – A Criteria-Based System
+          for the Qualitative Assessment of Reading Proposals for the
+          Deciphering of Classic Mayan Hieroglyphs
+        • Gary Munnelly and Seamus Lawless: Linking Historical Sources
+          to Established Knowledge Bases in Order to Inform Entity
+          Linkers in Cultural Heritage
+        • Cristina Vertan: Supporting Hermeneutic Interpretation of
+          Historical Documents by Computational Methods
+13:00–14:30 Lunch
+14:30–16:00
+        • Susan Leavy, Karen Wade, Gerardine Meaney, and Derek Greene:
+          Navigating Literary Text Using Word Embeddings and Semantic
+          Lexicons
+        • Jose Luis Losada: Map Visualization and Quantification of
+          Literary Places in a Spanish Corpus
+        • Thomas Schmidt and Manuel Burghardt: Toward a Tool for
+          Sentiment Analysis for German Historic Plays
+        • Kyoko Sugisaki: Modeling Thematic Structure in Holiday Postcards
+REGISTRATION (deadline June 1, 2018):Please register at https://wp.unil.ch/llist/en/registration/
+Registration standard fees: 50 CHF or 40€, payable directly on site.
+The fee covers lunch and coffee breaks on both workshop days.CONTACTQuestions and inquiries should be sent to COMHUM2018 Conference
+Secretariat: <secretariat-sli(a)unil.ch> or to Prof. Michael Piotrowski,
+Program Committee Chair: <michael.piotrowski(a)unil.ch>CONFERENCE WEB SITE: https://wp.unil.ch/llist/en/event/comhum2018/
+-- 
+elenaspadini.com
+PostDoc - UNIL
+Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>--===============0684377536773065828==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

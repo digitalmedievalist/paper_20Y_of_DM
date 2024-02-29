@@ -1,0 +1,8 @@
+From: "Binkley, Peter" <Peter.Binkley@ualberta.ca>
+To: dm-l@uleth.ca
+Subject: RE: [dm-l] TAN: Unicode, XML, and LaTeX
+Date: Mon, 04 Apr 2005 12:59:03 -0600
+Message-ID:
+ <908893006339C0409519E4065DF3B2491E80A7@mailserver.ualibrary.ualberta.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2589722495398594940=="

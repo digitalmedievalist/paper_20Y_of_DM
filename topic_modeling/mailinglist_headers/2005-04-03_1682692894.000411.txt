@@ -1,0 +1,8 @@
+From: Peter Baker <psb6m@virginia.edu>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TAN: Unicode, XML, and LaTeX
+Date: Sun, 03 Apr 2005 22:11:54 -0400
+Message-ID: <4250A26A.6060204@virginia.edu>
+In-Reply-To: <42505C59.8080600@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1476619339523453051=="

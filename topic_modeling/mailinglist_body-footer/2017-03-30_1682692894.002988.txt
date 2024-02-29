@@ -1,0 +1,27 @@
+--===============6245740874775335436==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableMapping Manuscript Migrations: Digging Into Data For The History And Provenan=
+ce Of Pre-Modern European ManuscriptsHundreds of thousands of pre-modern European manuscripts have survived until =
+the present day. As the result of changes in their ownership over the centuri=
+es, they are now spread all over the world. Collectively they constitute a gr=
+eat cultural and scholarly treasure. There are many sources of data relating =
+to them, and new sources continue to proliferate in the digital environment. =
+This project will link disparate datasets from Europe and North America to pr=
+ovide an international view of the history and provenance of these manuscript=
+s. The aggregated data will enable researchers to analyse and visualize these=
+ topics at scales ranging from individual manuscripts to thousands of manuscr=
+ipts. Our research will address their origins and movements, and the collecto=
+rs and owners involved in their history. We will be able to show how these ma=
+nuscripts have traveled across time and space to their current locations, whe=
+re they continue to find new audiences.The project will run from 2017 to 2019, as part of the Digging into Data Chal=
+lenge, which is funded by 16 funding bodies in 11 countries through the Trans=
+-Atlantic Platform.The Principal Investigators are:
+Toby Burrows, University of Oxford, United Kingdom, AHRC/ESRC
+Eero Hyvönen, Aalto University, Finland, AKA
+Lynn Ransom, University of Pennsylvania, United States, IMLS
+Hanno Wijsman, Institut de recherche et d'histoire des textes, France, ANRhttps://diggingintodata.org/awards/2016/project/mapping-manuscript-migrations=
+-digging-data-history-and-provenance-pre-modern
+--===============6245740874775335436==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

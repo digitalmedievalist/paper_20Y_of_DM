@@ -1,0 +1,7 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] xsltproc and xsl
+Date: Wed, 28 Sep 2005 15:44:47 -0600
+Message-ID: <1127943888.10689.2.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5917738650080723562=="

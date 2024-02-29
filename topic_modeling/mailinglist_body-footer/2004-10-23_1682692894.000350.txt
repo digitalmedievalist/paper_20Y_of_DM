@@ -1,0 +1,35 @@
+--===============7602114762646278505==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear Dan,
+         I don't know of anything for Macs, Linux, etc., but for Windows, 
+you might look at http://www.jrsoftware.org/isinfo.php. I've found that 
+easy to work with. We're using this for the forthcoming editions of 
+Bodleian Library's MS Laud 581 and BL, MS Additional 35287 in the Piers 
+Plowman Electronic Archive.Best,
+DugAt 10:53 AM 10/23/2004 -0600, you wrote:
+>Hello all,
+>         Does anybody know of an adaptable auto-install program that would 
+> install fonts when a CD is loaded? I'm looking for something that ideally 
+> would be open source, work equally well in most environments (e.g. Win, 
+> Mac, Linux). Its main function would be to install a font a project needs 
+> and, if possible, start a web-page up in the user's default browser.
+>-dan
+>--
+>Daniel Paul O'Donnell, PhD
+>Associate Professor of English
+>University of Lethbridge
+>Lethbridge AB T1K 3M4
+>Tel. (403) 329-2377
+>Fax. (403) 382-7191
+>E-mail <daniel.odonnell(a)uleth.ca>
+>Home Page <http://people.uleth.ca/~daniel.odonnell/>
+>
+>
+>_______________________________________________
+>Project web site: http://www.digitalmedievalist.org/
+>dm-l mailing list
+>dm-l(a)uleth.ca
+>http://listserv.uleth.ca/mailman/listinfo/dm-l--===============7602114762646278505==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

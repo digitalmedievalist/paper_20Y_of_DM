@@ -1,0 +1,66 @@
+--===============5053534660832078236==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.
+Estimados compa=C3=B1eros,Os hacemos llegar un curso de verano organizado por el Laboratorio de Humanid=
+ades Digitales de la UNED<https://linhd.uned.es/>.  El curso lleva por t=C3=
+=ADtulo Creaci=C3=B3n de un proyecto en Humanidades Digitales basado en el an=
+=C3=A1lisis de textos: modelado y procesamiento<https://extension.uned.es/act=
+ividad/idactividad/24581> y se celebrar=C3=A1 del 28 al 30 de junio.  Puede r=
+ealizarse presencialmente o en l=C3=ADnea (en directo o en diferido), tiene u=
+na duraci=C3=B3n de 20 horas y ser=C3=A1 eminentemente pr=C3=A1ctico.La investigaci=C3=B3n en Humanidades Digitales no ha dejado de crecer en los =
+=C3=BAltimos a=C3=B1os y son cada vez m=C3=A1s los proyectos de historiadores=
+, fil=C3=B3logos, o antrop=C3=B3logos que utilizan la tecnolog=C3=ADa para el=
+ an=C3=A1lisis de corpus literarios en busca de patrones, la construcci=C3=B3=
+n de mapas digitales interactivos para una mejor visualizaci=C3=B3n de los re=
+sultados de sus investigaciones, o la geolocalizaci=C3=B3n de enclaves a los =
+que se a=C3=B1aden capas de informaci=C3=B3n multimedia, entre otras muchas p=
+osibilidades.Los humanistas digitales tienen un futuro prometedor en un =C3=A1rea en creci=
+miento en el que se requieren perfiles profesionales mixtos y flexibles, capa=
+ces de organizar y etiquetar objetos digitales; as=C3=AD como gestionar su vi=
+sualizaci=C3=B3n y preservaci=C3=B3n en un entorno digital. Sin embargo, para=
+ desarrollar la investigaci=C3=B3n en esta =C3=A1rea se ha de disponer de cie=
+rtos conocimientos t=C3=A9cnicos tales como los que se abordan en el curso qu=
+e os presentamos.El objetivo del mismo es dise=C3=B1ar un proyecto de humanidades digitales, d=
+esde el modelado del dominio hasta la creaci=C3=B3n de resultados y su disemi=
+naci=C3=B3n, haciendo uso de lenguajes de programaci=C3=B3n, t=C3=A9cnicas de=
+ modelado y visualizaci=C3=B3n provenientes del mundo de la inteligencia arti=
+ficial. Comenzaremos con una aproximaci=C3=B3n al mundo de las Humanidades Di=
+gitales y las problem=C3=A1ticas que surgen para el an=C3=A1lisis de textos. =
+Despu=C3=A9s, nos acercaremos a las metodolog=C3=ADas y t=C3=A9cnicas para re=
+solver esos problemas mediante el modelado sem=C3=A1ntico y la perspectiva de=
+ los datos enlazados y lenguajes de marcas. Asimismo, se presentar=C3=A1n nue=
+vos paradigmas computacionales relacionados con la Inteligencia Artificial co=
+mo el procesamiento de textos, la estilometr=C3=ADa, el=E2=80=AFdeep learning=
+, etc., y su aplicaci=C3=B3n. Para finalizar, se representar=C3=A1n los resul=
+tados obtenidos.Pod=C3=A9is obtener m=C3=A1s informaci=C3=B3n sobre el mismo y matricularos e=
+n este enlace.<https://www.fundacion.uned.es/actividad/idactividad/24581>Un cordial saludo
+Beatriz Tejada Carrasco
+Subdirectora de Planificaci=C3=B3n, Calidad y Comunicaci=C3=B3n
+Biblioteca UNED
+C/ Paseo de la senda del rey, 5
+28040 Madrid
+Tel=C3=A9fono: 91 398 61 67
+email: btejada(a)pas.uned.es
+AVISO LEGAL. Este mensaje puede contener informaci=C3=B3n reservada y confide=
+ncial. Si usted no es el destinatario no est=C3=A1 autorizado a copiar, repro=
+ducir o distribuir este mensaje ni su contenido. Si ha recibido este mensaje =
+por error, le rogamos que lo notifique al remitente.
+Le informamos de que sus datos personales, que puedan constar en este mensaje=
+, ser=C3=A1n tratados en calidad de responsable de tratamiento por la UNIVERS=
+IDAD NACIONAL DE EDUCACI=C3=93N A DISTANCIA (UNED) c/ Bravo Murillo, 38, 2801=
+5-MADRID-, con la finalidad de mantener el contacto con usted. La base jur=C3=
+=ADdica que legitima este tratamiento, ser=C3=A1 su consentimiento, el inter=
+=C3=A9s leg=C3=ADtimo o la necesidad para gestionar una relaci=C3=B3n contrac=
+tual o similar. En cualquier momento podr=C3=A1 ejercer sus derechos de acces=
+o, rectificaci=C3=B3n, supresi=C3=B3n, oposici=C3=B3n, limitaci=C3=B3n al tra=
+tamiento o portabilidad de los datos, ante la UNED, Departamento de Pol=C3=AD=
+tica Jur=C3=ADdica de Seguridad de la Informaci=C3=B3n<https://www.uned.es/dp=
+j>, o a trav=C3=A9s de la Sede electr=C3=B3nica<https://sede.uned.es/> de la =
+Universidad.
+Para m=C3=A1s informaci=C3=B3n visite nuestra Pol=C3=ADtica de Privacidad<htt=
+ps://descargas.uned.es/publico/pdf/Politica_privacidad_UNED.pdf>.--===============5053534660832078236==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,7 @@
+From: James Cummings <James.Cummings@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Choosing an XML Editor
+Date: Mon, 14 Mar 2005 17:01:04 +0000
+Message-ID: <4235C350.4020904@computing-services.oxford.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3875725971163937354=="

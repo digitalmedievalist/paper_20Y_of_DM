@@ -1,0 +1,8 @@
+From: Peter Robinson <P.M.Robinson@bham.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Stemmatics data: for testing phylogenetic analysis on actual
+	manuscript traditions
+Date: Fri, 18 Jun 2010 04:19:51 +0100
+Message-ID: <B356D31C-7247-42CB-876D-DC858AC2E25B@bham.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7594747187101061558=="

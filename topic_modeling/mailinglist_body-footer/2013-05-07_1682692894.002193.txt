@@ -1,0 +1,20 @@
+--===============6469982573514193117==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear colleagues,Thanks to a Project Support Grant awarded by the ALLC this year, we have
+the opportunity to connect two related web services for stemmatological
+analysis of texts: Stemweb (https://github.com/Stemweb/Stemweb) provided by
+researchers at the University of Helsinki, and Stemmaweb (
+http://byzantini.st/stemmaweb/) provided by the Tree of Texts project at KU
+Leuven in collaboration with the Huygens Institute.After a meeting in Helsinki we have produced a white paper on our plans for
+interoperability, and we warmly invite comments or suggestions from any
+interested scholar, researcher, and/or developer. We intend to begin work
+in June, so comments received by the end of May would be particularly
+helpful.The white paper is available here: http://treeoftexts.arts.kuleuven.be/?p=58
+Comments may be mailed directly to the authors, or preferably added
+directly to the blog post for open discussion.Best wishes,
+Tara Andrews (tara.andrews(a)arts.kuleuven.be)
+Teemu Roos (teemu.roos(a)cs.helsinki.fi)
+Joris van Zundert (joris.van.zundert(a)huygens.knaw.nl)--===============6469982573514193117==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

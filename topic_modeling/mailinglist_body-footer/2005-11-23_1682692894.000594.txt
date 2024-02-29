@@ -1,0 +1,17 @@
+--===============1804298411033249927==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi All,I've just been pointed to Manu (Manuscript Archival and Publication System -
+http://manu.sourceforge.net/), a system for publishing text and image
+side-by-side using the Fedora Repository System. Is anyone on the list
+familiar with this? It was posted on SourceForge in July, so it may be too
+early to ask for opinions.Dot--
+***************************************
+Dot Porter, Program Coordinator
+Collaboratory for Research in Computing for Humanities
+University of Kentucky
+351 William T. Young Library
+Lexington, KY  40506dporter(a)uky.edu          859-257-9549
+***************************************--===============1804298411033249927==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

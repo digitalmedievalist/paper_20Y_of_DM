@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] EVT 1.1.1 and 2.0 alpha released
+Date: Mon, 01 Aug 2016 17:09:45 +0200
+Message-ID: <1ab301dc-4fe1-7bc6-52ac-06a12b9a59bf@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5437024623362971975=="

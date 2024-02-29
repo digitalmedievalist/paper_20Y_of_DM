@@ -1,0 +1,8 @@
+From: Vincent Christlein <vincent.christlein@fau.de>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Request for a survey on annotation tools in citizen science	projects
+Date: Thu, 15 Jul 2021 15:33:22 +0200
+Message-ID: <22248434-1cfe-2707-b65a-9370dbc4d931@fau.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4689796532547065666=="

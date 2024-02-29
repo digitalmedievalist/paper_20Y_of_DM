@@ -1,0 +1,24 @@
+--===============7594747187101061558==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableAs part of the Studia Stemmatalogica project (led by Tuomas Heikkilä, Te=
+emu Roos and Petri Myllymäk of the University of Helsinki), I have prepa=
+red a page giving access to five full sets of data prepared for phylogenetic =
+analysis: four for sections of the Canterbury Tales, one for the Old Norse So=
+larljod.  These datasets have been produced with exceptional care, to give th=
+e most accurate and complete portrayal of the variation in each tradition. Fo=
+r each dataset, we also present an expert scholarly analysis.Our hope, in releasing this data, is to encourage researchers interested in t=
+he possibilities and challenges of the application of phylogenetic methods to=
+ stemmatics to experiment with different methods of analysis on 'real' datase=
+ts.  We would be glad to hear of any and all uses made of this data.The data is at http://www.textualscholarship.org/newstemmatics/data/index.htm=
+l. =20Best wishesPeter RobinsonPeter Robinson
+Institute for Textual Scholarship and Electronic Editing
+Elmfield House, Selly Oak  Campus
+University of Birmingham
+Edgbaston B29 6LG
+P.M.Robinson(a)bham.ac.uk
+p. +44 (0)121 4158441, f. +44 (0) 121 415 8376
+www.itsee.bham.ac.uk
+--===============7594747187101061558==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

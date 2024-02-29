@@ -1,0 +1,8 @@
+--===============4985691295479852986==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDaniel O'Donnell wrote:>-dan
+>  
+>
+> Lets do. I'm assuming it isn't too high traffic?A note only when a new version is released. It is not for discussion: 
+bug reports and feature requests should be submitted via SourceForge's 
+bug tracking and feature request facilities.Peter--===============4985691295479852986==--

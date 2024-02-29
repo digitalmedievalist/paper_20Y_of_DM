@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] EVT 1.3 released
+Date: Fri, 20 Dec 2019 16:42:47 +0100
+Message-ID: <f61d065a1652fa7ef6e022ab3a1cb53b@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6902004456583447235=="

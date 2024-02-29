@@ -1,0 +1,8 @@
+From: "Bleier, Roman (roman.bleier@uni-graz.at)" <roman.bleier@uni-graz.at>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] CfP: Machine Learning and Data mining for Digital Scholarly	Editions
+Date: Tue, 19 Oct 2021 08:14:17 +0000
+Message-ID: <5be2a2e58bbd43e38f1ea0e647aa3f9b@EX13MS02.pers.ad.uni-graz.at>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8156058804586337057=="

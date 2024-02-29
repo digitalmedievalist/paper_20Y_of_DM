@@ -1,0 +1,9 @@
+From: Elena Spadini <spadinielena@gmail.com>
+To: dm-l@uleth.ca
+Subject: [dm-l] CfP - Workshop on Scholarly Digital Editions, Graph
+ Data-Models and Semantic Web Technologies
+Date: Thu, 19 Jul 2018 16:00:10 +0200
+Message-ID:
+ <CALhMw++KBHuNBsuvqGH5NwUXkOHcL_zhVWZ+O3FHSuM9zJRXpg@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5436775361423722417=="

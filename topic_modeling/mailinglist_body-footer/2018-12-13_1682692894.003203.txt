@@ -1,0 +1,65 @@
+--===============3908667398658845264==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Digital Medievalists,Please allow me to draw your attention to the latest publication, in=20
+pretty print and online, of the Institute for Documentology and=20
+Scholarly Editing (IDE) in collaboration with DiXiT and the Austrian=20
+Centre for DH at Graz University:"Digital Scholarly Editions as Interfaces"
+Ed. by edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug,=20
+Frederike Neuber, Gerlinde Schneider. Norderstedt: Books on Demand, 2018.For your convenience, please find below a summary and a table of=20
+contents with download links for each article.The full online version of the volume is provided open access under a=20
+CC-BY-SA licence, here:
+https://kups.ub.uni-koeln.de/9085/A beautiful hard cover and eBook can be ordered from BOD directly:
+https://www.bod.de/buchshop/digital-scholary-editions-as-interfaces-978374810=
+9259from Amazon:
+https://www.amazon.de/Scholarly-Interfaces-Schriften-Instituts-Dokumentologie=
+/dp/3748109253or at your loveable local bookstore for 39 EUR.More information on the IDE website:
+https://www.i-d-e.de/publikationen/schriften/bd-12-interfaces/Enjoy reading!On behalf of the editors,
+Franz
+*SUMMARY*Digital Scholarly Editions as Interfaces is the 12th volume in the IDE=20
+book series and contains thirteen contributions that critically discuss=20
+the role and application of interfaces in digital scholarly editions=20
+(TOC see below). Interfaces allow the direct interaction of the user=20
+with the content of a digital edition and are - no matter if as GUI or=20
+API =E2=80=93 integral to the discussion about data access and usability. The=
+=20
+volume =E2=80=9CDigital Scholarly Editions as Interfaces=E2=80=9D contains co=
+ntributions=20
+from the conference of the same name, which was organized by ZIM-ACDH=20
+and DiXiT at the University of Graz in 2016.*TOC**Introduction*Roman Bleier, Helmut W. Klug: Discussing Interfaces in Digital Scholarly=20
+Editing (V-XV) =E2=80=93 https://kups.ub.uni-koeln.de/9094/*Theorizing the Interface*Tara L. Andrews, Joris J. van Zundert: What Are You Trying to Say? The=20
+Interface as an Integral Element of Argument (3-33) =E2=80=93=20
+https://kups.ub.uni-koeln.de/9106/Wout Dillen: The Editor in the Interface: Guiding the User through Texts=20
+and Images (35-59) =E2=80=93 https://kups.ub.uni-koeln.de/9111/Shane A. McGarry: Bridging the Gap: Exploring Interaction Metaphors to=20
+Facilitate Alternative Reading Modalities in Digital Scholarly Editions=20
+(61-81) =E2=80=93 https://kups.ub.uni-koeln.de/9112/Ginestra Ferraro, Anna-Maria Sichani: Design as Part of the Plan:=20
+Introducing Agile Methodology in Digital Editing Projects (83-105) =E2=80=93 =https://kups.ub.uni-koeln.de/9113/*The Interface in Practice*Stefan Dumont: Interfaces in Digital Scholarly Editions of Letters=20
+(109-131) =E2=80=93 https://kups.ub.uni-koeln.de/9114/;Chiara Di Pietro, Roberto Rosselli Del Turco: Between Innovation and=20
+Conservation: The Narrow Path of User Interface Design for Digital=20
+Scholarly Editions (133-163) =E2=80=93 https://kups.ub.uni-koeln.de/9115/Josua Schäuble, with Hans Walter Gabler: Encodings and Visualisations of=
+=20
+Text Processes across Document Borders (165-191) =E2=80=93=20
+https://kups.ub.uni-koeln.de/9116/Elli Bleeker, Aodh=C3=A1n Kelly: Interfacing Literary Genesis (193-218) =E2=
+=80=93=20
+https://kups.ub.uni-koeln.de/9117/Jeffrey C. Witt: Digital Scholarly Editions /and/ API Consuming=20
+Applications (219-247) =E2=80=93 https://kups.ub.uni-koeln.de/9118/Hugh A. Cayless: Critical Editions and the Data Model as Interface=20
+(249-263) =E2=80=93 https://kups.ub.uni-koeln.de/9119/*Evaluating the Interface*Federico Caria, Brigitte Mathiak: A Hybrid Focus Group for the=20
+Evaluation of Digital Scholarly Editions of Literary Authors (267-285) =E2=80=
+=93=20
+https://kups.ub.uni-koeln.de/9120/Elina Leblanc: Design of a Digital Library Interface from a User=20
+Perspective, and its Consequences for the Design of Digital Scholarly=20
+Editions: Findings of the /Font Gaia/ Questionnaire (287-315) =E2=80=93=20
+https://kups.ub.uni-koeln.de/9121/
+--=20
+Dr. Franz Fischer
+Cologne Center for eHumanities
+Universität zu Köln, Universitätsstr. 22, D-50923 Köln
++49 - (0)221 - 470 - 4056
+franz.fischer(a)uni-koeln.de
+@vranzvischercceh.uni-koeln.de, dixit.uni-koeln.de
+i-d-e.de, ride.i-d-e.de
+digitalmedievalist.org, journal.digitalmedievalist.org
+guillelmus.uni-koeln.de, confessio.ie
+--===============3908667398658845264==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

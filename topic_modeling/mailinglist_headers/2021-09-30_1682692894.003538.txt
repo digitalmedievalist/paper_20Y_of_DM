@@ -1,0 +1,9 @@
+From: Alberto Campagnolo <alberto.campagnolo@gmail.com>
+To: dm-l@uleth.ca
+Subject: [dm-l] Announcing VCEditor, a tool for modeling and visualizing
+ physical collation of books ins codex format
+Date: Thu, 30 Sep 2021 15:38:42 +0200
+Message-ID:
+ <CAETEuFvO3Ompo2ZhrmYJM6e67Upqv2_bTTxz6UTTSX59rjEoKw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1798214047841457341=="

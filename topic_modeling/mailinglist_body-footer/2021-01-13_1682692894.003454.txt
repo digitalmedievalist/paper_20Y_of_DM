@@ -1,0 +1,59 @@
+--===============9174648945540458996==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear Colleagues,please see below an initiative in Cambridge, please circulate.With many thanks and best wishes,Orietta
+[cid:6f13dc62-26e0-465c-b26e-8011b6b2a72e(a)GBRP265.PROD.OUTLOOK.COM]
+CDH Cultural Heritage Data School
+17-30 March 2021Applications close: Monday, 8 February 2021The Cambridge Cultural Heritage Data School, led by Cambridge Digital Humanit=
+ies, is an online intensive teaching programme which aims to bring together p=
+articipants from the wider Galleries, Libraries, Archives and Museums (GLAM) =
+sector and academia to explore the methods used to create, visualise and anal=
+yse digital archives and collections.The curriculum will be structured around the digital collections and archives=
+ pipeline, covering the general principles and applied practices involved in =
+the generation, exploration, visualisation, analysis and preservation of digi=
+tal collections and archives.  The programme<https://www.cdh.cam.ac.uk/file/c=
+ambridgeculturalheritagedataschoolonlineprogrammedocxpdf> will include the fo=
+llowing modules:  *   The digital project lifecycle
+  *   Digital text mark-up and TEI
+  *   Text-mining and Named Entity Recognition with Python
+  *   Geodata, controlled vocabularies and principles of semantic data modell=
+ing
+  *   Using machine learning to work with large-scale image collectionsThe 2021 Cultural Heritage Data School teaching team includes:  *   Dr Anne Alexander (Director of Learning, CDH)
+  *   Huw Jones (Library Digital Humanities Coordinator, CDH Labs)
+  *   Chiara Capulli (Methods Fellow, CDH Learning)
+  *   Dr Mary Chester-Kadwell (Senior Software Developer, CDH Labs and Cambri=
+dge University Library)Sessions will include live-taught instruction, demonstrations and discussions=
+ on Zoom, with access to self-paced study materials and support via email-bas=
+ed discussion groups between sessions. Participants will need a laptop or des=
+ktop computer and internet access to participate in the sessions. Some sessio=
+ns will require software installation =E2=80=93 full instructions will be pro=
+vided but please ensure you have access rights to install software on the dev=
+ice you will be using.No previous experience of programming is required to participate in the Data =
+School. We welcome applications from outside the UK.Please note that because of the fast moving nature of Coronavirus, the Data S=
+chool timetable and content may be subject to change because of staff availab=
+ility. We also recognise that the current circumstances are putting extra pre=
+ssure on many people, especially those with caring responsibilities, and we u=
+nderstand that not everyone will necessarily be able to make every session. T=
+his will not be a barrier to participation in the Data School.=E2=80=8B________________________________Cambridge Digital Humanities is committed to democratising access to digital =
+methods and tools and is offering the following subsidised participation fees=
+ to encourage applications from those who do not normally have access to this=
+ type of training. The fees include all teaching costs.  *   Standard Rate: =C2=A3245
+  *   Small Organisations / Academic Staff: =C2=A3145
+  *   Students / Unemployed / Community Projects / Unfunded Projects : =C2=A3=
+45In addition, a small number of bursaries are available to those who can demon=
+strate financial need.Questions related to the application procedure or course content: Karen Herba=
+ne (Digital Humanities Learning and Events Coordinator): learning(a)cdh.cam.a=
+c.uk<mailto:learning(a)cam.ac.uk>
+"Taking part in exchanges with both the CDH team and participants from divers=
+e disciplines and backgrounds was exceptionally interesting, alongside having=
+ the opportunity to engage with cutting-edge technologies and tools in digita=
+l humanities research.Thank you for such a transformational experience that surely will impact my t=
+eachings and academic research orientation."Dr. Abeer Naser Eddine, Assistant Professor, Lebanese University, Beirut, Leb=
+anon -Attendee Cultural Data School 2020This MailMan notification has been issued as you are a member of the CDH comm=
+unity distribution list.Should you have any questions regarding membership, please email: admin(a)cdh=
+.cam.ac.uk<mailto:admin(a)cdh.cam.ac.uk>
+--===============9174648945540458996==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

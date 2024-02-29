@@ -1,0 +1,49 @@
+--===============8668855881429398540==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitAll --> On 28 Jun 2004, at 8:48 AM, Daniel O'Donnell wrote:
+>
+> This is an interesting thread in as much as it touches on best 
+> practice...
+> ...I have been thinking lately of offering users multiple stylesheets 
+> to allow them to customise pages to suit their equipement, interests, 
+> and/or disabilities. Thus users with larger screens might like to see 
+> more options on a menu; or visually impaired users might prefer their 
+> links to be underlined.This touches on a key point -- when we develop applications that are 
+open to the world, we don't know who will be using them, in what 
+context, and at what time. Web browsers extend far beyond the 
+mainstream MSIE/Mozilla/Opera world, users can be from anywhere and 
+from any background (look at me, for example), and projects may live on 
+for years after the development stops.I know this is a hard thing for a few IT people (and some major 
+corporations) to swallow, but we can't expect the world to conform to 
+what we've got on our desks anymore (I wish we could, it would make my 
+job much easier). I've had a number of faculty and students ask about 
+accessing Web-based materials and applications on mobile phones, PDAs, 
+and embedded systems in television set-top boxes, and through screen 
+readers for the visually impaired. Browsers seem to be embedded into 
+nearly everything these days, and who knows what will be next? With 
+that in mind, should we develop academic tools from a restricted 
+perspective of only one browser on one operating system? Before there 
+were robust standards, it was difficult to argue otherwise. Today, it 
+is difficult to support an argument for browser-specific development 
+when there are standards to address much of what required platform- or 
+browser-specific functionality (and I know funding agencies and 
+governments are starting to pay attention to that fact).There are trade-offs and I admit that standards, especially new ones, 
+can get in the way of functionality. The important thing to remember, 
+however, is that by converging toward standards, materials and 
+applications will stand a greater chance of reaching a broader audience 
+over a longer period of time with, hopefully, lower support costs and a 
+better chance of being supported in the future.Personally, I want to see as many scholarly projects survive over time 
+as possible. By adopting mature standards when appropriate, the initial 
+overhead in implementing them will pay dividends in the long-term. In 
+other words, someone in my role can find resources to keep them going 
+long after the funding stops and the development ends.Later,
+Chad
+--------------
+Chad J. Kainz
+cjkainz(a)uchicago.edu | 773-702-9945 | FAX 773-834-2983Senior Director, NSIT Academic Technologies, The University of Chicago
+      http://intech.uchicago.edu
+Vice-Chair, IEEE Learning Technology Standards Committee
+      http://ltsc.ieee.org--===============8668855881429398540==
+Content-Type: text/enriched
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.bin"

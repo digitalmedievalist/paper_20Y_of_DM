@@ -1,0 +1,24 @@
+--===============7262371626892006846==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear colleagues,We are offering a workshop titled =E2=80=9CManuscripts in the Digital Age: XM=
+L-Based Catalogues and Editions=E2=80=9D as part of the 11th European Summer =
+University in Digital Humanities =E2=80=93 Culture & Technology between Augus=
+t 3-13, 2021.The two-week workshop (36 hours over 10 days) focuses on cataloging and editi=
+ng manuscripts with TEI-XML. In addition to hands-on learning with XML, parti=
+cipants are introduced to practical applications of XSLT to extract data from=
+ their datasets and to present this data in different formats such as a map, =
+a stemma and a network diagram. There is built-in time for participants to wo=
+rk on their individual projects and discuss their specific needs based on the=
+ir own material. The language of instruction is English.We encourage everyone who is interested in working with medieval and early mo=
+dern manuscripts in a digital context to apply.The deadline for applications is May 15, 2021. More information may be found =
+here: https://esu.fdhl.info/manuscripts-in-the-digital-age-xml-based-catalogu=
+es-and-editions/Please feel free to get in touch with us at manuscriptsDH(a)gmail.com<mailto:=
+manuscriptsDH(a)gmail.com> should you have any questions.Katarzyna Anna Kapitan, PhD
+https://www.kakapitan.com/N. K=C4=B1v=C4=B1lc=C4=B1m Yavuz, PhD
+https://nkyavuz.com/
+--===============7262371626892006846==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

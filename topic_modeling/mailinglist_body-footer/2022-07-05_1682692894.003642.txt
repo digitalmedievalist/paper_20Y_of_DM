@@ -1,0 +1,287 @@
+--===============0215938122077106180==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear digital medievalists,The Venice Summer School in Digital and Public Humanities (VeSSDPH 2022), 11-=
+15 July, 2022, includes a series of open events, some of which can also be at=
+tended online. Please find below the list of events open to the public, follo=
+wed by the details of the magnificent programme.Franz*** VeSSDPH 2022 OPEN EVENTS ***Monday, 11 July, 16:30-18:30, Aula B, Ca' Bernardo, Calle San Bernardo, Dorso=
+duro 3199.
+Welcome & Opening Keynote
+Chiara Zuanni (University of Graz):
+Cultural Heritage in a Digital Society: Sharing, Experiencing, Creating.
+Also online: https://bit.ly/3ntICoATuesday, 12 July, 18:30-19:30, Biblioteca San Francesco della Vigna, Campo Sa=
+n Francesco, Castello 2786.
+The Godfather - Carte blanche for Peter Robinson (University of Saskatchewan).
+In presence only.Wednesday, 13 July, 18:30-20:30, Sale Docks, Magazzini del Sale, Punta della =
+Dogana, Dorsoduro 265.
+Paolo Cirio (Independent Artist and Activist):
+Deprogramming Today's Sociality.
+In presence only.Friday, 15 July, 18:30-20:00, Aula B, Ca' Bernardo, Calle San Bernardo, Dorso=
+duro 3199.
+Closing Keynote
+Serge Noiret (European University Institute):
+The past as a common good: a digital, interdisciplinary,and participative app=
+roach.
+Also online: https://bit.ly/3y4ccWrPoster: https://apps.unive.it/server/eventi/62588/Vessdph2022_locandina_a3.pdf*** FULL PROGRAMME ***Website (incl. materials & directions):
+https://vedph.github.io/summerschool/programme/Leaflet (for folding instruction please call emergency hotline):
+https://apps.unive.it/server/eventi/62588/Vessdph2022_pieghevole_a3.pdfThe Venice Summer School in Digital and Public Humanities provides advanced a=
+nd in-depth training in theories, technologies and methods applied to histori=
+cal monuments, artifacts and texts. Focussing on cultural, archaeological, hi=
+storical, literary, and artistic materials from Venetian sites and cultural h=
+eritage institutions, participants will engage in debates about digital cultu=
+ral heritage and public humanities while enhancing their competences and skil=
+ls in digitising materials and sources and in modelling, analysing and visual=
+ising multimedia humanities data.The summer school takes place at historical sites and cultural venues across =
+the city of Venice and its surroundings. Each day is dedicated to a specific =
+academic field: history, art history, textual scholarship and archaeology. Te=
+aching formats include lectures, hands-on workshops, guided tours and experim=
+ental performances. Units are planned and delivered by local experts and invi=
+ted specialists. All classes will be taught in English.
+Day 1, Monday 11 July 2022
+Welcome and Opening Keynote  (OPEN EVENT)16:30 - 18:30, Aula B, Ca' Bernardo, Dorsoduro, 3199, Calle San Berna=
+rdo
+16:30 - 17:00, Welcome and introduction
+17:00 - 18:30, Chiara Zuanni (University of Graz)
+Cultural Heritage in a Digital Society: Sharing, Experiencing, Creating18:30, Aperitivo - Ai Artisti, Fondamenta della toletta 1169 abc
+Day 2, Tuesday 12 July 2022
+A Global Approach to Digital Textual Scholarship9:00 - 19:30, Biblioteca San Francesco della Vigna, Campo San Francesco, Cast=
+ello 2786
+9:00 -  9:30, Preludium: Introduction to Textual Heritage by Franz Fischer (C=
+a' Foscari)9:30 - 11:15, The Sky is the Limit - A global approach to digital textual sch=
+olarship: The Coronelli's Celestial Globe.
+Session led by Benedetta Bessi (Ca' Foscari), Daniele Fusi (Universit=
+y of Bamberg; Ca' Foscari) and Alberto Campagnolo (Universit=C3=A9 Ca=
+tholique de Louvain, Louvain-la-Neuve)Abstract: The Marciana National Library holds the first set of 3 =C2=BD foot =
+celestial and terrestrial printed globes made by Vincenzo Coronelli (1650-171=
+8) and bequeathed to the Venetian Republic in 1689. Uncommon textual objects,=
+ the globes are a perfect example of the possibilities of a global approach t=
+o digital textual scholarship. The celestial globe, printed on laid paper gor=
+es - subsequently mounted on plaster over a wooden structure - is of particul=
+ar interest as it presents unique features, including numerous manuscript ins=
+ertions, that lead to its identification as a prototype.11:30 - 12:45, Leaving Venice - Editing a manuscript of Marco Polo's =
+travels.
+Session led by Franz Fischer (Ca' Foscari), Paolo Monella (Sapienza U=
+niversity of Rome), Holger Hessler (Ca' Foscari), Tiziana Mancinelli =
+(Ca' Foscari; ICDP Digital Library), Miriam Vita Errico (Ca' =
+Foscari) and Silvia Marsili (Ca' Foscari)Abstract: The session will provide an overview of digital philology methods, =
+based on the case study of manuscript Bodleian Library 264, including an illu=
+strated copy of the travel report of the Venetian explorer Marco Polo. After =
+a presentation of the manuscript, students will discuss which of its features=
+ should be included in a digital model. Then an actual digital edition of the=
+ manuscript will be shown and discussed. Based on the latter, the instructors=
+ will introduce: the basics of TEI XML textual markup; issues related with th=
+e intersection of the document material structure and the abstract textual st=
+ructure; the TEI Guidelines; the encoding of named entities (people and place=
+s).13:00 - 14:30, Lunch break14:30 - 16:00, High Noon at the Library (optional).
+Optional visit of the Sala Monumentale of the Marciana Library with the Coron=
+elli Globes (accessible via Museo Correr)16:00 - 18:00, The Remains of the Text - Natural Language Processing.
+Session led by Federico Boschetti (ILC-CNR; Ca' Foscari), Angelo Mari=
+o Del Grosso (ILC-CNR; Ca' Foscari), Agnese Macchiarelli (Ca'=
+ Foscari), Federico Tanozzi (Ca' Foscari) and Jessica Puliero (Ca=E2=
+=80=99 Foscari)Abstract: The first part is devoted to a linguistic study of Italian, Latin a=
+nd Greek astronomical texts both in prose and in verses. Students will learn =
+how to perform morphosyntactic analysis by applying computational linguistics=
+ methods and instruments. The second part consists of a =E2=80=9Chands-on=E2=
+=80=9D session in which students will work on the Musisque Deoque Platform fo=
+r the intertextual analysis of Latin poems on astronomy and nature.18:30 - 19:30, Biblioteca San Francesco della Vigna, Campo San Francesco, Cas=
+tello 2786
+The Godfather (OPEN EVENT) - Carte blanche for Peter Robinson (University of =
+Saskatchewan).
+Day 3, Wednesday 13 July 2022
+Endangered Cultural Heritage in Venice9.30 - 12:30, Tour of St Mark's Square and Arsenale - Meeting point at St Mar=
+k's Square
+Public spolia and power - Structure-from-Motion photogrammetry (SfM) of Tetra=
+rchi and four Lions at Arsenale:
+Guided tour and activity led by Federico Bernardini (Ca' Foscari), El=
+isa Corr=C3=B2 (Ca' Foscari), Nevio Danelon (Ca' Foscari), El=
+eonora Delpozzo (Ca' Foscari) and Francesca Dolcetti (Ca' Fos=
+cari)9.45 - 10.30, St Mark's square
+Abstract: Spolia are artefacts dating back to Antiquity and inserted in the u=
+rban fabric, as architectural elements and/or decorations. Venice is a remark=
+able example of this phenomenon; two places in particular are important to un=
+derstand the significance of spolia as symbols of power: St. Mark's s=
+quare and the Arsenale. During the morning, the participants will be guided i=
+n discovering the =E2=80=9Cstones of Venice=E2=80=9D, nowadays endangered for=
+ various reasons.10.30 - 12.30, Arsenale
+Abstract: Digital technologies can offer tools and solutions to address the i=
+ssue of the endangered CH, in particular through the so-called =E2=80=9Cdigit=
+al copies=E2=80=9D. SfM offers the possibility of fast and low-cost acquisiti=
+on of 3D spatial data of artefacts, buildings and landscapes, using simple ov=
+erlapping pictures. After a short introduction to the basics of SfM, particip=
+ants will conduct their own survey of one of the ancient marble Lions in fron=
+t of the Arsenale.13:00 - 14:00, Lunch at Hum.Us - Calle Larga S. Marta, 213714:00 - 15:30, Aula (16, 17, 18) 19 - San Sebastiano, Campo San Sebastiano, D=
+orsoduro 1686
+Digital Technologies - From image acquisition to point cloud and 3D models.
+Workshop led by Federico Bernardini (Ca' Foscari), Nevio Danelon (Ca=
+' Foscari), and Eleonora Delpozzo (Ca' Foscari)Abstract: During this workshop, participants will learn how to process the im=
+ages acquired during the morning using the SfM Agisoft Metashape software, in=
+ order to produce 3D models of the spolia.15:45 - 18:00, Aula (16, 17, 18) 19 - San Sebastiano, Campo San Sebastiano, D=
+orsoduro 1686
+Public engagement and cooperative learning.
+Workshop led by Elisa Corr=C3=B2 (Ca' Foscari) and Francesca Dolcetti=
+ (Ca' Foscari)Abstract: This workshop will focus on the development of good practices for m=
+anagement and promotion of the endangered CH in Venice. Participants will be =
+working in groups using either digital models or printed replicas of the spol=
+ia to develop four distinct media outcomes, which will be disseminated via th=
+e VeDPH communication channels:
+- Social media: post /meme for Instagram and Twitter
+- 3 minutes double interview targeting broader publics
+- 3 minutes TED talk for specialist audiences
+- Virtual exhibition with panels using the kunstmatrix software18.30 -  20.30, Sale Docks, Magazzini del Sale, Punta della Dogana, Dorsoduro=
+, 265
+Deprogramming Today's Sociality (OPEN EVENT)
+Workshop conducted by the artist and activist Paolo Cirio
+Day 4, Thursday 14 July 2022
+History on display and in the streets. Discovering the past through public an=
+d digital methodologies.9.30 - 13.00, Aula 2, Ca' Dolfin, Calle Larga Ca' Foscari, Do=
+rsoduro 3825/D
+Making the Renaissance Public: the example of Hidden Cities apps.
+Workshop led by Fabrizio Nevola (University of Exeter; Ca' Foscari)Abstract: Drawing from two research projects, Hidden Cities (www.hiddencities=
+.eu<http://www.hiddencities.eu>) and Florence4D (www.florence4d.org<http://ww=
+w.florence4d.org>), this class considers how digital history methods are crea=
+ting new research opportunities, while at the same opening up new ways to eng=
+age the wider public. Spatially-determined research questions encourage us to=
+ think about how meaning is constructed from the triad of spaces-objects-peop=
+le, while spatial technologies (GIS, GPS, 3D modeling) allow us to shape inno=
+vative responses to those questions, ranging from interactive map interfaces =
+to locative interpretation delivered on handheld devices. In so doing we are =
+discovering new things about the material culture of public space in the Rena=
+issance, but also making that research directly available to the public.13.30 - 14.30, Lunch at Caffé Diemme - Via Giovanni Pascoli, 11, Venezia=
+ (Mestre)14:30 - 18:00, M9 Museum,Via Giovanni Pascoli, 11, interno 9, Venezia (Mestre)14:30 - 16:00, Museums and Public History. From collections to users-oriented=
+ Museums.
+Lecture by Francesco Frizzera (Museo Storico della Guerra, Rovereto)Abstract: Over recent decades museums have radically transformed, adjusted an=
+d re-invented their principles, policies and practices. Traditional museum de=
+finition no longer seems to reflect the challenges, manifold visions and resp=
+onsibilities of museums facing contemporary societies. Authoritative and gene=
+rally accepted definitions of museum do not longer fit the role of museums in=
+ terms of public expectancy. Aim of the lesson is to show the potential and l=
+imits - conceptual, financial and contextual - of this approach through some =
+examples and experiences of the Italian context: among them, some experiences=
+ of the mixture of Digital and Public History developed by Italian cultural i=
+nstitutions.16:00 - 16:20, Displaying historical violence. The case of Inquisition and to=
+rture museums.
+Presentation by Anna Clara Basilic=C3=B2 (Ca' Foscari)Abstract: Exhibitions and museums on the Inquisition are usually focused on t=
+he trial procedure, which involved torture. This form of violence is typicall=
+y exhibited through torture devices in recreated prisons. In Italy, such tren=
+d is well represented by torture museums, which tend to exhibit contents rela=
+ted to the Inquisition by providing a narrative that reproduces the power sem=
+antic of the ruling institution. Through the case study of the Steri Palace i=
+n Palermo, I will provide an example of a different curatorial choice, which =
+leads the visitors to focus on a different perspective: a form of collective =
+knowledge about early modern confinement rooted in the captives' expe=
+rience that modifies the positioning of the visitors.16:30 - 18:00, Visit to M9 Museum.
+Guided tour led by Stefano Dall'Aglio (Ca' Foscari) and Livio=
+ Karrer (M9)Abstract: M9 belongs to a new generation of museums. For the very first time,=
+ a museum narrates the compelling history of the 20th century. A century that=
+ saw great and small changes: from evolutions in everyday life to momentous s=
+ocial, economic, environmental and cultural changes. State-of-the-art technol=
+ogies and immersive displays help visitors learn about the past, understand t=
+he present and imagine the future.
+Day 5, Friday 15 July 2022
+From Digital Museography to Contemporary Artistic Practice: Venice, the Bien=
+nale and Beyond9:00 - 10:45, Fondazione Querini Stampalia, Santa Maria Formosa, Castello 5252
+A new wave of museology.Abstract: The session will focus on the digital strategy implementing the mus=
+eum collection's perception for communication and research purposes. The intr=
+oduction will open up to the new form of cultural object that has acquired bo=
+th a physical and a digital identity thanks to the technological application.9:00 - 9:15, Welcome remarks from a representative of the Fondazione Querini =
+Stampalia.
+Stefania De Vincentis (Ca' Foscari)
+Introduction: The museum as phygital environment.Abstract: The digital strategies adapted to the museum space and the art coll=
+ection correspond to a multi-factor reading combining immersion and a new per=
+ception of the online art collection. By defining the digitised art object, w=
+e can take into account Digital Art Work for NFT platforms and consider it as=
+ a =E2=80=9Cphygital=E2=80=9D object, both real and digital. Whether it is a =
+replica of the original artifact or a new digital cultural object, it's curre=
+ntly under debate.9:15 - 9:30, Identifying ourselves: the social media activities of Palazzo Gr=
+imani Museum.
+Marco Mazzocco (Museo di Palazzo Grimani - Direzione regionale Musei Veneto)Abstract: What are the strategies to make known a "young" museum which is app=
+arently unusual only in the panorama of the cultural offer of the city of Ven=
+ice? To build a clear, compelling identity, of course.But the biggest challen=
+ge is to get people to recognize it as a living and reactive entity in the te=
+rritory in which it's located. Using some examples, we will look at the Museu=
+m's social communication before, during and after the pandemic.9:30 - 9:45, Tribuna VR360 at Palazzo Grimani VR360 at  Palazzo Grimani
+Luca Vascon and Chiara Masiero Sgrinzatto (Photographers).Abstract: The most important pieces of antiquities of Palazzo Grimani in Veni=
+ce were located in the extraordinary room called =E2=80=9CCamerino delle Anti=
+chit=C3=A0=E2=80=9D (Chamber of Antiquities), known nowadays as =E2=80=9CTrib=
+una=E2=80=9D. Tribuna Grimani VR is an experimental project, whose goal is to=
+ show a range of innovative ideas and technologies and new technical tools fo=
+r VR shooting. It is made of 2 high-resolution 360 photos at different height=
+s  and a panoramic drawing.The characteristics of Tribuna Grimani allow us to=
+ show how a conscious use of technology can enhance the perception of a work =
+in its space, both in situ and off-site. As a result, it facilitates interpre=
+tation and increases the value of personal experience.9:45 - 11:00, Dive into Digital Art collectionAbstract: This session will present current online databases for the search, =
+indexation, and sharing of online images. The discussion will focus on digita=
+l visualization and comparison methods as well as indexing tools for the digi=
+tal humanities, with a focus on database collection building and metadata ins=
+ertion for digital images.9:45 - 10:00, Lyon16ci and 1516 projects.
+Barbara Tramelli (Ca' Foscari)Abtract: The Lyon16ci and the 1516 are two publicly accessible databases of i=
+llustrations printed in the 15th and 16th century, resulting from a collabora=
+tion among the Equipex Biblissma, the VeDPh and the VGG in Oxford. They can b=
+e searched using an image as a search query as well as using text keywords fo=
+r searching metadata assigned to the illustrations. Such a visual and text se=
+arch capability allows research scholars to track and investigate the product=
+ion, use, circulation and copying of woodblocks, iconographic subjects, artis=
+tic styles, within 15th and 16th-century printed illustrated editions. The da=
+tabases are publicly accessible and accept contributions of new illustrations=
+ and metadata from research scholars from all over the world.10:00, Prometheus art database.
+Lisa Dieckmann (University of Cologne; Ca'Foscari)Abstract: Prometheus is a distributed image archive which currently connects =
+114 databases from different image based disciplines with 2.8 million images =
+in total making these images and the respective metadata available for resear=
+ch. The presentation will focus on challenges and perspectives of connecting =
+heterogeneous databases, e.g. optimizing image information retrieval, metadat=
+a, visualization and other features.11:00, Coffee break11:15 - 13:00, Visit to Museum of Palazzo Grimani - Rugagiuffa, 4858
+13:00 - 14:00, Lunch at Food & Art - Campo de la Tana, 2169/f
+14:00 - 18:00, Tese of Arsenale - Campo de la Tana, 2169/f14:00 - 16:00, Media Artivism and Public EngagementAbstract: In this session we will approach the origins and development of Act=
+ivism in Media Art from an epistemological framework and through the study of=
+ a selection of case studies focused on some current trends: invasive technol=
+ogies and the ethics of surveillance, eco literacy and sustainable developmen=
+t, gender issues, political and social injustices.14:00 - 14:15, Media Artivism & Expanded Information.
+Carolina Fern=C3=A1ndez-Castrillo (Universidad Carlos III de Madrid; Ca=E2=80=
+=99Foscari)Abstract: From a Media Archeological methodology, we will understand what is =
+Media Artivism and how important is the connection of Artistic Activism with =
+Investigative Journalism in the Postdigital Age. We will explore the role of =
+data visualization, immersive installations and interactive projects based on=
+ the use of new media and the Internet as instruments of awareness and social=
+ protest. There will be paid special attention to Contemporary Art practices =
+based on hacktivist and intercreative procedures aimed to give visibility to =
+uncover realities in traditional media.14:15 - 14:30, Control+Space.
+Paolo Berti (Ca' Foscari)Abstract: A particular aesthetic of databases and computing takes shape out o=
+f a lineage from conceptual and systems art. One of the most radical practice=
+s of this machinic language is "repetition". Repetition has served artists to=
+ emulate the machine, to investigate anti-narrative forms but also to play wi=
+th the linearity of time-based systems, which in today's technological world =
+have found a performative side (using sometimes irony, sometimes an open conf=
+rontation) in new media concepts such as surveillance, constant geotracking, =
+and a different idea of space.14:30 - 14:45, Serious Games: Artivism and Ecology.
+Ana Mej=C3=B3n (Universidad Carlos III de Madrid)Abstract: The growing impact of ecological consciousness in the public sphere=
+ has reached different creative industries in the last 15 years. Videogames a=
+re no exception. Serious games have addressed some of the most recurring soci=
+al concerns. However, the main challenge has been and still is reaching big a=
+udiences that usually prefer mainstream video games. This presentation examin=
+es the cross-fertilization processes between artivism and the industry of vid=
+eo games related ecological awareness.14:45 - 15:00, Horror, Art & Gender: Politics and the Body.
+Vicente Ortega (Universidad Carlos III de Madrid)Abstract: The audiovisual essay =E2=80=9CHorror, Art & Gender: Politics and t=
+he Body=E2=80=9D explores the relationship between diverse contemporary films=
+ and art works, establishing how their representational templates intertwine =
+to deliver subversive approaches to the body and subjectivity. It studies the=
+ gender politics of this cinematic & art works to scrutinize how they questio=
+n some of the building blocks of heteronormativity. Consequently, they point =
+to an understanding of how the human body and mind may function beyond the do=
+minant dictates of today's social fabric.16:00 - 18:00, Visit to the Biennale-Arsenale18:30 - 20:00, Closing Keynote (OPEN EVENT)
+Aula B, Ca' Bernardo, Dorsoduro 3199, Calle San BernardoSerge Noiret (European University Institute):
+The past as a common good: a digital, interdisciplinary, and participative ap=
+proach20:00, Farewell reception - Ai Artisti, Fondamenta della toletta 1169 abc
+--Franz Fischer
+Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
+Dipartimento di Studi Umanistici
+Universit=C3=A0 Ca' Foscari
+Palazzo Malcanton Marcor=C3=A0
+Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+https://www.unive.it/vedph
+https://www.i-d-e.de/
+https://journal.digitalmedievalist.org/
+--===============0215938122077106180==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

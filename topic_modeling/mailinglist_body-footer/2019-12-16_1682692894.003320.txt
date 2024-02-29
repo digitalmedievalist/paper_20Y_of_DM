@@ -1,0 +1,32 @@
+--===============6736986877960151819==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear colleagues,As the editors of Variants, the Journal of the European Society for Textual
+Scholarship, we would like to invite you to submit an essay for the
+fifteenth edition of our journal. Variants (
+https://journals.openedition.org/variants/275) is an Open Access,
+peer-reviewed journal, published with Open Edition publishers. The
+fifteenth issue of the journal will carry the title of our most recent ESTS
+conference in Málaga: "Textual Scholarship in the 21st Century", and we
+especially welcome extended versions of papers that were presented at the
+conference. But essays outside of the conference are welcome too, on any
+aspect of textual scholarship such as the theories and practices of
+(digital) scholarly editing, tool development, genetic criticism,
+codicology and palaeography, philology, manuscript studies, etc.If you are interested in submitting an essay, please send an expression of
+interest by *Friday January 10th* that includes a brief description of the
+essay's topic (approximately 50 to 100 words) to
+variants(a)textualscholarship.eu. Full papers are due by Friday March 13,
+2020.We accept submissions in .docx and its open source equivalents. For authors
+who are comfortable writing in LaTeX, we have prepared a template that is
+available on GitHub (https://github.com/WoutDLN/variantx-for-authors) and
+as an Overleaf template (
+https://www.overleaf.com/latex/templates/submission-template-to-
+variants-for-authors/znsqffgrvshv).Please share this call with anyone who may be interested. If you have any
+further questions, please do not hesitate to forward them to us!We look forward to receiving your submissions,
+The Editorial board of Variants,
+General Editor, Wout Dillen
+Associate Editor, Elli Bleeker
+Guest Editor, Laura Esteban Segura
+Review Editor, Stefano Rosignoli--===============6736986877960151819==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

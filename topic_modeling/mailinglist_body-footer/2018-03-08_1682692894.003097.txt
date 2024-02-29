@@ -1,0 +1,31 @@
+--===============2473999793229871226==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printablePlease note this job opening for a PhD (3 years) at Huygens ING in Amsterdam,=
+ Netherlands: a project on the crossroads of palaeography and digital humanit=
+ies.
+Feel free to pass it around in your network!
+At the crossroads of manuscript studies and digital humanities: Opening for a=
+ PhD researcher in the project Digital ForensicsIn collaboration with the International Institute for Social History, the Huy=
+gens Institute for the History of the Netherlands has been awarded a research=
+ grant from the Royal Netherlands Academy of Arts and Sciences for the projec=
+t 'Digital forensics for historical documents. Cracking cold cases with new t=
+echnology'. In this project, digital image analysis will be used to develop n=
+ew ways of analysing historical script. The project runs from June 2018 - Jun=
+e 2021.One of the two work packages of the project will develop a new, digital metho=
+d of script analysis, aiming to bridge the gap between the palaeographical an=
+d forensic method. By combining and exploring digital image collections, we w=
+ill develop a deep learning system that matches the unique characteristics of=
+ one script sample to those that are closest to it.Partners in this project are Huygens ING, IISH, Leiden University and Microso=
+ft.For more information, see: https://www.huygens.knaw.nl/digital-forensics-for-=
+historical-documents/?lang=3DenFor the full text of the PhD post, see: https://www.huygens.knaw.nl/wp-conten=
+t/uploads/2018/03/PhD-H-ING-Digital-Script-Analysis.pdf
+Contact: mariken.teeuwen(a)huygens.knaw.nl<mailto:mariken.teeuwen(a)huygens.k=
+naw.nl>
+Huygens Institute for the History of the Netherlands
+Royal Netherlands Academy of Arts and Scienceswww.huygens.knaw.nl<http://www.huygens.knaw.nl>
+Tel: +31 - 20 - 224 6906Visiting address: Huygens ING, Oudezijds Achterburgwal 185, 1012 DK Amsterdam.
+Mail address: Huygens ING, P.O. Box 10855, 1001 EW Amsterdam, Netherlands.
+--===============2473999793229871226==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

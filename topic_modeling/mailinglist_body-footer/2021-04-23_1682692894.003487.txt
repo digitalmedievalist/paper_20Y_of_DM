@@ -1,0 +1,96 @@
+--===============6423259216354719192==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.*Apologies for cross posting*Dear digital medievalists,The Institute for Documentology and Scholarly Editing (IDE) is calling for re=
+views for a special issue of the journal RIDE<https://ride.i-d-e.de/>, dedica=
+ted to Tools and Environments for Digital Scholarly Editing (DSE).The first issue<https://ride.i-d-e.de/issues/issue-11/> of RIDE dedicated to =
+Tools and Environments was published in January 2020. Reviews for the second =
+issue will be accepted until the 30st of September 2021.To guide reviewers through the review process and to create a structure for t=
+he evaluation, we provide Criteria for Reviewing Digital Tools and Environmen=
+ts for DSE that are supposed to be applicable to various types of resources. =
+The guidelines (Version 1.0) can be found here<https://www.i-d-e.de/publikati=
+onen/weitereschriften/criteria-tools-version-1/>.We kindly ask you to email us before start reviewing a tool at ride-tools (at=
+) i-d-e.de<http://i-d-e.de/> with a suggestion of which resource you would li=
+ke to review and with a short explanation of your affiliation and area of exp=
+ertise. This is important in order to avoid multiple reviews of the same tool.BackgroundIn the introduction to his book Software takes command (Bloomsbury Publishing=
+, 2013) Lev Manovich states that =E2=80=9Csoftware has become our interface t=
+o the world, to others, to our memory and our imagination=E2=80=9D. Is the sa=
+me happening in the world of digital scholarly editing? Certainly we cannot i=
+gnore their fundamental role in our daily scholarly practices and in the inte=
+ractions with our objects of study. Insofar as tools shape scholarly editions=
+, they also shape scholarly editing.A new RIDE issue is devoted to tools for digital scholarly editing. The aim o=
+f this issue is to:  *   contribute to the discussion about tooling in Digital Humanities,
+  *   bring to the forefront the instruments instead of the final products,
+  *   provide a venue for discussing best practices in the development and us=
+age of tools,
+  *   list useful resources for all those involved in scholarly editing.Beyond that, we hope that the critical examination of digital tools draws gre=
+ater attention to the (scholarly) achievements that their creation and mainte=
+nance imply.The journal RIDE was founded in 2014 to =E2=80=9Cprovide a forum in which exp=
+ert peers criticise and discuss the efforts of digital editors in order to im=
+prove current practices and advance future developments=E2=80=9D (RIDE Editor=
+ial). RIDE is Open Access, reviews are published as HTML and downloadable as =
+TEI. All reviews will be peer reviewed in order to reach a high quality level=
+ of the evaluations. The special issue on Digital Tools and Environments for =
+DSE will be edited by Anna-Maria Sichani (University of Sussex) and Elena Spa=
+dini (University of Lausanne).Submission detailsReviews are accepted in English, French, Italian, and Spanish. The length of =
+the review can vary depending on how much the resource offers that is worthy =
+of discussion (approximately 2000-5000 words).Please submit your review at ride-tools (at) i-d-e.de<http://i-d-e.de/> as an=
+ editable text file (preferably, but not necessarily docx to facilitate the c=
+onversion to TEI). Please send illustrations as separate image files (jpg or =
+png) and leave a note in the text as a placeholder for each image. In additio=
+n to the text, we collect keywords. Each review should be accompanied by a sh=
+ort abstract in English, independently of the language used in the main text.For further information please check the general RIDE guidelines for writing =
+and submitting<http://ride.i-d-e.de/reviewers/writing-and-submitting/>. The q=
+uestionnaire mentioned in the submission checklist has been designed for scho=
+larly digital editions so far. We will keep you informed about how to proceed=
+ with the questionnaire for this special issue.All reviews will be peer reviewed in order to reach a high quality level of t=
+he evaluations. We believe that this is important because the evaluation of d=
+igital scholarly resources usually requires a double expertise in digital met=
+hods as well as in individual disciplines. This is also to increase the credi=
+t for reviews.Suggestions for reviewThe following list is merely alphabetically and not comprehensive:  *   Annotation Studio <http://www.annotationstudio.org/>
+  *   Apache OpenNLP <https://opennlp.apache.org/>
+  *   CATview <http://catview.uzi.uni-halle.de/>
+  *   Classical Text Editor <http://cte.oeaw.ac.at/>
+  *   CorrespSearch <https://correspsearch.net/>
+  *   CWRC-Writer <https://github.com/cwrc/CWRC-WriterBase>
+  *   ecdosis <http://ecdosis.rocks<http://ecdosis.rocks/>>
+  *   eLaborate <http://elaborate.huygens.knaw.nl/>
+  *   EVT <http://evt.labcd.unipi.it/>
+  *   FreeLing 4.0 <http://nlp.lsi.upc.edu/freeling/>
+  *   FromThePage <https://fromthepage.com/>
+  *   FuD <https://fud.uni-trier.de/>
+  *   Image Markup Tool <https://tapor.uvic.ca/~mholmes/image_markup/>
+  *   Isilex <https://isilex.github.io/easy-xml/>
+  *   Kiln <http://kcl-ddh.github.io/kiln/>
+  *   LombardPress <http://lombardpress.org/>
+  *   ManuscriptDesk <https://manuscriptdesk.uantwerpen.be/md/Main_Page>
+  *   MOM-CA <https://github.com/icaruseu/mom-ca/wiki>
+  *   New Testament Virtual Manuscript Room (NTVMR) <http://ntvmr.uni-muenste=
+r.de/de/manuscript-workspace>
+  *   oXygen <http://oxygenxml.com/>
+  *   PhiloEditor <http://site1705.web.cs.unibo.it/phed/>
+  *   Scripto <http://scripto.org/>
+  *   Stanford NLP <https://nlp.stanford.edu/software/>
+  *   Stylo <https://stylo.ecrituresnumeriques.ca/>
+  *   T-Pen <http://www.t-pen.org/TPEN/>
+  *   TEI Critical Apparatus Toolbox <http://teicat.huma-num.fr/>
+  *   TextGrid <https://textgrid.de/en/>
+  *   Pundit <http://thepund.it/>
+  *   Transcribo <http://transcribo.org/en/>
+  *   Transkribus <https://transkribus.eu/Transkribus/>
+  *   Versioning Machine <http://v-machine.org/>
+  *   WMRCRE <http://vmrcre.org/>
+  *   Zooniverse <https://www.zooniverse.org/>More Digital Tools and Environments can be found on dedicated lists and in ca=
+talogs, for example:  *   TEI-Wiki Editing Tools <https://wiki.tei-c.org/index.php/Category:Editi=
+ng_tools> ( last modified on 2015-02-20)
+  *   DIRT <http://dirtdirectory.org<http://dirtdirectory.org/>> (last update=
+ 2015-04-24)
+  *   TAPOR 3.0 <http://tapor.ca/home>--
+Elena Spadini
+Postdoc, Universit=C3=A9 de Lausanne
+elespdn.github.io/io/<http://elespdn.github.io/io/>
+--===============6423259216354719192==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

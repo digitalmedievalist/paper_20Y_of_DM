@@ -1,0 +1,38 @@
+--===============8688842816891471919==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear all,Please find below the programme for January-March 2020 of the VeDPH
+﻿Seminars in Digital and Public Humanities.Best regards,
+TizianaDear all,with apologies for cross-posting, I announce the next seminars
+(January-March 2020) in the "﻿Seminars in Digital and Public Humanities"
+series of the VeDPH - Venice Centre for Digital and Public Humanities.
+All seminars will start at 17:00 and will take place in the Palazzo
+Malcanton-Marcorà building of University Ca' Foscari, Calle Contarini,
+Dorsoduro 3484/D, Venice. The specific room for each event is listed below:January 22, 2020
+Aula Milone, 3rd floor
+Alberto Campagnolo (Venice Centre for Digital and Public Humanities)
+"Links and bindings. Towards meaningful descriptions of bookbindings on
+the Web and catalogues"
+Abstract: https://www.unive.it/data/33113/2/35803February 12, 2020
+Aula Milone, 3rd floor
+Francesca Tomasi (Università di Bologna- Digital Humanities Advanced
+Research Centre)
+"Running the Digital Humanities Ecosystem"
+Abstract: https://www.unive.it/data/33113/2/36453February 26, 2020
+Aula Milone, 3rd floor
+Sara Tonelli (Fondazione Bruno Kessler - Trento)
+"Building tools and datasets to detect online hate speech: current
+studies on cyberbullying and islamophobia"
+Abstract: https://www.unive.it/data/33113/2/36458March 11, 2020
+Sala Piccola, 2rd floor
+Elisa Corrò, Venice Centre for Digital and Public Humanities)
+"Water Matters. Digital solutions for a better understanding of past
+extreme events"March 25, 2020
+Sala Piccola, 2rd floor
+Daniele Fusi (Venice Centre for Digital and Public Humanities)
+Presenting Cadmus: a general-purpose and modular content editing
+alternative for complex models"Programme:
+https://static.unive.it/server/eventi/35803/DPH%20sem%202020-01%20(1).pdfAll best,
+Paolo Monella--===============8688842816891471919==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

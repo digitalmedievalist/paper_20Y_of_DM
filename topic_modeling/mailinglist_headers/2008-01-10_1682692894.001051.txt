@@ -1,0 +1,8 @@
+From: Herdsman Caedmon <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] TAN: Anybody have experience using rsynch to keep computers	synched
+Date: Thu, 10 Jan 2008 12:24:47 -0700
+Message-ID: <1199993087.12047.6.camel@odonned-eng06>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1968506507696607937=="

@@ -1,0 +1,48 @@
+--===============3697719072087799026==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitWho are we Digital Humanists? And who are we Digital Medievalists?
+*Humanistica <http://www.humanistica.eu/>, the future European DH
+Association, launches a survey to find out about the digital humanists’
+community.**Answer the online survey
+ <http://bit.ly/HcrQ4D>* The Humanistica project and the DH manifestoBy responding to this survey, you will help the Digital Humanities
+community discover its extent and diversity, as well as its geographical
+and linguistic composition. We hope you will be willing to participate in
+this survey and thus improve understanding of our community. This
+questionnaire, which is an initiative of the Centre for Open Electronic
+Publishing <http://cleo.cnrs.fr/> (Cleo) and
+OpenEdition.org<http://www.openedition.org/>,
+is a contribution to the Humanistica Project: towards a European
+association for the Digital Humanities, building on the ideas expressed in
+the Digital Humanities Manifesto, based on a multilingual approach, and
+democratic principles (one person, one vote). If you agree with the
+principles of the Digital Humanities, you can sign it (
+http://www.humanistica.eu/manifesto). Thank you for your contribution!
+The survey organisersZineddine Aboubekeur
+Aurélien Berra, Université Paris 10
+Lou Burnard, TEI consortium
+Delphine Cavallo, Aix-Marseille Université (AMU)
+Frédéric Clavert, CVCE
+Marin Dacos, CNRS
+Michael Eberle Sinatra, Université de Montréal
+Domenico Fiormonte, Roma Tre Università
+Hubert Guillaud, InternetActu.net
+Peter Haber, Universität Basel
+Marion Lame
+Clément Levallois, University Rotterdam
+Benoit Majerus, Université du Luxembourg
+Claudine Moulin, Universität Trier
+Pierre Mounier, EHESS
+Amanda Shuman, University of California, Santa Cruz
+Christof Schöch, Université de Würzburg et DARIAH-DE
+Francesco Stella, Università di Arezzo
+Nadine Wanono, CNRSM. Dominique Stutzmann
+Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
+(CNRS, UPR 841)
+http://www.irht.cnrs.fr
+Chargé de conférences à l'Ecole Pratique des Hautes Etudes
+http://www.ephe.sorbonne.fr
+Membre du bureau exécutif de Digital Medievalist
+http://www.digitalmedievalist.org/--===============3697719072087799026==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,8 @@
+From: Dieter =?utf-8?q?K=C3=B6hler?= <d.k@philo.de>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Useful free tools for finding unicode characters
+Date: Fri, 25 Jun 2004 10:21:21 +1200
+Message-ID: <5.2.1.1.0.20040625101407.01939f88@pop3.philo.de>
+In-Reply-To: <40DA6682.1000106@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7883428559464140895=="

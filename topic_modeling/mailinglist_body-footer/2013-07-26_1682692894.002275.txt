@@ -1,0 +1,18 @@
+--===============1132138127175703108==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHello list,Is anyone doing interesting visualizations of TEI msDescriptions? Say,
+using SVG to visualize collation formulas?Thanks,
+Dot-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+Personal blog: dotporterdigital.org
+Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
+MESA blog: http://mesamedieval.wordpress.com/
+MESA on Facebook:
+https://www.facebook.com/MedievalElectronicScholarlyAlliance
+*~*~*~*~*~*~*~*~*~*~*--===============1132138127175703108==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

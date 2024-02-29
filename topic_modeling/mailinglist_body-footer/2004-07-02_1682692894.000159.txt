@@ -1,0 +1,14 @@
+--===============0434236992727605002==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDoes anybody have experience with standoff markup? That is the name 
+given to markup, as I understand it, that is stored independently of the 
+actual text in question. Is it currently possible even?
+-dan-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+E-mail <daniel.odonnell(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>--===============0434236992727605002==--

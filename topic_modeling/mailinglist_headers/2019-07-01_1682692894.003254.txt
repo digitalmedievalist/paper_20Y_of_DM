@@ -1,0 +1,7 @@
+From: Alexey Lavrentev <alexei.lavrentev@ens-lyon.fr>
+To: dm-l@uleth.ca
+Subject: [dm-l] Release of the BFM2019 Corpus
+Date: Mon, 01 Jul 2019 11:39:03 +0200
+Message-ID: <96582583-9bb6-2837-76b2-4f1f03c90bc3@ens-lyon.fr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4607582884541068919=="

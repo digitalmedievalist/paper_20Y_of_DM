@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Temporary change in list behaviour
+Date: Thu, 15 Mar 2007 23:35:04 -0600
+Message-ID: <1174023304.23993.2.camel@caedmon>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2223650672179342640=="

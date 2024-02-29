@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)
+Date: Mon, 28 Jun 2004 11:59:02 -0600
+Message-ID: <40E05C66.2050004@uleth.ca>
+In-Reply-To: <1088444404.3412.313.camel@loki.grendelsmere>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3555419102423297510=="

@@ -1,0 +1,9 @@
+From: Martin Holmes <mholmes@uvic.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	with
+ port 8080??
+Date: Thu, 08 Jul 2004 08:18:41 -0700
+Message-ID: <6.1.1.1.0.20040708081554.01b7c318@pop.uvic.ca>
+In-Reply-To: <BD12D897.E3BD%peter.robinson@dmu.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5098694819801334968=="

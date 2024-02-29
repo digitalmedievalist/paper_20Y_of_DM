@@ -1,0 +1,7 @@
+From: Dieter =?utf-8?q?K=C3=B6hler?= <d.k@philo.de>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Character reference conversions: help?
+Date: Wed, 06 Oct 2004 15:56:48 +1300
+Message-ID: <5.2.1.1.0.20041006155642.0165dd30@pop3.philo.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6358556283177294900=="

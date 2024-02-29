@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Experience with Full Text Searching
+Date: Mon, 28 Jun 2004 10:23:43 -0600
+Message-ID: <40E0460F.30805@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8644885958315173817=="

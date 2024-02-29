@@ -1,0 +1,21 @@
+--===============1490133654968146787==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableInstitute of Classical Studies
+Senate House, Malet Street, London WC1E 7HU
+Friday June 2, 2017 at 16:30 in room 234*Sarah Middle (Open University)*Linked Data and Ancient World Research: studying past projects from a user pe=
+rspectiveLinked Data connects digital objects based on common features, and has the po=
+tential to transform Ancient World research; however, this approach is still =
+not widely used, and my research explores why this might be the case. This pa=
+per explains how I converted publicly-available data on AHRC-funded projects =
+to Linked Data, facilitating detailed queries to identify potential case stud=
+ies. I will discuss several of these (Pelagios 4, SNAP:DRGN, and STAR, STELLA=
+R and SENESCHAL) from a user perspective, as well as evaluating the usability=
+ of the linked AHRC data. Additionally, I will present my initial findings an=
+d their potential implications for future projects.digitalclassicist.org/wip/wip2017-01sm.htmlALL WELCOMEValeria Vitale
+Institute of Classical Studies, Research Fellow
+Senate House, Malet Street
+London WC1E 7HUPelagios Commons Community Manager
+commons.pelagios.org<http://commons.pelagios.org/>--===============1490133654968146787==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

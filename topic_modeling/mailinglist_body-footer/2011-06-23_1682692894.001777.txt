@@ -1,0 +1,35 @@
+--===============7548244991875672018==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable>     How on earth do we know this?  I asked this question to this group
+>     a few years ago and got no satisfactory answer.  I have a very
+>     simple need, which is a Latin spell-checker.  This would
+>     revolutionise our approach to digitisation of Latin texts. It is a
+>     relatively simple task, because I looked at the problem a few
+>     years ago.  I did not have the time or resource to solve it
+>     myself.  Perhaps I will look at the problem again.  But, then,
+>     there seems to be a whole humanities research industry devoted to
+>     'digital humanities', so why hasn't someone provided a solution to
+>     this simple problem?
+>My pleasure: :)
+http://drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=3D75&Ite=
+mid=3D68&lang=3Den=20
+<http://drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=3D75&It=
+emid=3D68&lang=3Den>(disclaimer: this Latin language spellchecker is a very basic tool,=20
+intended to help proofreading gross errors in OCRized Latin texts, or=20
+typos in the ones we type up ourselves; it in in no way exhaustive or=20
+perfect, and it DOES NOT PRETEND TO DO a latinist's job regarding the=20
+grammar; all it does is pointing to you words that are likely to be=20
+mistakes - and naturally, it's more useful on literary texts than on,=20
+say, charters with inventive spelling. Yet... it exists, and it seems to=20
+do many people a lot of services).
+--=20
+Marjorie BURGHART
+EHESS (p=C3=B4le de Lyon) / UMR 5648
+Histoire et Arch=C3=A9ologie des Mondes Chr=C3=A9tiens et Musulmans M=C3=A9di=
+=C3=A9vaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============7548244991875672018==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

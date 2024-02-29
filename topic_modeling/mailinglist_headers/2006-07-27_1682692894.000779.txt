@@ -1,0 +1,8 @@
+From: caedmon@uleth.ca
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] DM News: Deadline for feature requests for TEI P5 1.0 is	2006-09-01
+Date: Thu, 27 Jul 2006 23:39:32 -0600
+Message-ID: <5450697.1154065172632.JavaMail.apache@pluto.netsrv.uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0072719701383496969=="

@@ -1,0 +1,7 @@
+From: "O'Donnell, Dan" <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Anybody know of a html --> mediawiki parser/script?
+Date: Thu, 02 Jul 2009 15:22:33 -0600
+Message-ID: <0cd201c9fb5b$359674c8$1e07428e@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1183754173864114509=="

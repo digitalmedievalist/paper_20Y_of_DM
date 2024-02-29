@@ -1,0 +1,24 @@
+--===============8846479796869696977==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableThose of you whose collections include a leaf or two of the Beauvais Missal m=
+ay be interested in my ongoing online project devoted to reconstructing and s=
+tudying the manuscript:http://brokenbooks2.omeka.netOn the site, you will find images and metadata for 94 known leaves of
+the manuscript as well as initial findings about the Missal and a link
+to a digital surrogate (a test case for the University of St. Louis
+Center for Digital Humanities' Broken Books [1]project).Please contact me you have any questions about the project or your
+leaf's metadata, or if you know of any leaves of the Missal that I
+haven't included. In addition, if your leaf has an OPAC record, please
+feel free to send me the PURL so I can include it.Many thanks -Lisa--
+=C2=A0 Lisa Fagin Davis
+=C2=A0 Executive Director
+=C2=A0 Medieval Academy of America
+=C2=A0 17 Dunster St., Suite 202
+=C2=A0 Cambridge, Mass.=C2=A0 02138
+=20
+=C2=A0 Phone: 617 491-1622
+=C2=A0 Fax: 617 492-3303
+=C2=A0 Email: LFD(a)TheMedievalAcademy.org
+Links:  1. http://165.134.241.141/brokenBooks/home.html?demo=3D1--===============8846479796869696977==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

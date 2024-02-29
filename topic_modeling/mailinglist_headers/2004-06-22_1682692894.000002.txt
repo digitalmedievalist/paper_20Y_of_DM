@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Test. The server looks like it is up again.
+Date: Tue, 22 Jun 2004 15:59:05 -0600
+Message-ID: <40D8ABA9.3070906@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5775586266214941229=="

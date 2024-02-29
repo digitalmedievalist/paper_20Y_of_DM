@@ -1,0 +1,8 @@
+From: "Troy A. Griffitts" <scribe@crosswire.org>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+Date: Mon, 29 Dec 2014 21:49:23 -0700
+Message-ID: <54A22ED3.60602@crosswire.org>
+In-Reply-To: <54A22A44.4030703@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2379037640534960018=="

@@ -1,0 +1,26 @@
+--===============6500114317068725953==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit= Announcement: Interedition Symposium - Registration Open == Scholarly Digital Editions, Tools and Infrastructure =
+= The Huygens ING, The Hague, The Netherlands, 19-20 March 2012 =Huygens ING is pleased to host a symposium to mark the achievements of
+Interedition, COST (European Cooperation in Science and Technology) Action
+IS0704. This event will also serve as a springboard for further work based
+on the principles of interoperability promoted by Interedition within the
+domain of digital scholarly editing and research.Programme and practical information are available at
+http://www.interedition.euRegistration for the symposium is now open at
+http://www.interedition.eu/?page_id=203It's our pleasure to invite everybody interested in digital infrastructure
+for interoperable digital editions to join us in The Hague for a two day
+high quality academic event. The symposium offers a good and comprehensive
+overview of current trends in practices of building digital editions,
+related digital tools and infrastructures, digital text analysis and
+annotation, and community aspects.
+About Interedition: http://www.interedition.eu
+About the Huygens ING: http://www.huygens.knaw.nl/en/over-ons/
+About COST and Interedition:
+http://www.cost.esf.org/domains_actions/isch/Actions/IS0704
+--
+Drs. Joris J. van Zundert
+Researcher & Developer Digital and Computational Humanities
+Chair COST Action IS0704 'Interedition'--===============6500114317068725953==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,9 @@
+From: Richard Hadllesey <rhaddlesey@medievalarchitecture.net>
+To: dm-l@uleth.ca
+Subject:
+ RE: [dm-l] gentle introduction to XSL, CSS,	and/or stylesheets generally?
+Date: Sat, 18 Jul 2009 20:54:31 +0100
+Message-ID: <000301ca07e1$92236670$b66a3350$@net>
+In-Reply-To: <4A620AC6.40803@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1901460265111792553=="

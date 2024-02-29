@@ -1,0 +1,9 @@
+From: Dominique Stutzmann <dominique.stutzmann@irht.cnrs.fr>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Exploring and exploiting TEI encoded data (Caen, Jan. 27th,	2012)
+Date: Fri, 06 Jan 2012 15:04:51 +0100
+Message-ID:
+ <CANO2+Cfb5ErLSQSrrmdxYqg72bdB7jsoqXigO2PHGaYw+kLfUQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2280386150608240734=="

@@ -1,0 +1,10 @@
+From: Franz Fischer <franz.fischer@uni-koeln.de>
+To: dm-l@uleth.ca
+Subject: [dm-l] Advanced XML/TEI technologies - IDE-meets-DiXiT-Spring-School
+ at Graz, 13-17 April 2015
+Date: Wed, 17 Dec 2014 15:46:33 +0100
+Message-ID: <54919749.2030809@uni-koeln.de>
+In-Reply-To:
+ <CAL-z=UqFO73PDMqstwDSeK3dJidZ7njM7xjrSqMb9dCtRxWVuA@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8141565320460231927=="

@@ -1,0 +1,25 @@
+--===============2932167042051462678==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Object Detection Challenge in computational humanitiesICPR 2022 ODeuropa Competition on Olfactory Object Recognition (ODOR)We are proud to announce the launch of the ICPR 2022 (ODOR) ODeuropa Competit=
+ion on Olfactory Object Recognition, the world's first competition for the de=
+tection on olfactory objects on historical artworks. Work with a training set=
+ of >24000 object annotations in 87 categories on ~3000 images and create inn=
+ovative solutions to detect a wide range of objects in the challenging domain=
+ of artworks.Info: https://odor-challenge.github.io/2022/
+Challenge Registration and Data:  https://codalab.lisn.upsaclay.fr/competitio=
+ns/1939
+--
+-------------------------
+Regards,
+Ronak Kosti, PhD
+Post Doc Researcher
+Pattern Recognition Lab,
+Friedrich-Alexander-Universität, Erlangen-Nürnberg
+Email: ronak.kosti(a)fau.de<mailto:ronak.kosti(a)fau.de>
+Web: https://lme.tf.fau.de/person/kosti
+Twitter: @r_rkosti--===============2932167042051462678==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

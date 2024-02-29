@@ -1,0 +1,43 @@
+--===============7399179604478560758==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues and friends,We are excited to release a new version of the Database of Byzantine Book Epi=
+grams (DBBE, hosted at Ghent University), freely accessible at https://www.db=
+be.ugent.be.Thanks to the generous support of the Special Research Fund of Ghent Universi=
+ty, DBBE has been completely redesigned over the past two years, in close col=
+laboration with the Database, Document and Content Management<https://ddcm.ug=
+ent.be/> research group of the Faculty of Engineering of Ghent University and=
+ with the Ghent Centre for Digital Humanities<https://www.ghentcdh.ugent.be/>.The corpus of Byzantine metrical paratexts collected in our Database has been=
+ consistently enlarged, through the systematic consultation of manuscripts an=
+d relevant secondary literature, and it now counts some 10700 single epigrams=
+, over 7000 of which are the result of first-hand inspection of (reproduction=
+s of) manuscripts. In comparison with the previous version of DBBE, our users=
+ are offered the possibility to navigate more easily through the different re=
+cords, which are much better linked to each other. The search function of Gre=
+ek text has been refined and provides users with more accurate results.While the distinction between Occurrences<https://www.dbbe.ugent.be/occurrenc=
+es/search> (unique epigrams as to be found in manuscripts) and Types<https://=
+www.dbbe.ugent.be/types/search> (normalised texts of similar occurrences) has=
+ been retained, a new way to group epigrams has been introduced: the Verse Va=
+riants records. These pages display a clear overview of the parallels and dev=
+iations of single verse lines. The Verse Variants are accessible by clicking =
+on single epigram verse lines.The main scope of DBBE is collecting Byzantine book epigrams and offering the=
+ir texts to the scholarly community. However, we are aiming to make available=
+ contextual data as well, and have paid major attention to the improvement of=
+ information on Manuscript<https://www.dbbe.ugent.be/manuscripts/search> and =
+Persons<https://www.dbbe.ugent.be/persons/search>. The Bibliography section h=
+as been adjusted and it now includes a search path.We gladly refer to our Help page<https://www.dbbe.ugent.be/pages/help> and Se=
+arch Tricks and Tips<https://www.dbbe.ugent.be/pages/search-tips-tricks> page=
+ for more information.We encourage users to explore the new features of DBBE and are eager to welco=
+me their comments and feedback at dbbe(a)ugent.be<mailto:dbbe(a)ugent.be>.For the whole DBBE team<https://www.dbbe.ugent.be/pages/team>,Floris Bernard
+Juli=C3=A1n B=C3=A9rtola
+Julie Boeten
+Cristina Cocola
+Sien De Groot
+Kristoffel Demoen
+Pieterjan De Potter
+Ilse De Vos
+Rachele Ricceri
+Anne-Sophie Rouckhout
+--===============7399179604478560758==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,18 @@
+--===============7260951892003907282==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitThe question of bibliographic software has come up on this list before:
+here's an update.-d
+-- 
+Daniel Paul O'Donnell
+Associate Professor and Acting Chair
+Director, Digital Medievalist Project
+<http://www.digitalmedievalist.org/>
+Department of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+CanadaVox +1 403 329-2377
+Fax +1 403 382-7191:@caedmon/ubuntu
+--===============7260951892003907282==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

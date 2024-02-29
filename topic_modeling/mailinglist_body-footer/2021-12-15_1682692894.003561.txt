@@ -1,0 +1,25 @@
+--===============6675024680899482430==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.We are pleased to announce that the second edition of Prue Shaw's Dig=
+ital Edition of Dante's Commedia is now available at https://www.dant=
+ecommedia.it. Thanks to the cooperation of its publishers (Fondazione Ezio Fr=
+anceschini, https://www.fefonlus.it/index.php/en/, and Inkless Editions, http=
+://www.inklesseditions.com), of the libraries holding the manuscripts, of the=
+ participating scholars, and of DARIAH-IT, we are able to make the whole edit=
+ion available to all free on-line.The edition contains full transcripts and images of seven key manuscripts, to=
+gether with the full text of the Petrocchi and Sanguineti editions, a complet=
+e word-by-word collation of the texts of the manuscripts and editions, some 5=
+00 pages of editorial materials, and analysis and visualizations of the manus=
+cript relations using phylogenetic and other digital tools. A specialized var=
+iant database (=E2=80=9CVBase=E2=80=9D) enables precise searches for variant =
+readings according to their distribution across the tradition.This second edition offers all the data of the first edition, with updated ed=
+itorial material, in a completely new interface. Its development was overseen=
+ by myself (University of Saskatchewan and Inkless Editions), Lino Leonardi (=
+Scuola Normale Superiore, Pisa and Fondazione Ezio Franceschini), Prue Shaw (=
+University College London), David Robey (Universities of Oxford and Reading) =
+and Emiliano Degl'Innocenti (DARIAH-IT).Peter Robinson--===============6675024680899482430==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

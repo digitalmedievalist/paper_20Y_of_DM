@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] xsltproc and xsl
+Date: Thu, 29 Sep 2005 10:17:39 +0200
+Message-ID: <1127981860.8900.10.camel@localhost.localdomain>
+In-Reply-To: <433B437A.9060406@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9053705222425147873=="

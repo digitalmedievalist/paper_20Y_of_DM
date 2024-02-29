@@ -1,0 +1,6 @@
+--===============1052750325208847742==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitForwarded from Medtext-l. Does anybody know an answer?--===============1052750325208847742==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

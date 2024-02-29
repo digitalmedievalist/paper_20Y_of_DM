@@ -1,0 +1,42 @@
+--===============8193345817678951265==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable[Apologies for cross-posting]Dear colleagues,One of the main aims of the project POSTDATA is to provide a means to publish=
+ European poetry data as Linked Open Data (LOD). With this goal in mind, we c=
+reated a common data model that must cover any relevant concepts to carry out=
+ research about European poetry.The project is very ambitious, and we cannot develop it successfully without =
+your collaboration.What do we need from you?We would like you to select any poetic resource of your interest and try to f=
+ill in this form <http://postdata-model-validation.linhd.es> about it with an=
+y pertinent information for your research.In exchange for your collaboration, whenever the validation process is over, =
+you will receive an RDF dataset with the data you provided in this form.Thank you very much for your collaboration!POSTDATA TeamLuciana Ayciriex
+R&D Project Manager
+Laboratorio de Innovaci=C3=B3n en Humanidades Digitales
+Escuela T=C3=A9cnica Superior de Ingenier=C3=ADa Inform=C3=A1tica, UNED
+Juan del Rosal, 16
+28040 MADRID
+tel. 913988239
+[1495805924928_linhd_signature.png]                         [1487162382233_PO=
+STDATA]
+              www.linhd.es<http://linhd.es/>                                 =
+         www.postdata.linhd.es<http://postdata.linhd.es/>
+AVISO LEGAL. Este mensaje puede contener informaci=C3=B3n reservada y confide=
+ncial. Si usted no es el destinatario no est=C3=A1 autorizado a copiar, repro=
+ducir o distribuir este mensaje ni su contenido. Si ha recibido este mensaje =
+por error, le rogamos que lo notifique al remitente.
+Le informamos de que sus datos personales, que puedan constar en este mensaje=
+, ser=C3=A1n tratados en calidad de responsable de tratamiento por la UNIVERS=
+IDAD NACIONAL DE EDUCACI=C3=93N A DISTANCIA (UNED) c/ Bravo Murillo, 38, 2801=
+5-MADRID-, con la finalidad de mantener el contacto con usted. La base jur=C3=
+=ADdica que legitima este tratamiento, ser=C3=A1 su consentimiento, el inter=
+=C3=A9s leg=C3=ADtimo o la necesidad para gestionar una relaci=C3=B3n contrac=
+tual o similar. En cualquier momento podr=C3=A1 ejercer sus derechos de acces=
+o, rectificaci=C3=B3n, supresi=C3=B3n, oposici=C3=B3n, limitaci=C3=B3n al tra=
+tamiento o portabilidad de los datos, ante la UNED, Departamento de Pol=C3=AD=
+tica Jur=C3=ADdica de Seguridad de la Informaci=C3=B3n<http://portal.uned.es/=
+portal/page?_pageid=3D93,24432769,93_24432770&_dad=3Dportal&_schema=3DPORTAL>=
+, o a trav=C3=A9s de la Sede electr=C3=B3nica<https://sede.uned.es/> de la Un=
+iversidad.
+Para m=C3=A1s informaci=C3=B3n visite nuestra Pol=C3=ADtica de Privacidad<htt=
+ps://descargas.uned.es/publico/pdf/Politica_privacidad_UNED.pdf>.--===============8193345817678951265==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,322 @@
+--===============1562772695247898991==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitHi Dan!
+Maybe this is a bit side-tracked, but I would argue with the definition of
+data and resource that you give (data most of all). To me data is raw,
+primary material, and I am not comfortable considering articles,
+monographs, dictionaries or edited texts as data, for instance. They are an
+elaborate, secondary material, they are knowledge produced from data, but
+not data themselves.
+As for resource, to me it can be a simple means to access data or more
+elaborate material, but that's not my main definition of a resource. I
+would call a resource any coherent set of material, primary or secondary -
+for instance to me the Online Froissart is a resource on Froissart's
+chronicle; I would also call a resource, to a certain extent, a project
+providing users with nifty means of processing a set of data (for instance,
+the project preparing the digital edition of Flaubert's "Bouvard et
+Pécuchet" put a lot of efforts into building an interface that would let
+the user navigate through Flaubert's material for his unfinished novel and
+make hypothesis about its potential construction - an interface which is
+fully part of the project).
+It seems to me that there are more projects aiming at producing resources
+rather than data, which can explain why they are so difficult to maintain.
+The coherence would be lost if the material was just poured and melted into
+a large data repository, or the data would lose most of its interest if
+separated from the specific tools created by a project to process it.Maybe this distinction can shed some different light on the issue: curation
+of secondary material is a long-established tradition, through libraries,
+but curation of data is a different kettle of fish. There are not powerful
+pre-existing traditions and models as for secondary material, and the
+digital lore has to invent them quickly. As for resources (according to my
+definition), their inherent coherence and the often very strong link
+between data/material and the interface created to use it means that
+maintaining the interface is a often central issue, and one that is
+particularly difficult to solve in the long term.Best, Marjorie
+On 22 June 2013 01:23, Daniel O'Donnell <daniel.odonnell(a)uleth.ca> wrote:>  Personally, I think you need to make two or maybe three distinctions:
+> between data, resources (maybe), and projects.
+>
+> * Projects create and/or analyse data. They have a definite beginning and
+> end and they are run by somebody. This means the main preservation problem
+> is how you keep them going until they "finish." Once they finish, their
+> outputs are either data or resources or both. An example of a project might
+> be the production of edition of a text, a monograph, journal article, or a
+> specific edition of a dictionary or an encyclopedia.
+> * Data are created by projects. They are in essence static (though they
+> can be corrected or revised). Ideally they can be reused by other projects,
+> either with or without negotiation (though this is in practice often very
+> difficult). The preservation problem with data is hosting and
+> discoverability. Examples of data might be photos, 3D scans,
+> transcriptions, edited texts, editions of dictionaries or encyclopedias,
+> monographs and journal articles, and so on.
+> * Resources are things that provide access to data: e.g. digital
+> libraries, edition interfaces, dictionary or edition interfaces, and so on.
+> These are things that may need to be actively maintained and updated if
+> they are to remain useful. Examples of resources include encyclopedia or
+> dictionary sites, journals, perhaps monograph series, scholarly societies,
+> and so on.
+>
+> If this makes sense, then I think the organisational issues are different
+> in each case.
+>
+> * With projects, the transfer is always going to be negotiated: you are
+> talking about a small group of people who share a common goal and
+> understanding of the project (more or less) and when a transfer happens,
+> you are going to see a handoff: one leader or group hands off control to
+> another under specific conditions. Projects are usually organised around a
+> single leader, or a couple of co-leaders, or a small board. The problem for
+> projects is really the same, whether the project is paper-based or digital.
+>
+> * For data, you are looking for maintenance that is as hands off as
+> possible and transfer that can happen without negotiation. The important
+> question here is whether the data is discoverable, comprehensible, and
+> accessible. Hence Peter's point about licencing, for example, and about
+> institutional repositories or the Oxford Text Archive. For data, you don't
+> really need a board or a chair or anything else (in fact if you need it, it
+> is probably not being well stored). You need some institution that is
+> already established and is willing to accept your data under conditions you
+> both find acceptable as part of its mission. Universities and libraries are
+> good methods for this. Again, the problem is not really too dissimilar
+> between paper and digital: you want as much as possible to give your data
+> in static form to an institution that is set up to preserve it.
+>
+> * Resources are the hardest things to preserve, because there is no
+> obvious end date, but they may require active intervention. Because of
+> this, I think you should do everything you can to avoid creating them. If
+> you are designing an edition, you should design it so that it degrades well
+> over time and can be treated like data (whether as a whole or in its
+> component parts). This means making use of components that are built into
+> the architecture of the web as much as possible and separating content from
+> processing. Good examples include Stuart Lee's edition of Ælfric's sermons,
+> Murray McGillvray's Book of the Duchess, I'd argue my edition of Caedmon's
+> Hymn, any post P2 version of the TEI. A famously poor example (though it
+> isn't their fault) is the BBC's Domesday Project from the late 1980s. The
+> exceptions to this rule are by-and-large not research projects: scholarly
+> societies, for example, are resources rather than projects or data, but if
+> they stop, it is because nobody is interested in them anymore. MESA is a
+> resource that referees data. But if it dies, the data still survives. If
+> you do build a resource (for example, a journal or a scholarly society),
+> you should do everything you can to ensure that it degrades to data when
+> people lose interest in it: so your journals should be hosted by or
+> mirrored at universities and archives, for example, and should not depend
+> too much on dynamic libraries for expression.
+>
+> So in the end the answer to your question might be this: do everything you
+> can to avoid creating a resource. Make sure that your data production is
+> tied to a project rather than a resource and has a definite end-point in
+> sight. If you want to create data that others will revise and add to after
+> you are finished with it, don't try to be the arbiter of the quality of
+> their interventions. Understand what they are doing as independent projects
+> that are responsible for seeking their own quality assurance. Create URLs
+> or other identifiers that archives can administer without your help.
+> Publish guidelines and suggestions for how subsequent generations might add
+> to your data, but give up on enforcing them.
+>
+> In other words, try to imitate the Chaucer of the epilogue to Troilus and
+> Criseyde  ("go litel bok, go little myn tragedie") rather than the Chaucer
+> of the epilogue to the Canterbury Tales ("...the whiche I revoke in my
+> retracciouns").
+>
+> On 13-06-21 03:51 PM, Michelson, David Allen wrote:
+>
+>  Dear Peter and others,
+>
+>  Thank you for these helpful responses.
+>
+>  I agree completely with your advice that one should seek out
+> repositories and generally try to get the data freely in the hands of as
+> many as possible. Daniel's point about DOIs is also very useful.
+>
+>  Having said that, these are advice about how to avoid extinction in the
+> worst case scenario, e.g. when no one is actively curating, revising, or
+> hosting the data and it is in danger of disappearing because in the short
+> run there is no one to care.
+>
+>  I am curious about how to prepare for the best case scenario, e.g. a
+> single scholar or small group of scholars create data files which are
+> received by the scholarly community as of sufficient value to be crowd
+> curated indefinitely. While the fact that the data will be CC-by means that
+> the crowd will be free to do what it wants, from a  pragmatic perspective
+> it seems like it would still be useful to have an editorial board of sorts
+> Joel mentioned in his post for the following reasons:
+>
+>  1. To offer scholarly peer review to the revisions to the data, in
+> effect creating canonical revisions.
+> 2. To curate guidelines and coordinate collaboration for this revision.
+> 3. To own and administer the URL associated with the project (which is
+> used for minting URIs, for redirecting to content repositories, and to
+> serve as the single URL for finding the data).
+> 4. To give some momentum to the project should interest wane for a period
+> after the initial researchers have stopped intense work on the data.
+>
+>  I am very much aware and even happy with the fact that in a certain
+> sense the work of this editorial board is non-binding since the data is
+> open and people will do what they want with the data. At the same time, I
+> believe that scholarly peer review is valuable.
+>
+>  So my question is, how do I structure this standing committee? Should it
+> be based at a university, a publisher, through a scholarly society, as a
+> formal non-profit corporation, as an informal agreement, etc?
+>
+>  In the past such multi-generation collaboration might have occurred
+> through a press (various dictionaries for example) or through a scholarly
+> society (long running translation or publication series) but I am wondering
+> about how this model occurs in the digital age.
+>
+>  I would love to see examples from formal arrangements others have made
+> if any.
+>
+>  Thank you!
+>
+>   David A. Michelson
+>
+>  Assistant Professor
+> Vanderbilt University
+> www.syriaca.org
+>
+>
+>   From: Peter Robinson <P.M.Robinson(a)bham.ac.uk>
+> Date: Friday, June 21, 2013 12:05 PM
+> To: David Michelson <david.a.michelson(a)vanderbilt.edu>
+> Cc: "<dm-l(a)uleth.ca>" <dm-l(a)uleth.ca>
+> Subject: How to make your data live forever (and maybe your project?)
+>
+>   HI David
+> I think you are hitting upon a very sore point in the DH/editorial
+> communities.  We have had editorial projects launched all over the place,
+> with great enthusiasm and often, substantial funding.  Many now face
+> exactly the problem you outline: what happens after the PI/institution move
+> on?
+> So, here are three things you can do which will help immensely:
+> 1.  Explicitly declare all your materials as Creative Commons Share-alike
+> attribution: that is, **without** the 'non-commercial' use restrictions so
+> often (and wrongly) imposed by many projects.
+> 2.  Place the data, so licensed, on any open server.  The Oxford Text
+> Archive is, after so many years, still the best place I know to put your
+> data.
+> That alone should be enough to make your data live forever.  And
+> wonderfully, these two options will cost you not a cent, and maybe just  a
+> few hours of your time to deal with the OTA deposit pack.
+>
+>  Optionally, you could also:
+> 3.  Place the data within an institutional repositiory.  This gives you
+> the option to use the IR tools to construct an interface, and provide basic
+> search and other tools.  In my mind, this option has been scandalously
+> underused by DH projects, for reasons which might be the subject of another
+> post.  But this does provide the opportunity for you to present your
+> project in a way that will connect its metadata with the whole world of
+> OASIS etc tools, and offer a sustainable interface.  The University of
+> Birmingham Research Archive gives some idea of how this might work: see
+> (for example) the entries for the Mingana collection (eg
+> http://epapers.bham.ac.uk/84/) and Codex Sinaiticus (
+> http://epapers.bham.ac.uk/1690/).
+>
+>  There is another answer:
+> 1.  Keep the 'non-commercial' licence restriction on your data.  You can
+> thereby claim that you are allowing all your fellow academics to use it
+> freely, while (if you choose) not actually making it freely available
+> outside your interface.
+> 2.  Create an elaborate and very attractive interface to your data
+> 3.  Persuade your university, or someone, to set up a DH centre, with a
+> minimum staff of a director and programmer, space and dedicated equipment
+> (say, 100K a year if you can swing this with part-time staff etc).  This DH
+> centre will then have the task of maintaining your data (which of course,
+> only the centre has), interface and project.  This centre can then deal
+> with all the issues you raise in your post.
+> 4.  Persuade your university, or someone, to support data, interface and
+> project, in perpetuity
+>
+>  Well, good luck with that!
+>
+>  Peter
+>
+>
+>   On 20 Jun 2013, at 23:28, Michelson, David Allen wrote:
+>
+>   Dear Colleagues,
+>
+>  I'd like to add a follow up question to this very informative discussion.
+>
+>  I am also in the process of building a DH sub-community for a specific
+> disciplinary niche.
+>
+>  I would like to ask your advice on governance and standards.
+>  I am looking for models and best practices to ensure long term
+> sustainability of my collaborative DH project once it hopefully outgrows
+> its incubation stage.
+> Could you please point me to long running DH projects whose protocols for
+> governance, editorial oversight, institutional ownership/hosting I might
+> emulate? I am thinking of medium sized DH projects as models, so bigger
+> than one scholar publishing a digital project, but much smaller than the
+> TEI consortium or Digital Medievalist.
+> Given the concerns over sustainability inherent in DH, I am also
+> interested in advice on how to transition a project from the stage where a
+> grant-funded PI is the leader in getting content online to where a
+> volunteer editorial board (and institutional hosts) maintain a project
+> longer term. Also, how do DH projects handle the preservation of content
+> for such a project? The data will be licensed open source, but who should
+> hold the copyright and renew the domain name after the project is launched?
+> A university library? An s-corporation independent of any institution (like
+> some non-profit scholarly journals or professional societies)? the public
+> domain, the original scholarly contributors?
+> Please suggest links to examples to follow from existing projects if you
+> are aware of them.
+>  Thank you!
+>
+>  Dave
+>
+>   David A. Michelson
+>
+>  Assistant Professor
+> Vanderbilt University
+> www.syriaca.org
+>
+>
+>     Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+>     Peter Robinson
+>
+>  Honorary Research Fellow, ITSEE, University of Birmingham, UK
+>
+>  Bateman Professor of English
+>  9 Campus Drive, University of Saskatchewan
+> Saskatoon SK S7N 5A5, Canada
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> --
+> ---
+> Daniel Paul O'Donnell
+> Professor of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Canada
+> +1 403 393-2539
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============1562772695247898991==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,8 @@
+From: Jouni Tuominen <jouni.tuominen@helsinki.fi>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Helsinki Digital Humanities Hackathon #DHH20 postponed until	2021
+Date: Wed, 24 Jun 2020 11:28:18 +0300
+Message-ID: <c1968a45-b4e9-806e-ce28-f04412a0b564@helsinki.fi>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6548492477461062015=="

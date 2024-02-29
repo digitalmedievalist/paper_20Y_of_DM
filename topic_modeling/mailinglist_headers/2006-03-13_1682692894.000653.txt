@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Switching XSL on the web (Lazy question)
+Date: Mon, 13 Mar 2006 07:30:18 -0700
+Message-ID: <1142260219.19246.10.camel@localhost.localdomain>
+In-Reply-To: <441542BA.7010301@oucs.ox.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1107640142015890870=="

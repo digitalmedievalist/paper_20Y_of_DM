@@ -1,0 +1,13 @@
+--===============4939814266159966649==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitMadame, Thank you for your quick response. When reading >characters< in your directions for the use of >Enigma<, I had
+in mind ascii characters and things of that sort (that include blanks,
+e.g.). Now I see that in >Enigma< dots stand for letters. But when seeking,
+e.g., >sic ut<; >simul ac< or >pro dolor<, I can obviously do it by putting
+an asterisk instead of a dot for a blank (sic*ut; simul*ac; pro*dolor). As a Medieval Latinist, I am glad to find yronia, karitas, nichil (not so
+aecclesia, michi, Ihesus, coelum, which are >possible Latin forms< in
+medieval manuscripts). Your tool runs very fast. Thank you again for putting it online. Best, Udo Kindermann  Dr Udo KindermannProfessor emerit. of Medieval LatinUniversity at Cologne50923 KölnGermany  
+--===============4939814266159966649==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,7 @@
+From: Dan Mosser <dmosser@vt.edu>
+To: dm-l@uleth.ca
+Subject: [dm-l] Filemaker Pro/MySQL/ODBC issue
+Date: Sat, 13 Sep 2014 07:55:34 +0100
+Message-ID: <41BE128A-49F0-445A-819C-75A1C16D38E1@vt.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1249330600911812362=="

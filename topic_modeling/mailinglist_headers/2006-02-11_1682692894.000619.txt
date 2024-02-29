@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: RE: [dm-l] Weird Firefox error
+Date: Sat, 11 Feb 2006 11:47:30 -0700
+Message-ID: <1139683650.13038.0.camel@localhost.localdomain>
+In-Reply-To: <000001c62edb$21c60960$6800a8c0@bluerobot>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5527365542866450341=="

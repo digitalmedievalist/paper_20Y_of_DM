@@ -1,0 +1,8 @@
+From: Dan O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI and concurrent hierarchies
+Date: Mon, 15 Aug 2005 02:33:16 -0600
+Message-ID: <32846.62.194.93.168.1124094796.squirrel@62.194.93.168>
+In-Reply-To: <42FD15E5.5000109@computing-services.oxford.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0006272034921919938=="

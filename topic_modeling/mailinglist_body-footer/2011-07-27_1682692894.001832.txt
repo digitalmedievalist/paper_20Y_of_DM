@@ -1,0 +1,50 @@
+--===============3783521538363918616==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitHi all,I have a pretty basic HTML question, I think.I want to embed a couple of MP4 videos in an HTML file. Using something 
+like the following code, I can do this relatively easily:> <div class="figure" id="d0e690">
+> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
+> codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="480" 
+> width="640">
+> <param name="src" value="Pictures/Movie1.m4v"/>
+> <param name="autoplay" value="true"/>
+> <embed src="Pictures/Movie1.m4v" type="image/x-macpaint" 
+> pluginspage="http://www.apple.com/quicktime/download" autoplay="true" 
+> height="480" width="640">
+> </object>
+> </div>The trouble is that Movie1 is 30 odd megabytes and there are other 
+movies in the file. So I'd rather use a place holder. Googling around I 
+discovered that the recommended way of doing this is to make a 1 frame 
+movie saying something like "click on me" which you put on the src 
+attribute, and then you add an href attribute with the name of the 
+"real" movie. If you add target="_self" it is supposed to replace the 
+place holder with the longer movie. This would be the code:> <div class="figure" id="d0e690">
+> <object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" 
+> codebase="http://www.apple.com/qtactivex/qtplugin.cab" height="480" 
+> width="640" href="Pictures/Movie1.m4v" target="_self">
+> <param name="src" value="Pictures/Movie1poster.m4v"/>
+> <param name="autoplay" value="true"/>
+> <embed src="Pictures/Movie1poster.m4v" type="image/x-macpaint" 
+> pluginspage="http://www.apple.com/quicktime/download" autoplay="true" 
+> height="480" width="640" href="Pictures/Movie1.m4v" target="_self"/>
+> </object>
+> </div>
+The problem is that Firefox at any rate seems to understand the src 
+attribute as a base URL. If I click on the player and copy the URL that 
+is produced or look at it in a full screen, Firefox is looking for the 
+href video at    Pictures/Movie1poster.m4v/Pictures/Movie1.m4vinstead of    Pictures/Movie1.m4vI've tried everything I can think of to get around this: moved the files 
+into the root directory of the page, added ../ to the href to try and 
+get it to back up a directory. Nothing seems to work. Since this is a 
+very common thing on the internet, I must be doing something stupid. 
+Does anybody know how to do it?
+-- 
+*Daniel Paul O'Donnell, PhD
+Professor of English, University of Lethbridge <http://www.uleth.ca/>
+Co-President, Society for Digital Humanities/Société pour l'étude des 
+médias interactifs <http://www.sdh-semi.org/>
+Co-Editor, /Digital Studies/Le champ numérique 
+<http://www.digitalstudies.org/>/
+Founding Editor, /Digital Medievalist 
+<http://www.digitalmedievalist.org/journal>/ *--===============3783521538363918616==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,22 @@
+--===============5870381533003102413==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable*********Handwritten Text Recognition at IMC Leeds 2017***************Dear digital medievalistsGoing to the IMC in Leeds 2017?
+On Wednesday July 5th project READ will organize a workshop covering everythi=
+ng you need to know about Handwritten Text Recognition and our tool Transkrib=
+us:The workshop will show how the Transkribus transcription platform can be used=
+ to perform the automated transcription and searching of handwritten document=
+s. It will give an overview of the technology and explain how accurate automa=
+tic recognition can be. Workshop participants will use their own laptops to e=
+xperiment with Transkribus during the session.=20All welcome (no need to be registered for the IMC).=20If you're interested in the results, READ is sponsoring session 139 o=
+n Monday:=20
+https://imc.leeds.ac.uk/dbsql02/AQueryServlet?*id=3D30&*formId=3D30&*context=
+=3DIMC&chosenPaperId=3DNA&sessionId=3D7389&conference=3D2017&chosenPaperId=3D=
+&*servletURI=3Dhttps://imc.leeds.ac.uk/dbsql02/AQueryServlet <https://imc.lee=
+ds.ac.uk/dbsql02/AQueryServlet?*id=3D30&*formId=3D30&*context=3DIMC&chosenPap=
+erId=3DNA&sessionId=3D7389&conference=3D2017&chosenPaperId=3D&*servletURI=3Dh=
+ttps://imc.leeds.ac.uk/dbsql02/AQueryServlet>For further information, please contact me or see the attached PDF.Best wishes,
+Tobias Hodel
+--===============5870381533003102413==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

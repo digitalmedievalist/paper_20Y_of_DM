@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)
+Date: Wed, 30 Jun 2004 10:40:59 +0200
+Message-ID: <1088582765.2807.30.camel@loki.grendelsmere>
+In-Reply-To: <40E05C66.2050004@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7137079783962986766=="

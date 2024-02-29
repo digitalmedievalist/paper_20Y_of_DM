@@ -1,0 +1,7 @@
+From: Alexey Lavrentev <alexei.lavrentev@ens-lyon.fr>
+To: dm-l@uleth.ca
+Subject: [dm-l] Release of BFM2022 Corpus
+Date: Tue, 13 Dec 2022 10:51:23 +0100
+Message-ID: <bd5fc1b5-0475-f28f-3b86-5472c13a1f0d@ens-lyon.fr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1040428716244255114=="

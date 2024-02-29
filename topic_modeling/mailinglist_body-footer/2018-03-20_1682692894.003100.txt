@@ -1,0 +1,71 @@
+--===============5778182091590872366==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableVersion fran=C3=A7aise en bas-------------------------------------------------------------The second edition of the EDEEN Summer School on digital editions will take p=
+lace from the 28th to the 2nd of June 2018 in Grenoble.The Summer School is aimed at PhD students, early careers, all who might be i=
+nterested in understanding what Digital Humanities actually are in practice, =
+and/or those who wish to deepen their knowledge and competence on the subject=
+. For this second edition, participants will be able to choose between two di=
+fferent levels of class: a level 1 =E2=80=9DStructuring the text=E2=80=9D str=
+eam, for which no previous knowledge is required, and a level 2 =E2=80=9DRepr=
+esenting the text=E2=80=9D for which some previous experience is needed (part=
+icipation at the 2017 edition of EDEEN or similar).For Level 1 the courses on offer include:
+- Introduction to Digital Humanities
+- HTML and CSS
+- XML
+- TEI
+- GIS
+- Relational databases.For Level 2 the courses on offer include:
+- Advanced TEI
+- JavaScript and JQuery
+- XLST
+- Digital Codicology and Palaeography
+- XQuery
+Teaching is in French and English: courses taught in French will include slid=
+es in English and vice versa.More information on the website: https://edeen.sciencesconf.org<https://edeen=
+.sciencesconf.org/>
+Registration will open in a few days: stay tuned!The EDEEN team
+Elena Pierazzo, Anne Garcia-Fernandez, Elisabeth Greslou=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=
+=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94La seconde =C3=A9dition de l'=C3=A9cole d'=C3=A9t=C3=A9 =C3=
+=A9ditions num=C3=A9riques EDEEN aura lieu du 28 mai au 2 juin 2018 =C3=A0 Gr=
+enoble.L'=C3=A9cole d'=C3=A9t=C3=A9 vise un public de doctorant=C2=
+=B7e=C2=B7s, jeunes chercheuse=C2=B7eur=C2=B7s et tous ceux qui veulent compr=
+endre ce que ce sont les Humanit=C3=A9s Num=C3=A9riques par la pratique ou bi=
+en qui d=C3=A9sirent approfondir leurs connaissances. Pour cette seconde =C3=
+=A9dition, les participants pourront choisir le parcours de niveau 1 - =E2=80=
+=9CStructuration du texte=E2=80=9D, pour lequel il n'y a pas de pr=C3=
+=A9-requis, ou le parcours de niveau 2 - =E2=80=9CRepr=C3=A9sentation du text=
+e=E2=80=9D, pour lequel des pr=C3=A9-requis sont n=C3=A9cessaires (participat=
+ion =C3=A0 la formation de 2017 ou d'autres formations similaires).Les cours offerts incluent pour le niveau 1 :
+=E2=80=A2 Introduction aux Humanit=C3=A9s num=C3=A9riques
+=E2=80=A2 HTML et CSS
+=E2=80=A2 XML
+=E2=80=A2 TEI
+=E2=80=A2 SIG
+=E2=80=A2 Base de donn=C3=A9es relationnellesLes cours offerts incluent pour le niveau 2 :
+=E2=80=A2 TEI avanc=C3=A9e
+=E2=80=A2 JavaScript et JQuery
+=E2=80=A2 XLST
+=E2=80=A2 Codicologie et Pal=C3=A9ographie num=C3=A9rique
+=E2=80=A2 XQueryLes cours seront en fran=C3=A7ais ou en anglais. Les enseignements dispens=C3=
+=A9s en fran=C3=A7ais auront les diapositives en anglais et vice versa.Plus d'infos sur le site: https://edeen.sciencesconf.org<https://edee=
+n.sciencesconf.org/>
+Les inscriptions ouvriront dans quelque jours.L'=C3=A9quipe de EDEEN
+Elena Pierazzo, Anne Garcia-Fernandez, Elisabeth Greslou
+__
+Elena Pierazzo
+Professeure d'italien et humanit=C3=A9s num=C3=A9riques
+Universit=C3=A9 Grenoble-Alpes - LUHCIE
+Bureau Bâtiment 'Stendhal' F307
+BP 25 38040 Grenoble Cedex 9
+Tel. +33 4 76828032Visiting Senior Research Fellow
+King's College London
+Department of Digital Humanities
+King's College London
+26-29 Drury Lane
+London
+WC2B 5RL--===============5778182091590872366==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

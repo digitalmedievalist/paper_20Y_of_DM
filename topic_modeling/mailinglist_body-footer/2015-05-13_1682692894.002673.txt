@@ -1,0 +1,22 @@
+--===============3191246013318797505==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitThe Medieval Electronic Scholarly Alliance (MESA) invites you to join us at
+International Congress on Medieval Studies in Kalamazoo for a hands-on
+workshop devoted to learning the basics of using MESA and submitting a
+project for membership in the federation. The workshop will be led by Dot
+Porter and Tim Stinson and will cover creating an account, faceted
+searching, tagging and collecting digital objects, building exhibitions,
+and creating and submitting RDF metadata. Teachers interested in using MESA
+in the classroom, project directors and participants interested in
+submitting a project for review and inclusion in MESA, and researchers
+looking for pointers on how to navigate our growing federated content are
+all encouraged to attend. There will be something for everyone!The MESA workshop will be held Friday, May 15 at 10 AM in Waldo Library
+Classroom A.-- 
+Timothy L. Stinson
+Associate Professor
+Department of English
+North Carolina State University
+http://english.chass.ncsu.edu/faculty_staff/tlstinso--===============3191246013318797505==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

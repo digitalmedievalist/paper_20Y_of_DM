@@ -1,0 +1,15 @@
+--===============8213720155448903128==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableI've just noticed that I hadn't removed some unnecessary lines, evidence of a=
+ false start; the stylesheet is now down to 63 lines.Peter-----Original Message-----
+From: dm-l-bounces(a)uleth.ca on behalf of Binkley, Peter
+Sent: Thu 4/7/2005 3:33 AM
+To: peter.robinson(a)dmu.ac.uk; Digital Medievalist Community mailing list; d=
+m-l(a)uleth.ca
+Subject: RE: [dm-l] what xslt can't do..?
+=20
+The Digital Medievalist List (see end of message for contact information and =
+project URLs).------------------------------------===============8213720155448903128==
+Content-Type: application/ms-tnef
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="winmail.dat"

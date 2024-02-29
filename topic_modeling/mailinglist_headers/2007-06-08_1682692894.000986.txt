@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Return of Junicode
+Date: Fri, 08 Jun 2007 10:19:13 -0600
+Message-ID: <1181319553.4722.98.camel@localhost>
+In-Reply-To: <46697A3D.5010507@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7071163818577278297=="

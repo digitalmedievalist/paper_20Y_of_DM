@@ -1,0 +1,45 @@
+--===============2782984091717308714==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear dm-l Community Members,
+ 
+ 
+Next fall, Ill have to present a lecture in the framework of a study
+day dedicated to medieval libraries and booklists (medieval lists of
+manuscript and, more rarely, printed books) in the Southern Low
+Countries (http://calenda.revues.org/nouvelle4283.html). I will speak
+about the possibility of an electronic publication (of the textual
+contents, not only the bibliographic references) of those medieval
+sources, which are at the same time texts and structured data bases
+for the knowledge of manuscript books and medieval libraries. I
+naturally turned towards the rich concept of structured texts/documents
+and markup languages, and towards XML and the TEI which seems to be at
+the forefront of text encoding standardization in the humanities. Now,
+although I did very carefully examine the TEI website, I didnt find any
+mention of a project dealing with a DTD on that particular field.
+Could anybody of yours be so kind as to inform me of such an initiative
+if he/she knows about it?
+ 
+Thank you very much,
+ 
+Lucien Reynhout
+Royal Library of Belgium
+ 
+ 
+************************************************************************
+*************
+Dr. Lucien Reynhout
+Assistant / Assistent
+Bibliothèque royale de Belgique / Koninklijke Bibliotheek van België
+Keizerslaan 4 Boulevard de l'Empereur
+B - 1000 BRUSSEL / BRUXELLES
+Tl +32 (0)2 519.57.02
+Fx +32 (0)2 519.57.10
+lucien.reynhout(a)kbr.be
+ 
+************************************************************************
+************* 
+ 
+ --===============2782984091717308714==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

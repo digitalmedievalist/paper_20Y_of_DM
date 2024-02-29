@@ -1,0 +1,8 @@
+From: Gabriel Bodard <gabriel.bodard@kcl.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Network Analysis and Distant Reading on the Perseus Latin
+ Corpus (seminar)
+Date: Wed, 16 Jul 2014 15:41:55 +0100
+Message-ID: <53C68F33.2030800@kcl.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4031401360689421465=="

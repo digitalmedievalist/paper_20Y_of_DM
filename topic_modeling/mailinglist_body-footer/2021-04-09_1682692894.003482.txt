@@ -1,0 +1,29 @@
+--===============7855913509296262531==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear AllI would like to draw your attention to a workshop on the virtual research env=
+ironment nodegoat, which we use for example in the project Repertorium Academ=
+icum Germanicum (rag-online.org<http://rag-online.org>). A project on the uni=
+versity history of the European Middle Ages.Information about the workshop is available here:https://nodegoat.net/blog.p/82.m/54/nodegoat-workshop-series-organised-by-the=
+-snsf-spark-project-dynamic-data-ingestion
+https://histdata.hypotheses.org/2141
+Registration with informal e-mail to: kaspar.gubler(a)hist.unibe.ch<mailto:ka=
+spar.gubler(a)hist.unibe.ch>
+Best wishes, Kaspar GublerDr. Kaspar Gublerhttps://histdata.hypotheses.org/SNSF SPARK Project leader (2020/21) on dynamic data ingestion of historical d=
+ata (LOD) - http://p3.snf.ch/project-190161Head of Digital Development at REPAC
+Universität Bern
+Historisches Institut
+Länggassstrasse 49
+3012 Bern
+Tel. +41 31 631 37 42
+www.rag-online.org<http://www.rag-online.org>=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94=E2=80=94nodegoat Uni Bern Video-Tutorials: https://histdata.hypotheses.org/nodegoat-t=
+utorialsnodegoat Mailingliste abonnieren:
+https://listserv.unibe.ch/mailman/listinfo/nodegoat.histnodegoat beantragen (für phil.-hist. Fakultät Uni Bern):
+https://forms.gle/Gjm4682EJLsq5TCR7nodegoat login:
+https://nodegoat.unibe.ch
+--===============7855913509296262531==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

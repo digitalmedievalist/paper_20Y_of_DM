@@ -1,0 +1,27 @@
+--===============1546903500047531571==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDigital Classicist London & Institute of Classical Studies Seminar 2014
+Friday August 1st at 16:30, in Room G37, Senate House, Malet Street, London W=
+C1E 7HU
+Sebastian Rahtz (Oxford) and Gabriel Bodard (King's College London): 'Standar=
+ds for Networking Ancient Prosopographies: Data and Relations in Greco-Roman =
+Names (SNAP:DRGN)'SNAP:DRGN (snapdrgn.net) is an AHRC-funded exploratory project which aims to =
+address the problem of linking together large prosopographies (datsets contai=
+ning information about persons, names and person-like entities) managed in he=
+terogeneous systems and formats. This paper will explore the background to an=
+d results of the work, describe the problems, the data and the tools we can p=
+roduce to illustrate of the value of the data, and demonstrate research metho=
+ds for working with the new material and information produced.
+ALL WELCOME
+The seminar will be followed by wine and refreshments.For more information see the seminar website at http://www.digitalclassicist.=
+org/wip/wip2014.htmlBest wishes,Charlotte--
+Dr. Charlotte Tupman
+Project Research Associate & Study Abroad Tutor
+Department of Digital Humanities
+King's College London
+26-29 Drury Lane
+London
+WC2B 5RLTel: +44 (0)20 7848 7145--===============1546903500047531571==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,33 @@
+--===============0327235864210598138==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit*with apologies for cross-posting*Dear all,We invite applications to participate in a training workshop on digital
+editing of papyrological and epigraphic texts, at the Institute of
+Classical Studies, London, April 3–7, 2017. The workshop will be taught by
+Gabriel Bodard and Lucia Vannini (ICS) and Simona Stoyanova (KCL). There
+will be no charge for the workshop, but participants should arrange their
+own travel and accommodation.EpiDoc (epidoc.sf.net) is a community of practice and guidance for using
+TEI XML for the encoding of inscriptions, papyri and other ancient texts.
+It has been used to publish digital projects including Inscriptions of
+Aphrodisias and Tripolitania, Duke Databank of Documentary Papyri, Digital
+Corpus of Literary Papyri, and EAGLE Europeana Project. The workshop will
+introduce participants to the basics of XML markup and give hands-on
+experience of tagging textual features and object descriptions, identifying
+and linking to external person and place authorities, and use of the online
+Papyrological Editor tool.The workshop will assume knowledge of papyrology or epigraphy; Greek, Latin
+or another ancient language; and the Leiden Conventions. No technical
+skills are required, and scholars of all levels, from students to
+professors, are welcome. To apply, please email gabriel.bodard(a)sas.ac.uk
+with a brief description of your background and reason for application, by
+February 28, 2017.
+All the best,
+Simona-- 
+Simona Stoyanova
+Research Assistant in
+Classics and Digital HumanitiesDepartment of Digital Humanities
+King's College London
+26-29 Drury Lane
+Strand Campus
+London WC2B 5RL--===============0327235864210598138==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

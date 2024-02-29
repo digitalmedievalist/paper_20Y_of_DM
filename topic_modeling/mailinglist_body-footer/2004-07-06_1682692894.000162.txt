@@ -1,0 +1,22 @@
+--===============7613091295160523306==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitI believe somebody here was discussing this.
+-dan-------- Original Message --------
+Subject: 	encoding maps, graphics with text?
+Date: 	Tue, 6 Jul 2004 16:15:23 -0400
+From: 	Julia Flanders <Julia_Flanders(a)BROWN.EDU>
+Reply-To: 	Julia Flanders <Julia_Flanders(a)BROWN.EDU>
+To: 	TEI-L(a)LISTSERV.BROWN.EDUDoes anyone know of any projects which are using the TEI to encode
+materials that have substantial graphical content as well as text,
+e.g. maps, diagrams, that sort of thing? I'm interested in ways of
+making explicit linkages between specific locations in a digitized
+image and specific chunks of text in the encoded transcription.Many thanks! Julia
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+E-mail <daniel.odonnell(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>--===============7613091295160523306==--

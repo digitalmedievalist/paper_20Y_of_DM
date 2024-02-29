@@ -1,0 +1,27 @@
+--===============8353949157864621847==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitParliament Rolls of Medieval England
+ 
+British History Online at the Institute of Historical Research
+(http://www.british-history.ac.uk) would like to announce an important
+new addition to its premium content section: the Parliament Rolls of
+Medieval England (http://www.british-history.ac.uk/prome). This source
+consists of scholarly descriptions of every parliament held in England
+between 1275 and 1504. It covers 10 monarchs, from Edward I to Henry VII
+(since no parliament was held in the reign of Edward V, he is not
+included). The rolls for some of these parliaments, particularly the
+earlier ones, do not survive, but where they are extant have been fully
+transcribed; supplementary material about the business of the parliament
+is given in an appendix. Opposite the original text, which may be in
+Latin, Anglo-Norman, or Middle English, is a modern English translation.
+To make PROME easier to use, the text and translation have been put into
+tables, so that the corresponding paragraphs are simple to locate.
+ 
+This new content is available to current subscribers at no extra cost.
+Subscription details can be found at
+http://www.british-history.ac.uk/prome.
+<http://www.british-history.ac.uk/prome.> 
+ --===============8353949157864621847==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,41 @@
+--===============6746070086840980013==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Please forward suspicious emails to phishing(a)uleth.ca.
+Dear All,
+My name is Nicol=C3=A1s L=C3=A1zaro, and I am a Professor and PhD in Philosop=
+hy graduated from the National University of Rosario (UNR). Working at CONICE=
+T-UNR Institute "Studium". I also teach the undergraduate course "Medieval an=
+d Renaissance History of Philosophy Seminar" at the Catholic University of Sa=
+nta Fe (UCSF).As a very personal hobby I am developing a Digital Humanities project. I have=
+ started from absolute zero, with no-digital skills at all. In my free time I=
+ have launched this initiative, which objectives are, between some others:* To take advantage of the technologies and data tools to communicate my rese=
+arch, exploring new ways of doing it.
+* To gain knowledge from data. Id est: transform all the info I can gather fr=
+om using these tools, into knowledge through my own interpretationSome chapters of this project are dedicated to learning how to use markup lan=
+guage in late medieval / Italian Renaissance / early modern texts. My PhD The=
+sis was a comparative dissertation between two authors. I have done it "old s=
+chool": flash cards, charts, etc. In other words: I want to transform my PhD =
+Thesis research and conclusions from its analogic format into digital (=3D"th=
+e side project"). This is just a first step.It is my own experience that there is a poor offer around here (South America=
+) regarding DH and Philosophy. Researching on the Web and through Twitter I h=
+ave found your center, offering training and resources to develop some skills=
+. Of course I am interested in getting involved and I would like to be in tou=
+ch with you and your colleagues, at least to learn from you.The other aim of my email is to invite you or anyone who (if) is interested o=
+r curious, to visit and know this "side project" I just launched a few days a=
+go on Twitter.  @_nicolazaro_
+Till now I have learned HTML5 and CSS3 basics, bought a domain and wrote some=
+ code. I am working developing this landing page, that will replace the one y=
+ou can see at https://nicolaslazaro.com/So, again, I invite you to see someone with no-digital skills getting involve=
+d with DH and see my progress, advise me, give me some suggestions or feedbac=
+k.
+I will deliver my progress there, and I will be really pleased to see you and=
+ interact.Thank you very much for reading this mail and I am sorry for my English (as y=
+ou can wish, I am far away from being a native speaker...).Kind regards,
+Nicol=C3=A1s.-
+Prof. Nicol=C3=A1s A. L=C3=A1zaro, PhD.
+Doctor en Filosof=C3=ADa--===============6746070086840980013==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

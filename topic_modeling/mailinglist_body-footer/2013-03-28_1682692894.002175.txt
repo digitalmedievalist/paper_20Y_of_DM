@@ -1,0 +1,25 @@
+--===============6317195595465667159==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDigital.Humanities(a)Oxford Summer School 2013http://digital.humanities.ox.ac.uk/dhoxss/2013/The Digital.Humanities(a)Oxford Summer School (DHOXSS) is an annual training
+event taking place this year on 8 - 12 July 2013 at the University of
+Oxford for researchers, project managers, research assistants, and students
+of Digital Humanities. DHOXSS delegates are introduced to a range of topics
+including the creation, management, analysis, modelling, visualization, or
+publication of digital data for the humanities. Each delegate follows one
+of our 5-day workshops and supplements this with guest lectures by experts
+in their fields.This year's main workshops include:1. Cultural Connections: exchanging knowledge and widening participation in
+the Humanities
+2. How to do Digital Humanities: Discovery, Analysis and Collaboration
+3. A Humanities Web of Data: publishing, linking and querying on the
+semantic web.
+4. An Introduction to XML and the Text Encoding Initiative
+5. An Introduction to XSLT for Digital HumanistsThere are a variety of evening events including a peer-reviewed poster
+session to give delegates a chance to demonstrate their work to the other
+delegates and speakers. The Thursday evening sees an elegant drinks
+reception and three-course banquet at the historic Queen's College Oxford.DHOXSS is a collaboration for Digital.Humanities(a)Oxford between the
+University of Oxford's IT Services, the Oxford e-Research Centre (OeRC),
+the Bodleian Libraries, and The Oxford Research Centre in the Humanities.Questions: email courses(a)it.ox.ac.uk for answers.James Cummings
+Director of DHOXSS--===============6317195595465667159==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

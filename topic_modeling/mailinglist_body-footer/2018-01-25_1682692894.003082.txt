@@ -1,0 +1,26 @@
+--===============4996014668937471541==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit*** apologies for cross-posting ***Dear all,
+We invite applications for a five-day training workshop in text encoding
+for epigraphyand papyrology, and publication of ancient texts, at the Institute of
+Classical Studies,University of London, April 9–13, 2018.The training will be offered by Gabriel Bodard (ICS), Martina Filosa
+(Köln),Simona Stoyanova (ICS) and Polina Yordanova (ICS/Sofia)and there will be no charge for the workshop. Thanks to the generosityof the Andrew W. Mellon Foundation, a limited number of bursariesare available to assist students and other unfunded scholars with the costs
+of traveland accommodation.EpiDoc (epidoc.sf.net <http://epidoc.sourceforge.net/>) is a community of
+practice, recommendations and toolsfor the digital editing and publication of ancient texts based on TEI XML.EFES (github.com/EpiDoc/EFES) is a publication platform closely gearedto EpiDoc projects and designed for use by non-technical editors.No expert computing skills are required, but a working knowledgeof Greek/Latin or other ancient language, epigraphy or papyrology,and the Leiden Conventions will be assumed. The workshop is opento participants of all levels, from graduate students to professors and
+professionals.To apply for a place on this workshop please email gabriel.bodard(a)sas.ac.uk,
+by Feb 28, 2018 including the following information:   1.   a brief description of your reason for interest
+   2.   your relevant background and experience
+   3.   If you would like to request a bursary, estimate how much you would need.
+All the best,
+Simona-- 
+Simona Stoyanova
+Research Fellow
+COACS projectInstitute of Classical Studies
+University of London
+Senate House
+Malet Street
+London WC1E 7HUEmail: simona.stoyanova(a)sas.ac.uk
+Tel: +44 (0)20 7862 8724 <+44+(0)20+7862+8724>--===============4996014668937471541==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

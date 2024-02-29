@@ -1,0 +1,9 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] More about  XSLT -- and there is an alternative, and	it's	free too
+Date: Fri, 25 Jun 2004 13:03:45 -0600
+Message-ID: <40DC7711.4050603@uleth.ca>
+In-Reply-To: <40DC6F4F.7000704@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3785558298184300403=="

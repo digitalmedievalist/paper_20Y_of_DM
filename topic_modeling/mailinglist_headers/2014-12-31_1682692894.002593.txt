@@ -1,0 +1,9 @@
+From: "Janusz S. Bien" <jsbien@mimuw.edu.pl>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+Date: Wed, 31 Dec 2014 11:21:29 +0100
+Message-ID: <20141231112129.210478kahto1if55@mail.mimuw.edu.pl>
+In-Reply-To:
+ <CAOpxc6Oq46hmrKbzn7rHkYS+kFwDQt5iE=0XQkUCAEHWt8EY8A@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6736906186606348214=="

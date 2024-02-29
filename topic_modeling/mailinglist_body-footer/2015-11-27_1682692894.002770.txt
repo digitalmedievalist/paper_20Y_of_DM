@@ -1,0 +1,78 @@
+--===============1105068065778576226==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitCheck out the CANTUS database, which is the basic search engine for
+medieval musicologists. You will see that many of the MSS in the database
+are linked to images that can be found on other sites, a greatly useful
+feature.  It might be a good example for you as it is heavily trafficked.
+Margot Fassler
+Keough Hesburgh Professor of Music History and Liturgy
+Director, Program in Sacred Music
+University of Notre DameOn Fri, Nov 27, 2015 at 9:57 AM, Gabriel BODARD <Gabriel.bodard(a)sas.ac.uk>
+wrote:> Dear Matija,
+>
+> One example, which might or might not be the sort of thing you are looking
+> for, is the catalogue of papyri at the University of Michigan, which is
+> accessible both as a local catalogue (
+> http://quod.lib.umich.edu/a/apis?page=index) and through the Papyri.info
+> portal (http://papyri.info/search?COLLECTION=michigan). I think the
+> data/metadata contained by the two sites is more or less the same, but
+> Michigan may also maintain some catalogue data that isn't included in the
+> APIS format that Papyri.info serve.
+>
+> (I picked Michigan at random, but I'm sure at least a few of the other
+> contributing APIS institutions [http://papyri.info/browse/apis/] also
+> serve their collections locally as well as through Papyri.info.)
+>
+> Hope this helps,
+>
+> Gabby
+>
+>
+> On 27/11/2015 14:39, Matija Ogrin wrote:
+>
+>> Dear Colleagues,
+>>
+>> Can you please give any example of a (small) digital collection of
+>> manuscript or printed primary sources which, 1) operates as an
+>> independent web-portal AND also 2) their data are in some way
+>> included/aggregated into some large collection or digital library?
+>>
+>> I am particularly interested in what happens as data pass from a "small"
+>> into a "large" digital resource? What kind of data are most suitable and
+>> frequent object of such aggregation in our area of digital humanities:
+>> only meta-data, or also msDesc, digital images, transcriptions? How
+>> "visible" is the original small collection after the aggregation? Etc.
+>>
+>> I hope this is not an off-topic question. Thank you for any advice,
+>>
+>> Matija
+>>
+>>
+> --
+> Dr Gabriel BODARD
+> Reader in Digital Classics
+>
+> Institute of Classical Studies
+> University of London
+> Senate House
+> Malet Street
+> London WC1E 7HU
+>
+> E: Gabriel.bodard(a)sas.ac.uk
+> T: +44 (0)20 78628752
+>
+> http://digitalclassicist.org/
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: https://digitalmedievalist.wordpress.com/news/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============1105068065778576226==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

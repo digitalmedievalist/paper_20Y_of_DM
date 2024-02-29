@@ -1,0 +1,9 @@
+From: "Neuber, Frederike (frederike.neuber@uni-graz.at)"
+ <frederike.neuber@uni-graz.at>
+To: dm-l@uleth.ca
+Subject: [dm-l] DiXiT camp on XML/TEI for Digital Scholarly Editions
+Date: Mon, 23 Jun 2014 15:42:40 +0200
+Message-ID:
+ <2E640EF951006F4F832C6D083BE3CC4D8524AEFFE2@APOLLON.pers.ad.uni-graz.at>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5419125986304950687=="

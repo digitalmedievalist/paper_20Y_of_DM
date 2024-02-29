@@ -1,0 +1,28 @@
+--===============7948581138545859220==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableApologies for cross-postings.Humanities researchers, consider applying to the NEH Institute, "Working with=
+ Text in a Digital Age."
+Faculty, graduate students, and library professionals are encouraged to apply=
+. The deadline is February 15.
+For any information, please visit http://sites.tufts.edu/digitalagetext/=20
+July 23-August 10, 2012, Tufts University in Medford, MA will host =E2=80=9CW=
+orking with Text in a Digital Age=E2=80=9D, a three-week NEH Institute for Ad=
+vanced Technology in the Digital Humanities.This institute will combine traditional topics such as TEI markup with traini=
+ng in methods from Information Retrieval, Visualization, and Corpus and Compu=
+tational Linguistics.Co-directors are Monica Berti and Gregory Crane, Tufts University; Anke L=C3=
+=BCdeling, Humboldt University.This institute will provide participants with three weeks in which to:develop hands on experience with TEI-XML,
+apply methods from information retrieval, text visualization, and corpus and =
+computational linguistics to the analysis of textual and linguistic sources i=
+n the humanities,
+rethink not only their own research agendas but also new relationships betwee=
+n their work and non-specialists.
+--
+Monica Berti
+321 Eaton Hall
+Department of Classics
+Tufts University
+Medford, MA 02155
+monica.berti(a)tufts.edu--===============7948581138545859220==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

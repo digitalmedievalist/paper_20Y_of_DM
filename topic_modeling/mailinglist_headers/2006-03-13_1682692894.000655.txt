@@ -1,0 +1,8 @@
+From: Gautier Poupeau <gotpoupeau@infonie.fr>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+Date: Mon, 13 Mar 2006 19:14:47 +0100
+Message-ID: <4415B697.7070204@infonie.fr>
+In-Reply-To: <441544DC.5050504@oucs.ox.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3930998776706966275=="

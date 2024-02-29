@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@ota.ahds.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI page breaks, line breaks
+Date: Fri, 10 Sep 2004 21:21:34 +0100
+Message-ID: <Pine.LNX.4.61.0409102107240.5961@localhost>
+In-Reply-To: <4141E4D3.4010809@ucalgary.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6550347237861521843=="

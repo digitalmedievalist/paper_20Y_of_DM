@@ -1,0 +1,29 @@
+--===============3791137293469417470==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear all,I would like to call your attention to two calls: (1) for activities; (2) for=
+ posters, for the Linked Pasts Symposium, hosted by Ghent University and CLAR=
+IAH Flanders from Dec 13-17 (online) and Dec 20-21 (in person). We are intere=
+sted in discussions, hackathons, new project planning, and other practical ac=
+tivities, in the area of Linked Open Data and the historical world.(1) Call for Activities:There will be space for suggestion and selection of activities at the confere=
+nce, but we also welcome proposals for research activities, which may include=
+ (but are not restricted to): development of standards, ontologies and resear=
+ch applications; discovery and integration of datasets; enrichment and annota=
+tion of textual collections; collaboration, pedagogy and community expansion;=
+ other relevant undertakings with a focus on Linked Open Data and the histori=
+cal world.To propose a stream or working group for the conference programme, please fil=
+l in the form at <https://forms.gle/Z3aj3UfixTNENyaB8> with a max. 200-word a=
+bstract outlining your suggestion, type of activity and the medium in which i=
+t will be run, and some indication of the likely participants (e.g. names, co=
+mmunity or expected stakeholders) by the end of Monday October 18, 2021.(2) Call for posters:In the absence of individual presentations and lectures, posters are a great =
+way to share a project, dataset, method or activity related to the LOD and hi=
+storical or heritage research, and discuss your work in a less formal setting=
+ with other interested attendees. We will hold an online digital poster sessi=
+on available throughout the symposium. To propose a poster, please send an ab=
+stract of 100=E2=80=93150 words to gabriel.bodard(a)sas.ac.uk by the end of M=
+onday October 18, 2021.More information about the Linked Pasts Symposium at <https://linkedpasts.hco=
+mmons.org/linked-pasts-vii/>--===============3791137293469417470==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

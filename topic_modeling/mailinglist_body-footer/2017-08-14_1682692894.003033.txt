@@ -1,0 +1,21 @@
+--===============8968680892770804491==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitUPDATES AND UPGRADES AT BEYONDWORDS2016.ORG(apologies for cross-posting)Dear Friends,We write today to announce major updates and upgrades to the Beyond
+Words website, including:
+- Dozens of digitized manuscripts newly-accessible in our IIIF-
+  compliant viewer;
+- Links to audio and video files used in the exhibition;- Full codicological descriptions as downloadable PDFs;- Multiple indices supplementing those in the print catalogue.These updates were accomplished thanks to the hard work of Hannah Weaver
+(2017 Pforzheimer Fellow at Houghton Library) and our developer, Luke
+Hollis of Archimedes Digital.
+We invite you to visit the new and improved website at:
+http://BeyondWords2016.org
+We will continue to add to these resources as more manuscripts are
+digitized and described, so check the website often for updates.
+The Beyond Words Curatorial Team:Jeffrey Hamburger
+William P. Stoneman
+Anne-Marie Eze
+Lisa Fagin Davis
+Nancy Netzer--===============8968680892770804491==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

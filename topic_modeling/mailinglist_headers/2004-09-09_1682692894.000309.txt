@@ -1,0 +1,8 @@
+From: Elizabeth Solopova <elizabeth.solopova@bodley.ox.ac.uk>
+To: dm-l@uleth.ca
+Subject:
+ RE [dm-l] open source z39.5 compatible bibliographic database	software]
+Date: Thu, 09 Sep 2004 17:08:02 +0100
+Message-ID: <SIMEON.10409091702.C@wms028.bodley.ox.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7858414592878729841=="

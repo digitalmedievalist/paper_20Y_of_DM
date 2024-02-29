@@ -1,0 +1,63 @@
+--===============5694782692389895595==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit[apologies for cross-posting]I'm co-teaching a course at Rare Book School this summer, June 9-13 (RBS is
+located in Charlottesville, VA, but we are teaching at the University of
+Pennsylvania in Philadelphia). The course is THE MEDIEVAL MANUSCRIPT IN THE
+TWENTY-FIRST CENTURY, and we (Will Noel and myself) are hoping to get a
+good mix of students with primary interest in (medieval) manuscripts,
+primary interest in developing software for working with (digitized)
+manuscripts, and some with both. If this sounds like you please consider
+applying, and please share this message with colleagues who may be
+interested. You can also contact me off-list if you have any questions.Link to the course description (Application link in the left-hand menu):
+http://www.rarebookschool.org/courses/manuscripts/m95/And I'm pasting the full description below:This course is designed to introduce students of both the digital
+humanities and manuscript studies to the concepts and realities of working
+with medieval manuscripts in the twenty-first century. Through the course,
+students and faculty will examine materials from the collections of the
+Kislak Center for Special Collections, Rare Books, and Manuscripts, as well
+as digitized versions of those materials and others.Students in the course will consider four issues relating to using medieval
+manuscripts in a digital world. The first issue is theoretical, considering
+the relationship between medieval manuscripts and their digital
+counterparts, and questioning the notion of digital surrogacy. What does
+"digital surrogacy" mean and how might it affect our consideration of the
+physical objects represented through the surrogate? The second issue is the
+practical one of imbuing best practices when creating digital assets out of
+medieval manuscripts. If we are to digitize manuscripts, how can we ensure
+that those digital versions are the best they can be? And again: what does
+that mean? The third issue concerns the present landscape for digital
+medieval manuscripts (and medieval studies more generally), including
+current publication technologies and the place of Open Data. The fourth
+issue is that of building resources with and for digitized medieval
+manuscripts. What tools are available to enable us to create something new?
+As a final project, students and faculty in the course will work together
+to build something new--either "hacking" an application to display and sort
+medieval manuscript data, or creating an exhibition using an existing
+platform (such as Omeka). The specific direction of the final project will
+depend upon the skill sets available in the room.Students should plan to bring a laptop with them to class.In their personal statement, applicants should indicate their background,
+special interests, and expectations from the course. They should clearly
+state their experience working with manuscripts or manuscript-related
+courses they have taken, as well as any experience using digital
+technologies. Although it is expected that some students will have some
+technological experience, it is not a requirement for the course.-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+Personal blog: dotporterdigital.org
+Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
+MESA blog: http://mesamedieval.wordpress.com/
+MESA on Facebook:
+https://www.facebook.com/MedievalElectronicScholarlyAlliance
+*~*~*~*~*~*~*~*~*~*~*-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+Personal blog: dotporterdigital.org
+Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
+MESA blog: http://mesamedieval.wordpress.com/
+MESA on Facebook:
+https://www.facebook.com/MedievalElectronicScholarlyAlliance
+*~*~*~*~*~*~*~*~*~*~*--===============5694782692389895595==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

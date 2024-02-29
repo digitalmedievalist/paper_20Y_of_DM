@@ -1,0 +1,7 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] what xslt can't do..?
+Date: Wed, 06 Apr 2005 22:13:41 +0100
+Message-ID: <57553.82.3.32.76.1112822021.squirrel@82.3.32.76>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8285835415803415859=="

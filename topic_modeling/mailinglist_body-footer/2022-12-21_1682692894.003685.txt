@@ -1,0 +1,40 @@
+--===============3600025575832196168==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.*apologies for cross posting*Dear all,Christmas Time is RIDE time! - We are pleased to announce the fifteenth
+issue of the review journal RIDE, published since 2014 by the Institute
+of Documentology and Scholarly Editing (IDE). The current issue is
+edited by Anna-Maria Sichani and Elena Spadini and focuses on Tools and
+Environments for Digital Scholarly Editions. It includes six reviews
+(five in English, one in French):- Digital Mappa =E2=80=93 Simple and Web-based Annotations by Tobias Hodel, A=
+nna
+Janka, and Jonas Widmer:
+https://ride.i-d-e.de/issues/issue-15/digital-mappa/
+- Mei=E2=80=91friend. A viewer and last-mile editor for MEI score encodings by
+Oleksii Sapov: https://ride.i-d-e.de/issues/issue-15/mei-friend/
+- Stylo, un =C3=A9diteur pour les sciences humaines et sociales by Estelle
+Debouy: https://ride.i-d-e.de/issues/issue-15/stylo
+- TEI Critical Apparatus Toolbox: Web-based tools for ongoing XML-TEI
+editions by Bastien Dumont:
+https://ride.i-d-e.de/issues/issue-15/teicat/
+- TEITOK, a visual solution for XML/TEI encoding: editing, annotating
+and hosting linguistic corpora by Pilar Arrabal Rodr=C3=ADguez:
+https://ride.i-d-e.de/issues/issue-15/teitok/
+- Transkribus: Reviewing HTR training on (Greek) manuscripts by Elpida
+Perdiki: https://ride.i-d-e.de/issues/issue-15/transkribus/All reviews are available at https://ride.i-d-e.de/issues/issue-15/.
+Since this issue is published as =E2=80=98rolling release' more revie=
+ws will
+follow within the next months. We wish you a relaxing end of the year,
+(hopefully) enjoyable vacations and a good start into the new year.Best wishes,
+Elena, for the RIDE editors
+--
+Dr. Elena Spadini
+Universität Basel - Research and Infrastructure Support (RISE)
+Spalenberg 65, CH-4051 Basel
+elena.spadini(a)unibas.ch<mailto:elena.spadini(a)unibas.ch> I https://rise.un=
+ibas.ch<https://rise.unibas.ch/>
+--===============3600025575832196168==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,11 @@
+--===============6691516438773847713==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitOxford University Computing Services is running a 2 day course
+on TEI and XML on 20th/21st February 2006. Although this is part of
+our regular  IT Learning Program, we'd also be happy to see folks
+from outside Oxford University.The teachers are Lou Burnard, James Cummings and Sebastian Rahtz.
+Between us, we'll talk about XML, text encoding, the TEI scheme, Roma,
+XPath, XQuery, XSLT, and anything else which comes up. Throughout, we'll be
+addressing TEI P5 only.Details at http://www.oucs.ox.ac.uk/courses/detail.xsp?code=TWDAThose from outside the University of Oxford can register by emailing:
+courses(a)oucs.ox.ac.uk
+--===============6691516438773847713==--

@@ -1,0 +1,81 @@
+--===============3451488646680628159==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printablePlease circulate widely...**CALL FOR PARTICIPATION**
+Interedition 9th Bootcamp: 11 - 14 January 2012
+------------------------------------------------Interedition invites all interested to participate in the upcoming
+Development Bootcamp, which will take place from 11 to 14 January at the
+Katholieke Universiteit Leuven.  The bootcamps are intended for the
+development of prototypes for interoperable 'microservice' tools for text
+scholarship and digital editions.The work of previous bootcamps have focused on collation, transcription,
+and annotation of texts; the goal of this bootcamp is to encourage the
+development of prototypes for text analysis. One of the most exciting
+directions of digital text edition lies in the question of the innovative
+lines of research that might be taken when all the textual data is
+digitized, annotated, collated, and checked. Examples include:* Discourse analysis
+* Linked data
+* Stemmatology
+* Stylistics
+* ...Each of these has been incorporated into one or more existing critical
+edition, but there are at present very few tools available that might be
+shared between edition projects. There is an acute need for better
+interoperability of the tools we have, and for the development of new tools
+that are designed from the ground up with the principles of
+interoperability in mind.During this bootcamp Interedition seeks to bring together scholars and
+developers working on any sort of text analysis for digital edition, to
+discuss their lines of approach, the tools they are using, and possible
+points of interoperability and interchange of data.  The primary objective,
+as with all bootcamps, is the development of prototypes that put the
+results of our discussions to work.  Another important objective is to give
+developers and early stage researchers an opportunity to meet and share
+their own projects and experiences with tool interoperability in textual
+scholarship.BURSARIES
+COST Action IS0704 'Interedition' is offering bursaries to early stage
+researchers (< Ph.D. + 10 years) and developers that want to join the
+bootcamp. The bursaries will consist of an =E2=82=AC100 per diem allowance and
+will cover full travel expenses, subject to caps. A limited number of
+bursaries are available to participants from outside the member countries
+of Interedition. [1]HOW TO APPLY
+If you are interested in participating in the bootcamp, please send an
+email to joris.van.zundert-AT-huygensinstituut.knaw.nl<http://joris.van.zunde=
+rt-at-huygensinstituut.knaw.nl/>by
+**14 December
+2011**. You don't need an intricate motivation, but please state your
+affiliation, and add a very short (certainly not more than 200 words)
+description of your current or related development work in digital
+humanities. Attendance throughout the bootcamp is expected, but in certain
+circumstances a shorter attendance may be negotiated.PROGRAM
+Wednesday 11 January
+ - Introduction of participants and projects
+ - Introduction to existing tools for text analysis
+ - Division of Tasks/Labor
+Thursday 12 January
+ - Hacking
+ - Documentation of the day's work
+Friday 13 January
+ - Hacking
+ - Documentation of the day's work
+Saturday 14 January
+ - Unconference on participants' projects
+ - Documentation
+ - Discussion of future possibilities for further cooperationABOUT INTEREDITION
+Interedition (http://www.interedition.eu) is a COST (http://www.cost.eu)
+funded Action whose objective is to further the interoperability of tools
+in digital scholarship. Interedition is raising the awareness of the
+importance of interoperability as a major driver for sustainability for
+tools and data in the field of digital scholarship. This activity takes two
+forms: firstly, meetings in which researchers in digital scholarship can
+network their knowledge of tools and the possibilities for their
+interoperability; secondly, the development of proof-of-concept
+implementations of interoperable tools. These proof-of-concept tools are
+the focus of Interedition's periodic bootcamps, which offer the open source
+development community in the humanities opportunities to meet, network, and
+exchange knowledge.ABOUT THE ORGANIZERS
+The bootcamp and think tank are organized through the kind efforts of:
+ - Caroline Mac=C3=A9 (KU Leuven)
+ - Tara Andrews (KU Leuven)
+[1] Member countries include Belgium, Bulgaria, Denmark, Finland, F.Y.R.
+Macedonia, France, Germany, Greece, Ireland, Israel, Italy, Netherlands,
+Norway, Poland, Spain, and the United Kingdom.--===============3451488646680628159==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,14 @@
+--===============4009071839593323566==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi, folks- Please forgive if this is a pure newby question. I'm looking to do some analysis of a large body of poetry, and I'd like to
+be able to sort according to individual words and then map those usages
+against other terms to map out their relationships. I'd also like to be able
+to tag the terms in a number of ways, especially according to date of
+appearance. I know I've run across references to software that allows this
+kind of thing (other than just fancy SQL programming), but I can't call any
+of it to mind. Anyone know of any easily accessible and not too expensive software that
+does this kind of thing? Or is my memory completely faulty? Thx, and best from Anchorage, Dan ____________________________________Daniel T. Kline, Ph.D.Associate Professor of EnglishU of Alaska Anchorage (PSB 212-C)3211 Providence Drive Anchorage, Alaska 99508907-786-4364 | afdtk(a)uaa.alaska.eduThe Electronic Canterbury Tales:http://afdtk.uaa.alaska.edu/ect_main.htm  "Fortunately, I keep my feathers numbered for just such an emergency." 
+--===============4009071839593323566==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

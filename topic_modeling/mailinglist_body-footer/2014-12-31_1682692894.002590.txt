@@ -1,0 +1,46 @@
+--===============2243599667729136901==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableTh context here is a little different in that the students are not necessaril=
+y DH students, though the programme is funded because it teaches digital (and=
+ publishing) skills to HSS students. So we have to balance ease and interest =
+with our mandate.
+--
+Sent from my phone using swipe typographical error production technology.Daniel Paul O'Donnell
+Department of English
+University of Lethbridge-------- Original message --------
+From: "Sara L. Uckelman" <s.l.uckelman(a)durham.ac.uk>
+Date: 2014-12-30 13:52 (GMT-07:00)
+To: "dm-l, MailList" <dm-l(a)uleth.ca>
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+On 12/30/2014 11:30 AM, Abdullah Alger wrote:
+> Saying that, if your students are working on digital humanities projects
+> and are coding, they should learn Git. It's an essential tool that
+> professionals use every day.I was traveling all day and thus the recommendations I would've made have
+already been made by other people, but I cannot pass up the opportunity
+to second this, very strongly.  Properly implemented, git can be extremely
+user friendly to use (my DMNES project linked in my sig involves a lot
+of data entry and requires scrupulous version controlling; my editors have
+a web-front end that they use and beyond creating an account on github,
+they never interact with git at all), and there is a large amount of
+documentation and help out there for those who are willing to put in a
+little bit (i.e., an afternoon) of time into learning it.  Learning how
+to use git should be considered a requirement of someone who intends to
+work in digital humanities, just as learning LaTeX is one for anyone
+working in math or logic.-Sara--
+Dr. Sara L. Uckelman
+Department of Philosophy
+Durham University
+https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+http://dmnes.wordpress.com/
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Discussion list: dm-l(a)uleth.ca
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l--===============2243599667729136901==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

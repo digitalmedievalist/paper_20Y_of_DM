@@ -1,0 +1,9 @@
+From: Dot Porter <dporter@uky.edu>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] Anybody use subversion with people who don't use,	commandlines?
+Date: Fri, 24 Aug 2007 10:28:55 -0400
+Message-ID: <96f3df640708240728u2b437bfbl3cd7d6180a00143f@mail.gmail.com>
+In-Reply-To: <46CEE793.4090904@uni-koeln.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1509365275519121692=="

@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI and concurrent hierarchies
+Date: Fri, 12 Aug 2005 22:34:29 +0100
+Message-ID: <42FD15E5.5000109@computing-services.oxford.ac.uk>
+In-Reply-To: <20050812223257.25k7t4difu6o88c0@imp4.free.fr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5062528195448694700=="

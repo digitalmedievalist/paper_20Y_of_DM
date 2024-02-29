@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] what xslt can't do..?
+Date: Fri, 08 Apr 2005 19:32:27 +0100
+Message-ID: <4256CE3B.8020005@computing-services.oxford.ac.uk>
+In-Reply-To: <200504081752.BUP24352@mpdir6.jmu.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0095594261978982462=="

@@ -1,0 +1,129 @@
+--===============7826129795354341859==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitHello to everyone,To echo the sentiments of Dot and Maxim, I'd like to emphasize the
+importance of ad-hoc DIY digitization even without elaborate set-ups and
+procedures. Even a modest digital camera can go an awfully long way towards
+improving visibility of manuscripts (though obviously insufficient for
+official archival purposes). From a community standpoint (complicated
+logistical issues aside for the moment), I think that a large open access
+repository of legible images, even if some are subject to poor lighting and
+shaky hands, is far more valuable than a much smaller collection of more
+painstakingly produced digitizations. Ideally, we can pursue both at the
+same time. But I think it's useful to keep in mind what a tremendous
+resource even our quick and dirty image work can become--and that we
+shouldn't be discouraged from jumping in with an itchy trigger finger simply
+because we're worried that we're not following official best practices.The above comments probably reveal my preference for thinking about how to
+create and utilize an open access image repository (perhaps more of a social
+challenge than a technical one) rather than the logistics of producing
+images in the first place. Though by no means do I mean to minimize the
+challenges of digitization. Indeed, the discussion of how to meet the
+threshold of utility in image creation is a crucial first step. But a larger
+(and somewhat utopian) vision of manuscript image access, even with a
+latitude of image quality, is perhaps worth bearing in mind as best
+practices are worked out.Fred Gibbs2010/10/28 <dm-l-request(a)uleth.ca>> Send dm-l mailing list submissions to
+>        dm-l(a)uleth.ca
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>        http://listserv.uleth.ca/mailman/listinfo/dm-l
+> or, via email, send a message with subject or body 'help' to
+>        dm-l-request(a)uleth.ca
+>
+> You can reach the person managing the list at
+>        dm-l-owner(a)uleth.ca
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of dm-l digest..."
+>
+> Today's Topics:
+>
+>   1. Re: Best practices for "scholar's own" digitization?
+>      (Maxim Romanov)
+>
+>
+> ---------- Forwarded message ----------
+> From: Maxim Romanov <romanov(a)umich.edu>
+> To: "Neven Jovanović" <neven.jovanovic(a)ffzg.hr>
+> Date: Wed, 27 Oct 2010 12:31:54 -0400
+> Subject: Re: [dm-l] Best practices for "scholar's own" digitization?
+> Hi,
+>
+> This can quite efficiently done without engaging control via PC. I am
+> using two Canon 12 megapixel point-and-shoot cameras (SD 780). I am not
+> convinced that you need a DSLR camera for this (they are way to expensive
+> and do not necessarily provide a better image quality). I use them in
+> combination with some software (http://stereo.jpn.org/eng/sdm/index.htm)
+> that allows to use a usb switch to trigger both cameras at the same time
+> (you get two pages - left and right - in the same instance and 12 megapixel
+> is quite enough for up to A4 format). Thus, I end up with two flashcards
+> holding left and right pages separately. There are programs which allow to
+> renames images in batches (so,  I rename all right images as XXXX-1 and left
+> images as XXXX-2, where XXXX are automatically generated numbers). Then,
+> copy them into one folder and they are automatically arranged. Then, for
+> processing images I found an excellent freeware program, ScanTailor, that
+> does a great job - most of it automatically - processing images into nice
+> looking pages (http://scantailor.sourceforge.net/), which then can be
+> combined into a very nice looking PDF.
+>
+> Maxim
+>
+>
+>
+>
+>
+> 2010/10/27 Neven Jovanović <neven.jovanovic(a)ffzg.hr>
+>
+>> Hi,
+>>
+>> a short technical afterthought on cameras.
+>>
+>> As we assembled the field kit following Todd Rester's ideas, it turned out
+>> that the SLR camera on offer, Canon PowerShot G11, did not have the option
+>> of remote operating through a computer.  This option was dropped (perhaps
+>> to be reserved for more expensive models).
+>>
+>> The model you can control through a computer, and which downloads the
+>> pictures directly to the hard disk, is the older (and therefore cheaper)
+>> CANON EOS 1000D. We bought this, and it really works.
+>>
+>> But anyone preparing to make photos in this way should consult a decent
+>> dealer or a photographer, and the internet. It's worth it --- you learn
+>> much in the process.
+>>
+>> This obviously calls for a "best practice" guide somewhere...
+>>
+>> Neven
+>>
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+>> Discussion list: dm-l(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>-- 
+Frederick W Gibbs
+Assistant Professor
+Department of History and Art History <http://historyarthistory.gmu.edu/>
+Director of Digital Scholarship
+Center for History and New Media <http://chnm.gmu.edu>
+George Mason University <http://www.gmu.edu/>--===============7826129795354341859==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

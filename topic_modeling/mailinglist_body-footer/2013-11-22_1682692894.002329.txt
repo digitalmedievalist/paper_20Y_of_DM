@@ -1,0 +1,15 @@
+--===============5215766438310759523==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit*Apologies for cross-posting*The database "Regesta Pontificum Romanorum" has been launched at the
+beginning of this week. In the near future there will be a regest for every
+papal contact prior to the year 1198. Please visit www.papsturkunden.de.As of now just 282 regesta of the Bohemia-Moravia have been released, but
+there will be coming more soon.Best regardsThorsten Schlauwitz
+-- 
+Thorsten Schlauwitz M.A.
+wiss. Mitarbeiter an der Friedrich-Alexander-Universität Erlangen-Nürnberg
+BMBF-Projekt "Schrift und Zeichen. Computergestützte Analyse von
+hochmittelalterlichen Papsturkunden. Ein Schlüssel zur Kulturgeschichte
+Europas"--===============5215766438310759523==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@ota.ahds.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Form-based methods of building xml?
+Date: Fri, 14 Jan 2005 10:02:54 +0000
+Message-ID: <41E798CE.9040101@ota.ahds.ac.uk>
+In-Reply-To: <41E571AA.8050204@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1838324954089137148=="

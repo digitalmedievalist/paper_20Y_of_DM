@@ -1,0 +1,21 @@
+--===============6688381977569763712==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Fellow Medievalist,Can anyone help me get a Latin Spell Checker installed for Microsoft Word
+2011 on a Mac.I'm switching from a PC to a Mac. On my PC I had COL - Correcteur
+Orthographique de Latin installed and working fairly wellI've tried to recreate this on my Mac.I've downloaded the newest release of COL - Correcteur Orthographique de
+Latin - Correttore Ortografico di Latino - Corrector Ortogr=C3=A1fico de Lat=
+=C3=ADn
+from
+http://www.drouizig.org/index.php?option=3Dcom_content&view=3Darticle&id=3D75=
+%3Acol&catid=3D38%3Adifazier&Itemid=3D68&lang=3DenHowever, the download is an .msi file, which is a windows file ext. So is
+it possible for me to get this working on mac? Has one else done this? Is
+there a better solution?Thanks for your help.--=20
+Dr. Jeffrey C. Witt
+Philosophy Department
+Loyola University Maryland
+4501 N. Charles St.
+Baltimore, MD 21210
+www.jeffreycwitt.com--===============6688381977569763712==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

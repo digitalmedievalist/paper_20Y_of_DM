@@ -1,0 +1,9 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Tools for humanities computing (WAS: Are markup	languages
+ obsolete?)
+Date: Sat, 25 Jun 2005 12:06:48 -0600
+Message-ID: <1119722808.8014.21.camel@localhost.localdomain>
+In-Reply-To: <5.2.1.1.0.20050624114827.025b2050@pop3.philo.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2025078324585543536=="

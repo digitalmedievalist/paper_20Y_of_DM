@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] EVT 2 beta 2 released
+Date: Wed, 01 Jul 2020 11:42:19 +0200
+Message-ID: <ec078066-acac-f3d6-a66f-f41d0dab51e3@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2422964238229544496=="

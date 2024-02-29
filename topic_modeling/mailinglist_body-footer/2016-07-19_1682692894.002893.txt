@@ -1,0 +1,26 @@
+--===============6857276342938090839==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear colleagues (with apologies for cross-posting),
+ 
+We are pleased to announce the launch of the *Beyond Words* website,
+which provides information about dates, venues, public programming, the
+symposium, and the catalogue of the upcoming exhibit *Beyond Words:
+Illuminated Manuscripts in Boston Collections*:
+http://BeyondWords2016.org
+ 
+When the exhibit opens in mid-September, we will launch the object-
+centered portion of the website: a searchable database of all 260
+manuscripts described in the catalogue, with essential metadata and
+images for each manuscript and, when available, codicological
+descriptions and full digital facsimiles.
+ 
+Please visit the website regularly for updates and, if you use Twitter,
+follow @BeyondWords2016 for sneak-peeks, updates, and announcements. We
+hope to see you in Boston this fall.
+ 
+- The *Beyond Words* Curatorial Team: Jeffrey Hamburger, William P.
+  Stoneman, Anne-Marie Eze, Lisa Fagin Davis, and Nancy Netzer
+ --===============6857276342938090839==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

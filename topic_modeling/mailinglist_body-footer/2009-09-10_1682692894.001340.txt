@@ -1,0 +1,22 @@
+--===============4422324610038195137==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableFellow Digital Medievalists,=20I recently created Old English and Old Norse custom keyboard layouts for Wind=
+ows intended to be simple for those familiar with the standard US English key=
+board layout. These keyboard layouts are ready to use and easy to install. Pl=
+ease read more and download them here:=20http://megse.unm.edu/research/internal/keyboards.htmlAlso, feel free to distribute them among your colleagues and students (but pl=
+ease credit me and the UNM Medieval Graduate Students in English website).=20I have also linked to Daniel O'Donnell's custom keyboard solu=
+tion for Linux.=20There certainly are many ways to insert the special characters of our field i=
+nto documents, and my Old English and Old Norse layouts are just another meth=
+od. With that in mind, Dan and I have been talking about custom keyboards for=
+ medievalists and think it would be a good idea to design a standardized layo=
+ut. Through the semester, we will be working on some aspects of the design, s=
+uch as which characters should be included, how they should be mapped to the =
+keyboard, and whether it is preferable to create one layout for medievalists =
+or separate keyboards for sub-fields. We would very much like to hear your fe=
+edback on this project, both now and as it develops, as we hope the final pro=
+duct will be something agreeable and useful to the digital medievalist commun=
+ity.=20Douglas Ryan VanBenthuysenThe University of New Mexico=20
+--===============4422324610038195137==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

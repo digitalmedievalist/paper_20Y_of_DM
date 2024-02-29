@@ -1,0 +1,8 @@
+From: Martin Holmes <mholmes@uvic.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+Date: Wed, 23 Jun 2004 12:14:03 -0700
+Message-ID: <6.1.1.1.0.20040623120952.01d9cec0@pop.uvic.ca>
+In-Reply-To: <40D9C427.7030907@computing-services.oxford.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1555593581942470217=="

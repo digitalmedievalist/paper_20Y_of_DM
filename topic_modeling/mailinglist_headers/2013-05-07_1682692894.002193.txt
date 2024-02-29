@@ -1,0 +1,9 @@
+From: Tara Andrews <tla@mit.edu>
+To: dm-l@uleth.ca
+Subject: [dm-l] Request for Comments: Interoperability between	Stemmatological
+ Microservices
+Date: Tue, 07 May 2013 20:15:14 +0200
+Message-ID:
+ <CAGAfLKkNAGB_mCDU-k4hDwCf-D=QBaQat5jkUc8su2VrrEgfUA@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6469982573514193117=="

@@ -1,0 +1,45 @@
+--===============8976577291726890982==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Digital Medievalists,Digital methods are by definition at the border of Medieval Studies. This bol=
+d statement is primarily justified by the observation that the application of=
+ digital methods is triggered by a research community outside Medieval Studie=
+s, i.e. Computer Science and New Media Studies. Therefore, in its interdiscip=
+linary nature digital medieval studies is a border-crossing discipline and br=
+eaks up traditionally developed scholarly silos and institutional borders. Th=
+e experimentation with and application of new methods and technologies challe=
+nges traditional perceptions and research approaches. Another kind of digital=
+ boarders are "metadata borders". For example, digital cataloging standards c=
+reate unintended, and sometimes intended borders and boundaries, that prevent=
+ data-sharing and linking.In the light of this proposition the Digital Medievalist will take the opport=
+unity of next years' general IMC theme ("Borders") to discuss cutting edge an=
+d "border-crossing" digital methods and technologies and/or borders and bound=
+aries caused by digital methods. Topics may include current research in machi=
+ne learning, computer vision, 3D modeling, IIIF, multispectral imaging, Handw=
+ritten Text Recognition, Linked Data and distant reading, etc. Machine learni=
+ng, for instance, poses specific problems for Medieval Studies, as its succes=
+s depends on the availability, findability, reusability, and accessibility of=
+ large amounts of data. Similar issues exist with the application of other di=
+gital methods to medieval material and the session(s) "Digital Borders of Med=
+ieval Studies" will be the place to present and discuss them.The Digital Medievalist community invites the submission of proposals for 20-=
+minutes papers covering a topic relating to the session title and focusing on=
+ the application of digital methods and technologies for current and future r=
+esearch in the field of Medieval Studies.Please send your proposal (300 Words incl. a short CV) to dm.imc2020(a)gmail.=
+com by Sept. 15th.
+________________________
+Roman Bleier
+Zentrum für Informationsmodellierung
+Austrian Centre for Digital Humanities
+Karl-Franzens-Universität Graz
+roman.bleier(a)uni-graz.at<mailto:roman.bleier(a)uni-graz.at>
+Tel. 0043 316 380 5772
+Elisabethstra=C3=9Fe 59/III, 8010 Graz, Austria
+informationsmodellierung.uni-graz.at<http://informationsmodellierung.uni-graz=
+.at/>Kompetenznetzwerk Digitale Edition - KONDE <http://www.digitale-edition.at/>
+Institut für Dokumentologie und Editorik e.V. <http://www.i-d-e.de<http:=
+//www.i-d-e.de/>>
+Digital Medievalist <http://digitalmedievalist.org<http://digitalmedievalist.=
+org/>>
+--===============8976577291726890982==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

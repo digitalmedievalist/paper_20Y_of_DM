@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] what xslt can't do..?
+Date: Fri, 08 Apr 2005 07:57:13 -0600
+Message-ID: <42568DB9.5040300@uleth.ca>
+In-Reply-To: <425647DC.4060901@computing-services.oxford.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3430204764067022080=="

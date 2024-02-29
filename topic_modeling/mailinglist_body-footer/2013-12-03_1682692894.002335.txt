@@ -1,0 +1,43 @@
+--===============6998534200144538444==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit(apologies for cross-posting; please forward to anyone you think
+interested)
+===
+The annual open DH Awards 2013 are now accepting nominations! Please
+nominate any Digital Humanities resource you feel deserves to win in any of
+this year's categories. The open DH Awards 2013 are openly nominated by the
+community and openly voted for by the public as a DH awareness activity.
+There are no financial prizes, just the honour of having won and an icon
+for your website.Nominations will be open until 31 December 2013 (midnight GMT), voting will
+take place in January 2014.Please note that the nominations must be for projects/resources/sites that
+were launched/finished/created in
+2013.To nominate something for the DH Awards 2013 visit the nominations page at:
+http://dhawards.org/dhawards2013/nominations/The categories we are accepting nominations for the open Digital Humanities
+Awards 2013 are:===
+**Best DH tool or suite of tools**
+Nominations for this category should be for a tool or suite of
+tools created by members of the DH community, used for enabling,
+encouraging, and/or accomplishing DH work.**Best DH contribution not in the English language**
+Nominations for this category should be for DH resources or
+publications that are not in the English language.**Best use of DH for fun**
+Nominations for this category should be for
+projects/resources/sites for DH which are designed to be fun or
+inherently playful.**Best DH blog post, article, or short publication**
+Nominations for this category should be for a specific short DH
+publication (peer-reviewed or not) whether article, blog post, or
+other publication.**Best DH visualization or infographic**
+Nominations for this category should be for a graphic,
+infographic, or visualization created for or by the DH community.**Best DH project for public audiences**
+Nominations for this category should be for a DH project designed
+to be used by audiences primarily outside of higher education,
+including educators, students, enthusiasts, genealogists, engaged
+citizens, etc.
+===Again, to nominate something for the DH Awards 2013 visit the nominations
+page at:
+http://dhawards.org/dhawards2013/nominations/If you have any questions please see
+http://dhawards.org/dhawards2013/faqs2013/ or ask at
+james(a)dhawards.org or tweet @DHawardsJames Cummings
+DHawards.org--===============6998534200144538444==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

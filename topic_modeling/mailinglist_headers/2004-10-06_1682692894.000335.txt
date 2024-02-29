@@ -1,0 +1,8 @@
+From: Lou Burnard <lou.burnard@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Character reference conversions: help?
+Date: Wed, 06 Oct 2004 09:26:22 +0100
+Message-ID: <4163AC2E.9010702@computing-services.oxford.ac.uk>
+In-Reply-To: <4.3.2.7.2.20041005231710.00c2ca50@badke.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6142002167253929262=="

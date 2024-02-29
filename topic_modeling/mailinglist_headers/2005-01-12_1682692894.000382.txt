@@ -1,0 +1,9 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Form-based methods of building xml?
+Date: Wed, 12 Jan 2005 11:51:22 -0700
+Message-ID: <41E571AA.8050204@uleth.ca>
+In-Reply-To:
+ <9A17FD354DE2D14190D86E0CC8548D7E2C4FEF@mailserver.ualibrary.ualberta.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0819734771022340306=="

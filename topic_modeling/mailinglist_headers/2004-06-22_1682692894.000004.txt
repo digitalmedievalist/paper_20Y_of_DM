@@ -1,0 +1,9 @@
+From: Peter Baker <psb6m@virginia.edu>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Experience using Microsoft's XSLT? and Is there a good
+	acronym FAQ anywhere?
+Date: Tue, 22 Jun 2004 22:46:43 -0400
+Message-ID: <40D8EF13.60007@virginia.edu>
+In-Reply-To: <40D8E8A4.5050004@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3575951715740418237=="

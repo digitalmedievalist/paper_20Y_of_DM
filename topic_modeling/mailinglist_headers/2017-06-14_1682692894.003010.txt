@@ -1,0 +1,7 @@
+From: Gabriel BODARD <gabriel.bodard@sas.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Recogito 2: linked data without the pointy brackets <seminar>
+Date: Wed, 14 Jun 2017 17:31:51 +0100
+Message-ID: <fbe3f880-8541-4ac1-d229-b4ce36debf7b@sas.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5479733705846071116=="

@@ -1,0 +1,39 @@
+--===============7598630832799278700==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+This is a very technical conference, however it will be of interest to some o=
+n this list. Members and subscribers of the Text Encoding Initiative (TEI) ar=
+e entitled to a discount on the registration.-dan-----Original Message-----
+From: TEI Overlapping Markup SIG discussion list on behalf of Syd Bauman
+Sent: Sun 27/05/2007 6:40 AM
+To: TEI-OL-SIG(a)listserv.brown.edu
+Subject: Extreme pre-conference workshop on overlap
+=20
+What:   International Workshop on Markup of Overlapping Structures=20        XML and SGML have revolutionized the representation of
+        structured information, but not all information structures
+        map
+        easily into systems of hierarchically nested elements. Markup
+        of overlapping structures is a perennially hot topic,
+        reinvented and reimagined as often as it is solved.        This full-day workshop will bring together the proponents of
+        some of the major proposals for markup, representation,
+        extraction, display, and validation of semantic overlap to
+        summarize the systems they are developing and discuss topics
+        of common interest. A morning of formal presentations will be
+        followed by an afternoon of free-ranging discussion.When:   Monday, 06 August 2007=20
+        the day before Extreme Markup Languages 2007,
+        "The Markup Theory and Practice Conference"Where:  Hotel Europa, Montreal, Canada (the Extreme hotel)=20Details: http://www.extrememarkup.com/extreme/overlap/
+Confirmed speakers and topics include:=20* Alexander Dekhtyar, California Polytechnic State University, on the
+  Concurrent XML and the ARCHway Project* Steven DeRose, National Center for Biotechnology Information
+  (National Institutes of Health), on Trojan Markup and other
+  empty-element techniques* Patrick Durusau, Snowfall Software, on Topic Mapping overlap* Wendell Piez, Mulberry Technologies, on LMNL (Layered Markup and
+  Annotation Language)* C. M. Sperberg-McQueen, World Wide Web Consortium, on TexMecs and
+  Goddag structures* Andreas Witt, University of Tubingen, on Multiple Annotations and
+  XConcurRegistration fee: $125 per person; there is a 20% discount for TEI-C
+members and subscribers, as well as for members of IDEAlliance,
+OASIS,
+SC34, & W3C, and for full-time academics & government employees)Registration and updated information at
+http://www.extrememarkup.com/extreme/overlap/index.htmlThere's Nothing so Theoretical as a Good Practice
+--===============7598630832799278700==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

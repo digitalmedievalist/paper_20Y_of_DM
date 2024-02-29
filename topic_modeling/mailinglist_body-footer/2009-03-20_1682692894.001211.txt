@@ -1,0 +1,12 @@
+--===============8197593111123726734==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitI weeded a few of the "me too" responses and, in one case, included
+someone's postscript message without also including its antecedent because
+the postscript quotes the antecedent in full. (Clear?) Otherwise, the
+conversation so far on ANSAX-L should be attached, in thread order,
+without (alas) the trimming of extensive quotation.... The digest begins
+with the context that precedes Dot's message.If you have trouble reading the MIME digest, please let me know off-list.Cheers,
+Sharon--===============8197593111123726734==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

@@ -1,0 +1,27 @@
+--===============2969359958391381974==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitFYI. Emacs is a very useful editor for XML work, but has a reputation
+for being difficult to learn to use. The "TEI-Emacs" mentioned in the
+e-mail, is a customised version of Emacs distributed by the Text
+Encoding Initiative (the major flavour of XML used in our area).I've not tried this editor out yet, as I don't see any information on
+whether it will conflict irreparably with my working version of the
+latest TEI emacs. But especially for those who have not invested a lot
+of time in learning the original version, this might be worth looking
+into.I've not added this to our wiki entry on XML editors yet
+(http://sql.uleth.ca/dmorgwiki/index.php/XML_Editors), nor is there a
+project page for it (http://sql.uleth.ca/dmorgwiki/index.php/Projects).
+But I will try to get to it toot sweet. Currently the XML editors page
+lists emacs (regular) and Oxygen (a commercial editor) as options.
+People often have quite strong feelings about their editors. If you know
+of/love another, perhaps you might like to add information about it?
+-dan
+-- 
+Dr. Daniel Paul O'Donnell
+Associate Professor of English
+Director, Digital Medievalist Project
+University of Lethbridge
+Lethbridge AB T1K 3M4vox: +1 (403) 329-2377
+fax: +1 (403) 382-7191URL: http://people.uleth.ca/~daniel.odonnell/Digital Medievalist Project: http://www.digitalmedievalist.org/(@wiglaf)--===============2969359958391381974==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

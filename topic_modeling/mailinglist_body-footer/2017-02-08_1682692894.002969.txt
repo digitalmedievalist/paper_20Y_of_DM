@@ -1,0 +1,64 @@
+--===============6843779334229416111==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableApologies for Cross-posting =E2=80=94 French and Italian versions below=3D=3D=3D=3D=3D=3D=3D
+Dear all,The University of Grenoble-Alpes together with the Maison de Sciences de l=E2=
+=80=99Homme-Alpes et with the sponsorship of ITN DIXIT organises a summer sch=
+ool in Digital Editing and Digital Humanities.Details will be published shortly, but I can already announce that the summer=
+ school is aimed at PhD students, early career researchers and beyond that wa=
+nt to understand what is Digital editing and Digital Humanities by doing it. =
+For this first edition there are no prerequisite, as the the teaching will no=
+t assume any previous knowledge.  Courses will be offered in the field of:
+- HTML and CSS
+- XML
+- TEI and EPIDOC
+- RDF
+- XSLT
+- NLP, tree-banking and lemmatisation
+- GISParticipants will attend common classes for the first 2 days and then they wi=
+ll be able to choose between one of the 3 workshops offered every day
+The languages of teaching are : French and Italian.
+Many scholarship will be sponsored by DiXiT, particularly for PhD students.All the best wishes
+=3D=3D=3D=3D=3D=3D=3DBonjour,
+L'universit=C3=A9 Grenoble-Alpes en collaboration avec la Maison des =
+Sciences de l'Homme -Alpes et avec la sponsorisation de l'ITN=
+ DiXiT organise une =C3=A9cole d'=C3=A9t=C3=A9 en Philologie Num=C3=
+=A9rique / Humanit=C3=A9s Num=C3=A9riques.Les d=C3=A9tails seront publi=C3=A9s dans le d=C3=A9lais le plus court, mais =
+je peux d=C3=A9j=C3=A0 annoncer que l'=C3=A9cole d'=C3=A9t=C3=
+=A9 est vis=C3=A9e pour un public de doctorant.e.s, jeunes chercheurs/ses et =
+touts ces qui veulent comprendre ce que ce sont les Humanit=C3=A9s Num=C3=A9r=
+iques en les faisant. Pour cette premiére =C3=A9ditions, il n'y =
+a pas des pr=C3=A9-requis et les cours ne pr=C3=A9sument pas des connaissance=
+s pr=C3=A9alables.
+Les cours incluront:- HTML et CSS
+- XML
+- TEI et EPIDOC
+- RDF
+- XSLT
+- TAL, tree-banking et lemmatisation
+- SIGLes participants prendront des cours en troc common pendant les deux premier =
+jours, et aprés il seront capables de choisir parmi trois ateliers qui s=
+eront offerts chance jour. Les langues des enseignements seront: fran=C3=A7ai=
+s et italien
+Plusieurs bourses pour des doctorants  seront offert par DIXIT.Bien cordialement=3D=3D=3D=3D=3D=3D=3D=3DL'universit=C3=A0 Grenoble-Alpes in collaborazione con la Maison des =
+Sciences de l'Homme -Alpes et la sponsorizzazione dell'ITN Di=
+XiT organizza una scuola estiva in Filologia Digitale e le Digital Humanities.Maggiori dettagli saranno resi pubblici al pi=C3=B9 presto, ma posso gi=C3=A0=
+ anticipare che la scuola estiva si rivolge a dottorandi, ricercatori e a tut=
+ti colori che intendono imparare che cosa sono le Digital Humanities facendol=
+e.Non ci sono prerequisiti e l'insegnamento non presuppone alcuna conos=
+cenza pregressa. I corsi offerti includono:- HTML e CSS
+- XML
+- TEI e EPIDOC
+- RDF
+- XSLT
+- NLP, tree-banking e lemmatizzazione
+- GISI participanti prenderanno dei corsi comuni per i primi due giorni e poi potr=
+anno scegliere i tre corsi diversi offerti giornalmente. Le lingue di insegna=
+mento saranno il francese e l'italiano.
+Diverse borse saranno messe a disposizioni dei dottorandi, grazie alla sponso=
+rizzazione di Dixit.Cordialmente
+__
+[cid:0269A09D-3BBF-48C8-9A99-5522DB4D3126(a)grenet.fr]
+--===============6843779334229416111==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

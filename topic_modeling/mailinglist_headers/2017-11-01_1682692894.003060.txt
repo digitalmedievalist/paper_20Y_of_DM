@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] New version of EVT 2 released
+Date: Wed, 01 Nov 2017 09:27:39 +0100
+Message-ID: <44f7855d-1d51-cc0f-f7b6-6ed333ffb00b@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8476574434500364622=="

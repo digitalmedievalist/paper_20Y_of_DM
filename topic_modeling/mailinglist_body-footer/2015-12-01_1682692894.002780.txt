@@ -1,0 +1,54 @@
+--===============1351457171665954405==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi Matija,Take a look at the Medieval Electronic Scholarly Alliance, MESA (
+http://mesa-medieval.org). This is an aggregator (directed by me and Tim
+Stinson at NCSU) that enables cross-searching of a variety of more-or-less
+small to medium sized projects and collections. I know you're looking
+specifically for collections, but it's easy to get from MESA to the sites
+of the projects and collections aggregated there.Hope this helps,
+DotOn Fri, Nov 27, 2015 at 9:39 AM, Matija Ogrin <matija.ogrin(a)zrc-sazu.si>
+wrote:> Dear Colleagues,
+>
+> Can you please give any example of a (small) digital collection of
+> manuscript or printed primary sources which, 1) operates as an independent
+> web-portal AND also 2) their data are in some way included/aggregated into
+> some large collection or digital library?
+>
+> I am particularly interested in what happens as data pass from a "small"
+> into a "large" digital resource? What kind of data are most suitable and
+> frequent object of such aggregation in our area of digital humanities: only
+> meta-data, or also msDesc, digital images, transcriptions? How "visible" is
+> the original small collection after the aggregation? Etc.
+>
+> I hope this is not an off-topic question. Thank you for any advice,
+>
+> Matija
+>
+> --
+> Matija Ogrin, dr.
+> Register of Early Modern Slovenian Manuscripts (NRSS)
+> <http://ezb.ijs.si/nrss/>
+> Research Centre of Slovenian Academy of Sciences and Arts
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: https://digitalmedievalist.wordpress.com/news/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+Personal blog: dotporterdigital.org
+Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
+MESA blog: http://mesamedieval.wordpress.com/
+MESA on Facebook:
+https://www.facebook.com/MedievalElectronicScholarlyAlliance
+*~*~*~*~*~*~*~*~*~*~*--===============1351457171665954405==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

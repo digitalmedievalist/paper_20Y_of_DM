@@ -1,0 +1,8 @@
+From: Gautier Poupeau <gotpoupeau@infonie.fr>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Electronic edition of the Cartulaire blanc of Saint-Denis in	TEI
+Date: Fri, 29 Oct 2004 09:51:19 +0200
+Message-ID: <4181F677.6000303@infonie.fr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3950990452412205322=="

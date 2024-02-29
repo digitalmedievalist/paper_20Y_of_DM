@@ -1,0 +1,8 @@
+From: David Badke <david@badke.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Autoinstall for fonts
+Date: Sat, 23 Oct 2004 10:25:29 -0700
+Message-ID: <4.3.2.7.2.20041023100647.00bec140@badke.ca>
+In-Reply-To: <417A8C8D.2060604@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1676488691397713819=="

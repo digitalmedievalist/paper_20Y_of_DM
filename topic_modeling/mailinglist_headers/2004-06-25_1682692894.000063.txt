@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Sharing and collecting examples, tools, techniques
+Date: Fri, 25 Jun 2004 13:20:01 -0600
+Message-ID: <40DC7AE1.9050900@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5410091350064797970=="

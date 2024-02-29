@@ -1,0 +1,10 @@
+--===============3300609304167378044==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+This is a test.-- 
+Daniel Paul O'Donnell
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. +1 (403) 329-2377
+Fax. +1 (403) 382-7191--===============3300609304167378044==--

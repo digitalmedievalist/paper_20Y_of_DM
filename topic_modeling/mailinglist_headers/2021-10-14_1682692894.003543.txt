@@ -1,0 +1,11 @@
+From: Dot Porter <dot.porter@gmail.com>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Announcing VCEditor, a tool for modeling and visualizing
+ physical collation of books ins codex format
+Date: Thu, 14 Oct 2021 11:57:21 -0400
+Message-ID:
+ <CAHfJHk0mOM-iK2aMFZ8o28u067_1No=rkFT=VUq=SuTM9nm55A@mail.gmail.com>
+In-Reply-To:
+ <CAETEuFvO3Ompo2ZhrmYJM6e67Upqv2_bTTxz6UTTSX59rjEoKw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5673363449751314359=="

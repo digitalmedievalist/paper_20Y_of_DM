@@ -1,0 +1,7 @@
+From: James Cummings <James.Cummings@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Developing Linguistic Corpora: a guide to good practice
+Date: Tue, 11 Oct 2005 14:55:26 +0100
+Message-ID: <434BC44E.9030000@computing-services.oxford.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6415093693217550593=="

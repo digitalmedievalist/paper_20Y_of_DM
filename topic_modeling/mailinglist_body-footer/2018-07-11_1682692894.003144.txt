@@ -1,0 +1,40 @@
+--===============3488610547049359578==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+CALL FOR PAPERS =E2=80=93 =E2=80=98Big Data' in Medieval Studies54th International Congress on Medieval Studies <http://www.wmich.edu/medieva=
+lcongress/submissions>=20
+Western Michigan University; May 9-12, 2019Sponsored by Digital Philology: A Journal of Medieval Cultures <https://www.p=
+ress.jhu.edu/journals/digital-philology-journal-medieval-cultures>Organized by Susanna All=C3=A9s-Torrent (University of Miami) and Albert Llor=
+et (University of
+Massachusetts Amherst)The creation of digital collections of texts, or textual corpora, for researc=
+h and preservation may be one of the seminal technological innovations in the=
+ digital humanities that still remains at the core of many text-oriented disc=
+iplines, including those belonging to medieval studies.When creating a textual corpus, digital humanists face many key choices that =
+will determine their project's success. These decisions include the s=
+election of standards, format types, methods for text recollection, searchabi=
+lity, access, lemmatization, and interoperability, among others.Once a textual corpus is created, quantitative analysis allows researchers to=
+ study texts from a variety of critical perspectives and methodologies: stati=
+stics, stylometry, authorship atribution and verification, intertextuality, s=
+cript recognition, stemmatology, text mining, topic modeling, etc.These analytical methodologies are linked to the study of large amounts of in=
+formation, to which one may be tempted to refer to as big data. But what cons=
+titutes =E2=80=9Cbig data=E2=80=9D in medieval studies and the digital humani=
+ties at large? Does thinking of textual corpora as =E2=80=9Cbig data=E2=80=9D=
+ help frame their forms and uses?We invite paper submissions that reflect on the theory, practices, and challe=
+nges of creating=E2=80=94 and researching through=E2=80=94textual corpora, in=
+cluding but not limited to:=E2=80=A2 protocols and technologies for the creation of textual corpora.
+=E2=80=A2 examples of textual corpora.
+=E2=80=A2 methologies for the study of textual corpora (e.g., stylometry, ste=
+mmatology, script
+recognition, etc.).
+=E2=80=A2 theory of textual corpora and =E2=80=9Cbig data=E2=80=9D in medieva=
+l studies.Please send a 100-word abstract and a Participant Information form to Susanna=
+ All=C3=A9s-Torrent and Albert Lloret at lloret(a)umass.edu <mailto:lloret(a)=
+umass.edu> by September 15.
+Susanna All=C3=A9s Torrent
+Assistant Professor
+University of Miami
+http://susannalles.com
+susanna_alles(a)miami.edu--===============3488610547049359578==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

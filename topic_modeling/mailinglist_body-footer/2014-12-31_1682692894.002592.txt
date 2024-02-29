@@ -1,0 +1,54 @@
+--===============4139142339549681315==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitProject and individual preferences are pretty much what drives us to use
+various version control systems. Mercurial and Git are similar, but I
+prefer Git because I use it daily and the people I collaborate with use it.
+I've seen companies use both systems, and Google has built their own
+internal version control system in addition to using Git for open source
+projects. The point I was trying to make was to use a version control
+system that works well for code. I don't think it matters which one, but as
+long as there is one that does a good job, that's what matters. Whether you
+use Git or Mercurial shouldn't matter. They are both better than Dropbox or
+Google Drive for code.However, I think that Dan was just asking about using something that is
+easy to use with a high turnover of students. I'd suggest using Google
+Drive because you can modify and store all of your documents online and
+will be able to do everything in the browser.On Wed, Dec 31, 2014 at 9:43 AM, Janusz S. Bien <jsbien(a)mimuw.edu.pl> wrote:> Quote/Cytat - "Sara L. Uckelman" <s.l.uckelman(a)durham.ac.uk> (Tue 30 Dec
+> 2014 09:52:11 PM CET):
+>
+>  Learning how
+>> to use git should be considered a requirement of someone who intends to
+>> work in digital humanities, just as learning LaTeX is one for anyone
+>> working in math or logic.
+>>
+>
+> Why just git? I'm quite happy with mercurial (and BitBucket.org, cf. e.g.
+> https://bitbucket.org/jsbien/ndt/wiki/wyniki). This was not my own
+> decision, but practically all my collaborators preferred mercurial over
+> other version control systems, so I joined them. There is at least one
+> multiplatform GUI (TortoiseHg).
+>
+> Best regards and Happy New Year
+>
+> Janusz
+>
+> --
+> Prof. dr hab. Janusz S. Bień -  Uniwersytet Warszawski (Katedra
+> Lingwistyki Formalnej)
+> Prof. Janusz S. Bień - University of Warsaw (Formal Linguistics Department)
+> jsbien(a)uw.edu.pl, jsbien(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~
+> jsbien/
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============4139142339549681315==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

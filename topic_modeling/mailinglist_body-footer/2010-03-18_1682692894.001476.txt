@@ -1,0 +1,8 @@
+--===============4876985502352064783==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitPeter, Notepad does not exist in Vista (which I only found out a week or 
+so ago) -- what should we open the Sinaiticus shot with ?(Years ago, I used to solve the "line numbers/no line numbers with a 
+modulo -- but I'm a computing dinosaur).--===============4876985502352064783==
+Content-Type: text/x-vcard
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="normanhinton.vcf"

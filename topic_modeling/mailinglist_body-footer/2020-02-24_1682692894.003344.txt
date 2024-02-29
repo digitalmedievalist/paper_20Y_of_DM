@@ -1,0 +1,29 @@
+--===============4209608113660159364==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,
+The Mapping Manuscript Migrations portal was publicly launched on 30 January =
+2020 at the Digging into Data Conference at the National Science Foundation i=
+n Washington DC: https://mappingmanuscriptmigrations.org/
+The MMM portal enables users to track more than 216,000 medieval and Renaissa=
+nce manuscripts by origin, owner, author, and title. Users can also visualize=
+ their journeys over the centuries from production to last known location.MMM uses Linked Open Data principles and technology to combine data from thre=
+e important manuscript databases:
+=E2=80=A2 Schoenberg Database of Manuscripts (https://sdbm.library.upenn.edu/)
+=E2=80=A2 Bibale (http://bibale.irht.cnrs.fr/)
+=E2=80=A2 Medieval Manuscripts in Oxford Libraries (https://medieval.bodleian=
+.ox.ac.uk/)The portal is the product of two and a half years' work by the MMM pr=
+oject team, working across four partner institutions: the University of Oxfor=
+d (Oxford e-Research Centre and Bodleian Libraries), the University of Pennsy=
+lvania (Schoenberg Institute for Manuscript Studies), the Institut de recherc=
+he et d'histoire des textes (IRHT-CNRS), and Aalto University (Semant=
+ic Computing Research Group).The MMM project has been funded by the Trans-Atlantic Platform under Round 4 =
+of its Digging into Data Challenge (2017-2020). The national funding agencies=
+ contributing to the project are the Economic and Social Research Council (UK=
+), the Institute of Museum and Library Services (US), the Agence nationale de=
+ la recherche (France), and the Academy of Finland.Dr Toby Burrows
+Oxford e-Research Centre
+University of Oxford
+--===============4209608113660159364==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

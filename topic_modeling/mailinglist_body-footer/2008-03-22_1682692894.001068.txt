@@ -1,0 +1,50 @@
+--===============4374044314604649630==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitIf anyone wants to amuse themselves...
+go to http://demo.iupr.org/layout/layout.php
+and feed in your favourite manuscript page.  This is Google's  
+'ocropus' software, the latest wonder from Google.  This demo shows  
+the system trying to find the text on the page- that is, identify the  
+lines and columns, etc.  It does not do too badly at that.  We have  
+also played with Gamera, for the same purpose: http:// 
+ldp.library.jhu.edu/projects/gamera/
+all the best
+Peter
+On 21 Mar 2008, at 22:11, Peter Boot wrote:> Maybe this is interesting: Handwriting Retrieval Demonstrations of  
+> the (Center for Intelligent Information Retrieval, University of  
+> Massachusetts Amherst): http://ciir.cs.umass.edu/irdemo/hw-demo/  
+> Not medieval however.
+>
+> See for another approach: http://www.ai.rug.nl/alice/nwo-catch- 
+> scratch/index_english.html. From that page: For one thing, the  
+> massive amount of text images of handwritten pages will allow for  
+> the exploitation of modern statistical techniques. Data mining  
+> techniques such as clustering will uncover regularities in  
+> handwritten shapes that may act as the bridge to document retrieval  
+> and text analysis. In this project we will not aim for a veridical  
+> left-to-right transcription of handwritten documents: this would be  
+> an unrealistic target. Alternatively, at the end of the project, we  
+> will have delivered tools for keyword-based search in handwritten  
+> archives, akin to existing flat-text search methods ("Googling").
+>
+> Peter
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors(a)digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPeter Robinson
+Institute for Textual Scholarship and Electronic Editing
+Elmfield House, Selly Oak  Campus
+University of Birmingham
+Edgbaston B29 6LG
+P.M.Robinson(a)bham.ac.uk
+p. +44 (0)121 4158441, f. +44 (0) 121 415 8376
+www.itsee.bham.ac.uk
+--===============4374044314604649630==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,71 @@
+--===============0806029850894823103==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Daniel,The issue of long-term preservation of digital content coming from medieval
+manuscripts as the source is, as far as I can tell, exactly the same as it
+is for any other digital data anywhere, and vast amounts of ink (real and
+virtual) has been used discussing the issue. Although it's a few years old
+now, you might start with the article "Architecture and Technologies for
+Trusted Digital Repositories," Jantz and Giarlo, D-Lib Magazine 2005 (
+http://www.dlib.org/dlib/june05/jantz/06jantz.html - not really as technical
+as it may sound, and includes some important definitions), then move your
+research on from there. Although I'm not sure that there are many real and
+true TDRs even now, it's a fine ideal to start with. Although Dan O'Donnell
+is correct that many older file formats are still able to be read far past
+the time we might expect it, the issue of "digital preservation" is much
+more extensive than simply "can I still have access to the data on this
+file" (at least, if you ask a librarian about it  :-)  ).DotOn Thu, Jul 29, 2010 at 1:12 AM, Daniel Mondekar <mondekar(a)hrstud.hr> wrote:>  Dear Digital Medievalists and TEI members,
+>
+>
+>
+> I have a question about preservation of digital content especially medieval
+> manuscripts. I am writing a small article on the topic and I have consulted
+> a lot sources (papers, handbooks) but most of them do not say anything about
+> the =E2=80=9Clife span=E2=80=9D of the data in specific formats. To clarify=
+ this =E2=80=93 a .doc
+> file crated in 1995. Will be most likely unreadable  in 2010.  What about
+> other formats? Has anyone done some research on =E2=80=9Clife span=E2=80=9D=
+ of a specific
+> version of digital formats and when it becomes clear that the new version
+> and the old one are not compatible anymore? And here I am talking about pdf,
+> rtf, doc (and all office files), djvu, tiff, jpg , mpg etc. (texts and
+> images especially)
+>
+> In my work I am also making a small remark on XML as a data container since
+> it is, in my opinion, the best way to go and the standard will surely be
+> around for years. But what kind of steps do you make to ensure the
+> preservation of documents that have been encoded in xml
+>
+> I would also like to hear if there are opposing views on xml.
+>
+> I also have the same question about the media. I found some research about
+> the longevity of CDs and DVDs but I am also interested in other media like
+> older hard disks, zip drives and magnetic media.
+>
+> I am sorry to bother you with this, but I can use any help I can get
+>
+> Thank you in advance
+>
+> Daniel Mondekar
+>
+>
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--=20
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+*~*~*~*~*~*~*~*~*~*~*--===============0806029850894823103==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

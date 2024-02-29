@@ -1,0 +1,8 @@
+From: Simon Mahony <simon.mahony@kcl.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Seminar: Pelagios and Recogito: an annotation platform for
+ joining a linked data world
+Date: Tue, 09 Jun 2015 11:31:29 +0100
+Message-ID: <5576C081.8060805@kcl.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3588883793007817136=="

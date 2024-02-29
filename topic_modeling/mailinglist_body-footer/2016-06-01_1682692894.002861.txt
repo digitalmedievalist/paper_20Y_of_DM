@@ -1,0 +1,35 @@
+--===============3527862923785366219==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable*With apologies for cross-posting*The Recognition and Enrichment of Archival Documents (READ) project is develo=
+ping new technology to enable computers to recognise handwritten historical m=
+aterial.  With Handwritten Text Recognition (HTR) technology, computers can p=
+rocess any kind of document - from the Middle Ages to the present day, from o=
+ld Greek to modern English.  This research has huge and exciting implications=
+ for the accessibility of the written records of human history.  It allows us=
+ers to search in the full-text of large historical collections and also to ex=
+tract information such as person names or data stored in tables and forms.Anyone interested in finding out more about the project can now consult prese=
+ntations which were given by the READ partners at the co:op<http://coop-proje=
+ct.eu/> project's 'Technology meets Scholarship'<http://coop-project.eu/event=
+/first-international-coop-convention/?instance_id=3D3167> conference.Text transcripts and slides from the READ presentations are available here:
+http://read.transkribus.eu/2016/03/31/presentations-from-the-read-partners-no=
+w-available/Videos of the READ presentations can be found here:
+https://www.youtube.com/playlist?list=3DPLElrWLCQvZaRny2G_gXAINGpCtNrpPBBOFor an introduction to HTR technology, try watching Dr Roger Labahn (Universi=
+ty of Rostock) on 'Handwritten Text Recognition.  Key Concepts':
+https://www.youtube.com/watch?list=3DPLElrWLCQvZaRny2G_gXAINGpCtNrpPBBO&v=3D3=
+d-Iru6qLRcFor more information visit:
+READ website:http://read.transkribus.eu/<https://read.transkribus.eu/><http:/=
+/read.transkribus.eu/>
+Transkribus website: <https://transkribus.eu/> https://transkribus.eu<https:/=
+/transkribus.eu/Transkribus/>
+Transkribus github: https://github.com/Transkribus/
+Or contact: email(a)transkribus.eu<mailto:email(a)transkribus.eu>
+----------------------------------------------------
+Dr. Louise Seaward
+Research Associate
+Bentham Project, Faculty of Laws, University College London, Bidborough House=
+, 38-50 Bidborough Street, London, WC1H 9BT
+louise.seaward(a)ucl.ac.uk<mailto:louise.seaward(a)ucl.ac.uk>
+020 3108 8397--===============3527862923785366219==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

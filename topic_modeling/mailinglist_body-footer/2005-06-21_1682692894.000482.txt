@@ -1,0 +1,13 @@
+--===============0339135585225299642==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitPS, you might want to look at the Perl port of Lucene:
+http://search.cpan.org/~strytoast/Plucene-1.0/
+<http://search.cpan.org/~strytoast/Plucene-1.0/> . All you would need to
+do is come up with an Analyzer that runs the transformation rules. We've
+had good experiences with the original Java Lucene, but I don't know
+whether the Perl version does as well..
+ 
+Peter--===============0339135585225299642==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

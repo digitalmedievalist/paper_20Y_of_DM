@@ -1,0 +1,7 @@
+From: Benjamin Burkard <benburkard@gmx.de>
+To: dm-l@uleth.ca
+Subject: [dm-l] open source XML-editor?
+Date: Fri, 25 Nov 2005 19:01:50 +0100
+Message-ID: <4387518E.7010407@gmx.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7080877317919030450=="

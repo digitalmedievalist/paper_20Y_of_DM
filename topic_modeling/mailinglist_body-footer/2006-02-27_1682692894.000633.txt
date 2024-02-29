@@ -1,0 +1,7 @@
+--===============6244734101654389069==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitSince we've been discussing this, I thought I might be forgiven for
+passing this on.--===============6244734101654389069==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

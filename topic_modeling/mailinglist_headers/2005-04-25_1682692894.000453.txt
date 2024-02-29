@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Help in customizing the TEI DTD
+Date: Mon, 25 Apr 2005 12:08:27 +0200
+Message-ID: <1114423707.8430.39.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0248838892426860541=="

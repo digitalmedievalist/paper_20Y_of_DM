@@ -1,0 +1,123 @@
+--===============1518215642678500887==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.
+In collaboration with the Institute of Documentology and Scholarly Editing (I=
+DE)<https://www.i-d-e.de/>, the Text+ consortium<https://www.text-plus.org/en=
+/home/> of the German National Research Data Infrastructure (NFDI)<https://ww=
+w.dfg.de/en/research_funding/programmes/nfdi/index.html> invites authors to s=
+ubmit reviews of digital scholarly editions for the journal RIDE<https://ride=
+.i-d-e.de>. The reviews should be based on the IDE criteria for reviewing dig=
+ital editions and focus on the application of the FAIR principles for this sp=
+ecial issue.Cooperation and goalsText+ has been active since 2021. The consortium is dedicated to the developm=
+ent of a research data infrastructure for text- and language-based materials,=
+ divided, to start with, into three data domains: lexical resources, collecti=
+ons, and scholarly editions. Scholarly editions are critical representations =
+of documents from the past that are primarily used in the study of research o=
+bjectives within the humanities.A central task of the data domain =E2=80=9Ceditions=E2=80=9D is the assessmen=
+t of methods and practices of the editorial process, as well as the developme=
+nt of recommendations for the creation, processing and publication of researc=
+h data. According to the FAIR principles<https://force11.org/info/the-fair-da=
+ta-principles/>, data from editions should be =E2=80=9EFindable, Accessible, =
+Interoperable, and Re-usable.=E2=80=9C Applying these principles to digital r=
+esources is becoming more and more important, but they are yet to be discusse=
+d in depth in the context of scholarly editions. The implementation of the FA=
+IR principles is crucial for central aspects of working with digital editions=
+; these include, for example, aspects of search, linking, licensing, and re-u=
+se. In order to gain a better understanding of what =E2=80=9CFAIR=E2=80=9D en=
+tails in the context of editions specifically and whether and how these princ=
+iples can be applied to digital scholarly editions, existing practices are be=
+st described in the form of reviews. On the basis of individual case studies,=
+ reviews allow a survey of the diverse editorial landscape and can thus contr=
+ibute to the development of new criteria. For this reason, Text+ has chosen t=
+o cooperate with the review journal RIDE which was first published in 2014 an=
+d has been, since then, leading in the review of digital scholarly editions. =
+Together, Text+ and RIDE seek to further promote the discourse on best practi=
+ces in the creation and publication of digital editions in general and in the=
+ application of the FAIR principles in particular.ModalitiesInterested reviewers can contact us with proposals at ride-textplus(a)i-d-e.d=
+e<mailto:ride-textplus(a)i-d-e.de> (name, affiliation, edition). The deadline=
+ for proposals is 17 May 2022, but we may remain open for inquiries afterward=
+s. Publication of the volume(s) will be by =E2=80=98rolling release'.The reviews are to be based on the catalog of criteria for digital editions<h=
+ttps://www.i-d-e.de/publikationen/weitereschriften/criteria-version-1-1/> dev=
+eloped by the IDE. A handout for evaluating the =E2=80=9CFAIRness=E2=80=9D of=
+ a digital edition has also been developed for Text+ editions (see below). As=
+ with all RIDE reviews, a submission consists of the review text and a factsh=
+eet, the latter based on a questionnaire to be completed by the reviewer. We =
+accept submissions in German and English.The editors of the first edition are Tessa Gengnagel (Cologne Center for eHum=
+anities), Frederike Neuber (Berlin-Brandenburg Academy of Sciences and Humani=
+ties) and Daniela Schulz (Herzog August Library Wolfenbüttel).FAIR in digital editions =E2=80=93 criteriaReviewers should address (amongst others) the following aspects regarding the=
+ application of the FAIR-principles in digital scholarly editions:Findable. Can the edition be found via library catalogs, discovery systems, o=
+r relevant edition catalogs (e.g., the Catalogue of Digital Editions maintain=
+ed by Greta Franzini<https://dig-ed-cat.acdh.oeaw.ac.at/> or the catalog by P=
+atrick Sahle<https://www.digitale-edition.de>)? Can the data be found through=
+ disciplinary repositories or general research data repositories (including Z=
+enodo<https://zenodo.org/>, Dariah Collection Registry<https://colreg.de.dari=
+ah.eu/colreg-ui/>, Humanities Commons<https://hcommons.org/>)? Is a persisten=
+t identifier used? How efficient is a search for the edition using a search e=
+ngine?Accessible. Is the edition freely accessible for any user, or are there acces=
+s restrictions? Which parts of the edition are accessible (presentation layer=
+, data layer)? Have global aspects of accessibility been taken into account, =
+e.g. by allowing language selection? What about web accessibility and user fr=
+iendliness of the edition?Interoperable. Is the (primary) data recorded in a standardized and widely us=
+ed format (e.g. according to TEI and its subsets or specific customizations s=
+uch as the DTABf) which would allow for the integration of the data into larg=
+er corpora or the use of specific software solutions? Is the data on which th=
+e edition is based accessible via technical interfaces? Does the edition offe=
+r special APIs? Does it itself aggregate data via interfaces from other resou=
+rces (e.g. as part of IIIF)?Reusable. Is the edition data accessible, and if so, how (individual download=
+, aggregate download, repository, API)? What are the licenses for the edition=
+ data? Do they allow any subsequent use at all? Are the data sets and their c=
+reation, processing and modeling documented in such a way that third parties =
+can work with them?Suggestions for ReviewReviewers can either choose from the following list of digital editions from =
+German-speaking countries or from the general suggestion list of RIDE<https:/=
+/ride.i-d-e.de/reviewers/suggested-projects-for-review/>. Your own suggestion=
+s are also welcome!  *   Ahiqar. The Story of Ahiqar in its Syriac and Arabic Tradition (https:/=
+/ahiqar.uni-goettingen.de/website/)
+  *   ARCHITRAVE. Kunst und Architektur in Paris und Versailles im Spiegel de=
+utscher Reiseberichte des Barock (https://architrave.eu/)
+  *   Arthur Schnitzler digital (https://www.arthur-schnitzler.de/)
+  *   Averroes Edition (https://averroes.uni-koeln.de/)
+  *   Beethovens Werkstatt (https://beethovens-werkstatt.de/)
+  *   Bibliothek der Neologie (https://bdn-edition.de/index.html)
+  *   Briefedition Friedrich Fröbel (https://editionen.bbf.dipf.de/exist=
+/apps/briefedition-friedrich-froebel/index.html)
+  *   Briefportal Leibniz (https://leibniz-briefportal.adw-goe.de/start)
+  *   Capitularia. Edition der fränkischen Herrschererlasse (https://cap=
+itularia.uni-koeln.de)
+  *   Die deutschen Inschriften (https://www.inschriften.net/)
+  *   Die Sozinianischen Briefwechsel (https://sozinianer.de/)
+  *   Digitale Edition und Kommentierung der Tagebücher des Fürsten=
+ Christian II. von Anhalt-Bernburg (1599-1656) (http://diglib.hab.de/edoc/ed0=
+00228/start.htm)
+  *   Documenta Nepalica (https://nepalica.hadw-bw.de/nepal/)
+  *   Europäische Religionsfrieden digital (https://eured.de/)
+  *   Forschung Daniel Sanders =E2=80=93 Digitale Gesamtedition (https://sand=
+ers.bbaw.de/)
+  *   Gottlob Frege Grundsätze der Arithmetik (https://korpora.zim.uni-d=
+uisburg-essen.de/Frege/)
+  *   Hannah Arendt Edition (https://hannah-arendt-edition.net/index.html)
+  *   Christian Gottlob Heyne =E2=80=93 Vorlesungen über die Archäo=
+logie (https://heyne-digital.de/)
+  *   Jean Paul =E2=80=93 Sämtliche Briefe digital (https://www.jeanpaul=
+-edition.de)
+  *   Kleine und fragmentarische Historiker der Spätantike (http://kfhis=
+t.awk.nrw.de)
+  *   Kritische Gesamtausgabe der Schriften und Briefe Andreas Bodensteins vo=
+n Karlstadt (https://karlstadt-edition.org/)
+  *   Niklas Luhmann-Archiv (https://niklas-luhmann-archiv.de/)
+  *   Opus Postumum Online Edition (Neuedition, Revision und Abschluss der We=
+rke Immanuel Kants) (http://telota.bbaw.de/kant_op/index.html)
+  *   Philipp Hainhofer: Reiseberichte & Sammlungsbeschreibungen 1594=E2=80=
+=931636. Edition und Datensammlung zur Kunst- und Kulturgeschichte der ersten=
+ Hälfte des 17. Jahrhunderts (https://hainhofer.hab.de/)
+  *   Quellensammlung zur Geschichte der deutschen Sozialpolitik 1867 bis 191=
+4 (https://quellen-sozialpolitik-kaiserreich.de/)
+  *   Schleiermacher digital (https://schleiermacher-digital.de/index.xql)
+  *   Selbstzeugnisse der Frühen Neuzeit in der Herzog August Bibliothek=
+ (http://selbstzeugnisse.hab.de/)
+  *   Theodor Fontane: Notizbücher (https://fontane-nb.dariah.eu/index.h=
+tml)--===============1518215642678500887==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

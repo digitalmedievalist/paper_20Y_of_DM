@@ -1,0 +1,7 @@
+--===============0407179865700414082==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitThis is quite an interesting looking project. Others on this list may
+find the software useful.-d--===============0407179865700414082==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

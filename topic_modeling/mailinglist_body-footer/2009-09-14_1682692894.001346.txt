@@ -1,0 +1,18 @@
+--===============7809957882436527378==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableOn Mon, 14 Sep 2009  Marjorie Burghart <marjorie.burghart(a)ehess.fr> wrote:> Thank you Francesco!
+>
+>
+> STELLA FRANCESCO VINCENZO a =C3=A9crit :
+>> Dear Marjorie,
+>> as far as I know, the best tools for non-semantic lexicometry are on the
+>> portal "TAPoR", a development of the old TACT software. Less advanced
+>> concordance-programs are to be found on the web=20Poliqarp is quite a sophisticated concordance software (free as in
+freedom), but it is perhaps less user-friendly than its competitors:   http://poliqarp.sourceforge.net/For collocations you can check:    http://duch.mimuw.edu.pl/~abuczyns/kolokacje/index-en.htmlIt is also a free program.Best regardsJanusz--=20
+                     ,  =20
+dr hab. Janusz S. Bien, prof. UW -  Uniwersytet Warszawski (Katedra Lingwisty=
+ki Formalnej)
+Prof. Janusz S. Bien - Warsaw University (Department of Formal Linguistics)
+jsbien(a)uw.edu.pl, jsbien(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
+en/
+--===============7809957882436527378==--

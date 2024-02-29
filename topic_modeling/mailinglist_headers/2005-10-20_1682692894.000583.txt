@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Modifying Google Maps
+Date: Thu, 20 Oct 2005 09:03:09 -0600
+Message-ID: <1129820589.10627.1.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7440617180610549775=="

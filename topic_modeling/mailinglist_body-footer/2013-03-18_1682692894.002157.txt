@@ -1,0 +1,206 @@
+--===============4846433235171318505==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableJust a footnote:Several aspects of scholarly digital editing are being discussed in some=20
+articles of the latest issue of Variants (vol. 10, 2013).
+Quote from the editor's preface by Wim van Mierlo (p. 9-10):[...] the more general discussions by
+Tara L. Andrews and Franz Fischer on digital tools and editorial
+rationales available to the digital editor. Andrews' desideratum ---
+that digital tools will alter the way we edit --- and Fis[c]her's --- that
+digital editions involve much more than putting texts online --- find
+their culmination in Peter Robinson's "Towards a Theory of Digital
+Editions", which is itself a rejoinder to his own "What is a Critical
+Digital Edition" that was published in the inaugural issue of Variants
+in 2002.
+[...]
+The contributions by Andrews and Fischer are based on presentations
+at a Roundtable on the topic "Digital or Critical / Digital and
+Critical", organized by the Laboratory for Critical Text Editing at the
+Lectio center of the Katholieke Universiteit Leuven, Belgium, on 21
+November 2011. The two essays explore, with reference to Greek
+and Latin texts, the apparent contradiction between the advances
+in computer technologies and their application to textual editing
+and the relative scarcity of truly critical and truly digital scholarly
+editions. Andrews addresses the issue head on by saying the scholars
+have not yet "articulated a clear idea of what a digital edition would
+look like" and that a lot of textual work on classical texts remains
+"fundamentally non-digital". Like Andrews, Fischer argues that a
+change in mentality is needed, particularly in terms of acknowledging
+what makes an edition "truly critical". The default option in the
+digital world still often seems to create archives, but "the plurality
+of equally legitimate texts" does not obviate the establishment of a
+critical text.[end of quote]--
+Tara L. Andrews: The Third Way: Philology and Critical Edition in the=20
+Digital Age. Variants 10 (2013), 61-76.Franz Fischer: All texts are equal, but... Textual Plurality and the=20
+Critical Text in Digital Scholarly Editions. Variants 10 (2013), 77-92=20
+(Online Version: http://kups.ub.uni-koeln.de/5056/).Peter Robinson: Towards a Theory of Digital Editions. Variants 10=20
+(2013), 105-132.
+--Best, FranzAm 17.03.2013 18:28, schrieb Patrick Sahle:
+>
+> Dear all,
+>
+> Scholarly Digital Editing? I've just published three volumes on this=20
+> topic:
+> http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
+>
+> rough translation of titles:
+>     Digital Scholarly Editing
+>         Part I: The legacy of typography
+>         Part II: Survey, theory and methodology
+>         Part III: Notions of text and textual encoding
+>
+> - the distinction between digitized and digital scholarly editions=20
+> (DSE) is an important aspect in the definition of scholarly digital=20
+> editions (SDE); see most recently=20
+> http://prezi.com/mdt8efbe3o3a/patrick-sahle-what-is-a-scholarly-digital-edi=
+tion/=20
+> (hope to elaborate on that in a forthcoming article); the main point=20
+> here is, that there is a fundamental paradigm shift in thinking the=20
+> scholarly edition in a typographic setting or in a digital information=20
+> environment
+>
+> - should we make a distinction between digital scholarly editions=20
+> (DSE) and scholarly digital editions (SDE) ?
+>     - yes, because it describes two different processes or at least=20
+> different accentuations
+>         - DSE emphasizes that we still follow the idea of scholarly=20
+> editing but transform it to the digital world
+>         - SDE emphasizes the relation to other forms of digital=20
+> publishing which are augmented by the dimension of scholarly criticism
+>     - no, because it should lead to the same results: editions that=20
+> are truly scholarly AND truly digital
+>
+> - is the edition its content or its presentation?
+>     - if the presentation is arbitrarily generated from underlying=20
+> data, then it has some logic to say, that the data is the edition. On=20
+> the other hand this would not fit well to the common notion of an=20
+> "edition" as some form of publication. I think, a SDE must comprise=20
+> both: the data and some form of publication of that data. What=20
+> constitutes a particular edition is the definition of its subject=20
+> together with a personal or institutional creatorship (or=20
+> responsibility). Edition of X by Y. The edition may then have=20
+> different forms of presentation (online, print, eBook, relaunched=20
+> online version after some time), which may also be "versions".
+>
+> - do we really have a problem with the acceptance of digital editions?
+>     - first, I take up, what Andrew wrote...
+>         - "Compared to a printed book, they're miserable to read,=20
+> since they tend to be designed first for technical analysis, and any=20
+> attention to typography is typically a very low priority"
+>             - I'm not sure whether I'd agree on that. I find most SDEs=20
+> quite readable. But yes, we're still in the incunabula age of digital=20
+> texts. Good digital typography still has to evolve. Anyway, I'call a=20
+> lot of the editions listed in my catalog "readable":=20
+> http://digitale-edition.de/
+>         - "There's no guarantee in many cases that citations made from=20
+> digital editions will be stable."
+>             - but this is a known problem which we discuss for at=20
+> least ten years now. And the solutions are quite clear:=20
+> PID/PURL-systems, fine granularity of adressable objects in editions,=20
+> institutional committments for the long-term support of SDE,=20
+> versioning etc etc
+>         - "It's far easier to put a good printed edition together than=20
+> a good digital edition, especially because of the lack of standard,=20
+> user-friendly tools."
+>             - true, but the underlying problem is that SDEs are far=20
+> more complex than tradional edition (as regards content, methods,=20
+> technical aspects) - and that's why generic tools are so hard to build
+>         - "There is no standard way of presenting online critical=20
+> editions (whereas most printed texts are published in series that=20
+> follow a style guide)."
+>             - important point that the community has to address; but I=20
+> see these publications series coming up; just some arbitrary examples:=20
+> http://elec.enc.sorbonne.fr/ - http://www.sd-editions.com/index.html -=20
+> http://www.hab.de/de/home/bibliothek/digitale-bibliothek-wdb/digitale-editi=
+onen.html=20
+> - http://www.rc.umd.edu/editions/
+>         - "Delving into academic politics, publishers hate them and=20
+> many universities don't count digital projects toward tenure."
+>             - traditional publishers will not solve the problems of SDEs
+>             - academic interest groups are starting to deal with the=20
+> problem of credibility of digital work (the German Historians Union=20
+> has just set up a working group on digital scholarship with a subgroup=20
+> on crediting digital work in tenure and promotion)
+>     - second: success on the reader's side can only be measured in=20
+> comparison to the success of traditional printed editions. In=20
+> comparison to the fact that those often had an extremly low=20
+> circulation, were bought nearly exclusively by libraries ....
+>     - third: success on the side of the editors. We had 6 summer=20
+> schools on scholarly digital editing in the last 5 years=20
+> (http://www.i-d-e.de/events-des-ide). All have been overbooked. I see=20
+> fewer and fewer newly starting edition projects that don't have a=20
+> digital component or basis. There is some pressure from the funding=20
+> bodies, that new projects and new editions have to be digital. But=20
+> change takes some time.
+>
+> Best, Patrick
+>
+>
+> Am 13.03.2013 21:01, schrieb Dot Porter:
+>> My article looking at how medievalists use and consider digital=20
+>> editions has just been published in Scholarly Editing: The Annual of=20
+>> the Association for Documentary Editing. It may be of some interest=20
+>> to folks on the list (and constructive criticism, directly to me to=20
+>> to the list, is most welcome!)
+>>
+>> http://www.scholarlyediting.org/2013/essays/essay.porter.html
+>>
+>> Dot
+>>
+>> --=20
+>> *~*~*~*~*~*~*~*~*~*~*
+>> Dot Porter (MA, MSLS)
+>> Digital Medievalist, Digital Librarian
+>> Email: dot.porter(a)gmail.com <mailto:dot.porter(a)gmail.com>
+>> Personal blog: dotporterdigital.org <http://dotporterdigital.org>
+>> MESA blog: http://www.dlib.indiana.edu/projects/mesa/
+>> MESA on Facebook:=20
+>> https://www.facebook.com/MedievalElectronicScholarlyAlliance
+>> *~*~*~*~*~*~*~*~*~*~*
+>>
+>>
+>> Digital Medievalist --http://www.digitalmedievalist.org/
+>> Journal:http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News:http://www.digitalmedievalist.org/news/
+>> Wiki:http://www.digitalmedievalist.org/wiki/
+>> Twitter:http://twitter.com/digitalmedieval
+>> Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+>> Discussion list:dm-l(a)uleth.ca
+>> Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+> --=20
+> ------------------------------------------------------------------------
+> New Book(s) out now: Patrick Sahle, Digitale Editionsformen -=20
+> http://www.i-d-e.de/schriften/s7-9-digitale-editionsformen
+> A) Cologne Center for eHumanities (CCeH)=20
+> <http://www.cceh.uni-koeln.de/> (Mitarbeiter)
+> B) DARIAH-DE (Digital Research Infrastructure for the Arts and=20
+> Humanities) <http://de.dariah.eu/> (Mitarbeiter)
+> C) Humanities Computer Science, University of Cologne=20
+> <http://www.hki.uni-koeln.de/> (Mitarbeiter)
+> D) Institut für Dokumentologie und Editorik <http://www.i-d-e.de>=20
+> (Mitglied)
+>
+> Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung,=20
+> Universität zu Köln, Albertus-Magnus-Platz, D-50923 Köln
+> Büro: Universitätsstr. 22, Dachgeschoss links
+> Telefon: +49 - (0)221 - 470 1750
+> ------------------------------------------------------------------------
+> Zur Person: http://www.uni-koeln.de/~ahz26=20
+> <http://www.uni-koeln.de/%7Eahz26>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============4846433235171318505==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

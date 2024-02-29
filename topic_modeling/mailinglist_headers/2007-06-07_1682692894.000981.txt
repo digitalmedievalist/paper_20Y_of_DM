@@ -1,0 +1,7 @@
+From: Peter Baker <psb6m@virginia.edu>
+To: dm-l@uleth.ca
+Subject: [dm-l] Junicode 0.6.14 released
+Date: Thu, 07 Jun 2007 15:17:09 -0400
+Message-ID: <466859B5.2030100@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2151494690156172716=="

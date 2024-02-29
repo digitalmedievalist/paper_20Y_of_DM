@@ -1,0 +1,36 @@
+--===============7198995157652042545==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Digital Medievalists,DocExplore is a free open source software suite enabling the easy creation of=
+ interactive digital books suitable for the promotion of heritage collections.
+=20
+It's easy to use:
+1.Import the pages of your book
+2.Add text, images, sound and video to parts of the pages
+3.View it on your computer or put it online on your website
+=20
+More information, demonstrations and downloads at www.docexplore.eu
+=20
+DocExplore is the result of an academic project, initiated by computer scienc=
+e laboratories LITIS (University of Rouen, France) and EDA (University of Ken=
+t, U.K.) in 2009, funded by the Interreg IVa program. It received contributio=
+ns from historians, librarians and archivists of the GRHIS (University of Rou=
+en), the Rouen Public Libraries, CMEMS (University of Kent) and the Archives =
+of the Canterbury Cathedral.Please ask me if you have any questions. If people are interested, we will or=
+ganise tutorial sessions in France and the UK in June.Best regards,
+-----------------------------------------------------
+Dr. Pierrick Tranouez
+Research Engineer
+LITIS EA 4108
+http://www.litislab.eu/Members/ptranouez/
+Tel:  332 32 95 51 20
+Mob: 336 78 79 83 65Universit=C3=A9 de Rouen
+UFR Sciences - Bureau 2.1.33
+Site Universitaire du Madrillet
+Avenue de l'Universit=C3=A9
+76800 SAINT =C3=89TIENNE DU ROUVRAY
+FRANCE
+-----------------------------------------------------
+--===============7198995157652042545==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

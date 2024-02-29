@@ -1,0 +1,33 @@
+--===============6813030697399121298==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear colleagues,
+For those of you in (or traveling to) France, I am very pleased to announce
+the upcoming days of study linked to my "Edition électronique et sources
+médiévales" seminar. The title, this year, is "L'édition électronique dans
+tous ses états : évolution des pratiques, évolution des besoins".
+All are welcome, students, researchers and professionals. Like last year, I
+chose to have a smaller number of speakers, but each with a longer time, to
+favour discussion and exchange.
+Looking forward to meeting some of you there, maybe!
+Marjorie
+L'édition électronique dans tous ses états : évolution des pratiques,
+évolution des besoinsVendredi 20 janvier, 14h00-17h
+*Recherche Sans Frontières :  la Text Encoding Initiative et la coopération
+internationale dans les Digital Humanities*
+Elena Pierazzo, Department of Digital Humanities, King's College London,
+membre du Board of Directors de la TEILundi 23 janvier, 09h30-12h30
+*Les « Gascon Rolls », une source majeure de la Guerre de Cent ans, du
+parchemin au digital*
+Guilhem Pépin, Université d'Oxford, et Paul Spence, Department of Digital
+Humanities, King's College LondonLundi 23 janvier, 14h00-15h30
+*Histoire de la TEI : un cas d'étude dans l'évolution des méthodes et
+pratiques scientifiques dans les SHS ?*
+Lou Burnard, TGE ADONIS, membre du Board of Directors de la TEILundi 23 janvier, 16h00-18h00
+*Donner forme à la TEI : outils et méthodes pour l'édition structurée*
+Dominique Roux, Presses Universitaires de Caen
+Salle de séminaire du CIHAM / UMR 5648 - Sous-sol du 18, quai Claude
+Bernard – 69007 Lyon
+Contact : marjorie.burghart(a)ehess.fr--===============6813030697399121298==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

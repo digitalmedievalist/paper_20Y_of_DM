@@ -1,0 +1,7 @@
+From: Gabriel BODARD <Gabriel.bodard@sas.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Seminar: From the Ground to the Cloud
+Date: Tue, 14 Jun 2016 13:58:28 +0100
+Message-ID: <050f358a-b1ec-5092-c852-bc558a7383db@sas.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4696498335055602213=="

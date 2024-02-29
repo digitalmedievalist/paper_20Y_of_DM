@@ -1,0 +1,9 @@
+From: "LUCIANA AYCIRIEX ." <luciana@linhd.uned.es>
+To: dm-l@uleth.ca
+Subject: [dm-l] Validation of =?utf-8?q?POSTDATA=E2=80=99s?= data model
+Date: Tue, 11 Sep 2018 10:39:36 +0000
+Message-ID: <DB6PR0701MB22642109AB6A9C32A51606ABEC040@DB6PR0701MB2264.eurprd07.prod.outlook.com>
+In-Reply-To: =?utf-8?q?=3CDB6PR0701MB2264C3B9FCFCB677D336AEC3EC040=40DB6PR07?=
+ =?utf-8?q?01MB2264=2Eeurprd07=2Eprod=2Eoutlook=2Ecom=3E?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8193345817678951265=="

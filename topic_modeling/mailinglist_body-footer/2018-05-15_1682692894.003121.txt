@@ -1,0 +1,48 @@
+--===============1198497974957150446==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,I am very pleased to debut my Fragmentarium reconstruction of the
+Gottschalk Antiphonal, the manuscript that was the subject of my
+dissertation and first book:
+http://fragmentarium.ms/view/page/F-75ud/The Gottschalk Antiphonal was written and illustrated in the late
+twelfth century by the scribe/artist/monk Gottschalk of Lambach and was
+used at the Lambach abbey for several centuries. Along with many other
+early manuscripts, It was broken for binding scrap in the late fifteenth
+century, and its leaves were used as flyleaves, pastedowns, and spine-
+liners for books found at the Abbey bindery. During World War II, many
+of the leaves were removed from the bindings and sold as a way to raise
+money for a new wood lathe for the abbey. The leaves are now scattered
+and have been identified at the Houghton Library at Harvard University,
+the Beinecke Rare Book and Manuscript Library at Yale, the St. Louis
+Public Library, a hotel in Badgastein (Austria), the abbey of St. Paul
+im Lavanttal, and in Lambach itself (although the leaves that were bound
+into incunables there as late as 1998 have now vanished and are
+represented in my reconstruction by my old black-and-white photographs).
+As recently as 2016, an offset of a leaf of the Antiphonal was found in
+an incunable belonging to the Beinecke Library (ironically, it was there
+while I was working on  my thesis at Yale, but it was only during a
+recent survey of the bindings by Elizabeth Hebbard (Indiana Univ.) that
+the offset was photographed and identified). The missing leaf was
+consecutive with one of the leaves at Harvard, and I have added a
+manipulated image of the offset to my Fragmentarium reconstruction.
+For those of you who care about such things, it is worth noting that
+images of the two leaves at Harvard have been imported directly into
+Fragmentarium using a persistent IIIF url. The other images were
+uploaded as individual JPGs.
+When I first studied the manuscript in the early 1990s, I did it with
+scissors and paste and black-and-white photocopies on the floor of my
+living room. It is truly thrilling to see it in glorious IIIF-compliant
+interoperable color in Fragmentarium! I hope that it will complement the
+liturgical, art historical, and musicological study in my book:
+http://www.cambridge.org/us/academic/subjects/music/nineteenth-century-music/=
+gottschalk-antiphonary-music-and-liturgy-twelfth-century-lambach
+Blogpost coming soon...Lisa--
+  Lisa Fagin Davis
+  Executive Director
+  Medieval Academy of America
+  17 Dunster St., Suite 202
+  Cambridge, Mass.  02138  Phone: 617 491-1622
+  Fax: 617 492-3303
+=C2=A0 Email: LFD(a)TheMedievalAcademy.org--===============1198497974957150446==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

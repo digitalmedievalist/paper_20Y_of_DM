@@ -1,0 +1,10 @@
+--===============1501217395473040367==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear colleagues,We are please to announce the programme of the 7th edition of the 
+Aliento Conference. We invite you to the presentation of the database, 
+which will open to all January, 2018.Best regards,Marie-Sol Ortola (UdL), Marie-Christine Bornes Varol (Inalco), Benjamin 
+Husson (atilf)
+--===============1501217395473040367==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;

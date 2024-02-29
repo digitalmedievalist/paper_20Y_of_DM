@@ -1,0 +1,45 @@
+--===============4568630760921169817==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear colleagues,I post the below announcement on behalf of Will Noel. Best,Lynn Ransom ************************ 
+Ten years ago today, a private American collector purchased the Archimedes
+Palimpsest. Since that time he has guided and funded the project to
+conserve, image, and study the manuscript. After ten years of work,
+involving the expertise and goodwill of an extraordinary number of people
+working around the world, the Archimedes Palimpsest Project has released its
+data. It is a historic dataset, revealing new texts from the ancient world.
+It  is an integrated product, weaving registered images in many wavebands of
+light with XML transcriptions of the Archimedes and Hyperides texts that are
+spatially mapped to those images.  It has pushed boundaries for the imaging
+of documents, and relied almost exclusively on current international
+standards.  We hope that this dataset will be a persistent digital resource
+for the decades to come.  We also hope it will be helpful as an example for
+others who are conducting similar work. It published under a Creative
+Commons 3.0 attribution license, to ensure ease of access and the potential
+for widespread use.  A complete facsimile of the revealed palimpsested texts
+is available on Googlebooks as ³The Archimedes Palimpsest².  It is hoped
+that this is the first of many uses to which the data will be put.
+ 
+For information on the Archimedes Palimpsest Project, please visit:
+www.archimedespalimpsest.org <http://www.archimedespalimpsest.org>
+ 
+For the dataset, please visit:
+www.archimedespalimpsest.net <http://www.archimedespalimpsest.net>
+ 
+We have set up a discussion forum on the Archimedes Palimpsest Project. Any
+member can invite anybody else to join. If you want to become a member,
+please email:
+ 
+wnoel(a)thewalters.org
+ 
+I would be grateful if you would circulate this to your friends and
+colleagues. 
+ 
+Thank you very much
+Will Noel
+The Walters Art Museum
+October 29th, 2008.
+  
+--===============4568630760921169817==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

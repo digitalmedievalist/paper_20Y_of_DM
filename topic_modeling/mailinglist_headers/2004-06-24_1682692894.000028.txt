@@ -1,0 +1,7 @@
+From: "Joris van.Zundert" <Joris.van.Zundert@niwi.knaw.nl>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+Date: Thu, 24 Jun 2004 10:21:44 +0200
+Message-ID: <s0daab4c.078@apps.niwi.knaw.nl>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7487650683382776257=="

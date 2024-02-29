@@ -1,0 +1,8 @@
+From: Dot Porter <dporter@uky.edu>
+To: dm-l@uleth.ca
+Subject: RE: [dm-l] Help in customizing the TEI DTD
+Date: Tue, 26 Apr 2005 15:56:48 -0400
+Message-ID: <200504261945.j3QJjJ426087@mr1.uky.edu>
+In-Reply-To: <1114423707.8430.39.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7760877721689358630=="

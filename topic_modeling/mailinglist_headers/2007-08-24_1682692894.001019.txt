@@ -1,0 +1,9 @@
+From: Peter Boot <pboot@xs4all.nl>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] Anybody use subversion with people who don't use command	lines?
+Date: Fri, 24 Aug 2007 10:05:00 +0200
+Message-ID: <46CE912C.9080405@xs4all.nl>
+In-Reply-To: <1187928895.11511.3.camel@localhost>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3138681729009673670=="

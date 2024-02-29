@@ -1,0 +1,79 @@
+--===============1095947665289390587==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+I wonder whether the discussion maybe has lost the original intention of=20
+Franz' question.I image his scenario as being this: he has a electronic resource with=20
+quotations from the bible which he might has marked up as=20
+@cRef=3D"#VUL_GN_20" or something like that. He wants to have these things=20
+turned into links (or tool tip content harvested from links, or index=20
+entries etc) in the publication of his resource. This should be done=20
+automatically and should result in URLs that would be stable over time.=20
+What he needs in order to get that, is something we would call "canonic=20
+URLs" which is a sort of a PURL.In an ideal world addresses like this would be available:
+         http://www.bible.org/vulgata/genesis/20Franz would generate links from his given information via xslt (or=20
+another technology) in the process of publishing and would rely on the=20
+stability of such a URL because as a PURL, the institution behind=20
+bible.org would guarantee for it. Technically there would be a resolver=20
+behind what only looks like an URL but is simply a given "name" in fact.=20
+And that resolver resolves to the actual technical address ...So if we'd take this ...
+    =20
+http://www.biblija.net/biblija.cgi?Bible=3DBible&m=3DGn+20&id38=3D1&id8=3D1&p=
+os=3D0&set=3D1&l=3Den&idp0=3D39&idp1=3D9
+the automatic creation of a link would be possible from=20
+@cRef=3D"#VUL_GN_20" but will the URL be stable over time? What will=20
+happen at the next technical changeover? Probably there will be no=20
+"biblija.cgi?" anymore ...This looks better:
+     http://www.bibleserver.com/ref/1020000#/text/VUL/1.Mose20
+Well, using this, Franz maybe should have had @cRef=3D"#VUL_1.Mose_20" in=20
+his data, but behold!, this works too:=20
+http://www.bibleserver.com/#/text/VUL/Genesis20 - so Franz' data is=20
+alright already. And these addresses may be stable for the future since=20
+with a good resolver would resolve these addresses strings to a=20
+different technical address if necessary.
+If you use a resolver anyway, of course, this would even be nicer:=20
+http://www.bibleserver.com/VUL/1.Mose20The question for the quality and reliability of the text remains. This=20
+is connected to the trustworthiness of the institution behind=20
+bibleserver.com.
+And an address like http://www.bibleserver.com/VUL/1.Mose20 has to be=20
+understood as a "default". So even more complex systems are possible=20
+here. If there were variant editions of the Vulgata from which texts=20
+have been taken, then http://www.bibleserver.com/VUL/1.Mose20 would just=20
+result in what would be stated to be the "canonic" version of that=20
+verse. But http://www.bibleserver.com/VUL/editionX/1.Mose20 would lead=20
+to a specific edition, and =20
+http://www.bibleserver.com/VUL/editionX/1.Mose20/image would lead to a=20
+digital image of the printed page instead of the "default" presentation=20
+of the text as text ...No need to say, that we want to have these "canonic addresses" not just=20
+for the bible but for potentially everything (that we want to talk about).Best, Patrick
+Am 29.06.2011 15:59, schrieb Charles E. Jones:
+> I have assembled links to everything cited in this thread in AWOL:
+> http://ancientworldonline.blogspot.com/2011/06/online-bible-tools.html
+>
+> I'll add others as I encounter them.  Please let me know if you have sugges=
+tions.
+>
+> -Chuck Jones-
+> ISAW - NYU
+>
+------------------------------------------------------------------------
+A) Cologne Center for eHumanities (CCeH) <http://www.cceh.uni-koeln.de/>=20
+(Secretary)
+B) DARIAH-DE (Digital Research Infrastructure for the Arts and=20
+Humanities) <http://de.dariah.eu/> (Research Associate)
+C) Humanities Computer Science, University of Cologne=20
+<http://www.hki.uni-koeln.de/> (Research Associate)
+D) Karl-Franzens-Universität Graz=20
+<https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenGrupp=
+e=3D3&pPersonenId=3D4FCE58FA6DC80118>=20
+(Guest Professor)
+E) Institut für Dokumentologie und Editorik <http://www.i-d-e.de> (Membe=
+r)Post: Historisch-Kulturwissenschaftliche Informationsverarbeitung,=20
+Universität zu Köln, Albertus-Magnus-Platz, D-50923 Köln
+Büro: Universitätsstr. 22, Dachgeschoss links
+Telefon: +49 - (0)221 - 470 1750
+------------------------------------------------------------------------
+Zur Person: http://www.uni-koeln.de/~ahz26=20
+<http://www.uni-koeln.de/%7Eahz26>--===============1095947665289390587==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

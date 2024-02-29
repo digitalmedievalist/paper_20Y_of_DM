@@ -1,0 +1,21 @@
+--===============2815205007824218202==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,I am happy to announce that the Proceedings of the Digital Humanities Congres=
+s 2012 are now available online. They include a paper I wrote on 3D and its i=
+mplications for studying and digitally preserving early illuminated manuscrip=
+ts http://www.hrionline.ac.uk/openbook/chapter/dhc2012-endres . The paper dis=
+cusses the high resolution, interactive 3D images of the 8th-century St Chad =
+Gospels https://lichfield.as.uky.edu and greatly expands on topics covered in=
+ my video http://youtu.be/ebr0HNnNNrs =E2=80=94 you might find the paper espe=
+cially helpful if you are using the 3D images as a way to engage students in =
+your teaching.The published proceedings include many fine papers, but Andrew Prescott write=
+s a particularly wonderful historical essay about DH as a space in which tink=
+ering, making and theory collide.All best,
+Bill--
+Bill Endres
+University of Kentucky
+Division of Writing, Rhetoric & Digital Media
+Lexington, KY 40506859-257-8337--===============2815205007824218202==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,26 @@
+--===============4744123973077134060==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit[On behalf of Elli Bleeker]Dear digital medievalists,**with apologies for the inevitable cross-posting**We are pleased to announce a three-day workshop "Code and Collation: 
+Training Textual Scholars" that takes place in Amsterdam (The 
+Netherlands) from 2 - 4 November 2016. The event is part of the DiXiT 
+network <http://dixit.uni-koeln.de/> and is hosted by the Huygens 
+Institute for the History of the Netherlands 
+<https://www.huygens.knaw.nl/?lang=en>. It brings together a group of 
+international experts from the fields of textual scholarship and 
+computer science.The workshop engages with the theory and practice of semi-automated 
+collation and provides an intense training in the open source collation 
+program CollateX. Participants will learn how to prepare source 
+materials, how to perform semi-automated collation using CollateX, and 
+how to inspect and modify the results; they will acquire or improve 
+computational skills relevant to textual criticism and in particular to 
+the production of scholarly editions.Registration is now open and free of charge. Early registration is 
+recommended since there are limited places available. Detailed 
+information can be found at the website: 
+https://sites.google.com/site/dixitcodingcollation/. For all questions, 
+do not hesitate to get in touch at dixitcollation[at]gmail[dot]com.We are looking forward to welcoming you in Amsterdam!On behalve of the organising committee,
+--Elli Bleeker
+University of Antwerp
+Centre for Manuscript Genetics--===============4744123973077134060==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

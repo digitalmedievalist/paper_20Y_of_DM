@@ -1,0 +1,8 @@
+--===============0492576374395277627==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitThe MUFI Project website (<http://helmer.aksis.uib.no/mufi/>) has links to
+sites of font designers and digital typographers working on fonts with
+medieval glyphs.They're at The font page (<http://helmer.aksis.uib.no/mufi/fonts.html>) but
+it might be interesting to check out the whole project.We are currently working on a first proposal of medieval characters (or
+characters for medievalists) to be presented to the Unicode Consortium.
+Susana T Pedro--===============0492576374395277627==--

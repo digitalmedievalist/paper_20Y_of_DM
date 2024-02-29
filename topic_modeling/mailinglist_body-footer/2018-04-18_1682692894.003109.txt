@@ -1,0 +1,74 @@
+--===============9140346282663054623==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,I'd like to take this opportunity to announce some open positions at =
+the University of Vienna, one of which is dedicated explicitly to Digital Hum=
+anities. Please forward to any likely candidates!Best wishes,
+Tara AndrewsUniv.-Prof. Dr. Tara L Andrews
+Digital Humanities
+Institut für Geschichte, Universität Wien
+Universitätsring 1, A-1010 Wien***Starting Date: May 1st, 2018
+Application deadline: April 30th, 2018
+Duration: 3 years
+http://datascience.univie.ac.at
+Job ad: https://tinyurl.com/ds-UniVieData Science @ Uni Wien is a new research platform at the University of Vienn=
+a that presents a hub on all activities in data science at the University of =
+Vienna. We have openings for five enthusiastic PhD students to establish an i=
+nterdisciplinary research environment. The PhD students will be hosted in one=
+ of the faculties of Computer Science, Mathematics, or Business, Economics an=
+d Statistics. Each of the PhD students will be co-supervised by members of at=
+ least two different faculties and work on research problems in one of five d=
+omains, Astronomy, Digital Humanities, Finance, Industry 4.0, Medical Science=
+s. The focus in these areas is described as follows:Astronomy is currently undergoing a data deluge with multiwavelength missions=
+ on earth and space. The focus of the PhD project in this area is the develop=
+ment of algorithmic and visual analysis techniques for the Gaia mission data,=
+ an ambitious ESA satellite currently charting a three-dimensional map of our=
+ Galaxy with accurate positions and velocities of about 2 billion stars. The =
+student will focus on large data exploration and data analysis to tackle astr=
+ophysical questions, making use of Data Science tools.The Digital Humanities area will have a particular focus on digital historica=
+l studies. The student will focus on the development of suitable data models =
+for information about historical people and cultures that is harvested from t=
+he digitisation of texts and artifacts. Another goal will be to look at how t=
+hese models, and machine learning techniques that make use of them, will coex=
+ist with the interpretative critical frameworks through which historical anal=
+ysis is usually done.Potential topics in the area of Finance are visual analysis tools for the ana=
+lysis of volatility, liquidity and market microstructure relations based on l=
+arge cross-sections of limit order book data. A second area will focus on the=
+ development and application of dimension reduction techniques for high-dimen=
+sional dependence and network structures. Among others, further topics will b=
+e the development of monitoring tools to analyze market dynamics around singu=
+lar events.In Industry 4.0, the production process in a shop floor consisting of cyber-p=
+hysical production systems produces huge amount of data. In addition a curren=
+t trend in modern societies is the increased need in personalized products. T=
+his aspect increases the number of different product variants and results in =
+smaller lot-sizes, which leads to a higher complexity and to dynamic processe=
+s. In such dynamic environments exceptions and disruptions are frequent and o=
+ften lead to unforeseen situations and possibly negative consequences. Hence,=
+ the PhD position focuses on detecting dynamic process changes or unexpected =
+disruptions early by exploiting the available data. Moreover, strategies to a=
+void negative impacts whenever such disruptions occur have to be developed. S=
+uch strategies may apply predictive methods for planning in advance or adopt =
+real-time planning approaches with the aim to revise the original plans quick=
+ly.In the area of Medical Sciences the goal is to develop new data analysis meth=
+ods supporting an integrative view on information originating from different =
+sources including medical imaging, genetic data, clinical biomarkers and demo=
+graphic data. We will particularly focus on clustering methods supporting the=
+ stratification of patient collectives with the long term goal of personalize=
+d medicine. As applications we will consider Alzheimer's disease and =
+breast cancer.
+Applications including:
+- Letter of motivation that clarifies the candidate's particular
+  domain(s) of interest and the target phd programme
+- Curriculum vitae
+- List of publications
+- Evidence of teaching experience (if available)
+- Degree certificates
+should be submitted via the Job Center to the University of Vienna (http://jo=
+bcenter.univie.ac.at) no later than Apr 30th, 2018, mentioning reference numb=
+er 8347._______________________________________________
+DS-Board mailing list
+DS-Board(a)lists.univie.ac.at
+https://lists.univie.ac.at/mailman/listinfo/ds-board
+--===============9140346282663054623==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,51 @@
+--===============8901181800062313216==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable**Apologies for cross-posting***
+=C2=A0
+Dearcolleagues,We arepleased to announce our DH(a)Madrid Summer School 2016 at LINHD-UNED fr=
+om 27 Juneto 1st July. This year the central topic is: =E2=80=9CDigital Techn=
+ologiesapplied to the study of poetry=E2=80=9D. It will cover different techn=
+ologies andapproaches to DH standards and methods, as TEI-XML, semantic web t=
+ecnnologies,and some smaller approaches to stylometry and R.=20The coursecan be followed in person or virtually (completely online!). Regist=
+ration isthe same in both cases, but virtual students will have streaming vid=
+eos andpresentations online.=20The courseis sponsored by HDH (Asociaci=C3=B3n Hisp=C3=A1nica de Humanidades =
+Digitales, www.humanidadesdigitales.org),AAHD (Asociaci=C3=B3n Argentina de H=
+umanidades Digitales) www.aahd.org, and DIXIT (Digital ScholarlyEditing Initi=
+al Training Network) www.dixit.uni-koeln.de.Members of all these groups will =
+receive a 10% discount over the registrationfees.=20Please,find attached the complete program and registration information:Dates: 27June to 1st July 2016Place: Sala S=C3=A1enz Torrecilla, Facultad de Econ=C3=B3micas, UNED,Madrid =
+=E2=80=93 or your own computer=E2=80=A6More informationregistration process and program:=20http://linhd.uned.es/p/dhsummer2016/Best regards
+=C2=A0
+Elena Gonz=C3=A1lez Blanco: egonzalezblanco(a)flog.uned.esGimena del Rio Riande: gdelrio.riande(a)linhd.uned.esClara Mart=C3=ADnez Cant=C3=B3n cimartinez(a)flog.uned.es
+=C2=A0
+Dpto. de Literatura Espa=C3=B1ola y Teor=C3=ADa de la Literatura,Despacho 722Facultad de Filolog=C3=ADa, UNEDPaseo Senda del Rey 7
+28040 MADRID
+tel. 91 3986873www.uned.es/remetca
+http://filindig.hypotheses.org/=C2=A0http://linhd.uned.eswww.uned.es/personal/elenagonzalezblanco@linhduned
+=C2=A0---
+**Disculpen la posible duplicidad de mensajes**Queridos amigos:Me complace anunciar que ya est=C3=A1 abierto el plazo para lainscripci=C3=B3=
+n en nuestro curso de verano de este a=C3=B1o =E2=80=9CTecnolog=C3=ADas aplic=
+adas alestudio de la poes=C3=ADa=E2=80=9D, organizado por LINHD en el marco d=
+e los cursos de veranode la UNED. Se trata de un curso de humanidades digital=
+es que, centr=C3=A1ndose enel tema del an=C3=A1lisis po=C3=A9tico, realizar=
+=C3=A1 un recorrido panor=C3=A1mico a trav=C3=A9s de lasprincipales tecnolog=
+=C3=ADas del =C3=A1mbito de las humanidades digitales, desde eletiquetado de =
+textos con XML-TEI, a la web sem=C3=A1ntica, introduciendo adem=C3=A1s laesti=
+lometr=C3=ADa y el procesamiento del lenguaje natural como tecnolog=C3=ADas q=
+ue,combinadas, pueden arrojar novedosos e incentivadores resultados deinvesti=
+gaci=C3=B3n.Se podr=C3=A1 seguir de forma presencial o virtual, en directo yen diferido, =
+con foros espec=C3=ADifiso para consulta con los profesrores.=20El curso est=C3=A1 patrocinado por la HDH (Asociaci=C3=B3n Hisp=C3=A1nica de =
+HumanidadesDigitales, www.humanidadesdigitales.org),la AAHD (Asociaci=C3=B3n =
+Argentina de Humanidades Digitales) www.aahd.org, y DIXIT (Digital Scholarly =
+EditingInitial Training Network) www.dixit.uni-koeln.de.Los miembros vinculad=
+os a alguna de estas organizaciones contar=C3=A1n con un 10% dedescuento adic=
+ional sobre el precio de la matr=C3=ADcula.=20Fechas: 27de junio al 1 de Julio de 2016Place: Sala S=C3=A1enz Torrecilla, Facultad de Econ=C3=B3micas, UNED,Madrid =
+=E2=80=93 o tu propio ordenador=E2=80=A6Moreinformation, matr=C3=ADcula y programa en:http://linhd.uned.es/p/dhsummer2016/=C2=A1Os esperamos!Elena Gonz=C3=A1lez Blanco: egonzalezblanco(a)flog.uned.esGimena del Rio Riande: gdelrio.riande(a)linhd.uned.esClara Mart=C3=ADnez Cant=C3=B3n cimartinez(a)flog.uned.es
+=C2=A0
+Dpto. de Literatura Espa=C3=B1ola y Teor=C3=ADa de la Literatura,Despacho 722Facultad de Filolog=C3=ADa, UNEDPaseo Senda del Rey 7
+28040 MADRID
+tel. 91 3986873www.uned.es/remetca
+http://filindig.hypotheses.org/=C2=A0http://linhd.uned.eswww.uned.es/personal/elenagonzalezblanco@linhduned
+--===============8901181800062313216==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

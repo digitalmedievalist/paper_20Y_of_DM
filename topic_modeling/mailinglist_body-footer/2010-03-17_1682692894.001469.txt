@@ -1,0 +1,37 @@
+--===============6643837149419940636==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitI've been struggling with the problem of laying out medieval poetry in 
+HTML using just CSS. The problem is with line numbers, which usually 
+appear to the left (sometimes to the right) of the poem; yet the left 
+margin of the poem should remain even, and lines should wrap nicely, 
+with extra space on the left after a wrap.Much, perhaps most of the poetry I've seen on the web is laid out with 
+tables, which is a bad hack, and less than ideal in several different 
+ways. For my online Old English anthology site I worked out a system 
+which is just barely okay: but it tends to fall apart under stress--i.e. 
+when a browser window is made too narrow. Since I've been trying to 
+format poetry so it displays well on an iPhone or other small screen, 
+this will not do.Here's my solution, with a screenshot. It still seems less than ideal, 
+and my question for anyone who has struggled to present medieval poetry 
+well on screen, is whether you have a system that is better and are 
+willing to share it here.My current solution involves enclosing each line in a div with class 
+"vl" (verse-line). *Numbered* lines, on the other hand, go in a div with 
+class "vln" (numbered-verse-line). The <div class="vln"> lines start 
+with a div containing the line number. So here:<div class="vl">
+hrēran mid hondum hrīmcealde sǣ,
+</div>
+<div class="vln">
+<div>5</div> wadan wræclāstas. Wyrd bið ful ārǣd.
+</div>Now the CSS:div.vl {margin-left:6em; text-indent: -2em;}
+div.vln {margin-left:6em; text-indent: -6em;}
+div.vln div {float:left; width:4em; color:black;}And that gives you something like the attached: good on an iPhone or a 
+computer (Firefox, Safari, Opera, *probably* IE but I haven't tested 
+there yet). I also have a variant for Old English hypermetric lines but 
+won't bore you with that.Things I don't like: having different classes for lines with and without 
+line numbers; having the line-number div inside the line div (the 
+alternatives I've tried tend to break *somewhere*). It would be nice if 
+the line numbers somehow escaped being copied to the clipboard with the 
+text, but that would surely be asking too much.If anyone is interested in sharing solutions, I'd be very grateful!Peter Baker
+--===============6643837149419940636==
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="iphone.jpg"

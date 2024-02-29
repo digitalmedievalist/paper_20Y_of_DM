@@ -1,0 +1,8 @@
+From: Murray McGillivray <mmcgilli@ucalgary.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] TEI page breaks, line breaks
+Date: Fri, 10 Sep 2004 11:30:59 -0600
+Message-ID: <4141E4D3.4010809@ucalgary.ca>
+In-Reply-To: <6.1.1.1.0.20040707081243.01d61ec0@pop.uvic.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7597923936186389060=="

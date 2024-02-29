@@ -1,0 +1,25 @@
+--===============3061082386085574101==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableThe Katholieke Universiteit Leuven announces a 2 year research fellowship, st=
+arting in October 2010, to work on a project entitled "The Tree of Texts: Tow=
+ards an empirical model for text transmission and evolution". This project wi=
+ll be carried out at the Faculty of Arts, under the supervision of Prof. Dr. =
+Caroline Mac=EF=BF=BD=EF=BF=BD.Profile
+The candidate has a PhD or a Master degree (with research experience) in a fi=
+eld of study related to computer sciences applied to the humanities. The cand=
+idate should be able to design a database, apply statistical tools, and draw =
+mathematical models. Some experience in digital philology would be an advanta=
+ge, but at least an interest in textual scholarship is required.Description of the work
+The first step in the research process will consist in creating a data base w=
+here data coming from different manuscript traditions in different languages =
+will be gathered and structured.
+The data will be analysed according to the following questions: what types of=
+ variations occur, can these types be divided into sub=EF=BF=BD\types, do all=
+ these variations occur in all types of texts / manuscripts, are some variant=
+s reversible and others irreversible, are there indisputable (objective) crit=
+eria to distinguish between "original" (or primary) readings and "derived" (o=
+r secondary) readings, etc.Applications (CV + motivation letter) and inquiries can be sent to Caroline.M=
+ace(a)arts.kuleuven.be--===============3061082386085574101==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

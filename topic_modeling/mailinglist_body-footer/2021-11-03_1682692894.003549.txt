@@ -1,0 +1,44 @@
+--===============7928802032731212254==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.
+Dear digital medievalists,the IDE is pleased to announce the fifteenth volume of our publication series=
+ on scholarly editing<https://www.i-d-e.de/publikationen/schriften/>. The vol=
+ume contains the updated versions of papers given at the 2019 conference in L=
+ausanne. We are happy that Elena Spadini and Francesca Tomasi organised this =
+great conference and edited the volume. You can order the paper version of th=
+e book (ISBN 978-3-7543-4369-2<https://www.bod.de/buchshop/graph-data-models-=
+and-semantic-web-technologies-in-scholarly-digital-editing-9783754343692> ) v=
+ia your prefered channel or wait for the digital open access version followin=
+g soon.The basics are:Graph Data-Models and Semantic Web Technologies in Scholarly Digital Editing,=
+ edited by Elena Spadini, Francesca Tomasi, and Georg Vogeler.  Norderstedt: =
+Books on Demand, 2021 (ISBN 978-3-7543-4369-2).Content:Preface
+Elena Spadini, Francesca Tomasi: Introduction (1-6)Infrastructures and Technologies
+Peter Boot, Marijn Koolen: Connecting TEI Content Into an Ontology of the Edi=
+torial Domain (9-29)
+Hugh Cayless, Matteo Romanello: Towards Resolution Services for Text URIs (31=
+-44)
+Iian Neill, Desmond Schmidt: SPEEDy. A Practical Editor for Texts Annotated W=
+ith Standoff Properties (45-54)
+Miller C. Prosser, Sandra R. Schloen: The Power of OCHRE's Highly Ato=
+mic Graph Database Model for the Creation and Curation of Digital Text Editio=
+ns (55-71)
+Georg Vogeler: =E2=80=9CStanding-off Trees and Graphs=E2=80=9D: On the Afford=
+ance of Technologies for the Assertive Edition (73-94)Formal Models
+Hans Cools, Robert Padlina: Formal Semantics for Scholarly Editions (97-124)
+Francesca Giovannetti: The Critical Apparatus Ontology (CAO): Modelling the T=
+EI Critical Apparatus as a Knowledge Graph (125-139)Projects and Editions
+Toby Burrows, Matthew Holford, David Lewis, Andrew Morrison, Kevin Page, Atha=
+nasios Velios: Transforming TEI Manuscript Descriptions into RDF Graphs (143-=
+154)
+Stefan Münnich, Thomas Ahrend: Scholarly Music Editions as Graph: Semant=
+ic Modelling of the Anton Webern Gesamtausgabe (155-180)
+Colin Sippl, Manuel Burghardt, Christian Wolff: Modelling Cross-Document Inte=
+rdependencies in Medieval Charters of the St. Katharinenspital in Regensburg =
+(181-203)Appendices
+Biographical NotesHere you can find further details<https://www.i-d-e.de/publikationen/schrifte=
+n/bd-15-graph-data-models/>.--===============7928802032731212254==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

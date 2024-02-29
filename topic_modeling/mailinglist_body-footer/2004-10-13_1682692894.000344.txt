@@ -1,0 +1,16 @@
+--===============3228753360679999633==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitSomething for us? Not really a standards-based question, but I'm sure a 
+fairly common problem.-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+E-mail <daniel.odonnell(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>--===============3228753360679999633==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="NeedaWord-filessearchutility.eml"

@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Administration: Sorry about MIME attack; all messages with
+ attachments will now be rejected
+Date: Thu, 22 Jul 2004 03:38:01 -0600
+Message-ID: <1111.195.241.65.20.1090489081.squirrel@195.241.65.20>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8446269866850144442=="

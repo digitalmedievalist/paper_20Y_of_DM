@@ -1,0 +1,62 @@
+--===============0974042243274724291==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Daniel,I understand your question of 'preservation of digital content'. As far as my=
+ memory serves, it seems to be a Microsoft specific problem. DOC format, nati=
+ve to MS, has gone through two 'major' changes in the last two decades, as MS=
+ Word goes on improving. The .doc file created by Word 97 was unreadable on o=
+lder versions; but the one created by Word 95 and older was readable on Word =
+97. It's called downward-compatibility, designed to serve 'business ethic' fo=
+r not ruining the valuable digital content. The same problem happened again w=
+hen Word 2007 was released. Word 2007 is downward-compatible, whilst Word 200=
+7's specific doc files are unreadeable on Word 2003. However, I have no idea =
+whether Word 2007 reads the doc files before Word 97 or not.=20Other popular formats have also gone through improvements, though compatibili=
+ty issues are barely heard. I remember when I opened a PDF file created by ne=
+wer version of Photoshop with an older version programme, the file was proper=
+ly opened despite the message 'Some information will lose, etc'. That's why I=
+ say the compability issue is probably a MS specific issue.I think, the life of a popular file format, e.g. jpg or mpg, is rather long. =
+There was a debate over compatibility when MS was planning its 2nd generation=
+ GUI, i.e. Win 95, to succeed Win 3.x. They seem to have come to an agreement=
+ about downward-compatibility, as stated. That's why many 20-yr old formats a=
+re still in use and 20-yr old files of those formats are still readable. For =
+example, JPEG format was there when I was in high school. Now I have no diffi=
+culty reading those archaic files on this computer, though their 65k-colour p=
+alette violates my eyes.=20I wish I can say something about XML, which is way too modern for a historian=
+, um, politically. Personally I like databases and .txt format more than new =
+standards, only because I am used to them.So far CD and DVD are the most reliable media. Their life span is longer than=
+ 15 years as long as they are treated tenderly. Hard Drive is efficient when =
+it is cool. It, however, can turn into a nightmare when it is naughty. That's=
+ why IT experts suggest everybody to make backup CD/DVDs of the HD. Older har=
+ddisks are useable as long as they are with IDE interface and NOT broken. The=
+ average life span of the older generation HD, says, 20G, is like 5 years. Do=
+n't shake it and don't feed it water, it may live longer. It is hard to tell =
+how long IDE interface will survive though, as SATA is getting popular. ZIP d=
+rives! It was out in the market for maybe a half year? It was gone immediatel=
+y when CD-R was commercialised. Magnetic tapes were terminated by CD-R, too. =
+Whatever media you use, regular backup is the rule. Hope this helps.
+Best wishes=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3DGerald LiuPhD student in medieval history, Durham
+Working on late medieval manorial management and farm workers.
+Personal website http://www.durham.ac.uk/gerald.liu/-----Original Message-----
+From: dm-l-bounces(a)uleth.ca on behalf of Daniel Mondekar
+Sent: Thu 29/07/2010 00:12
+To: dm-l(a)uleth.ca
+Subject: [dm-l] Question about preservation of digital content
+=20
+Dear Digital Medievalists and TEI members,=20I have a question about preservation of digital content especially medieval
+manuscripts. I am writing a small article on the topic and I have consulted
+a lot sources (papers, handbooks) but most of them do not say anything about
+the "life span" of the data in specific formats. To clarify this - a .doc
+file crated in 1995. Will be most likely unreadable  in 2010.  What about
+other formats? Has anyone done some research on "life span" of a specific
+version of digital formats and when it becomes clear that the new version
+and the old one are not compatible anymore? And here I am talking about pdf,
+rtf, doc (and all office files), djvu, tiff, jpg , mpg etc. (texts and
+images especially)=20In my work I am also making a small remark on XML as a data container since
+it is, in my opinion, the best way to go and the standard will surely be
+around for years. But what kind of steps do you make to ensure the
+preservation of documents that have been encoded in xmlI would also like to hear if there are opposing views on xml.I also have the same question about the media. I found some research about
+the longevity of CDs and DVDs but I am also interested in other media like
+older hard disks, zip drives and magnetic media.I am sorry to bother you with this, but I can use any help I can get=20Thank you in advanceDaniel Mondekar=20=20--===============0974042243274724291==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

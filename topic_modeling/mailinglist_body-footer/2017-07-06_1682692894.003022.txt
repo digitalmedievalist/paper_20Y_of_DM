@@ -1,0 +1,25 @@
+--===============0112371580209537403==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitInstitute of Classical Studies
+Senate House, Malet Street, London WC1E 7HU
+Friday July 7, 2017 at 16:30 in room 234*Collation Visualization*
+*Helping Users to Explore Collated Manuscripts*Elisa Nury (King’s College London)The comparison of manuscripts and recording of variant readings is an
+essential, but challenging task towards the preparation of a scholarly
+edition. A large amount of detailed data is collected during collation, and
+needs to be analysed and visualized. In the recent years, the use of
+digital format has been increasingly incorporated within the collation
+workflow: from writing down variants in Word or Excel documents to adopting
+complex automated collation tools such as CollateX. This presentation will
+focus on a method to help scholars and readers visualize collation results
+of a Latin text in a digital format.Seminar will be livecast at: https://youtu.be/1YB_mFJ9SlQFull abstract: http://www.digitalclassicist.org/wip/wip2017-06en.htmlALL WELCOME-- 
+Simona Stoyanova
+Research Fellow
+COACS projectInstitute of Classical Studies
+University of London
+Senate House
+Malet Street
+London WC1E 7HUEmail: simona.stoyanova(a)sas.ac.uk
+Tel: +44 (0)20 7862 8724 <+44+%280%2920+7862+8724>--===============0112371580209537403==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

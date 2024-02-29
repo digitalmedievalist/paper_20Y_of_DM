@@ -1,0 +1,173 @@
+--===============8034940360618172458==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitLet me second Peter's points here, especially about the scandalously 
+underused aspect of repositories.Something else to think about, which a number of journals are now in the 
+process of considering, is /publishing/ your data. At Digital 
+Medievalist and at Digital Studies (two journals I'm associated with) 
+the editorial boards are trying to work out the best way of doing this, 
+as well as discussing its implications for peer review and quality 
+assurance. I understand that Digital Humanities Quarterly has already 
+started publishing datasets (and in fact I have an action item on me to 
+find out how they've resolved some of these issues). The Journal of Open 
+Archaeology Data (JOAD) is a commercial project that is already handling 
+things like transcriptions, visualisation sets, scans, and the like, 
+though I'm told they have pretty significant page charges.Publishing data means that it is citable as well as reusable, and the 
+journals that are publishing them are using adherence to archival 
+standards as a refereeing criteria. JOAD requires you to have put your 
+data in a repository and received a DOI (Digital Object Identifier), 
+which you then pass on to them. If your institutional repository doesn't 
+give datasets DOIs (ours doesn't, unfortunately), an alternative is to 
+submit your datasets to figshare.com, which is a free repository service 
+that will give out DOIs. My only concern about figshare is that is is 
+run by a recent postdoc and I'm not sure what his long-term preservation 
+strategy is.One reason for publishing datasets is that it means they are 
+discoverable: I heard a talk by a data librarian at Beyond the PDF2 this 
+past Spring in Amsterdam that examined all references to publicly 
+available datasets mentioned in articles since 1990 or so in some 
+specific natural science discipline: 90% were now irrecoverable, mostly 
+because the URLs were broken: the PIs had died, changed institutions, or 
+reorganised their webspace, without indicating where the material had moved.If somebody is interested in publishing citable datasets along the lines 
+of JOAD, I believe that both DM-J (the Digital Medievalist Journal) and 
+Digital Studies are interested in experimenting. This is a very hot 
+topic in publishing circles, and it is gaining some traction in DH, 
+where we lag behind the natural scientists.
+On 13-06-21 11:05 AM, Peter Robinson wrote:
+> HI David
+> I think you are hitting upon a very sore point in the DH/editorial 
+> communities.  We have had editorial projects launched all over the 
+> place, with great enthusiasm and often, substantial funding.  Many now 
+> face exactly the problem you outline: what happens after the 
+> PI/institution move on?
+> So, here are three things you can do which will help immensely:
+> 1.  Explicitly declare all your materials as Creative Commons 
+> Share-alike attribution: that is, **without** the 'non-commercial' use 
+> restrictions so often (and wrongly) imposed by many projects.
+> 2.  Place the data, so licensed, on any open server.  The Oxford Text 
+> Archive is, after so many years, still the best place I know to put 
+> your data.
+> That alone should be enough to make your data live forever.  And 
+> wonderfully, these two options will cost you not a cent, and maybe 
+> just  a few hours of your time to deal with the OTA deposit pack.
+>
+> Optionally, you could also:
+> 3.  Place the data within an institutional repositiory.  This gives 
+> you the option to use the IR tools to construct an interface, and 
+> provide basic search and other tools.  In my mind, this option has 
+> been scandalously underused by DH projects, for reasons which might be 
+> the subject of another post.  But this does provide the opportunity 
+> for you to present your project in a way that will connect its 
+> metadata with the whole world of OASIS etc tools, and offer a 
+> sustainable interface.  The University of Birmingham Research Archive 
+> gives some idea of how this might work: see (for example) the entries 
+> for the Mingana collection (eg http://epapers.bham.ac.uk/84/) and 
+> Codex Sinaiticus ( http://epapers.bham.ac.uk/1690/).
+>
+> There is another answer:
+> 1.  Keep the 'non-commercial' licence restriction on your data.  You 
+> can thereby claim that you are allowing all your fellow academics to 
+> use it freely, while (if you choose) not actually making it freely 
+> available outside your interface.
+> 2.  Create an elaborate and very attractive interface to your data
+> 3.  Persuade your university, or someone, to set up a DH centre, with 
+> a minimum staff of a director and programmer, space and dedicated 
+> equipment (say, 100K a year if you can swing this with part-time staff 
+> etc).  This DH centre will then have the task of maintaining your data 
+> (which of course, only the centre has), interface and project.  This 
+> centre can then deal with all the issues you raise in your post.
+> 4.  Persuade your university, or someone, to support data, interface 
+> and project, in perpetuity
+>
+> Well, good luck with that!
+>
+> Peter
+>
+>
+> On 20 Jun 2013, at 23:28, Michelson, David Allen wrote:
+>
+>> Dear Colleagues,
+>>
+>> I'd like to add a follow up question to this very informative discussion.
+>>
+>> I am also in the process of building a DH sub-community for a 
+>> specific disciplinary niche.
+>>
+>> I would like to ask your advice on governance and standards.
+>> I am looking for models and best practices to ensure long term 
+>> sustainability of my collaborative DH project once it hopefully 
+>> outgrows its incubation stage.
+>> Could you please point me to long running DH projects whose protocols 
+>> for governance, editorial oversight, institutional ownership/hosting 
+>> I might emulate? I am thinking of medium sized DH projects as models, 
+>> so bigger than one scholar publishing a digital project, but much 
+>> smaller than the TEI consortium or Digital Medievalist.
+>> Given the concerns over sustainability inherent in DH, I am also 
+>> interested in advice on how to transition a project from the stage 
+>> where a grant-funded PI is the leader in getting content online to 
+>> where a volunteer editorial board (and institutional hosts) maintain 
+>> a project longer term. Also, how do DH projects handle the 
+>> preservation of content for such a project? The data will be licensed 
+>> open source, but who should hold the copyright and renew the domain 
+>> name after the project is launched? A university library? An 
+>> s-corporation independent of any institution (like some non-profit 
+>> scholarly journals or professional societies)? the public domain, the 
+>> original scholarly contributors?
+>> Please suggest links to examples to follow from existing projects if 
+>> you are aware of them.
+>> Thank you!
+>>
+>> Dave
+>>
+>> David A. Michelson
+>>
+>> Assistant Professor
+>> Vanderbilt University
+>> www.syriaca.org <x-msg://1255/www.syriaca.org>
+>>
+>>
+>> Digital Medievalist -- http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org 
+>> <http://digitalmedievalist.org>
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=49320313760
+>> Discussion list: dm-l(a)uleth.ca <mailto:dm-l(a)uleth.ca>
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+> Peter Robinson
+>
+> Honorary Research Fellow, ITSEE, University of Birmingham, UK
+>
+> Bateman Professor of English
+> 9 Campus Drive, University of Saskatchewan
+> Saskatoon SK S7N 5A5, Canada
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l-- 
+---
+Daniel Paul O'Donnell
+Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Canada+1 403 393-2539
+--===============8034940360618172458==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

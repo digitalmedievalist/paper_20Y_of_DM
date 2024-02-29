@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] [Technical]: Suggestions for a replacement for Subversion?
+Date: Mon, 29 Dec 2014 14:49:59 -0700
+Message-ID: <54A1CC87.20709@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1680611744371233691=="

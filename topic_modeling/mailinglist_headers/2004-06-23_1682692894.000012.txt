@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@ota.ahds.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+Date: Wed, 23 Jun 2004 17:36:56 +0100
+Message-ID: <Pine.LNX.4.58.0406231723370.8785@crow.linux.ox.ac.uk>
+In-Reply-To: <40D9ADDF.8080702@computing-services.oxford.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6213687412855093383=="

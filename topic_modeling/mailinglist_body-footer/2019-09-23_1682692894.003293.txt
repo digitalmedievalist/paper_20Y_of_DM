@@ -1,0 +1,44 @@
+--===============7516465965687661356==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,
+Please consider applying to present at our Growing Corpora conference (24-25 =
+June 2020).As explained in the call for papers below, we want to hear your experiences i=
+n growing an online corpus (regardless of language).Thank you for forwarding this message to interested participants.On behalf of the entire Database of Byzantine Book Epigrams team,
+Ilse De VosCall for Papers
+GROWING CORPORA
+Byzantine Book Epigrams and Online Text Collections
+________________________________Ghent, 24-25 June 2020Since 2010, the Database of Byzantine Book Epigrams team (that is: we) have b=
+een growing an online corpus of metrical paratexts, several of which were pre=
+viously unpublished or unknown altogether, and made them freely available to =
+the scholarly community (that is: you).A new version of our database (https://www.dbbe.ugent.be<https://www.dbbe.uge=
+nt.be/>) was launched in June 2019. Exactly one year later, we are organising=
+ a two-day conference. Together with anyone interested in this particular gen=
+re of Byzantine poetry, we want to celebrate and reflect on what we have achi=
+eved so far and look ahead at what is =E2=80=93 hopefully! =E2=80=93 yet to c=
+ome. Moreover, we want to stimulate communication and collaboration with othe=
+r projects that are growing online corpora of texts.You can partake in two different types of sessions.In our demo sessions you can present your project and discuss your experience=
+s in growing your online corpus (10-15 minutes). We are confident this will l=
+ead to a lively discussion on challenges we all face, such as data presentati=
+on, interoperability, and sustainability.In our thematic sessions you can present your research on Byzantine book epig=
+rams (20 minutes). Possible topics include:  *   editing book epigrams;
+  *   theoretical reflections on the concept of book epigrams and other metri=
+cal paratexts;
+  *   book epigrams as a way to study the history of manuscripts;
+  *   visual aspects of book epigrams;
+  *   literary texts that function (or may have functioned) as book epigrams;
+  *   metre and language of book epigrams;
+  *   book epigrams in languages other than Greek.We especially welcome contributions inspired by the Database of Byzantine Boo=
+k Epigrams.Confirmed speakers<https://www.dbbe2020.ugent.be/programme/> include Georgi P=
+arpulov (University of Birmingham) and Andreas Rhoby (Austrian Academy of Sci=
+ences).Interested? Send us an abstract (up to 300 words, PDF) by 15 November 2019 (d=
+bbe(a)ugent.be<mailto:dbbe(a)ugent.be>, subject =E2=80=9CGrowing Corpora =E2=
+=80=93 abstract=E2=80=9D) and we will get back to you early December.Note that we want our conference to reflect who we are as a team<https://www.=
+dbbe.ugent.be/pages/team>: welcoming and inclusive. Costs will be kept to a m=
+inimum and we are working hard to secure funding to support anyone for whom t=
+raveling might not be evident, including early career or independent scholars=
+ and carers of young children.For any further information, please visit our conference website (https://www=
+.dbbe2020.ugent.be<https://www.dbbe2020.ugent.be/>).
+--===============7516465965687661356==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

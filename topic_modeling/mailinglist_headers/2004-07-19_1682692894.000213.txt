@@ -1,0 +1,8 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Encoding maps and other such objects
+Date: Mon, 19 Jul 2004 12:29:49 +0100
+Message-ID: <BD216F3D.10D88%peter.robinson@dmu.ac.uk>
+In-Reply-To: <BD19C13E.10CE3%peter.robinson@dmu.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8222555004362672444=="

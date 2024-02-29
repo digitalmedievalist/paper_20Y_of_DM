@@ -1,0 +1,23 @@
+--===============1834768026472485183==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitI know some people on this list have been developing tools. There is
+also a session on manuscript encoding going on.Since this is the first TEI meeting to have a conference type set of
+sessions, we are quite keen on getting good papers in--and can afford to
+be a little gracious about deadlines. Let me encourage you to consider submitting abstracts on markup if you
+have some interesting ideas--it ain't every day one gets an audience of
+people who *want* to hear the gory details of your encoding, after
+all ;)If you have an idea for a markup paper but don't know where to submit,
+let me know and I'll help you find the right person.-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Chair, Text Encoding Initiative <http://www.tei-c.org/>
+Director, Digital Medievalist Project <http://www.digitalmedievalist.org/>
+Associate Professor and Chair of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Vox: +1 403 329 2378
+Fax: +1 403 382-7191
+Homepage: http://people.uleth.ca/~daniel.odonnell/--===============1834768026472485183==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

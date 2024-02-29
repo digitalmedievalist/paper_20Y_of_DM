@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] open source XML-editor?
+Date: Fri, 25 Nov 2005 19:52:02 +0100
+Message-ID: <1132944722.11359.11.camel@localhost.localdomain>
+In-Reply-To: <4387518E.7010407@gmx.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2494604319711278243=="

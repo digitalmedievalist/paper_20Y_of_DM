@@ -1,0 +1,8 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Another digital publication (a slight reprise, of what XSLT cannot do)
+Date: Sat, 23 Apr 2005 13:00:49 +0100
+Message-ID: <39044.82.3.32.76.1114257649.squirrel@82.3.32.76>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7394320344777452687=="

@@ -1,0 +1,7 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] tex, unicode, etc
+Date: Mon, 04 Apr 2005 23:11:45 +0100
+Message-ID: <64254.82.3.32.76.1112652705.squirrel@82.3.32.76>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1175452345019531667=="

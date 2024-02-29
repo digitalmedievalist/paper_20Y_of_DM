@@ -1,0 +1,21 @@
+--===============3501407830056976512==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear Digital Medievalists and TEI members, I have a question about preservation of digital content especially medieval
+manuscripts. I am writing a small article on the topic and I have consulted
+a lot sources (papers, handbooks) but most of them do not say anything about
+the "life span" of the data in specific formats. To clarify this - a .doc
+file crated in 1995. Will be most likely unreadable  in 2010.  What about
+other formats? Has anyone done some research on "life span" of a specific
+version of digital formats and when it becomes clear that the new version
+and the old one are not compatible anymore? And here I am talking about pdf,
+rtf, doc (and all office files), djvu, tiff, jpg , mpg etc. (texts and
+images especially) In my work I am also making a small remark on XML as a data container since
+it is, in my opinion, the best way to go and the standard will surely be
+around for years. But what kind of steps do you make to ensure the
+preservation of documents that have been encoded in xmlI would also like to hear if there are opposing views on xml.I also have the same question about the media. I found some research about
+the longevity of CDs and DVDs but I am also interested in other media like
+older hard disks, zip drives and magnetic media.I am sorry to bother you with this, but I can use any help I can get Thank you in advanceDaniel Mondekar  
+--===============3501407830056976512==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,7 @@
+From: Gabriel BODARD <Gabriel.bodard@sas.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Digital Classicist seminar: Reading text with GIS
+Date: Mon, 20 Jun 2016 18:32:37 +0100
+Message-ID: <cc34ced3-d651-10da-9865-a173d1771826@sas.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2807564548380359462=="

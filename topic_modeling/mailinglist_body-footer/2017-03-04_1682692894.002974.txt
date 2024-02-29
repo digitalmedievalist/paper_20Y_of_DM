@@ -1,0 +1,41 @@
+--===============8444322744981635632==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitFYI====ANNOUNCING THE LAUNCH OF REED ONLINEThe Records of Early English Drama (REED) project is delighted to announce
+the launch of *REED Online* (http://ereed.library.utoronto.ca), its new
+open-access website. The site features REED's first digital edition of
+dramatic records for the county of Staffordshire, encoded in TEI. Easily
+searched with a number of useful filters, online records appear
+conveniently on the same page as their translations, document descriptions,
+and any glosses or related endnotes. GIS mapping based on the *Patrons and
+Performances* map of historic county boundaries and main roads illuminates
+significant details further. For students and those new to records
+research, search tips, an introduction to the research process, and an
+anatomy of a sample record provide a welcoming guide.The *Staffordshire* records, edited by J.A.B. Somerset, are found in
+scattered collections, but they yield fascinating glimpses of early social
+and economic history through accounts of public performances, social
+occasions, royal welcomes, folk customs, and professional entertainments. A
+few examples highlight the richness of the collection, which includes two
+royal visits – by Queen Elizabeth in 1576 and, more extensively, King James
+I in 1615. The records of Tutbury, whose castle was a major administrative
+centre for the household of John of Gaunt, show us from 1380 a flourishing
+Minstrel Court while the accounts of Burton Manor, home to Thomas, Lord
+Paget reveal an Elizabethan household filled with music, playing, and
+revels. By contrast, Newcastle under Lyme sources record evidence of
+implacable hatred of players, levying large fines upon persons who allowed
+playing, and firing the town constable for turning a blind eye. For those
+interested in tracking the itineraries of professional troupes across the
+kingdom, new details of performance troupes visiting Stafford and Walsall
+as well as the private residences of Beaudesert, Blithfield, and Burton
+will be important.*Staffordshire* is REED's pilot digital publication, with more collections
+forthcoming on the same website to enable easy cross-collection searching.
+As REED begins planning for the production of the next collection for the
+county of Berkshire, the integration of *Patrons and Performances* data,
+and the further development of *REED Online*, it welcomes all comments and
+suggestions from users. Please send any feedback to REED’s project manager,
+Carolyn Black, at ca.black(a)utoronto.ca.REED gives special thanks to the Social Sciences and Humanities Research
+Council of Canada for a Connection grant that has made possible development
+of our digital publishing framework for *REED Online*.
+--Dr James Cummings, Academic IT Services, University of Oxford--===============8444322744981635632==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

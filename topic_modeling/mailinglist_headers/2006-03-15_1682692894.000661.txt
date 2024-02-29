@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+Date: Wed, 15 Mar 2006 08:29:12 -0700
+Message-ID: <1142436552.30191.20.camel@localhost.localdomain>
+In-Reply-To: <44182911.4070109@oucs.ox.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9066738135430860844=="

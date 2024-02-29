@@ -1,0 +1,32 @@
+--===============1339187686442151990==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear all,I wonder if anyone can help me with the following problem. I am tagging
+Arabic texts (classical Arabic sources, mostly biographical dictionaries and
+chronicles) to be converted into XML format for the following analysis.
+Currently I am doing that in MS Word 2007, which, despite all improvements,
+does not handle long text files well and crashes from time to time. I was
+desperately trying to find a good alternative, but did not succeed so far. I
+need a text editor which have/do the following:   - Support for bi-directional text and Unicode;
+   - Support for large text files (mine are not too big, but may go up to
+   20Mb of TXT in UTF-8; Yaqut’s *Mu‘jam al-Buldan* is ~9Mb, Ibn
+‘Imad’s *Shadharat
+   al-Dhahab* is ~8Mb; Ibn al-Jawzi’s *al-Muntazam* is 12Mb);
+   - Changing Font and its Size;
+   - Custom Highlighting: an editable list of symbols and phrases (in
+   Arabic) to be highlighted for visibility. The sources I work with have a
+   number of technical topoi (most obvious examples are the words like bab,
+   fasl, harf etc.) that mark the structure of the book as well as
+   transition points between information of different kind (for example, in
+   al-Sam‘ani’s *Kitab al-ansab* the explanation of most of nisba names
+   begins with phrases like wa-hadhihi-l-nisba ila and ends with wa-l-mashhur
+   bi-hadhihi-l-nisba, or wa-ilay-ha, or wa-ntasaba[t] ila etc.). Having
+   them highlighted makes the structure of the test highly visible and tagging
+   process much faster and easier.
+   - The editor should be stable and fast.I will deeply appreciate any comments and suggestions.Best regards,
+Maxim G. RomanovPhD Candidate in Arabic & Islamic Studies
+Department of Near Eastern Studies
+University of Michigan
+Ann Arbor, MI, U.S.A.--===============1339187686442151990==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

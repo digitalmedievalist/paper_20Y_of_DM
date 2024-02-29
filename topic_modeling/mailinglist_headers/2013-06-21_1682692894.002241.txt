@@ -1,0 +1,9 @@
+From: Peter Robinson <P.M.Robinson@bham.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] How to make your data live forever (and maybe your project?)
+Date: Fri, 21 Jun 2013 13:05:25 -0400
+Message-ID: <D1D0B962-735D-4762-905C-69F213FA0CB7@bham.ac.uk>
+In-Reply-To:
+ <6A3DE317BCD6A54596FBD23EB47317371CA53858@ITS-HCWNEM108.ds.vanderbilt.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0062524129600505225=="

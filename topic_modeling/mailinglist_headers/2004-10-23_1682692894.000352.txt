@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Autoinstall for fonts
+Date: Sat, 23 Oct 2004 18:27:46 -0600
+Message-ID: <417AF702.4060908@uleth.ca>
+In-Reply-To: <B0069049197@mail10.nshosts.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0917848379551996854=="

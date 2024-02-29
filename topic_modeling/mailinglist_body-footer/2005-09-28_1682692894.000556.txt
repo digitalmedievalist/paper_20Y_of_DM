@@ -1,0 +1,5 @@
+--===============5917738650080723562==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi all, I just discovered xsltproc in linux. Does anybody know what XSL
+process it is? It seems quite good. Is there a reason not to prefer it
+to Saxon?-dan--===============5917738650080723562==--

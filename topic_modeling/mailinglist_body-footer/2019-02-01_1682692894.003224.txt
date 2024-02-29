@@ -1,0 +1,27 @@
+--===============2113252044779158389==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitReminder DH Awards 2018 nominations are closing 2019-02-03. If you don't
+nominate it, it doesn't end up on the ballot!====
+[Please forward]
+DH Awards 2018 – Call For NominationsThere are translations of this call are available in Chinese (Traditional
+and Simplified),  French, Japanese, Portuguese and Spanish (from the
+website).The annual open DH Awards 2018 is now accepting nominations! Please
+nominate any Digital Humanities resource in any language that you feel
+deserves to win in any of this year’s categories. The open DH Awards 2018
+are openly nominated by the community and openly voted for by the public as
+a DH awareness activity. Although the working language of DH Awards is
+English, nominations may be for any resource in any language. Awards are
+not specific to geography, language, conference, organization or field of
+humanities. There are no financial prizes, just the honour of having won
+and an icon for your website.Nominations will be open until *2019-02-03*. Voting will take place shortly
+after.Please note that the nominations must be for projects/resources/sites that
+were launched/finished/update/created in 2018.The categories for the open Digital Humanities Awards 2018 are:   - Best Use of DH for Fun
+   - Best DH Data Visualization
+   - Best Exploration of DH Failure
+   - Best DH Blog Post or Series of Posts
+   - Best Use DH Public Engagement
+   - Best DH tool or Suite of Toolshttp://dhawards.org/dhawards2018/nominations/
+Many thanks,James--===============2113252044779158389==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

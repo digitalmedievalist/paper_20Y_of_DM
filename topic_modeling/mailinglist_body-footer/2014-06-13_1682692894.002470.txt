@@ -1,0 +1,29 @@
+--===============8963298419324109361==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Mr Kindermann,=20
+Thank you again for the feedback! The Verba list contains indeed a number of =
+medieval graphical variants, but sadly not all of them. Please take notice th=
+at diphtongues are rendered the medieval way, with a simple "e", so you will =
+find "celum" but not "coelum", "ecclesia" but not "aecclesia", etc.=20
+But "Ihesus" and "michi" are perfect examples of medieval particularities tha=
+t should be available in Enigma, and I have just added them :) If you spot ot=
+her words and forms that should be added, please do not hesitate to report th=
+em to me.=20
+Best regards,=20
+Marjorie Burghart=20
+----- Mail original -----De: "Udo Kindermann" <udo.kindermann(a)uni-koeln.de>=20
+=C3=80: "Burghart Marjorie" <marjorie.burghart(a)ehess.fr>=20
+Cc: dm-l(a)uleth.ca=20
+Envoy=C3=A9: Jeudi 12 Juin 2014 23:27:31=20
+Objet: New resource: Enigma - Unpuzzling difficult Latin readings in medieval=
+ manuscripts=20Madame,=20Thank you for your quick response.=20When reading >characters< in your directions for the use of >Enigma<, I had i=
+n mind ascii characters and things of that sort (that include blanks, e.g.). =
+Now I see that in >Enigma< dots stand for letters. But when seeking, e.g., >s=
+ic ut<; >simul ac< or >pro dolor<, I can obviously do it by putting an asteri=
+sk instead of a dot for a blank (sic*ut; simul*ac; pro*dolor).=20As a Medieval Latinist, I am glad to find yronia, karitas, nichil (not so aec=
+clesia, michi, Ihesus, coelum, which are >possible Latin forms< in medieval m=
+anuscripts).=20Your tool runs very fast.=20Thank you again for putting it online.=20Best, Udo Kindermann=20Dr Udo Kindermann=20Professor emerit. of Medieval Latin=20University at Cologne=2050923 Köln=20Germany=20
+--===============8963298419324109361==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

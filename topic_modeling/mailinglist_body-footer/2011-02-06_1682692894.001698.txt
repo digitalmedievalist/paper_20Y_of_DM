@@ -1,0 +1,23 @@
+--===============2671541073005015243==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableOn (1), I use command-line SVN so I have no advice on that (though AFAIR ther=
+e's nothing Tortoise-like for OS X). The things I found with a Google search =
+are the same things you will have found and I have no experience with them.But on (2), the happy news is that this Unicode navigator is built into the O=
+S and is one of my favorite ways to browse Unicode. In System Preferences->La=
+nguage & Text->Input Sources, simply check two boxes: "Keyboard & Character V=
+iewer" at the top of the input method list on the left, and "Show Input menu =
+in menu bar" at the bottom right. Then whenever you need a Unicode character,=
+ select "Show Character Viewer" from the input menubar. By default it browses=
+ by human-readable script/glyph categories that do not exactly correspond to =
+the Unicode code tables, but changing the "View:" mode to "Code Tables" you c=
+an see the familiar ranges like "20D0 Combining Mark for Symbols; 2100 Letter=
+like Symbols" etc. You can also search by a string match against the long Uni=
+code name, or by similar shapes.O.On Feb 6, 2011, at 3:02 PM, O'Donnell, Dan wrote:
+>=20
+> 2) Unicode navigator--is there a standard code point navigator for Mac? Alm=
+ost right away we're going to have her putting in some greek and mathematical=
+ symbols in an article: is there a utility for browsing and search code point=
+s?--===============2671541073005015243==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

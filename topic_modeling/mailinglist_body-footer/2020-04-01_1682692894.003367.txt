@@ -1,0 +1,82 @@
+--===============1596375809804743148==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Please forward suspicious emails to phishing(a)uleth.ca.
+Thanks, Jenna and Lisa and all. This is going to sound incredibly pedantic, b=
+ut there are actually relatively few ligatures in Joscelyn=E2=80=94they are u=
+sed for cleanup at the end of another process. Think about it: a ligature is =
+a pre-assembled sequence of two or more letters--in a roman font for combos l=
+ike fl, fi, ffl, ffi. But think about words like, say, "minimum" and "maximum=
+" in a cursive font like Joscelyn:
+[cid:c2fc81ad-ef71-46ac-ad2d-e9f46cd6a2be]
+How could you even begin to think about doing this with ligatures? Ninety per=
+cent of the magic in Joscelyn is done with contextual alternates--that is, le=
+tters that vary their shapes depending on the surrounding letters. Thus the f=
+irst letter of "minimum" is the m you get when there's nothing in front of it=
+ and i or one of a few other letters behind; the first letter of "maximum" ha=
+s a different shape, and the middle and final m of both words are different f=
+rom the two initial m's and from each other. But there are no ligatures at al=
+l in either word.Designing the behavior of a font in this way is endlessly fascinating. I neve=
+r get tired of it.P.Professor and Director of Graduate Admissions
+Department of English
+University of Virginia
+P.O. Box 400121
+Charlottesville, Virginia 22904-4121
+________________________________
+From: Jenna Mead <jenna.mead(a)uwa.edu.au>
+Sent: Wednesday, April 1, 2020 6:21 PM
+To: Baker, Peter S (psb6m) <psb6m(a)virginia.edu>; dm-l(a)uleth.ca <dm-l(a)ul=
+eth.ca>; medtextl(a)lists.illinois.edu <medtextl(a)lists.illinois.edu>
+Subject: Re: [dm-l] Medieval font dump
+Hello Peter (if I may),I'd like to second Lisa Fagin Davis's thanks for your work on=
+ these fonts. #MedievalTwitter is, indeed, losing its collective mind over Jo=
+scelyn and not *just* because folks are in various versions of isolation. I t=
+oo am rhapsodizing about ligatures. There are already many uses for these fon=
+ts; there will be more. I'm not telling you anything you don'=
+t know. But I would just like to add my Huzzah to those of others!Cheers,[signature_1461926666]BA (ANU) MA PhD (Melb) Grad.Dip.Mod.Lang. (UWA)Senior Honorary Research FellowUniversity of Western AustraliaFrom: "Baker, Peter S (psb6m)" <psb6m(a)virginia.edu>
+Date: Thursday, 2 April 2020 at 4:12 am
+To: "dm-l(a)uleth.ca" <dm-l(a)uleth.ca>, "medtextl(a)lists.illinois.edu" <med=
+textl(a)lists.illinois.edu>
+Subject: [dm-l] Medieval font dumpCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Please forward suspicious emails to phishing(a)uleth.ca.I've decided to do this all at once rather than annoying people by posting ab=
+out them one by one. The story overall is that I have a number of font projec=
+ts, some going back nearly thirty years, and I have decided to make public re=
+positories for any that are in a usable state. Why? Because I am a senior cit=
+izen, and life seems uncertain right now. I want them out in public, with sou=
+rce code, so that people can download and enjoy them, fork them if they want,=
+ and develop them farther. A couple of these have been out in the wild for so=
+me time, but the repository is where you will find the latest version.I haven't made releases for these, but each repository has a "font" folder. T=
+o get the font, click on that folder, then click on the name of the file, the=
+n find and click the "Download" button.Here are the fonts:BeowulfOTThis is an update of my Beowulf1 font, which has been out and about just abou=
+t forever, and which you see in lots of places from websites to book covers t=
+o TV titles. This version, never before released, has a modern mode (legible =
+to modern readers) and a historical mode (for teachers and purists). Unlike t=
+he original version, it has ligatures and a number of other OpenType features.https://github.com/psb1558/BeowulfOT-fontEaduiA reproduction of the English Caroline minuscule hand of the great eleventh-c=
+entury Canterbury scribe Eadui Basan. It has modern and historical modes and =
+numerous contextual alternates and other cool features. It has been available=
+ on various websites for years, though it is not as well known as Beowulf1.https://github.com/psb1558/Eadui-FontCissanthemosBased on the ninth-century Royal Bible, BL MS Royal 1 E. VI, a splendid examp=
+le of insular hybrid minuscule. It contains caps in three different styles, o=
+ne of which has long been available as the font "Anglo-Saxon Caps" (from 1993=
+!), which you see everywhere. Cissanthemos has modern and historical modes an=
+d a very large number of contextual alternates, giving it an irregular, hand-=
+made look.https://github.com/psb1558/Cissanthemos-fontParkerChronicleBased on the first hand of Corpus Christi College, Cambridge, MS 173, "The Pa=
+rker Chronicle." The font is named after the book because I haven't yet thoug=
+ht up a better name for it. With modern and historical modes and plenty of Op=
+enType goodies. This has been seen in public precisely once, when I gave a co=
+py to the proprietor of Blue Mountain Brewery to use on the label of "Adambeo=
+r," an Old English-themed craft beer that you can sample if you ever find you=
+rself, post-pandemic, driving through Afton, Virginia. (He paid me for my hel=
+p and the font with two cases of his really excellent beer.)https://github.com/psb1558/ParkerChronicle-fontJoscelynThe secretary hand font, mentioned here a few days ago.https://github.com/psb1558/Joscelyn-fontElstobA modern variable font mainly for web use. If you don't know what a variable =
+font is, visit https://psb1558.github.io/Elstob-font/ and play around. There =
+are lots of OpenType features, outlined in an accompanying document, and thes=
+e are also available in a desktop version, ElstobD. This has been submitted t=
+o Google Fonts, but they're so backed up, I don't know when they'll get to it=
+, if ever.Repository: https://github.com/psb1558/Elstob-fontReleases: https://github.com/psb1558/Elstob-font/releasesFinally there's Junicode-new (https://github.com/psb1558/Junicode-New), a lon=
+g-term project to expand, modernize and improve my rather long-in-the-tooth J=
+unicode font, but there are no usable fonts in that repository yet.May we all dodge the virus and come through the next few harrowing months san=
+e and in good health!PeterPeter S. BakerProfessor and Director of Graduate AdmissionsDepartment of EnglishUniversity of VirginiaP.O. Box 400121Charlottesville, Virginia 22904-4121--===============1596375809804743148==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,18 @@
+--===============1798214047841457341==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.The VisColl team at the Schoenberg Institute for Manuscript Studies, Universi=
+ty of Pennsylvania, are pleased to announce the launch of VCEditor. Use VCEdi=
+tor to model and visualize medieval manuscripts and books in codex format in =
+general. We welcome your feedback! https://vceditor.library.upenn.edu<https:/=
+/vceditor.library.upenn.edu/>
+[viscoll-collations-mode-01.png]
+VCEditor is based on the VisColl specification https://viscoll.org<https://vi=
+scoll.org/> and is adapted from the VisCodex application by @oldbooksnewsci (=
+https://github.com/utlib/VisualCollation).For help, see our 'How to page' (https://viscoll.org/help/) and the project W=
+iki (https://github.com/KislakCenter/VisualCollation/wiki).Please share the news and let us know how we can improve this for your needs!Thank you,
+Alberto Campagnolo--===============1798214047841457341==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

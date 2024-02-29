@@ -1,0 +1,78 @@
+--===============0718035750568808116==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHaving used WordPress for over two years I can second that: works like a
+charm. But it's definitely more of a blogging thing, although it provides
+some rudimentary CMS-functionality. Tuning its looks to one's taste may
+provide for some minor headaches.y.s.,
+Joris-- 
+Mr. Joris J. van Zundert (MA)
+Huygens Institute
+Royal Dutch Academy of Arts and SciencesContact information can be found at http://www.brandaen.org
+A disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more information
+On 10/23/06, Erik Vorhes <evorhes(a)luc.edu> wrote:
+>
+> It might be worth investigating WordPress <http://wordpress.org/>, as
+> well, as it has similar features to TextPattern. It's a little more
+> blog-oriented, but that's not necessarily a bad thing. I used it for
+> my "Introduction to Shakespeare" class, and it handled the job pretty
+> well: <http://erikanderica.org/erik/category/class/luc-274/>.
+>
+> Erik Vorhes
+> Loyola U. Chicago
+>
+> > Date: Fri, 20 Oct 2006 08:58:03 -0600
+> > From: Herdsman Caedmon <caedmon(a)uleth.ca>
+> > Subject: Re: [dm-l] Personal Web site maintenance
+> > To: Bill White <minutiae(a)gmail.com>
+> > Cc: Digital Medievalist Community mailing list <dm-l(a)uleth.ca>
+> > Message-ID: <1161356284.26544.0.camel(a)odonned-eng06.eng.uleth.ca>
+> > Content-Type: text/plain
+> >
+> > You're right the component parts look very interesting.
+> >
+> > -dan
+> >
+> > On Fri, 2006-20-10 at 09:20 -0500, Bill White wrote:
+> >> On 10/20/06, Bill White <minutiae(a)gmail.com> wrote:
+> >>> On 10/20/06, Daniel O'Donnell <caedmon(a)uleth.ca> wrote:
+> >>>> Hi,
+> >>>>
+> >>>> Does anybody have advice on how to maintain a professional academic
+> >>>> homepage--I mean the page one uses for class material,
+> >>>> information on
+> >>>> research, etc.
+> >>>
+> >>> I stumbled across this a few days ago while googling for cms systems
+> >>> that can work with my local mediawiki installation:
+> >>>
+> >>> http://openacademic.org/
+> >>>
+> >>> I haven't used it, but it may be worth investigating.  I'd never
+> >>> heard
+> >>> of the strangely-named tools they're using - moodle, elgg, drupal.
+> >>
+> >> Whoops - I think that website may be offering/selling services.  At
+> >> any rate, the links they provide to moodle et al. may be useful.
+> >>
+> >> Cheers -
+> >>
+> >> bw
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+> Contact editorial Board: digitalmedievalist(a)uleth.ca
+> dm-l mailing list
+> dm-l(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============0718035750568808116==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,46 @@
+--===============8013235301870756134==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitInternational Medieval Congress, Leeds, 2-5 July 2018
+Call for Papers: Per corpora…Medieval Latin and Corpora
+Session 1: What Corpus for Medieval Studies?
+Session 2: Vocabulary of Memory
+Organisation
+Bruno Bon (Dictionary of Medieval Latin, Institut de Recherche et 
+d’Histoire des Textes, CNRS)
+Krzysztof Nowak (Dictionary of Medieval Latin, Institute of Polish 
+Language, PAS)Building on the experience of the session organized during the IMC 2016 
+we are seeking to propose two sessions for the upcoming IMC 2018 that 
+would focus on *building and using electronic corpora in Medieval Latin 
+studies*. Our idea is to stimulate discussion and to integrate the 
+community of both seasoned users and creators of digital tools, as well 
+as those who are taking their first steps in the corpus-based research. 
+We believe that the IMC offers a great opportunity for such discussion 
+since the event gathers scholars of a wide range of expertise who can 
+help us to understand better what tools do scholars need and what are 
+the research questions they expect corpora to answer.
+The first sessionis intended to focus on more general questions of 
+corpus creation, while the second, following closely the IMC 2018 topic 
+("Memory"), aims at showing how corpora can be practically used in 
+Medieval Latin research.Proposals should be addressed by 15 September2017 to 
+bruno.bon(a)irht.cnrs.fr <mailto:bruno.bon(a)irht.cnrs.fr>and 
+krzysztof.nowak(a)ijp.pan.pl <mailto:krzysztof.nowak(a)ijp.pan.pl>.
+A detailed CfP can be found at: http://glossaria.eu/leeds/cfp_en.html***Après une première expérience en 2016, nous souhaitons proposer deux 
+sessions pour l’édition IMC 2018, sur *la construction et l’utilisation 
+des corpus textuels électroniques dans les études médiévales*, en 
+associant des utilisateurs et créateurs confirmés d’outils numériques à 
+ceux qui font leurs premiers pas dans la recherche sur les corpus. L’IMC 
+offre une belle occasion à ce genre de discussion, car l'événement 
+rassemble des spécialistes de nombreuses disciplines, aptes à signaler 
+les outils qui leur sont nécessaires, et à préciser les questions qu’ils 
+posent à leurs corpus.
+La 1èresessiontraitera des questions générales sur la création de corpus 
+textuels, pendant que la seconde, suivant le thème annuel de l’IMC 
+("Memory"), étudiera des cas d’utilisation pratique des corpus textuels 
+dans la recherche en latin médiéval.La proposition doit être envoyée au plus tard le 15 septembre 
+2017conjointement à bruno.bon(a)irht.cnrs.fr 
+<mailto:bruno.bon(a)irht.cnrs.fr>et krzysztof.nowak(a)ijp.pan.pl 
+<mailto:krzysztof.nowak(a)ijp.pan.pl>.
+Details de l'appel à communications : http://glossaria.eu/leeds/cfp_fr.html--===============8013235301870756134==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

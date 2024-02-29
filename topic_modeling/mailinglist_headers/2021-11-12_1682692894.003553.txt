@@ -1,0 +1,7 @@
+From: Paolo Monella <paolo.monella@uniroma1.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Three VeDPH events: Dante, Shakespeare, Semantic Web
+Date: Fri, 12 Nov 2021 14:22:37 +0100
+Message-ID: <c21ff044-7a52-0c9c-b216-19b4fb2c6851@uniroma1.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1398481760333568953=="

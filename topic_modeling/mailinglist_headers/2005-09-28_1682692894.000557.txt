@@ -1,0 +1,8 @@
+From: Eric Rochester <erochest@gmail.com>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] xsltproc and xsl
+Date: Wed, 28 Sep 2005 19:16:00 -0400
+Message-ID: <88bcce1005092816161bc3be8f@mail.gmail.com>
+In-Reply-To: <1127943888.10689.2.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8142503308918162081=="

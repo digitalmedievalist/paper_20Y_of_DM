@@ -1,0 +1,7 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Are markup languages obsolete?
+Date: Tue, 21 Jun 2005 14:15:37 -0600
+Message-ID: <1119384937.7727.13.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4973743971456938971=="

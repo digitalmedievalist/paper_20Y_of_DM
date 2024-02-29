@@ -1,0 +1,29 @@
+--===============3655206097678898963==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableRelaunch of the Ad fontes e-learning projectThe University of Zurich has relaunched its digital Ad fontes project with a =
+new website and new tools designed to teach students how to navigate archives=
+ and work with historical documents.=C2=A0The project provides a set of tutorials that provide information about how ar=
+chives are organized, how to find documents and other sources in an archive, =
+and also how to read and analyze documents, including fundamental auxiliary s=
+kills like paleography and diplomatics. The core of the redeveloped site is a=
+ set of interactive exercises that allow users to practice the skills they=E2=
+=80=99ve learned, like recognizing scripts, calculating dates for different d=
+ating systems, describing the parts of a charter, recognizing standard orthog=
+raphical variations, or analyzing historical photographs.Another key part of the new Ad fontes is a large and growing number of transc=
+ription exercises that cover scripts from the 7th century to the 20th. The tr=
+anscription exercises, many of which are user generated, are based on images =
+of original sources from repositories across Europe and North America, with m=
+ost coming from Switzerland and France.The exercises and resources are available in German, French, and often Englis=
+h. Students who are working with documents in archives for the first time and=
+ researchers who want to refresh their skills before a trip should benefit fr=
+om the material. Ad fontes is free to use, and you can (you don't hav=
+e to) create a free login to save and track your progress at any time.Preparing and publishing your own exercises, tutorial, and resourcesThe new version of Ad fontes also allows teachers and researchers to create t=
+heir own learning resources. The editorial environment is easy to use, and bo=
+th static pages and interactive exercises (especially transcription exercises=
+) can be created. Contact the Ad fontes team for more information about makin=
+g your own pages.=C2=A0Visit www.adfontes.uzh.ch to get a sense of what's new. Or, send us a=
+n e-mail, we're always happy to talk about the project: adfontes(a)hi=
+st.uzh.ch.--===============3655206097678898963==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

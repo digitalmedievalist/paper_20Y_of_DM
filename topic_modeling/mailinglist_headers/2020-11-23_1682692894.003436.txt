@@ -1,0 +1,8 @@
+From: Aaron Macks <aaronm@wiglaf.org>
+To: dm-l@uleth.ca
+Subject: [dm-l] A Brief Intro to CoKL DB
+Date: Mon, 23 Nov 2020 15:57:58 -0500
+Message-ID:
+ <CAB3N5nQYh+uwyaoCXkHgF_QQBPwKkGOr6J+tOnJ+o8kFRHLG=w@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7760306966722560514=="

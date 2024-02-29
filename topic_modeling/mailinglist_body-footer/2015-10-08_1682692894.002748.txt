@@ -1,0 +1,26 @@
+--===============3033257489353563317==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit**Apologies for cross-posting & please distribute freely and widely!** Programmer Analyst for the Schoenberg Database of ManuscriptsSchoenberg Institute for Manuscript Studies at the University of
+Pennsylvania Libraries With a growing collection of over 225,000 records representing
+approximately 100,000 manuscripts, the Schoenberg Database of Manuscripts
+(SDBM <http://dla.library.upenn.edu/dla/schoenberg/index.html> ) is the
+largest freely available repository of data on manuscript books produced
+before 1600. The SDBM, maintained by the University of Pennsylvania
+Libraries, is being redeveloped into an online, open-access, collaborative
+tool for researching the historic and current locations of the world's
+pre-modern manuscripts. We are seeking to fill a two-year, full-time,
+NEH-funded Programmer Analyst position to take over the technical
+development of the New SDBM. Working directly with the project manager and
+the Schoenberg Institute for Manuscript Studies (SIMS
+<http://schoenberginstitute.org/> ) Digital Content Programmer, the PA
+will continue the development of the New SDBM, a crowd-sourced application
+providing web, mobile, and application interfaces for the discovery,
+access, and entry of manuscript data, using the Ruby on Rails framework,
+jQuery, Blacklight, and AngularJS. The PA will also work with Library
+Technology Services (LTS) to integrate the New SDBM with the Library's
+Digital Library Architecture (DLA).For more information on requirements and salary and to apply, go to:
+https://jobs.hr.upenn.edu/postings/13447(IT Graded Rank: B; Ref. no: 50-21143)    
+--===============3033257489353563317==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

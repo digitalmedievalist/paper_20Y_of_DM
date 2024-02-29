@@ -1,0 +1,49 @@
+--===============0812726967306913280==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHave at it, folks . ******************The Penn Libraries and the Schoenberg Institute for Manuscript Studies
+(SIMS) are thrilled to announce the launch of OPenn: Primary Resources
+Available to Everyone (http://openn.library.upenn.edu
+<http://openn.library.upenn.edu/> ), a new website that makes digitized
+cultural heritage material freely available and accessible to the public.
+OPenn is a major step in the Libraries' strategic initiative to embrace
+open data, with all images and metadata on this site available as free
+cultural works to be freely studied, applied, copied, or modified by
+anyone, for any purpose. OPenn launches with the entire corpus of
+manuscripts donated to the Penn Libraries in 2011 by SIMS founder Lawrence
+J. Schoenberg and his wife Barbara Brizdle Schoenberg.  The Schoenberg
+Collection features manuscripts from all over the world, with a focus on
+science, technology, engineering and mathematics.  To interest the public
+in the visual splendor of materials on OPenn we have uploaded some images
+from the Schoenberg Collection onto Flickr at http://tinyurl.com/mm84j7s,
+with links in the records to OPenn.More datasets, including manuscripts from the University of Pennsylvania's
+own holdings and items from other institutions, will be added to the site
+in the near future, so stay tuned.  Historic diaries from a variety of
+institutions belonging to the Philadelphia Area Consortium of Special
+Collections Libraries (PACSCL <http://pacscl.org/> ) are next in line for
+inclusion on OPenn.  Many of these documents are unknown while others are
+celebrated, such as the Union League's Tanner manuscript: a firsthand
+account of the events surrounding the assassination of Abraham Lincoln.Images of the manuscripts are currently available on OPenn at full
+resolution, with derivatives also provided for easy reuse on the web.
+Downloading, whether several select images or the entire dataset, is
+easily accomplished by following instructions or recipes posted in the
+Technical Read Me <http://openn.library.upenn.edu/TechnicalReadMe.html>
+on OPenn.  The website is designed to be machine-readable, but easy for
+individuals to use, too.Dot Porter of SIMS has already used the dataset to create e-books from the
+images and metadata on OPenn.  You can download the e-books in the free
+and open epub format at Penn Libraries' Scholarly Commons
+<http://repository.upenn.edu/sims_ebooks/> .   She has also used the
+Internet Archive BookReader <https://openlibrary.org/dev/docs/bookreader>
+, an open source online page-turning book reader, to generate online
+versions of each manuscript.  An example using LJS 225, Litterarum
+simulationis liber, can be seen at:
+http://dorpdev.library.upenn.edu/BookReaders/ljs225/#page/4/mode/2up .
+You can search and browse manuscripts in OPenn (along with digitized
+manuscripts from The Digital Walters) here:
+http://viewshare.org/views/leoba/openn-and-digital-walters/.  These are just a few ways the data can be manipulated.  We hope you are
+inspired to reuse OPenn data and to share your project with the world.  If
+you have any questions or comments, send us an email at
+openn(a)pobox.upenn.edu. 
+--===============0812726967306913280==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,8 @@
+--===============6556686880953625294==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi all,Does anybody have any experience with RefWorks
+(http://www.refworks.com/)? It looks like a pay-as-you-go on-line
+reference manager that has many of the features of standalone products
+like Procite and Endnote.While I'd prefer an open-source replacement for Procite, I've not been
+able to find something suitable yet. This looks like it might be a
+decent stop-gap. Does anybody have any experience with it?-dan--===============6556686880953625294==--

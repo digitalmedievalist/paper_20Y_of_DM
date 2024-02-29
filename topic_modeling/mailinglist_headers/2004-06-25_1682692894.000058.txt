@@ -1,0 +1,9 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] More about  XSLT -- and there is an alternative, and	it's free too
+Date: Fri, 25 Jun 2004 18:08:51 +0100
+Message-ID: <BD021AB3.E09E%peter.robinson@dmu.ac.uk>
+In-Reply-To: <s0dc1200.029@apps.niwi.knaw.nl>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9051965379202476234=="

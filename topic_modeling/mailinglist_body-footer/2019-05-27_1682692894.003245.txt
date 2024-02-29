@@ -1,0 +1,41 @@
+--===============7065632163507609314==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear Colleagues,*Umanistica Digitale* (ISSN 2532-8816), the journal of the AIUCD (Italian
+Association of Digital Humanities and Cultures), is pleased to
+announce the publication
+of the 5th issue, available at
+https://umanisticadigitale.unibo.it.This issue of the journal presents a selection of the papers given at the
+AIUCD2017 Conference (12-18 January 2017, Sapienza University of Roma),
+whose theme was “The Reverse Telescope: Big Data and Distant Reading in the
+Humanities” and an article by Mike Kestemont and Luc Herman.-------
+TABLE OF CONTENTSIntroduzione - Fabio CiottiARTICLES
+Can Machines Read (Literature)? - Mike Kestemont, Luc Herman
+The Index Thomisticus as a Big Data Project - Geoffrey Rockwell, Marco
+Passarotti
+An open problem in computational stemmatology - a model for contamination -
+Armin Hoenen
+Un’Analisi Multidimensionale della Ricerca Italiana nel Campo delle Digital
+Humanities e della Linguistica Computazionale - Rachele Sprugnoli,
+Gabriella Pardelli, Federico Boschetti, Riccardo Del Gratta
+Visualizing Gender Balance in Conferences - Sytze Van Herck
+L’impatto culturale e sociale dei dati archeologici nella tutela e
+valorizzazione del paesaggio storico. Un case study: il XV Municipio di
+Roma - Margherita Bartoli
+Ripensare i formati, ripensare i metadati: prove “tecniche” di
+conservazione digitale - Nicola BarbutiREVIEWS AND REPORTS
+H. W. Gabler, Text Genetics in Literary Modernism and Other Essays,
+OpenBook Publishers (2018) - Carolina Rossi
+-----------We invite you to visit our web site and to review articles and items of
+interest.Fabio Ciotti
+-- 
+Fabio Ciotti
+Department of "Studi letterari, Filosofici e di Storia dell’arte" -
+University of Roma "Tor Vergata"
+DH2019 PC Co-Chair
+Chief Editor "Umanistica Digitale" https://umanisticadigitale.unibo.it/
+@Fabio_Ciotti
+<https://twitter.com/fabio_ciotti>
+f.ciotti(a)pec.it<https://twitter.com/fabio_ciotti>--===============7065632163507609314==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

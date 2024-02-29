@@ -1,0 +1,35 @@
+--===============7346887326955480583==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear digital medievalists,
+The president and members of the Royal Historical Commission of Belgium are h=
+appy to announce the updated version of the online charter database Diplomata=
+ Belgica, now available at http://www.diplomata-belgica.be?Diplomata Belgica offers a critical survey of all the diplomatic sources, edi=
+ted or still unpublished, and issued by both natural persons and legal bodies=
+ from the medieval Southern Low Countries. Diplomata Belgica covers present d=
+ay Belgium as well as those areas which belonged historically to the Southern=
+ Low Countries but are part now of France (French Flanders, French Hainault),=
+ the Netherlands (parts of the provinces of Zeeland, Noord-Brabant, Limburg),=
+ the Grand Duchy of Luxembourg, or Germany (parts of the Rhineland). At this =
+stage, Diplomata Belgica contains metadata of about 35,000 charters and deeds=
+ in Latin, Old-French, Middle Dutch and Middle High German, almost 19,000 ful=
+l text transcriptions and 5,000 photographs of original charters. As for the =
+seals, the database also provides links to the online corpus of seal moulds d=
+eveloped by the National Archives of Belgium. Diplomata Belgica aims at exhau=
+stivity for the period before 1250 and will, in the future, also include late=
+ medieval diplomatic material, without striving after completeness.Diplomata Belgica. The Diplomatic Sources from the Medieval Southern Low Coun=
+tries, ed. by Th=C3=A9rése de Hemptinne, Jeroen Deploige, Jean-Louis Kup=
+per and Walter Prevenier (Brussels: Royal Historical Commission, since 2015).=
+ URL: http://www.diplomata-belgica.beAttached you find the user guide (in French).Please feel free and welcome to address any comments or feedback to diplomata=
+-belgica(a)ugent.be? or Jeroen.Deploige(a)UGent.be.Sincerely,Els De Paermentier----
+Prof. dr. Els De Paermentier
+Ghent University
+Dept. of History (Middle Ages)
+St-Pietersnieuwstraat 35 (lok. 120.18)
+B-9000 Ghent (Belgium)
+T +32.9.331.02.20
+research.flw.ugent.be/en/els.depaermentier
+www.pirenne.ugent.be<http://www.pirenne.ugent.be>
+https://digitalmedievalist.wordpress.com/--===============7346887326955480583==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

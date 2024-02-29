@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Junicode 0.7.1
+Date: Mon, 16 Jan 2012 19:12:51 +0100
+Message-ID: <4F1468A3.9080105@ling.unipi.it>
+In-Reply-To: <4F141DAD.50809@virginia.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8936642102156916762=="

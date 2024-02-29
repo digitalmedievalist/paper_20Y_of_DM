@@ -1,0 +1,40 @@
+--===============7495617554311055961==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableWe invite applications for a 5-day training workshop on digital editing of ep=
+igraphic and papyrological texts, to be held in the Institute of Classical St=
+udies, University of London, April 20-24, 2015. The workshop will be taught b=
+y Gabriel Bodard (KCL), Simona Stoyanova (Leipzig) and Charlotte Tupman (KCL)=
+. There will be no charge for the workshop, but participants should arrange t=
+heir own travel and accommodation.
+EpiDoc (epidoc.sf.net<http://epidoc.sf.net/>) is a community of practice and =
+guidance for using TEI XML<http://www.tei-c.org/> for the encoding of inscrip=
+tions, papyri and other ancient texts. It has been used to publish digital pr=
+ojects including Inscriptions of Aphrodisias<http://insaph.kcl.ac.uk/index.ht=
+ml>, Vindolanda Tablets Online<http://vindolanda.csad.ox.ac.uk/>, Duke Databa=
+nk of Documentary Papyri<http://papyri.info/> and Digital Corpus of Literary =
+Papyri, and is also being used by Perseus Digital Library<http://www.perseus.=
+tufts.edu/hopper/> and EAGLE Europeana Project<http://www.eagle-network.eu/>.=
+ The workshop will introduce participants to the basics of XML markup and giv=
+e hands-on experience of tagging textual features and object descriptions in =
+TEI, identifying and linking to external person and place authorities, and us=
+e of the tags-free Papyrological Editor (papyri.info/editor<http://papyri.inf=
+o/editor>).
+No technical skills are required, but a working knowledge of Greek or Latin, =
+epigraphy or papyrology, and the Leiden Conventions will be assumed. The work=
+shop is open to participants of all levels, from graduate students to profess=
+ors and professionals.
+To apply for a place on this workshop please email simona.stoyanova(a)informa=
+tik.uni-leipzig.de with a brief description of your reason for interest and s=
+ummarising your relevant background and experience, by Friday February 27th, =
+2015.--
+Dr. Charlotte Tupman
+Research Associate
+Study Abroad Tutor, Student Recruitment Lead & Publicity Coordinator
+Department of Digital Humanities
+King's College London
+26-29 Drury Lane
+London
+WC2B 5RLTel: +44 (0)20 7848 7145--===============7495617554311055961==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

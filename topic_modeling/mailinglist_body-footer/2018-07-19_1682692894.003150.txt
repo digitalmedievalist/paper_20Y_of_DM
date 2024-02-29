@@ -1,0 +1,106 @@
+--===============5436775361423722417==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear List members,we hope this Workshop will be of interest for some of you.Best wishes,Elena Spadini and Francesca Tomasiapologies for cross posting
+-----------------------------------------------------------------------------=
+---------------------
+*Workshop on Scholarly Digital Editions, Graph Data-Models and Semantic Web
+Technologies*
+Universit=C3=A9 de Lausanne, 3-4 June 2019
+<http://wp.unil.ch/graphsde/>*Call for Papers*
+Digital texts processed by machines are linear strings of characters, but
+in most research activities in the Humanities (philology, linguistics,
+corpus-based analysis, cultural heritage, etc.) we store them in
+*databases* and
+we add *markup* to the text, that is a kind of intelligence made computable
+thanks to the use of widespread data-models, formats and standards.
+In the last decades, the popularity of *graph* data-models has increased,
+in accordance with the *semantic web* proposition and the development of
+standards such as RDF and OWL. Graph databases, in the form of triple
+stores (such as Graph-DB) or of labeled-property-graphs (Neo4j), are
+regarded as powerful and flexible solutions by research and cultural
+institutions, and private companies alike.
+The workshop is held to explore possible interactions between *digital
+texts*, the *graph* data-model, *scholarly editions* and the *semantic web*.
+The combinations of these objects/concepts, pursued in the last decades,
+remains experimental to date, and it represents one of the possible
+development for the field of *digital scholarly editing*.
+Contributions on one or more of the following topics are particularly
+welcome:   - the conceptualization of *text as graph*;
+   - the use of *graph-databases* for digital editions;
+   - the* semantic web resources* for building digital scholarly editions;
+   - the *interoperability* among digital texts through Linked Data
+   Vocabularies;
+   - the *integration* of graph flavoured data into xml documents.We welcome contributions from those involved in the development of *tailor-ma=
+de
+solutions* for small scale projects as well as of large-scale
+*infrastructure*, focused on the *theory* and/or on the *practice* of this
+happy or unhappy combination.
+The workshop includes *presentations* and a *working group* session.
+Please note that the word 'workshop' means here a place for sharing ongoing
+research and not a hands-on training.
+*Invited speakers*   - Ronald Haentjens Dekker (Royal Dutch Academy of Sciences =E2=80=93 Human=
+ities
+   Cluster)
+   - Samuel Müller (University of Basel - National Infrustructure for
+   Editions)
+   - Michele Pasin (Springer Nature)
+   - Tobias Schweizer, Sepideh Alassi (University of Basel =E2=80=93 Digital
+   Humanities Lab)
+   - Georg Vogeler (University of Graz)*Scientific committee*   - Gioele Barabucci (University of Cologne)
+   - Fabio Ciotti (University of Rome Tor Vergata)
+   - Claire Clivaz (Swiss Institute of Bioinformatics)
+   - DASCH (University of Lausanne)
+   - Simon Gabay (University of Neuchâtel)
+   - Frederike Neuber (Berlin-Brandenburg Academy of Sciences and Humanties)
+   - Elena Pierazzo (University of Grenoble-Alpes)
+   - Michael Piotrowski (University of Lausanne)
+   - Matteo Romanello (EPFL)
+   - Elena Spadini (University of Lausanne)
+   - Francesca Tomasi (University of Bologna)
+   - Aris Xanthos (University of Lausanne)
+*Important dates*
+*9 December 2018*. Deadline for the submission of abstracts
+*14 January 2018*. Notification of acceptance
+*15 April 2019*. Camera-ready version of the papers
+*3-4 June 2019*. Workshop*Where*
+Universit=C3=A9 de Lausanne =E2=80=93 1015 Lausanne =E2=80=93 Switzerland
+*Language*
+The language of the workshop will be English.
+*Abstract submission*
+We invite researchers to submit abstracts for a 30 mins contribution (20
+mins + 10 mins Q&A) by December 9, 2018. Abstracts will be reviewed
+double-blind by the members of the scientific committee, and all
+submissions will receive several independent reviews.
+Instructions for formatting and submitting abstracts will be published in
+September 2018.
+*Camera-ready paper submission*
+Notifications of acceptance will be sent by January 14, 2019.
+The authors of accepted abstracts should send a camera-ready version of
+their paper by April 15, 2019. The papers will be made available on the
+workshop platform.
+Before the workshop, the papers will be paired and a discussant will be
+assigned to each participant. The discussant must prepare two questions,
+that the corresponding author will receive twenty days before the workshop
+and should address in her/his presentation.
+Instructions for formatting and submitting camera-ready papers will follow.
+*Proceedings publication*
+The authors of accepted contributions will be invited to submit a revised
+paper after the conference, to be published in an open-access, electronic
+conference volume endowed with persistent identifiers.
+*Organization committee*   - Elena Spadini (Universit=C3=A9 de Lausanne, CRLR)
+   - Francesca Tomasi (Universit=C3=A0 di Bologna)*With the support of*   - Centre de recherche sur les lettres romandes
+   <http://www.unil.ch/crlr/home.html> (CRLR), Universit=C3=A9 de Lausanne*In collaboration with*   - Digital Humanities and Digital Knowledge
+   <https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge> (DHDK),
+   University of Bologna
+   - Section des sciences du langage et de l'information
+   <https://www.unil.ch/sli/fr/home.html> (SLI), Universit=C3=A9 de Lausanne
+   - Lausanne Laboratory for Computational and Statistical Text Analysis
+   <http://unil.ch/llist/en/> (LLIST)-----------------------------------------------------------------------------=
+---------------------------------------------------------=20
+elenaspadini.com
+elena.spadini(a)unil.ch
+PostDoc - UNIL
+Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>--===============5436775361423722417==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

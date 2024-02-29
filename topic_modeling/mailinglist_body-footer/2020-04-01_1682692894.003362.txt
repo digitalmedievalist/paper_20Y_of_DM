@@ -1,0 +1,51 @@
+--===============6529476718507734612==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Please forward suspicious emails to phishing(a)uleth.ca.
+I've decided to do this all at once rather than annoying people by posting ab=
+out them one by one. The story overall is that I have a number of font projec=
+ts, some going back nearly thirty years, and I have decided to make public re=
+positories for any that are in a usable state. Why? Because I am a senior cit=
+izen, and life seems uncertain right now. I want them out in public, with sou=
+rce code, so that people can download and enjoy them, fork them if they want,=
+ and develop them farther. A couple of these have been out in the wild for so=
+me time, but the repository is where you will find the latest version.I haven't made releases for these, but each repository has a "font" folder. T=
+o get the font, click on that folder, then click on the name of the file, the=
+n find and click the "Download" button.Here are the fonts:BeowulfOTThis is an update of my Beowulf1 font, which has been out and about just abou=
+t forever, and which you see in lots of places from websites to book covers t=
+o TV titles. This version, never before released, has a modern mode (legible =
+to modern readers) and a historical mode (for teachers and purists). Unlike t=
+he original version, it has ligatures and a number of other OpenType features.https://github.com/psb1558/BeowulfOT-fontEaduiA reproduction of the English Caroline minuscule hand of the great eleventh-c=
+entury Canterbury scribe Eadui Basan. It has modern and historical modes and =
+numerous contextual alternates and other cool features. It has been available=
+ on various websites for years, though it is not as well known as Beowulf1.https://github.com/psb1558/Eadui-FontCissanthemosBased on the ninth-century Royal Bible, BL MS Royal 1 E. VI, a splendid examp=
+le of insular hybrid minuscule. It contains caps in three different styles, o=
+ne of which has long been available as the font "Anglo-Saxon Caps" (from 1993=
+!), which you see everywhere. Cissanthemos has modern and historical modes an=
+d a very large number of contextual alternates, giving it an irregular, hand-=
+made look.https://github.com/psb1558/Cissanthemos-fontParkerChronicleBased on the first hand of Corpus Christi College, Cambridge, MS 173, "The Pa=
+rker Chronicle." The font is named after the book because I haven't yet thoug=
+ht up a better name for it. With modern and historical modes and plenty of Op=
+enType goodies. This has been seen in public precisely once, when I gave a co=
+py to the proprietor of Blue Mountain Brewery to use on the label of "Adambeo=
+r," an Old English-themed craft beer that you can sample if you ever find you=
+rself, post-pandemic, driving through Afton, Virginia. (He paid me for my hel=
+p and the font with two cases of his really excellent beer.)https://github.com/psb1558/ParkerChronicle-fontJoscelynThe secretary hand font, mentioned here a few days ago.https://github.com/psb1558/Joscelyn-fontElstobA modern variable font mainly for web use. If you don't know what a variable =
+font is, visit https://psb1558.github.io/Elstob-font/ and play around. There =
+are lots of OpenType features, outlined in an accompanying document, and thes=
+e are also available in a desktop version, ElstobD. This has been submitted t=
+o Google Fonts, but they're so backed up, I don't know when they'll get to it=
+, if ever.Repository: https://github.com/psb1558/Elstob-font
+Releases: https://github.com/psb1558/Elstob-font/releasesFinally there's Junicode-new (https://github.com/psb1558/Junicode-New), a lon=
+g-term project to expand, modernize and improve my rather long-in-the-tooth J=
+unicode font, but there are no usable fonts in that repository yet.May we all dodge the virus and come through the next few harrowing months san=
+e and in good health!PeterPeter S. Baker
+Professor and Director of Graduate Admissions
+Department of English
+University of Virginia
+P.O. Box 400121
+Charlottesville, Virginia 22904-4121--===============6529476718507734612==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

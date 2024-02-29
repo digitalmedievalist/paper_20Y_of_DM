@@ -1,0 +1,31 @@
+--===============3758997280369594703==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit[apologies for cross-posting]Dear list members,I am very pleased to announce a new ressource for the teaching and 
+learning of palaeography in its practical aspect, i.e. the transcription 
+of mediaeval handwriting: the /Album interactif de paléographie 
+médiévale / Interactive Album of Mediaeval Palaeography/,http://ciham.ish-lyon.cnrs.fr/paleographie/index.php?l=enThis /Album/ is a collection of interactive exercises for the 
+transcription of mediaeval manuscripts, from the Early to Late Middle 
+Ages. At the time of opening, it offers a total of 27 exercises (22 in 
+Mediaeval Latin, 5 in Old French). The exercises are self-corrective 
+(you can check the user manual here: 
+http://ciham.ish-lyon.cnrs.fr/paleographie/aide_en.php). Nota: The 
+interface of the Album is available in French and English. Only the 
+introduction to each exercise is available only in its original language 
+(French).The /Album /is proposed by the transversal programme /Digital 
+Humanities/ of the UMR 5648 - /Histoire, Archéologie, Littératures des 
+Mondes Chrétiens et Musulmans Médiévaux/ (Universités Lyon 2, Lyon 3, 
+Avignon et Pays de Vaucluse; CNRS, EHESS, ENS Lyon). This project is 
+"powered by TEI" and proudly sporting the TEI badge on the exercise 
+pages :) Some technical details here: 
+http://ciham.ish-lyon.cnrs.fr/paleographie/techinfo.php?l=enYour feedback, suggestions and comments will me much appreciated, as 
+always!
+Best wishes,-- 
+Marjorie BURGHART
+EHESS (pôle de Lyon) / UMR 5648
+Histoire et Archéologie des Mondes Chrétiens et Musulmans Médiévaux
+18 quai Claude Bernard
+69007 Lyon - FRANCE
+--===============3758997280369594703==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

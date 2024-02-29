@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@digitalmedievalist.org>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Anybody know of a html --> mediawiki parser/script?
+Date: Thu, 02 Jul 2009 22:03:31 +0100
+Message-ID: <961274970907021403o756528c2u9a9d55d88b99d07e@mail.gmail.com>
+In-Reply-To: <4A4D05E0.9060305@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8988841685215806220=="

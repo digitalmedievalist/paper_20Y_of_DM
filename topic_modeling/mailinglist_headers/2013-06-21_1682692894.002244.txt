@@ -1,0 +1,10 @@
+From: "Michelson, David Allen" <david.a.michelson@Vanderbilt.Edu>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Re: How to make your data live forever (and maybe your	project?)
+Date: Fri, 21 Jun 2013 21:51:13 +0000
+Message-ID:
+ <6A3DE317BCD6A54596FBD23EB47317371CA54321@ITS-HCWNEM108.ds.vanderbilt.edu>
+In-Reply-To: <D1D0B962-735D-4762-905C-69F213FA0CB7@bham.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3630279853585741556=="

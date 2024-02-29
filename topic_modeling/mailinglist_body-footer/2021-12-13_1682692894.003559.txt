@@ -1,0 +1,28 @@
+--===============6154569666941004546==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear Colleagues,
+I am pleased to announce the publication of ChrysoCollate, a free computer pr=
+ogram for collation and critical edition in any language (Unicode) developed =
+by S=C3=A9bastien Moureau (FNRS, UCLouvain).
+This tool offers:  *   two modes: collation mode and edition mode;
+  *   a collation table with automatic distinctive colours and previsional co=
+mpletion of readings;
+  *   annotation tools for the collation table, including a system of referen=
+ces to the images of the witnesses that allows you to navigate easily in your=
+ textual tradition;
+  *   automatic apparatus, according to the readings that are chosen by the e=
+ditor;
+  *   a stemma codicum checker;
+  *   a translation box to manage and synchronise your translation;
+  *   exportation in various formats (odt, cte, etc.).
+ChrysoCollate is freely available at https://uclouvain.be/chrysocollate/.
+Kind regards,
+S=C3=A9bastien Moureau,
+Chercheur qualifi=C3=A9 at the FNRS<https://www.frs-fnrs.be/>,
+Professor at the UCLouvain<https://uclouvain.be/fr/index.html>.
+--===============6154569666941004546==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

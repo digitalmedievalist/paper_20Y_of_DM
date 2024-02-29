@@ -1,0 +1,18 @@
+--===============5847834577849995099==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Colleagues,I should have sent this announcement out in the fall, but I now have Lichfiel=
+d Cathedral's St Chad Gospels (8th century) and Wycliffe New Testament (~1410=
+) available online: http://lichfield.as.uky.edu. I used a monochrome camera f=
+or the imaging, taking at least twelve different spectral bands for each page=
+. I've designed the website to allow for the overlay of any two images within=
+ a page's image set, including RGB. I have a slide bar to allow for the adjus=
+tment of the top image's transparency to help sort out hard to discern detail=
+s.Best,
+Bill--
+Bill Endres
+University of Kentucky
+Division of Writing, Rhetoric and Digital Studies
+Lexington, KY 40506859-257-8337--===============5847834577849995099==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

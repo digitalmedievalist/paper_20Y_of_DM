@@ -1,0 +1,57 @@
+--===============3153470093820870200==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitGreetings, all,I'm writing to report that my Simmons School of Library and Information
+Science students have just reconstructed part of Otto Ege's "Fifty
+Original Leaves" portfolio, leaf no. 30 by uploading, cataloguing, and
+sequencing 27 leaves from 27 collections in the Fragmentarium interface.
+Here's the direct link to the reconstruction:
+http://www.fragmentarium.unifr.ch/view/page/F-djs6Fragmentarium is a new interface that allows for cataloguing of
+individual leaves (for example,
+http://www.fragmentarium.unifr.ch/overview/F-qux7) and creating an
+online reconstruction. In particular, it allows users to create flexible
+and editable IIIF-compliant reconstructions in a shared-canvas viewer.
+It is truly extraordinary, and the possibilities are endless. The data
+for each leaf and for the reconstructed object can (and will) be updated
+and refined at any time, and additional leaves can be easily added. The
+records for individual leaves, can be found by searching from the
+Fragmentarium homepage, http://www.fragmentarium.unifr.ch/
+As their final assignment, I assigned each student one example of "Fifty
+Original Leaves" no. 30 (a lovely early fifteenth-century Book of Hours)
+to catalogue in Fragmentarium. In addition to identifying the text on
+each leaf, part of the cataloguing process includes creating a shared-
+canvas sequence in which the two images are presented in the correct
+order. Then we worked together to establish the original sequence of
+leaves, assembling the individual canvases in Fragmentarium to create
+the reconstruction, which has its own record. Once we had built the
+reconstruction, one group of students looked at the totality of the
+preserved liturgy to investigate Use (it's Paris). A different group of
+students scoured the Schoenberg Database of Manuscripts and discovered
+that this manuscript was likely C. L. Ricketts, Census no. 116. That
+entry led us to two Quaritch catalogues (1905 and 1910), and the
+Conway/Davis Directory pointed us to a 1939 Parke-Bernet sale. Once we
+found the Quaritch and PB catalogues, the identification was confirmed.
+The Quaritch, Ricketts, and PB descriptions can be clearly identified
+with the reconstructed manuscript, not only by codicological features
+but by the contents, which include enough unusual features to make the
+identification certain. This identification would not be possible based
+on the data provided by a single leaf. Only by reassembling the extant
+leaves can we conduct research on the liturgy and provenance of the
+original codex.
+I'll be giving a paper on the project at the International Congress on
+Medieval Studies at Western Michigan University next May. The whole
+process was a very effective pedagogical tool with real results, and I
+look forward to putting my class to work on a different reconstruction
+every year. I am so grateful to Fragmentarium directors William Duba and
+Christoph Flüeler for facilitating the project, and to the holding
+institutions for making their images available.
+- Lisa--
+  Lisa Fagin Davis
+  Executive Director
+  Medieval Academy of America
+  17 Dunster St., Suite 202
+  Cambridge, Mass.  02138  Phone: 617 491-1622
+  Fax: 617 492-3303
+  Email: LFD(a)TheMedievalAcademy.org--===============3153470093820870200==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,72 @@
+--===============6966778559799887178==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableThanks but I cant open the file
+un abrazo,	Humberto Olea, arte - dise=C3=B1o
+Sitios: Caligrafia <http://www.caligrafia.cl/> | Cinearte <http://www.cineart=
+e.cl/> | Payadores <http://www.payadoreschilenos.cl/> | Personal <http://www.=
+olea.biz/> |
+Contacto: Los Veleros 4564 - =C3=91u=C3=B1oa | Skype: humberto.olea | +569 8 =
+294 44 11 |> El 28-03-2020, a las 21:58, Baker, Peter S (psb6m) <psb6m(a)virginia.edu> e=
+scribi=C3=B3:
+>=20
+> With the usual apologies for cross-posting:
+>=20
+> Many of you know that in addition to my day job, I have a weird hobby of ma=
+king fonts for medievalists. This one is a little bit later than the Middle A=
+ges, but may still be of interest.
+>=20
+> I have just released a font called "Joscelyn," which I call "an uncompromis=
+ing secretary hand font" because, unlike any other secretary hand font I have=
+ seen, it makes no concessions to modernity. It is based on the main hand of =
+Corpus Christi College, Cambridge, MS 488, John Joscelyn's Historiola Collegi=
+i Corporis Christi. The hand (not Joscelyn's own) is rather formal, and so le=
+ss difficult than many secretary hands, but it is as near as I've been able t=
+o come so far to an authentic reproduction of the hand.
+>=20
+> When I teach paleography, the most difficult bit for my students is always =
+the last--secretary hand. The idea behind this font is that a decent way to l=
+earn this difficult hand might be to (1) install the font, (2) start a Micros=
+oft Word file by double-clicking an included template, (3) apply the "Joscely=
+n" character style, (4) type whatever you like, and (5) just observe. The aut=
+henticity of the font depends on seveal OpenType features being enabled, but =
+the template turns them on for you.
+>=20
+> At the risk of sounding immodest, I have to say that it's fun to type in th=
+is font and see the OpenType features applied in real time--s changed into lo=
+ng s, initial and final forms applied, and much more. And in addition, you ca=
+n pass as much time as you like playing with the font without running the sma=
+llest risk of contracting COVID-19!
+>=20
+> The font is free (licensed under the Open Font License). You can get it her=
+e:
+>=20
+> https://github.com/psb1558/Joscelyn-font/releases <https://github.com/psb15=
+58/Joscelyn-font/releases>
+>=20
+> Stay well, everyone.
+>=20
+> Peter Baker
+>=20
+> Professor and Director of Graduate Admissions
+> Department of English
+> University of Virginia
+> P.O. Box 400121
+> Charlottesville, Virginia 22904-4121
+> Digital Medievalist --  http://www.digitalmedievalist.org/ <http://www.digi=
+talmedievalist.org/>
+> Journal: https://journal.digitalmedievalist.org/ <https://journal.digitalme=
+dievalist.org/>
+> Journal Editors: https://journal.digitalmedievalist.org/contact/ <https://j=
+ournal.digitalmedievalist.org/contact/>
+> News: https://digitalmedievalist.wordpress.com/news/ <https://digitalmediev=
+alist.wordpress.com/news/>
+> Twitter: http://twitter.com/digitalmedieval <http://twitter.com/digitalmedi=
+eval>
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760 <http://www.f=
+acebook.com/group.php?gid=3D49320313760>
+> Discussion list: dm-l(a)uleth.ca <mailto:dm-l(a)uleth.ca>
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l <http:/=
+/listserv.uleth.ca/mailman/listinfo/dm-l>--===============6966778559799887178==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

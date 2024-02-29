@@ -1,0 +1,73 @@
+--===============3294005124067283325==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableNot to forget of course the problem of accessibility and longevity. If digita=
+l editions are indeed defined by the fact that they exploit the possibilities=
+ of digital media, then it is problematic to say the least that we have not r=
+eally solved the issue that our current digital editions are very much tied t=
+o particular versions of software/operating systems/browers/devices.It is not enough that we can say that the underlying data is safe because it =
+is encoded in formats that will last (like XML TEI), because I don't =
+think we can say the same for the functionality which we build on top of our =
+data. Unless one has both the technical skill and the resources to keep updat=
+ing the interface and architecture of one's online editions there wil=
+l come a point in the not so distant future when things will stop working and=
+ all we are left with are the data.Godfried CroenenFrom: dm-l-bounces(a)uleth.ca [mailto:dm-l-bounces(a)uleth.ca] On Behalf Of A=
+ndrew Dunning
+Sent: 14 March 2013 19:57
+To: Digital Medievalist
+Subject: Re: [dm-l] New article on "Medievalists and the Scholarly Digital Ed=
+ition"I really enjoyed this paper as well. I think it's pretty obvious why digital =
+editions are not more popular with both authors and readers, some of which ar=
+e touched on in the article:
+- Compared to a printed book, they're miserable to read, since they tend to b=
+e designed first for technical analysis, and any attention to typography is t=
+ypically a very low priority. (Granted, this is a problem with most e-books.)
+- There's no guarantee in many cases that citations made from digital edition=
+s will be stable.
+- It's far easier to put a good printed edition together than a good digital =
+edition, especially because of the lack of standard, user-friendly tools.
+- There is no standard way of presenting online critical editions (whereas mo=
+st printed texts are published in series that follow a style guide).
+- Delving into academic politics, publishers hate them and many universities =
+don't count digital projects toward tenure.None of these problems are insurmountable, and most have been tackled already=
+ by someone, but I'm really looking forward to a solution that at least tackl=
+es the technical aspects of these problems.Andrew Dunning
+PhD Student, Collaborative Program in Editing Medieval Texts
+Centre for Medieval Studies
+University of Toronto
+On Thu, Mar 14, 2013 at 6:29 AM, Roberto Rosselli Del Turco <rosselli(a)ling.=
+unipi.it<mailto:rosselli(a)ling.unipi.it>> wrote:
+> Dot, what a very good job!  I am only a bit surprised that we are not
+> making steady progress towards some goal -- that's not really the wqy
+> human beings do things -- but it is a litttle disconcerting to think that
+> while more and more people are doing digital or difitized editions (I
+> agree with that very ueful distinction), users of editions seem ro remain
+> happy with print.  If I were younger (I was there at Hoyt's PP/SEENET
+> paper). I might try to think of some kind of campaign, but perhaps it's
+> best to let things develop as they will ?
+I took part to a workshop about digital scholarly edition organized by
+NeDiMAH last November
+(http://www.nedimah.eu/call-for-papers/expert-meeting-digital-scholarly-editi=
+ons)
+and gave a paper titled "The battle we forgot to fight: Should we make a
+case for digital editions?". In short, no, I think we should definitely
+advocate creation and use of digital editions ... but also that first we
+should define more clearly what a digital edition *is*, see Dot's
+distinction above as a starting point (there surely are many other types
+and sub-types). Personally I think we lack a clear perspective and need a
+sort of "DEI" (Digital Edition Initiative) that can help interested
+scholars with support, guidelines etc. (also help gather together,
+conferences like ESTS and such are very useful, but we lack a "central"
+place where to go).RDigital Medievalist --  http://www.digitalmedievalist.org/
+Journal: http://www.digitalmedievalist.org/journal/
+Journal Editors: editors _AT_ digitalmedievalist.org<http://digitalmedievalis=
+t.org>
+News: http://www.digitalmedievalist.org/news/
+Wiki: http://www.digitalmedievalist.org/wiki/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Discussion list: dm-l(a)uleth.ca<mailto:dm-l(a)uleth.ca>
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+--===============3294005124067283325==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

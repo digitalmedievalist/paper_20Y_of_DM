@@ -1,0 +1,39 @@
+--===============8107429851049797310==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableI am the project director of the Electronic Grosseteste, a research resource =
+that provides access to electronic medieval Latin texts and an integrated bib=
+liography.  The textbase is composed of a variety of Latin texts (most of the=
+m under copyright but still searchable).  Right now the search engine is pret=
+ty primitive, and one enhancement I would like to make is to account for orth=
+ographical variants in the texts.  Some texts were classicized, while other e=
+ditors followed either the orthography of a single manuscript or attempted to=
+ follow some sort of convention based generally on Latin texts in later medie=
+val England (these are the facts, and this post is not about the joy of debat=
+ing editorial practice).  Ideally, I would like to allow searches to include =
+returns for classical and "medieval" spellings.  For example, if a user queri=
+ed "scientia" the engine would return matches for "scientia" and "sciencia". =
+(wildcards are permitted, btw).=20Now I work in Perl5, and so my initial thought was to create a set of hash ta=
+bles that would map these variants since hashes would allow for more than one=
+ variant per entity, and the engine would then perform a lookup for each quer=
+y element.  Now I suppose coding into the engine the "orthographical rules" i=
+s another option, but I'll be honest and admit that computational linguistics=
+ has never been my thing.  And, the beauty of hashes in Perl is that they are=
+ compiled very quickly, and don't eat too much memory.=20Now before I go and reinvent the wheel with these hash tables, does anyone kn=
+ow of an open-source method or resource that addresses this kind of problem (=
+I know that Brepols--pardon me, Brepolis...yeesh---has this all figured out b=
+ut they don't play will with others, so that's a closed door.).  My limited s=
+couring of the web has yielded no joy, and so I seek the sage advice of this =
+community. =20Many thanks
+Jim--------------------
+Dr James R. Ginther, PhD
+Assoc. Professor of Medieval Theology
+& Director of Graduate Studies
+Dept of Theological Studies
+St Louis University
+ginthej(a)slu.edu
+---------------------------------
+dept: http://theology.slu.edu/
+research: http://www.grosseteste.com/--===============8107429851049797310==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

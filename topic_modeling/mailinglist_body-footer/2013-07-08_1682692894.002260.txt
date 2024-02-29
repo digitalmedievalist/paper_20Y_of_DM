@@ -1,0 +1,30 @@
+--===============4668398753359062865==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitWe are pleased to announce that the MESA federated search is live at
+http://www.mesa-medieval.orgThe Medieval Electronic Scholarly Alliance (MESA) is a federated
+international community of scholars, projects, institutions, and
+organizations engaged in digital scholarship within the field of medieval
+studies. MESA seeks both to provide a community for those engaged in
+digital medieval studies and to meet emerging needs of this community,
+including making recommendations on technological and scholarly standards
+for electronic scholarship, the aggregation of data, and the ability to
+discover and repurpose this data.Read about MESA, click through to the Advanced Search, create an account,
+add some tags, join in (or start) a discussion!Many thanks to the Andrew W. Mellon Foundation for funding, to the MESA
+Steering Committee for steering us through the implementation process, to
+our project partners for agreeing to have their projects and collections
+included in the first iteration of MESA, and to all the medievalists who
+have expressed support and interest through the last year.Any comments, thoughts, or criticism, please contact us at
+mesa-medieval(a)gmail.com <mesamedieval(a)gmail.com>.Most Sincerely,Tim Stinson and Dot Porter, MESA co-directors-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+Personal blog: dotporterdigital.org
+Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
+MESA blog: http://mesamedieval.wordpress.com/
+MESA on Facebook:
+https://www.facebook.com/MedievalElectronicScholarlyAlliance
+*~*~*~*~*~*~*~*~*~*~*--===============4668398753359062865==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

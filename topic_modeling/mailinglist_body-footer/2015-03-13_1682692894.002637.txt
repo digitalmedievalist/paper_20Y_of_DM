@@ -1,0 +1,25 @@
+--===============1941673972380433812==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitThe CENDARI project (http://www.cendari.eu/)  invites applications to its
+second summer school, to be held 20-24 July in Prague, Czech Republic, on
+the theme “Researching Medieval Culture in a Digital Environment.” The
+interdisciplinary five-day program is geared especially toward early-career
+historians and other scholars (doctoral students and postdoctoral fellows)
+in Medieval Studies as well as toward archivists, librarians, and
+e-scientists that engage with or specialise in this time period. No prior
+experience with digital research methods is required.  Participants will
+need their own laptops. Through a number of hands-on sessions, participants
+will learn how to enhance their research with tools such as Abbreviationes,
+Classical Text Editor, and Manuscriptorium. They will also have the
+opportunity to experiment with the integrative CENDARI Virtual Research
+Environment. Lectures on the fundamentals of Digital Humanities and its
+prospects for Medieval Studies as well as field trips to cultural heritage
+sites in Prague will complete the program. The school will be held at the
+attractive Old Town venue of the Institute of Philosophy of the Czech
+Academy of Sciences.
+The closing date for applications is 15 April 2015 and a number of travel
+bursaries are available.
+Further details here: http://www.cendari.eu/summer-school-2015/--===============1941673972380433812==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

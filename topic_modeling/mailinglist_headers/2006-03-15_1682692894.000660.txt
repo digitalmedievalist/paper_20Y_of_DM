@@ -1,0 +1,8 @@
+From: Lou Burnard <lou.burnard@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+Date: Wed, 15 Mar 2006 14:47:45 +0000
+Message-ID: <44182911.4070109@oucs.ox.ac.uk>
+In-Reply-To: <441817A6.2000508@ling.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5463653444828083095=="

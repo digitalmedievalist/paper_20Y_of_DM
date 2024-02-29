@@ -1,0 +1,24 @@
+--===============6008885384540449578==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableIntroducing the International Image Interoperability Framework (IIIF)Venue: Lecture Theatre, Weston Library, University of OxfordDate: Monday 15 June, 2-4.30pmDescription:Cultural heritage materials from research libraries, museums, and archives ar=
+e increasingly becoming available online. Users have moved from wanting to si=
+mply access materials online to wanting to use, develop and re-purpose them i=
+n ways that push the boundaries of research and open new avenues in teaching.=
+ TheInternational Image Interoperability Framework (http://iiif.io) is a comm=
+unity-driven, collaborative initiative committed to making these digital mate=
+rials easily accessible and usable for scholars worldwide.This lecture will explore the use of IIIF in an international context, and wi=
+ll also describe the implementation of IIIF standards at the Bodleian Library.Our main speaker will be Tom Cramer, who will give a lecture =E2=80=9CIIIF: T=
+he International Image Interoperability Framework Putting Images IN (Not Just=
+ ON) the Web for a New World of Possibilities=E2=80=9D.
+Matthew McGrattan will then talk about IIIF at the Bodleian Libraries, and Ju=
+dith Siefring will present the work of the Digital Manuscripts Toolkit projec=
+t.The event is free and open to all, but registration is required: http://www.b=
+odleian.ox.ac.uk/whatson/whats-on/upcoming-events/2015/jun/introducing-the-ii=
+if.
+Speakers:Tom Cramer is the Chief Technology Strategist and Associate Director of Digit=
+al Library Systems and Services for the Stanford University LibrariesMatthew McGrattan is the Collections Delivery Architect for Bodleian Digital =
+Library Systems and Services, Bodleian Libraries, University of OxfordJudith Siefring is project manager for the Bodleian's Digital Manuscr=
+ipts Toolkit project, funded by The Andrew W. Mellon Foundation--===============6008885384540449578==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

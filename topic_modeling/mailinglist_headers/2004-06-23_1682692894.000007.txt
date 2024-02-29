@@ -1,0 +1,9 @@
+From: James Cummings <James.Cummings@ota.ahds.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT? and Is there a	good
+ acronym FAQ anywhere?
+Date: Wed, 23 Jun 2004 16:07:02 +0100
+Message-ID: <Pine.LNX.4.60.0406231603470.19800@localhost>
+In-Reply-To: <40D99A9C.8080508@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0997893179960601990=="

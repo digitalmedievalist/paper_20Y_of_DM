@@ -1,0 +1,8 @@
+From: Lou Burnard <lou.burnard@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI and concurrent hierarchies
+Date: Sat, 13 Aug 2005 16:29:55 +0100
+Message-ID: <42FE11F3.9020100@computing-services.oxford.ac.uk>
+In-Reply-To: <20050812223257.25k7t4difu6o88c0@imp4.free.fr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1797554177765609169=="

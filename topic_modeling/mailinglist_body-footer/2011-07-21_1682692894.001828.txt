@@ -1,0 +1,30 @@
+--===============1476336144349201562==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit(Apologies for any cross-posting)http://mith.info/tile/The TILE team is pleased to announce the release of version 1.0. The
+Text-Image Linking Environment (TILE) is a web-based tool for creating and
+editing image-based electronic editions and digital archives of humanities
+texts. This version of TILE includes:   - Import/export of TEI P5, and the ability to easily create custom data
+   importers
+   - Improved workflow and accuracy using the Auto Line Recognizer (ALR)
+   - An improved API for plugin developers
+   - Enhancements and bug fixes to TILE’s interface
+   - Detailed release notes for more information
+A MITH-hosted sandbox version of TILE allows you to test the tool online
+without installing it on your machine. We encourage users to download a copy
+to install on their own servers to customize the tool. Users can import
+their own data into the software, or get started by playing with pre-loaded
+data of Algernon Swinburne’s poem Anactoria, provided by John Walsh at
+Indiana University.The development of TILE has been supported by an NEH Preservation and Access
+Grant, and it is a collaboration between the Maryland Institute for
+Technology in the Humanities (Dave Lester, Grant Dickie, Jim Smith, Doug
+Reside) and Indiana University (Dot Porter, John Walsh, Jeffrey Mudge, Tim
+Bowman). We’d love to hear how you are using TILE, and what questions or
+suggestions you have, either in blog comments or on the TILE forums.-- 
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+*~*~*~*~*~*~*~*~*~*~*--===============1476336144349201562==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

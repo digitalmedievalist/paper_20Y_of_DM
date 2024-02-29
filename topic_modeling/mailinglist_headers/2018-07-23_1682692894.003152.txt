@@ -1,0 +1,8 @@
+From: Gabriel Bodard <gabriel.bodard@sas.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Backoff Lemmatization for Ancient Greek with the Classical
+ Language Toolkit (seminar)
+Date: Mon, 23 Jul 2018 16:09:58 +0000
+Message-ID: <MMXP12301MB150407F4ECF0D3C03D5DEC9BC1560@MMXP12301MB1504.GBRP123.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0751734698784507177=="

@@ -1,0 +1,113 @@
+--===============3643381459181765591==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable** apologies for cross posting **
+Dear members of the list,this workshop organized by colleagues at the Universit=C3=A9 de Lausanne might
+be of interest for some of you.
+Best wishes,Elena Spadini
+*Call for Proposals**Workshop on Computational Methods in the Humanities 2018 (COMHUM 2018)**Workshop date: June 4=E2=80=935, 2018 Location: University of Lausanne,*
+*Switzerland*=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=
+=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=
+=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=
+=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=
+=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=
+=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=
+=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=
+=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=
+=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95=E2=80=95It is often said that the digital humanities are =E2=80=9Csituated at the
+intersection of computer science and the humanities,=E2=80=9D but what does t=
+his
+mean? We believe that the point of using computers in the humanities is
+not just to automatically analyze larger amounts of data or to
+accelerate research. We therefore prefer to understand digital
+humanities as (1) the study of means and methods of constructing formal
+models in the humanities and (2) as the application of these means and
+methods for the construction of concrete models in particular humanities
+disciplines. The central research questions are thus correspondingly (1)
+which computational methods are most appropriate for dealing with the
+particular challenges posed by humanities research, e.g., uncertainty,
+vagueness, incompleteness, but also with different positions (points of
+view, values, criteria, perspectives, approaches, readings, etc.)? And
+(2) how can such computational methods be applied to concrete research
+questions in the humanities?The goal of this workshop is to bring together researchers involved with
+computational approaches in the humanities with the objective of
+stimulating the research and exchange around innovative,
+methodologically explicit approaches, to encourage discussion among
+researchers and developers from different communities, and to help
+bridging the divide that still exists between the different disciplines
+involved in this field.The program will consist of invited and contributed talks on
+computational methods for and in the humanities. The official language
+of the workshop is English. Contributions can be submitted in English or
+French.The workshop is organized by the Department of Language and Information
+Sciences at the University of Lausanne, with the support of the Faculty
+of Arts. The workshop underlines the commitment of the Department of
+Language and Information Sciences to the computational dimension of the
+digital humanities, including formal and mathematical methods.
+Topics
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  The topics of the workshop encompass formal and computational aspects
+  related to the development and use of computational methods in the
+  humanities (in particular the disciplines represented in the Faculty
+  of Arts of UNIL - such as literature, linguistics, history, history of
+  art, cinema studies, game studies).  Topics include, but are not limited to:  =E2=80=A2 Theoretical issues of formal modeling in the humanities
+  =E2=80=A2 Knowledge representation in the humanities
+  =E2=80=A2 Data structures addressing specific problems in the humanities
+    (including text and markup)
+  =E2=80=A2 Quantitative methods in the humanities
+  =E2=80=A2 Computer vision and image analysis in the humanities
+  =E2=80=A2 Spatial analysis in the humanities
+  =E2=80=A2 Network analysis in the humanities
+Submissions
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90  We invite researchers to submit abstracts of 500 to 1000 words (1=E2=80=932
+  pages, excluding references). Abstracts will be reviewed double-blind
+  by the members of the program committee, and all submissions will
+  receive several independent reviews. Abstracts submitted at review
+  stage must not contain the authors' names, affiliations, or any
+  information that may disclose the authors' identity.  Authors of accepted abstracts will be invited to present their
+  research at the workshop as a talk, and the abstracts will be
+  published in the book of abstracts of the workshop.  The abstracts must use the ACL 2017 format. Please strictly follow the
+  guidelines that will be published on the workshop Web site. Abstracts
+  must be submitted electronically in PDF format. For abstracts
+  submissions we use EasyChair:
+  [https://easychair.org/conferences/?conf=3Dcomhum2018]. For details
+  please consult the workshop Web site at
+  [http://www.unil.ch/llist/events/comhum2018].  Authors of accepted contributions will be invited, after the
+  conference, to submit a full paper version (6=E2=80=9316 pages), which, aft=
+er
+  peer-review, will be published in an open-access, electronic
+  conference volume endowed with persistent identifiers (to be confirmed
+  soon).
+Invited Speakers
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  =E2=80=A2 Manfred Thaller
+  =E2=80=A2 (more to be confirmed)
+Important Dates
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  Deadline for submission of abstracts
+        April 16, 2018
+  Notification of acceptance
+        April 30, 2018
+  Workshop
+        June 4=E2=80=935, 2018
+Program Committee
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90  =E2=80=A2 Fran=C3=A7ois Bavaud
+  =E2=80=A2 Rapha=C3=ABl Cer=C3=A9
+  =E2=80=A2 Barbara McGillivray
+  =E2=80=A2 Cerstin Mahlow
+  =E2=80=A2 Isaac Pante
+  =E2=80=A2 Davide Picca
+  =E2=80=A2 Michael Piotrowski (chair)
+  =E2=80=A2 Yannick Rochat
+  =E2=80=A2 Elena Spadini
+  =E2=80=A2 Sabine Süsstrunk
+  =E2=80=A2 Aris Xanthos
+Further Information
+=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=
+=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=90=E2=95=
+=90=E2=95=90=E2=95=90  [http://www.unil.ch/llist/event/comhum2018] llist(a)unil.ch--=20
+elenaspadini.com
+PostDoc - UNIL
+Centre de recherches sur les lettres romandes <http://www.unil.ch/crlr>--===============3643381459181765591==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

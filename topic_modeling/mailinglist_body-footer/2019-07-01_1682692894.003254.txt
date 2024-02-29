@@ -1,0 +1,23 @@
+--===============4607582884541068919==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit[Apologies for cross-posting]Dear colleagues,We are delighted to announce the BFM2019 corpus on the web portal of the 
+Base de Français Médiéval 
+http://txm.bfm-corpus.org/?command=documentation&path=/BFM2019.The graphical design of the BFM-TXM web portal has been entirely revised 
+and improved at this occasion.The Terms of use have been simplified and all the texts are now 
+available under an open licence Etalab 
+(https://www.etalab.gouv.fr/licence-ouverte-open-licence).The BFM2019 corpus includes some fifteen new texts and amounts 
+approximately 4,700,000 words. All the texts are formatted according to 
+the TEI guidelines (including the instances of directed speech), 
+automatically pos-tagged and lemmatized. The POS tags are manually 
+verified in 4 new texts (38 total, approximately 1,000,000 words), and 
+the lemmatization is verified and disambiguated in 18 texts 
+(approximately 400,000 words).The corpus includes three new original editions:
+- /La Vie de saint Alexis/, ed. T. Rainsford et C. Marchello-Nizia,
+- /L’image du monde/ by Gossouin, prose version, ed N. Kanaoka,
+- /Les quinze joies de mariage/, ed. N. Kanaoka on the basis of the 
+printed edition prepared by M. Guéret-Laferté, S. Louis and C. Mira, 
+Rouen, Presses universitaires de Rouen et du Havre, 2009.Best regards,The BFM Team
+bfm [at] ens-lyon [dot] fr--===============4607582884541068919==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Visualization tool supporting the embedded transcription	method
+Date: Mon, 01 Dec 2014 17:04:46 +0100
+Message-ID: <547C919E.8020503@ling.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3220573763321417616=="

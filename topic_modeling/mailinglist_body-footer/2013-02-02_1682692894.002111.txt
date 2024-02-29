@@ -1,0 +1,45 @@
+--===============8462822880764762191==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitUnfortunately, the BAV is still a private library, that means they have a
+different view of what should be their "service" to users. I am surprised
+we are able to have access to the online images.On 2 February 2013 21:55, Peter Robinson <P.M.Robinson(a)bham.ac.uk> wrote:> Am I the only person who is bothered by this very common arrangement -- we
+> can link to the images on the BAV site but we *cannot* incorporate the
+> images (unless we get all the permissions to do this, and that is no easy
+> task) into our own sites?  That is: we have to use their viewer; so we
+> cannot do anything else with the images we might want (e.g., enhance them
+> in various ways; or link them dynamically to transcripts a la T-Pen so we
+> can see text overlaid on the image, etc.
+> I think there are really strong arguments in favour of libraries etc NOT
+> trying to maintain this hold over the images.  It will make scholarship
+> based on the images increasingly difficult.
+> Peter
+>
+> Peter Robinson
+>
+> Honorary Research Fellow, ITSEE, University of Birmingham, UK
+>
+> Bateman Professor of English
+> 9 Campus Drive, University of Saskatchewan
+> Saskatoon SK S7N 5A5, Canada
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============8462822880764762191==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

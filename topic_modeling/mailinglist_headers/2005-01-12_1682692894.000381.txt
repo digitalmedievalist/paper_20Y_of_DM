@@ -1,0 +1,8 @@
+From: Peter.Binkley@ualberta.ca
+To: dm-l@uleth.ca
+Subject: RE: [dm-l] Form-based methods of building xml?
+Date: Wed, 12 Jan 2005 11:15:50 -0700
+Message-ID:
+ <9A17FD354DE2D14190D86E0CC8548D7E2C4FEF@mailserver.ualibrary.ualberta.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5967262494603957294=="

@@ -1,0 +1,202 @@
+--===============3496457948737603478==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableThis sounds like music. Ifttt?
+On 14-12-29 09:39 PM, Stuart A. Yeates wrote:
+> Answering in a completely different way, it may not be a choice=20
+> between them. Ifttt should let you write a trigger that commits=20
+> Dropbox or drive files to GitHub. That way your users see Dropbox and=20
+> your backend sees GitHub.
+>
+> Cheers
+> Stuart
+>
+> On Tuesday, December 30, 2014, Daniel O'Donnell=20
+> <daniel.odonnell(a)uleth.ca <mailto:daniel.odonnell(a)uleth.ca>> wrote:
+>
+>     Maybe I should reask it. Is there a reason for not just using
+>     dropbox or drive?
+>
+>     I ask this not to disparage the advice for github, but because
+>     when I switch, I need something that really eliminates this
+>     problem (that is to say: be easily trainable to skittish people)
+>     rather something than replaces it with something else. I don't
+>     mean eliminating it in my research projects; only a project where
+>     there is a lot of turnover and people who need only brief access.
+>
+>
+>
+>
+>     On 14-12-29 05:39 PM, Abdullah Alger wrote:
+>>     Well, Github doesn't cause problems, it's really the user who
+>>     messes it up.
+>>
+>>     However, if you get the idea of doing work on branches, then it
+>>     is easy to delete a branch, or reset a branch if it's not pushed
+>>     to the master branch. This might be a little confusing, but it's
+>>     pretty easy to follow once you've done it a few times. As long as
+>>     people are working on different branches and not messing with the
+>>     master branch, then you should be fine. If they mess up their own
+>>     branches, then there are ways they can move back to previous
+>>     versions, or pull in the master again to their own project.
+>>
+>>     That's basically how Git works. As long as students cannot push
+>>     to the master branch, you should be fine. They can always fork
+>>     the main project and make pull requests to add to the master
+>>     branch, which could be set up so that each commit (or modified
+>>     file) to the master has to be approved. That way you always know
+>>     what's being added to the master. Once a commit has been added to
+>>     the master, then they are able to pull the new material into
+>>     their projects so everyone is up to date.
+>>
+>>     I hope I didn't make this too confusing.
+>>
+>>     On Tue, Dec 30, 2014 at 1:09 AM, Daniel O'Donnell
+>>     <daniel.odonnell(a)uleth.ca
+>>     <javascript:_e(%7B%7D,'cvml','daniel.odonnell(a)uleth.ca');>> wrote:
+>>
+>>         A question I'd have is how easy is it for github to cock up?
+>>
+>>         Subversion works great for us until a student does something
+>>         unexpected. Then we end up having to go in and clean out all
+>>         the locks and the like. That's the bit that is causing us
+>>         trouble. It happens probably twice a year and leaves them all
+>>         very nervous in the meantime. They aren't confident enough to
+>>         google solutions and fix them themselves. So we have good
+>>         interface with subversion via Oxygen; but it occasionally
+>>         throws an error that sends everybody scrambling.
+>>
+>>         My fear is that Github would do the same: I'm willing to
+>>         sacrifice version control for something consumer friendly.
+>>
+>>
+>>
+>>         On 14-12-29 03:38 PM, Abdullah Alger wrote:
+>>>         Easy answer is Github.  If your assistants do not have very
+>>>         technical skills and are uncomfortable with a terminal, it's
+>>>         very easy to use from their downloadable UI for both Mac and
+>>>         Windows.
+>>>
+>>>         https://mac.github.com/
+>>>         https://windows.github.com/
+>>>
+>>>
+>>>
+>>>         On Monday, December 29, 2014, Daniel O'Donnell
+>>>         <daniel.odonnell(a)uleth.ca
+>>>         <javascript:_e(%7B%7D,'cvml','daniel.odonnell(a)uleth.ca');>>
+>>>         wrote:
+>>>
+>>>             Hi all,
+>>>
+>>>             I have a technical question that isn't really medieval.
+>>>             I run several journals out of the Lethbridge Journal
+>>>             Incubator (you can learn more about the model here:
+>>>             http://journalincubator.org/). Until now, we've used
+>>>             Subversion as our central cloud storage. This year,
+>>>             however, I had a complete turnover in the graduate
+>>>             assistants, most of whom were not very technically
+>>>             inclined and I'm finding Subversion is more hassle than
+>>>             it is worth (it mostly works well, but if something goes
+>>>             wrong, the students can't fix it).
+>>>
+>>>             What we need is a cloud based repository system,
+>>>             preferably one that allows us access to arbitrary
+>>>             revisions (students find it comforting to know they can
+>>>             always correct mistaken overwrites), and preferably does
+>>>             version control of some kind--either locking or svn-type
+>>>             comparison. Best, however, would be something very low
+>>>             maintenance, drag and drop, and preferably doesn't
+>>>             require the use of a special client for file
+>>>             manipulation (that's where our subversion issues come).
+>>>
+>>>             I'm thinking Dropbox or Drive, though I don't know
+>>>             anything about setting those up for an organisation.
+>>>             Does anybody have any other tips?
+>>>
+>>>             -dan
+>>>
+>>>             --=20
+>>>             From my Ubuntu notebook
+>>>
+>>>             Daniel Paul O'Donnell
+>>>             Professor of English
+>>>             University of Lethbridge
+>>>             Lethbridge AB T1K 3M4
+>>>             Canada
+>>>
+>>>             +1 403 393-2539 <tel:%2B1%20403%20393-2539>
+>>>
+>>>
+>>>             Digital Medievalist --
+>>>             http://www.digitalmedievalist.org/
+>>>             <http://www.digitalmedievalist.org/>
+>>>             Journal: http://www.digitalmedievalist.org/journal/
+>>>             Journal Editors: editors _AT_ digitalmedievalist.org
+>>>             <http://digitalmedievalist.org>
+>>>             News: http://www.digitalmedievalist.org/news/
+>>>             Wiki: http://www.digitalmedievalist.org/wiki/
+>>>             Twitter: http://twitter.com/digitalmedieval
+>>>             Facebook:
+>>>             http://www.facebook.com/group.php?gid=3D49320313760
+>>>             <http://www.facebook.com/group.php?gid=3D49320313760>
+>>>             Discussion list: dm-l(a)uleth.ca
+>>>             Change list options:
+>>>             http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>>             <http://listserv.uleth.ca/mailman/listinfo/dm-l>
+>>>
+>>>
+>>>
+>>>         --=20
+>>>         Sent from my iPhone
+>>
+>>         --=20
+>>          From my Ubuntu notebook
+>>
+>>         Daniel Paul O'Donnell
+>>         Professor of English
+>>         University of Lethbridge
+>>         Lethbridge AB T1K 3M4
+>>         Canada
+>>
+>>         +1 403 393-2539  <tel:%2B1%20403%20393-2539>
+>>
+>>
+>>
+>>
+>>     Digital Medievalist --http://www.digitalmedievalist.org/
+>>     Journal:http://www.digitalmedievalist.org/journal/
+>>     Journal Editors: editors _AT_digitalmedievalist.org  <http://digitalme=
+dievalist.org>
+>>     News:http://www.digitalmedievalist.org/news/
+>>     Wiki:http://www.digitalmedievalist.org/wiki/
+>>     Twitter:http://twitter.com/digitalmedieval
+>>     Facebook:http://www.facebook.com/group.php?gid=3D49320313760
+>>     Discussion list:dm-l(a)uleth.ca  <javascript:_e(%7B%7D,'cvml','dm-l(a)=
+uleth.ca');>
+>>     Change list options:http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>     --=20
+>      From my Ubuntu notebook
+>
+>     Daniel Paul O'Donnell
+>     Professor of English
+>     University of Lethbridge
+>     Lethbridge AB T1K 3M4
+>     Canada
+>
+>     +1 403 393-2539
+>
+>
+>
+> --=20
+> --
+> ...let us be heard from red core to black sky--=20
+ From my Ubuntu notebookDaniel Paul O'Donnell
+Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Canada+1 403 393-2539
+--===============3496457948737603478==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

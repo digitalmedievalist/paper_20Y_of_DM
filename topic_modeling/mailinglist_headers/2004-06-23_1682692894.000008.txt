@@ -1,0 +1,8 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+Date: Wed, 23 Jun 2004 16:49:52 +0100
+Message-ID: <BCFF6530.DFC9%peter.robinson@dmu.ac.uk>
+In-Reply-To: <Pine.LNX.4.60.0406231603470.19800@localhost>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0575637487481124472=="

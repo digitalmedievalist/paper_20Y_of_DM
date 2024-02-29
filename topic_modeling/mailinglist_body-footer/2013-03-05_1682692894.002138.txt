@@ -1,0 +1,90 @@
+--===============8446202497413239078==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitI'm happy to report that North Carolina State University has been awarded a
+CLIR Postdoctoral Fellowship for Data Curation in Medieval Studies. The
+full job description is pasted below and may also be viewed at
+http://www.clir.org/fellowships/postdoc/applicants/ncsu2013. More
+information on the program may be viewed at
+http://www.clir.org/fellowships/postdoc/applicants/dc-medieval. I will be
+working directly with the fellow and am happy to answer any questions.Tim Stinson---
+Desired Skills & ExpertiseFamiliarity with or interest in learning HTML, XML, and WordPress. Strong
+organizational and communication skills to coordinate with project partners
+across campus and at other institutions. Ability to make effective use of
+social media for public outreach. Programming skills and/or familiarity
+with metadata standards desirable but not required.Fellow's RoleThe Fellow will serve as a liaison between academic departments, faculty
+researchers, and the Digital Libraries Initiatives (DLI) Department on
+NCSU’s campus. The fellow will have the opportunity to work on four
+NCSU-based projects involving data curation in medieval studies: the
+Medieval Electronic Scholarly Alliance (MESA); the Manuscript DNA project;
+the Siege of Jerusalem Electronic Archive (SJEA); and the Piers Plowman
+Electronic Archive (PPEA). The fellow will also serve as a liaison between
+NCSU and partners at other universities engaged in related research
+projects, including the Advanced Research Consortium (ARC), a
+meta-federation comprising MESA, the Renaissance English Knowledgebase
+(REKn), 18thConnect, the Networked Infrastructure for Nineteenth-Century
+Electronic Scholarship (NINES), and Modernist Networks (ModNets). The
+fellow will have the opportunity to conduct original research on data
+curation strategies and will be encouraged to participate actively in the
+larger community of CLIR postdoctoral fellows, including the cohort of
+fellows in the Data Curation in Medieval Studies Fellowship program. A
+strong emphasis will be placed not only on the ways that the Fellow can
+contribute to our institution, but to the professional development of the
+Fellow in the fields of medieval studies and library science.Duties and ResponsibilitiesStudy data curation strategies in use on other campuses and in other
+fields, including the sciences, and develop a set of recommendations for
+best practices for the curation of humanities data. This work will be done
+in consultation with the online DH Curation Guide and will form the basis
+of contributing new resources and information to that guide.
+Seek solutions for linking humanities data and datasets to related
+scholarship in new forms of interactive publications; the Fellow will be
+encouraged to consult and seek partnerships with relevant initiatives such
+as Anvil Academic and Open Humanities Press as well as with ARC partners,
+including JSTOR, ECCO (Eighteenth Century Collections Online) and Project
+MUSE
+Present original research at professional conferences as appropriate
+Collaborate with software developers on the creation, modification, and
+augmentation of tools related to digital projects in the field (e.g.,
+development of the Collex browser for MESA, enhancements to the fuzzy
+search capabilities built into SJEA and MESA to accommodate
+non-standardized medieval spelling practices)
+Conduct user testing of software and web portals using the NCSU Libraries’
+Usability Research Lab
+Use social media for public outreach related to NCSU Libraries, the Data
+Curation Fellowship program, and medieval studies projects on which the
+fellow is working
+Participate in the organization of workshops and symposia, including
+digital public humanities events and meetings of the Advanced Research
+Consortium held on NCSU’s campusLocal Guidance and Professional Development SupportAs a member of the Digital Libraries Initiatives (DLI) Department the
+Fellow would be a member of a 14-person team that works in the areas of
+data curation, digital repositories, web and mobile applications, digital
+media, data visualization, and geospatial data. The Fellow would
+participate in departmental teams and meetings, and would have the
+opportunity to collaborate with staff that have a variety of technical and
+domain-specific skill sets. The Fellow would have access to technology
+support and consultation services from DLI staff members as well as from
+the Information Technology Department, which maintains the Libraries’
+technical infrastructure.The Fellow would work closely with Professor Timothy Stinson in the
+Department of English on the four interdisciplinary projects listed above,
+as well as with Professor James Knowles of English, the project manager for
+PPEA. Cumulatively, these projects include a wide variety of data related
+to medieval studies, including large genomic datasets from the Manuscript
+DNA project, XML-encoded transcriptions and descriptions of manuscripts,
+images of manuscripts from SJEA and PPEA, and tens of thousands of RDF
+metadata records from MESA.The Fellow would be encouraged to be part of the intellectual life of the
+English department, including speakers series, symposia, and workshops, and
+would be offered the option of teaching one or more medieval studies
+courses in the department during his or her tenure. The Fellow will also be
+joining a vibrant community of medievalists spanning the closely linked
+campuses of NCSU, UNC Chapel Hill, and Duke University. Opportunities
+include participating in the Triangle Medieval Studies Seminar, the UNC
+Medieval & Early Modern Lecture Series, the Duke Medieval & Renaissance
+Lecture Series, colloquia at the Center for Medieval and Renaissance
+Studies, and special events at the nearby National Humanities Center.
+--
+Timothy L. Stinson
+Assistant Professor
+Department of English
+North Carolina State University
+http://english.chass.ncsu.edu/faculty_staff/tlstinso--===============8446202497413239078==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

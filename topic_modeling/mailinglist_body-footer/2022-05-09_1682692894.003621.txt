@@ -1,0 +1,23 @@
+--===============4801539478883027837==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.
+[Please Forward]From 23-27 May 2022 Newcastle University is hosting an in-person Digital Hum=
+anities workshop, JUMPSTART, providing 5 days of introductory training into d=
+igital methods for textual research and publication.Monday 23 May 2022: An Introduction to Fundamentals Using Python
+Tuesday 24 May 2022: An Introduction to TEI Publisher
+Wednesday 25 May 2022: Transkribus for Handwritten Text Recognition
+Thursday 26 May 2022: Data Science/Wrangling and Text Analysis
+Friday 27 May 2022: AI and Machine LearningEither the whole week can be booked or each day individually. Participants ar=
+e expected to bring and use their own laptops for the workshop. Funding from =
+the British Academy has enabled us to keep costs of attendance reasonably low.Find out more and register at: https://research.ncl.ac.uk/jumpstart/Many Thanks,James
+--
+Dr James Cummings, Senior Lecturer in Late-Medieval Literature and Digital Hu=
+manities,
+School of English, Newcastle University
+In-Person Office Hours: https://jamescummings.youcanbook.me/
+Zoom Office Hours: https://jamescummings-zoom.youcanbook.me/--===============4801539478883027837==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,9 @@
+From: Digital Medievalist =?utf-8?q?=C2=BB?= News: robertordt
+ <DONOTREPLY@digitalmedievalist.org>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Job posting: developer for an XML/TEI document management	environment
+Date: Tue, 15 Dec 2009 09:30:05 +0000
+Message-ID: <20091215093005.9B709A0C3@force.dreamhost.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0359913171297465563=="

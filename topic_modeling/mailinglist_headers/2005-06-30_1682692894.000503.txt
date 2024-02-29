@@ -1,0 +1,8 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] [Fwd: Announcing Easymacs: an all-in-one Emacs configuration
+	for new users.]
+Date: Thu, 30 Jun 2005 09:16:29 -0600
+Message-ID: <1120144589.7738.9.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2969359958391381974=="

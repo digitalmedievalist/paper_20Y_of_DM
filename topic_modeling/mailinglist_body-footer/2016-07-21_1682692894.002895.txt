@@ -1,0 +1,77 @@
+--===============6256651970666568428==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitSymposium: Versioning Cultural Objects: Concepts, Structures, and
+Expressions
+================================================================
+Date: 1-2 December 2016
+Place: An Foras Feasa, Maynooth University, IrelandOverview
+------------
+The aim of this two-day symposium is to bring together experienced and
+early-stage researchers to engage with the versioning of cultural objects.
+The version of a cultural object is identified, articulated, and analysed
+through diverse mechanisms in different fields of study. The study of
+versions allows for the investigation of the creative processes behind the
+conception of the object, a closer inspection of the socio-political
+contexts that affect it, and may even provide the means to investigate the
+provenance and the object’s circulation. The symposium will provide a
+platform for scholars from different research areas  to exchange ideas
+across different forms of media, including  text, image, and sound. The
+proposed symposium considers the term “versioning” in the broadest sense;
+while the understanding of versions differ in disciplines, this dialogue
+will explore  the convergences and variances in its conception. The
+conversation will  highlight  the range and depth of existing studies  and
+provide an inter-disciplinary understanding of the term.
+The symposium will focus on three primary areas:
+•         What is a version?
+•         Methods used  in the electronic modelling of versions of cultural
+objects
+•         The representation of these digital versionsApplication Process
+--------------------------
+Proposals of up to 500 words are invited by 15 August 2016 from any
+disciplinary area which engage with either theoretical or practical
+applications of versioning. The symposium aims to challenge existing silos
+of disciplinary knowledge providing a platform for dialogue and debate,
+creating  a more coherent understanding of the subject. We welcome
+applications from Irish, European, and international researchers  and
+applications are welcome from both project-based and theoretical research.
+In particular, we encourage students and graduates of the Irish Digital
+Arts and Humanities (DAH) PhD Programme to apply.Abstracts should be sent to the organisers by 15 August 2016
+To: Vinayak.dasGupta(a)nuim.ie; roman.bleier(a)uni-graz.atAreas may include, but are not limited to:
+Textual studies, Variorum editions and collation methods, Musicology,
+Soundscapes, Film, studies, Religious studies, Bible studies and theology,
+Classical studies, Archaeology, Literary criticism, Translation studies,
+Manuscript studies, Oral history, Art history, Art criticism, Library
+Sciences, and ArchivingFormat
+---------
+The symposium will be limited to 12 participants who will be selected based
+on a short abstract. Upon selection, participants will be asked to submit
+an extended abstract of 3000 words or a draft paper (no more than 8000
+words) by 31 October 2016, which will be circulated to symposium
+participants in advance. The working paper will then be presented and
+discussed at the symposium. Additionally, every participant will be asked
+to read two working papers in advance of the symposium, review and prepare
+questions and comments for the authors. Completed articles will be
+considered for publication in an edited volume after the symposium.Deadlines
+-------------
+15 August: deadline for submission of abstracts
+31 August: confirmation of acceptance
+31 October: deadline for submission of extended abstract/draft paperBursaries
+------------
+Bursaries for accommodation and transportation are available on request.
+For further details, please contact the organisers.Organisers:
+Dr. Roman Bleier
+University of Graz, Austria
+Email: roman.bleier(a)uni-graz.atDr. Vinayak Das Gupta
+Maynooth University, Ireland
+Email: Vinayak.dasGupta(a)nuim.ie
+-- 
+Roman BleierDiXiT/Marie-Curie research fellow
+Centre for Information Modelling - Austrian Centre for Digital Humanities
+University of GrazTechnical editor
+Versioning Machine
+http://v-machine.org/E: bleierr(a)tcd.ie
+T: @bleierr
+LinkedIn <http://ie.linkedin.com/pub/roman-bleier/60/924/aa0>--===============6256651970666568428==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

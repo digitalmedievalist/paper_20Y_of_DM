@@ -1,0 +1,22 @@
+--===============9127656080240835095==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Colleagues,I am happy to announce that I have interactive Reflectance Transformation Ima=
+ging (RTI) files of the 8th-century St Chad Gospels available for viewing on =
+the Web: https://lichfield.as.uky.edu . This past summer, I used RTI (origina=
+lly known as Polynomial Texture Mapping, PTM) to capture dry-point glosses an=
+d the state of pigments in the 8th-century St Chad Gospels. RTI proved wonder=
+fully successful, even capturing dry-point glosses that had previously gone u=
+nnoticed. These files are viewable in a regular browser and allow viewers to =
+control the angle of light and adjust a specular enhanced view of surface det=
+ails. I also have a short video about RTI and the Chad Gospels' dry-point glo=
+sses on the website, but it is also viewable directly on YouTube: http://yout=
+u.be/SEr0rO3UHjs .All best,
+Bill--
+Manuscripts of Lichfield Cathedral
+https://lichfield.as.uky.eduBill Endres
+University of Kentucky
+Division of Writing, Rhetoric & Digital Studies
+Lexington, KY 40506859-257-8337--===============9127656080240835095==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

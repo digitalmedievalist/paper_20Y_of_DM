@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Questions about Junicode
+Date: Thu, 20 Apr 2006 13:28:00 +0200
+Message-ID: <1145532480.3858.48.camel@loki>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2934846405535778801=="

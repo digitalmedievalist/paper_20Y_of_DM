@@ -1,0 +1,9 @@
+From: Abdullah Alger <abdullahalger@gmail.com>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+Date: Tue, 30 Dec 2014 00:38:22 +0200
+Message-ID:
+ <CAOpxc6OS_4CJmwMEgCxmtjVi4n7=jOk4hQq0a4_dTJV0+Y=6Hw@mail.gmail.com>
+In-Reply-To: <54A1CC87.20709@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1231583632875852629=="

@@ -1,0 +1,7 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@gmail.com>
+To: dm-l@uleth.ca
+Subject: [dm-l] gentle introduction to XSL, CSS,	and/or stylesheets generally?
+Date: Sat, 18 Jul 2009 11:47:50 -0600
+Message-ID: <4A620AC6.40803@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6372742753115744723=="

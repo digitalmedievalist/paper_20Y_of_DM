@@ -1,0 +1,7 @@
+From: Dan O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] [Fwd: New release of TEI P5 and MSencoding]
+Date: Wed, 26 Sep 2007 12:09:41 -0600
+Message-ID: <1190830181.6095.17.camel@odonned-eng06>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4415540616496168385=="

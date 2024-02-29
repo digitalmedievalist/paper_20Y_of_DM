@@ -1,0 +1,26 @@
+--===============8417302339476164605==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear DM community,I am very glad to let you know that we at the Innovating Knowledge<http://inn=
+ovatingknowledge.nl/> project (Huygens Institute, Amsterdam) just released a =
+digital edition of the glosses to the first book of the Etymologiae of Isidor=
+e of Seville.This digital edition makes use of network visualizations to display the relat=
+ionships between the manuscript witnesses, to map these relationships against=
+ the geographical background, and to showcase how the glosses are distributed=
+ across the text. All in all, the edition contains approximately 4,280 glosse=
+s as found in more than 50 early medieval manuscripts, including vernacular, =
+Tironian and dry-point glosses.You can find the edition at: https://db.innovatingknowledge.nl/editionTogether with the edition, we are also publishing the raw data<https://innova=
+tingknowledge.nl/?page_id=3D104> behind the edition in a hope that they can b=
+e further reused by other projects. The TEI-XML file, the XML schema, and the=
+ software code of the edition are also published<https://github.com/HuygensIN=
+G/isidore-glosses> today in a dedicated GitHub repository.I am also very glad that the data from the edition was also published on our =
+partner project, the GlossEngine<http://www.glossing.org/glossengine/collecti=
+ons.php>.I hope that many of you will find this edition useful and inspiring.Best wishes,EvinaEvina Steinova
+https://homomodernus.net/
+https://evinasteinova.academia.edu/Postdoctoral Researcher
+NWO VENI project Innovating Knowledge<http://innovatingknowledge.nl>
+Huygens ING, Dutch Royal Academy of Arts and Sciences, Amsterdam--===============8417302339476164605==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

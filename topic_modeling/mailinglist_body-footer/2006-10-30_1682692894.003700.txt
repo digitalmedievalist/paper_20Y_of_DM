@@ -1,0 +1,8 @@
+--===============7883933344957887721==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitJe suis absent pendant quelques jours. Je vous répondrai à mon retour.
+Cordialement,
+AZ--===============7883933344957887721==
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.bin"

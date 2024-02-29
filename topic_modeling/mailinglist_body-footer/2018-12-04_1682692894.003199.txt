@@ -1,0 +1,26 @@
+--===============0336241723534606758==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Colleagues,Please let me call your attention on our second hackathon at the DH Uni=20
+Wien, this time focusing on prosopography.A number of technical challenges remain in the world of prosopography.=20
+How best to link between online databases and share information between=20
+them, whether underlying systems can be made more generic, and what=20
+models and linkages to use within any given database system are all=20
+current concerns. The Uni Vienna Digital Humanities team are hosting=20
+this three day hackathon to look at these and other current issues in=20
+prosopography, bringing together a range of programmers and=20
+prosopographers with the intention of taking steps towards developing=20
+technical solutions to these issues.We are inviting all interested digital humanists with an inclination for=20
+coding to partake in this event in Vienna, which will run from Feb 13 to=20
+Feb 15 with a meal for participants on the 15th. We are able to offer=20
+small bursaries to offset traveling costs.
+If you would like to attend, please send a message to=20
+james.baillie(a)univie.ac.at with =E2=80=9CProsopography Hackathon=E2=80=9D i=
+n the subject=20
+by 31 December 2018Please see more details in the attachment.Best regards,--=20
+M=C3=A1ria Vargha
+Praedoc-Assistentin für Digital Humanities
+Institut für Geschichte
+Univestität Wien--===============0336241723534606758==
+Content-Type: application/pdf
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Open_Call_Prosothon.pdf"

@@ -1,0 +1,18 @@
+--===============0306767408287120516==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,We are pleased to announce the next edition of the conference series "Graph T=
+echnologies in the Digital Humanities", to be held 21 and 22 February 2020 at=
+ the University of Vienna. The theme of this year's installment is "Modelling=
+ the Scholarly Process".As well as submissions relevant to the conference theme "Modelling the Schola=
+rly Process=E2=80=9D, we warmly welcome abstracts on the application of graph=
+ technologies to problems of provenance, source criticism, validation, and vi=
+sualisation of scholarly resources.Contributions in English or German (300-500 words, excluding bibliography) sh=
+ould be submitted by 21 October 2019 (23:59 CET) via email to graphentechnolo=
+gien(a)adwmainz.de <mailto:graphentechnologien(a)adwmainz.de>.More information on the topics and conditions can be found in the full Call f=
+or Papers, which has been published on the following web page: https://graphe=
+ntechnologien.hypotheses.org/657 <https://graphentechnologien.hypotheses.org/=
+657>Best wishes, on behalf of the program committee,
+Tara Andrews--===============0306767408287120516==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,34 @@
+--===============5029886797277006555==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.The Schoenberg Institute for Manuscript Studies is pleased to announce the ne=
+xt installment of the SIMS Virtual Lecture Series. All are invited to attend!
+Infinite Diversity in Infinite Combinations: Symbolizing the Elements That Cr=
+eate Manuscripts and Their Structural History with VisColl 2.0Presented byAlberto Campagnolo, University of Udine
+Dot Porter, Schoenberg Institute for Manuscript Studies, Penn Libraries Friday, April 23, 2021, 1:00 -2:15pm (via Zoom)
+The ultimate working unit of the codex is the gathering structure known as th=
+e quire, a group of folded (or single) leaves bound together with other quire=
+s to form the text block. This structure, characterized by a limited number o=
+f elements and variations in their spatial arrangement, is fundamental to the=
+ study of the codex format for manuscript books. Traditionally, gathering str=
+uctures are described in highly formalized alphanumerical formulaic represent=
+ations, referred to as collation formulas. It is customary to include these f=
+ormulas in paper-based and online catalogues. For what concerns manuscript st=
+udies, however, there are no actual standards, and different catalogues and s=
+cholars use their own set of rules and practices, making broader analysis dif=
+ficult. In addition, the information density of collation formulas hinders th=
+e immediacy of their interpretation.In this lecture, creators Dot Porter, SIMS founding member and Curator of Dig=
+ital Research Services, and Alberto Campagnolo, book conservator and adjunct =
+professor at the University of Udine, will present a new version of the onlin=
+e collation modeler VisColl to address these challenges. VisColl 2.0, with it=
+s new interface VCEditor, has been updated to model complex structures, with =
+quires, subquires, and a variety of attachment methods, also through an intui=
+tive graphic interface that guides the user and permits data input without kn=
+owledge of the XML data model behind it.This event is free and open to the public. To receive the zoom link, click on=
+ this link to registration<https://libcal.library.upenn.edu/calendar/kislak/v=
+iscoll>.
+--===============5029886797277006555==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

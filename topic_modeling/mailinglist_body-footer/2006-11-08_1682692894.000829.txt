@@ -1,0 +1,9 @@
+--===============6539033625231604921==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitun saluto a tuttinon parlo ingleseho il sito http://digilander.libero.it/gasparo/indice.htm 
+cerco notizie sui Carnesecchi fiorentinigrazie
+cordialmente
+pierluigi c.--===============6539033625231604921==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

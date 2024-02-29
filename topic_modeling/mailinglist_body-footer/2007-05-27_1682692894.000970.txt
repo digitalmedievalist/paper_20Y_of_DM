@@ -1,0 +1,16 @@
+--===============1168372073857288284==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+-----Original Message-----
+From: The Digital Classicist List on behalf of Prof. Roger Boyle
+Sent: Fri 04/05/2007 2:35
+To: DIGITALCLASSICIST(a)JISCMAIL.AC.UK
+Subject: [DIGITALCLASSICIST] New resource
+ 
+We have created a resource at
+     http://www.comp.leeds.ac.uk/mahdiyya-quran/This is a digitisation and backlit digitisation of a C19th copy of the Qur'an.This is a prototype site.  I'd be interest in feedback on oversights and/or
+its utility.Please feel free to publicise this resource widely.Roger
+--===============1168372073857288284==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

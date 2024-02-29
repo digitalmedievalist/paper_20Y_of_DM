@@ -1,0 +1,56 @@
+--===============5419125986304950687==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Digital Medievalists,the second DiXiT camp (14 - 19 September 2014) on XML/TEI for Digital Scholar=
+ly Editions at the University of Graz (Austria) organized by the Centre for I=
+nformation Modelling - Austrian Centre for Digital Humanities is now open for=
+ applications!--- please circulate widely! ---XML/TEI for Digital Scholarly Editions - Standards, tools and software, 14 - =
+19 September 2014, Graz (Austria)We are very pleased to announce the second DiXiT camp on XML/TEI for Digital =
+Scholarly Editions - Standards, tools and software funded by the Digital Scho=
+larly Editions Initial Training Network (DiXiT), and run by the Centre for In=
+formation Modelling - Austrian Centre for Digital Humanities (http://informat=
+ionsmodellierung.uni-graz.at/de/) in collaboration with the University of Oxf=
+ord, the University of Cologne, the Royal Netherlands Academy of Arts and Sci=
+ences, SynchRO, TEI-C, and Text Grid. The course will be held at the Universi=
+ty of Graz (Karl-Franzens-Universität) from 14th to 19th September 2014.DiXiT is an international network of high-profile institutions that are activ=
+ely involved in the creation and publication of digital scholarly editions an=
+d offers a training and research programme in the multi-disciplinary skills, =
+technologies, theories, and methods of digital scholarly editing. DiXiT is fu=
+nded under Marie Curie Actions within the European Commission's 7th Framework=
+ Programme.The second DiXiT camp will be an intensive training on XML TEI P5 for Digital=
+ Scholarly Editions and on standards, tools and software for creating digital=
+ editions. It will provide students with theoretical knowledge and practical =
+experience in creating digital editions using the open international encoding=
+ standard XML TEI P5. Basics of representing textual phenomena and features f=
+or the description, transcription and representation of primary sources will =
+be covered, from data input to publication.The lectures will be held by experts from the DiXiT partners and will cover t=
+he following areas:=C2=B7                  General introduction on XML TEI P5=C2=B7                  Transcription and editorial interventions=C2=B7                  Critical apparatus=C2=B7                  Genetic editing=C2=B7                  Tools for digital editing=C2=B7                  Customization of the TEI schema=C2=B7                  Workflow and solutions to create an online presentati=
+on out of TEI=C2=B7                  Metadata standards=C2=B7                  Edition beyond text: image-text-linkage and music edi=
+tionsEvening lectures on use cases will accompany the morning and afternoon sessio=
+ns. Besides the Shelly-Godwin Archive (http://shelleygodwinarchive.org), two =
+editing projects from Graz, Hugo von Montfort - the poetic work (http://gams.=
+uni-graz.at/me) and the Moral Weeklies in Romance-speaking Europe (http://gam=
+s.uni-graz.at/mws) will serve as examples for different editing scopes.The DiXiT camp on XML TEI P5 for Digital Scholarly Editions - Standards, tool=
+s and software is open to all students registered for postgraduate and in par=
+ticular doctoral programs (PhD or equivalent) anywhere in the world with basi=
+c experience in scholarly editing. The course will strongly focus on practica=
+l exercise. We will therefore prefer applications which can bring own materia=
+l for the exercises. All teaching will be in English.The course offers 25 positions from which twelve are reserved for DiXiT fello=
+ws, leaving 13 vacancies for other applicants. Participants will be required =
+to arrange their own accommodation and travel to Graz, but there will be no f=
+ee for the course itself. Some bursaries will be available for travel and acc=
+ommodation.For further details and the provisional schedule see http://informationsmodel=
+lierung.uni-graz.at/de/forschen/dixit/ .Applications close on 28 July 2014 and early registration is highly recommend=
+ed. Please use the application form at < http://informationsmodellierung.uni-=
+graz.at/de/forschen/dixit/  > and send it to dixit(a)uni-graz.at<mailto:dixit=
+(a)uni-graz.at>.Best wishes,Frederike NeuberFrederike Neuber
+DiXiT - Digital Scholarly Editions Initial Training NetworkZentrum für Informationsmodellierung
+Austrian Centre for Digital Humanities
+Universität Graz
+A-8010 Graz | Merangasse 70eMail: frederike.neuber(a)uni-graz.at<mailto:frederike.neuber(a)uni-graz.at>
+tel.: +43 (0)316 380 - 8014
+Web: dixit.uni-koeln.de | informationsmodellierung.uni-graz.at
+Blog: dixit.hypotheses.org
+--===============5419125986304950687==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

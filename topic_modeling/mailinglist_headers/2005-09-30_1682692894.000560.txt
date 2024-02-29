@@ -1,0 +1,7 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Font editors for Linux
+Date: Fri, 30 Sep 2005 00:30:24 -0600
+Message-ID: <1128061824.12215.22.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0937966148723249156=="

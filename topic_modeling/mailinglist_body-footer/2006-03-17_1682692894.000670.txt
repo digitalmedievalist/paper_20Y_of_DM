@@ -1,0 +1,6 @@
+--===============4425598219797042873==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitOf interest to members of the list.--===============4425598219797042873==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

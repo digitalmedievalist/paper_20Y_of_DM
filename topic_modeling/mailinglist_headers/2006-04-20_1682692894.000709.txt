@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Questions about Junicode
+Date: Thu, 20 Apr 2006 09:55:48 -0600
+Message-ID: <1145548548.3390.22.camel@localhost.localdomain>
+In-Reply-To: <1145532480.3858.48.camel@loki>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2244508536016408569=="

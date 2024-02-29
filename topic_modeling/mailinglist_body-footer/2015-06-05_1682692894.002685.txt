@@ -1,0 +1,45 @@
+--===============2737384826071346917==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableI am very pleased to announce that the program for the Symposium on Cultural =
+Heritage Markup is now available: http://balisage.net/CulturalHeritage/sympos=
+iumProgram.html <http://balisage.net/CulturalHeritage/symposiumProgram.html>(=
+the symposium will be followed by Balisage: The Markup Conference 2015 http:/=
+/balisage.net/ <http://balisage.net/>)All of the talks in some way address and grapple with the complexity of Cultu=
+ral Heritage materials and the difficulties involved in applying standard mar=
+kup solutions to them. A further call for short presentations meant to kick o=
+ff long discussions will be forthcoming, so please be on the lookout!Topics include:=20
+- dealing with document fragments and fragmentary annotations
+- aligning text to images and the character level
+- interoperable cross-references using TEI
+- converting metadata from legacy formats to web formats
+- representing and storing metadata for long-term useSymposium Logistics:=20
+- When: 10 August 2015
+- Where: Bethesda North Marriott Hotel & Conference Center
+     (Bethesda, Maryland, a suburb of Washington, DC)
+- More Info: http://balisage.net/CulturalHeritage/index.html <http://balisage=
+.net/CulturalHeritage/index.html>
+- Program: http://balisage.net/CulturalHeritage/symposiumProgram.html <http:/=
+/balisage.net/CulturalHeritage/symposiumProgram.html>
+- Registration: http://balisage.net/registration.html <http://balisage.net/re=
+gistration.html>
+- Questions: info(a)balisage.net <mailto:info(a)balisage.net>=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Balisage: The Markup Conference 2015          mailto:info(a)balisage.net <mai=
+lto:info(a)balisage.net>
+August 11-14, 2015                               http://www.balisage.net <htt=
+p://www.balisage.net/>
+Preconference Symposium: August 10, 2015                +1 301 315 9631
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+/**
+ *  Hugh A. Cayless, Ph.D
+ *  Chair, TEI Technical Council=20
+ *  Duke Collaboratory for Classics Computing (DC3)
+ *  hugh.cayless(a)duke.edu
+ *  http://blogs.library.duke.edu/dcthree/
+**/--===============2737384826071346917==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

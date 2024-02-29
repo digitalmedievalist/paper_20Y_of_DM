@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Anybody use subversion with people who don't use command	lines?
+Date: Fri, 24 Aug 2007 05:14:55 +0100
+Message-ID: <1187928895.11511.3.camel@localhost>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3623128278098217923=="

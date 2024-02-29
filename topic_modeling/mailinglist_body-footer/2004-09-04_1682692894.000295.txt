@@ -1,0 +1,6 @@
+--===============4208619070954866975==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitI thought I'd take a look at this, so I down-loaded it.  Then after I 
+unzipped it, I got a message from the program telling me I had to let it 
+rewrite part of my OS before it could run! Of course I deleted the thing 
+at once.  That isn't the way things ought to work....  <http://www.nzetc.org/downloads/find-glyph.zip>--===============4208619070954866975==--

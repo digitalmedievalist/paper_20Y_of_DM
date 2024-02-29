@@ -1,0 +1,17 @@
+--===============3395896276351544041==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear list members,=20Since I assume most of us work with Latin manuscripts at least sometimes, I w=
+ould like to share here the news of the release of my latest development, cal=
+led "Enigma" (Latin word for "puzzle"):=20
+http://ciham-digital.huma-num.fr/enigma/=20
+"Enigma helps scholars to decipher Latin words which are difficult to read in=
+ medieval manuscripts. It is sometimes impossible to decipher all the letters=
+ in a word, for various reasons (difficult palaeography, unclear writing, dam=
+age to the document, etc.) If you type the letters you can read and add wildc=
+ards, Enigma will list the possible Latin forms, drawing from its database of=
+ more than 400 000 forms."=20I hpe you will find this useful :)=20
+Best regards,=20
+Marjorie Burghart=20--===============3395896276351544041==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

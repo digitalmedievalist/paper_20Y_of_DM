@@ -1,0 +1,13 @@
+--===============7360204501670856621==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitTalking about baby steps, things are really moving in the right direction
+at the French national library (BnF): few people have noticed, but now
+images from the Gallica portal are royalty-free for any non-commercial use.
+I don' think the news is very widespread, but just go on Gallica, look for
+instance for a digitized manuscript (example "Latin 12584"), choose any
+folio and click on "télécharger / imprimer" (download / print), and you'll
+find a link to the non-commercial and commercial use policies.
+Best regards, Marjorie--===============7360204501670856621==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

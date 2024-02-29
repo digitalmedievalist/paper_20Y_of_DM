@@ -1,0 +1,61 @@
+--===============1163386721677432486==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,We are looking for two (2) Computational Linguist / Natural Language Processi=
+ng developers for the ERC research project POSTDATA http://postdata.linhd.es/=
+. The project, born at the Digital Humanities Innovation Lab from UNED, LINHD=
+, is a Digital Humanities project which deals with poetry analysis, standardi=
+zation and classification. It combines semantic web technologies, natural lan=
+guage processing and digital scholarship editing with the analysis of more th=
+an 30 poetry projects and databases in different European languages. The team=
+ is an interdisciplinary group of high-qualified researchers from different d=
+isciplines, from linguistics, philology and literature to computer science, m=
+athematics and semantic web engineers.Requirements for this position are:
+  *   Knowledge of Natural Language processing (NLP) or Computational Linguis=
+tics
+  *   Knowledge of NLP toolkits
+  *   Experience using language technology in the Humanities
+  *   Good programming skills in Python or Java
+  *   Languages: Spanish and English
+  *   Demonstrable good writing skills in English
+  *   Experience with software version control (git)
+  *   Autonomy combined with good communication and collaboration skills, tea=
+m-orientedCandidates must sent a short CV (maximum 4 pages) and a motivation letter (ma=
+ximum 2 pages) explaining why they fit for the position, with references to p=
+revious projects developed.
+Mandatory SUBJECT of email message: POSTDATA Developer Application _ LastName=
+, Name
+Contact email: luciana(a)linhd.uned.es<mailto:luciana(a)linhd.uned.es>The positions will be filled as soon as we find a candidate suitable for it. =
+Don't wait for the last minute!More information here https://euraxess.ec.europa.eu/jobs/327747Warm regards from the coordinator of this issue,Elena Gonz=C3=A1lez-Blanco
+Luciana Ayciriex
+R&D Project Manager
+Laboratorio de Innovaci=C3=B3n en Humanidades Digitales
+Escuela T=C3=A9cnica Superior de Ingenier=C3=ADa Inform=C3=A1tica, UNED
+Juan del Rosal, 16
+28040 MADRID
+tel. 913988239
+[1495805924928_linhd_signature.png]                         [1487162382233_PO=
+STDATA]
+              www.linhd.es<http://linhd.es/>                                 =
+         www.postdata.linhd.es<http://postdata.linhd.es/>
+AVISO LEGAL. Este mensaje puede contener informaci=C3=B3n reservada y confide=
+ncial. Si usted no es el destinatario no est=C3=A1 autorizado a copiar, repro=
+ducir o distribuir este mensaje ni su contenido. Si ha recibido este mensaje =
+por error, le rogamos que lo notifique al remitente.
+Le informamos de que sus datos personales, que puedan constar en este mensaje=
+, ser=C3=A1n tratados en calidad de responsable de tratamiento por la UNIVERS=
+IDAD NACIONAL DE EDUCACI=C3=93N A DISTANCIA (UNED) c/ Bravo Murillo, 38, 2801=
+5-MADRID-, con la finalidad de mantener el contacto con usted. La base jur=C3=
+=ADdica que legitima este tratamiento, ser=C3=A1 su consentimiento, el inter=
+=C3=A9s leg=C3=ADtimo o la necesidad para gestionar una relaci=C3=B3n contrac=
+tual o similar. En cualquier momento podr=C3=A1 ejercer sus derechos de acces=
+o, rectificaci=C3=B3n, supresi=C3=B3n, oposici=C3=B3n, limitaci=C3=B3n al tra=
+tamiento o portabilidad de los datos, ante la UNED, Departamento de Pol=C3=AD=
+tica Jur=C3=ADdica de Seguridad de la Informaci=C3=B3n<http://portal.uned.es/=
+portal/page?_pageid=3D93,24432769,93_24432770&_dad=3Dportal&_schema=3DPORTAL>=
+, o a trav=C3=A9s de la Sede electr=C3=B3nica<https://sede.uned.es/> de la Un=
+iversidad.
+Para m=C3=A1s informaci=C3=B3n visite nuestra Pol=C3=ADtica de Privacidad<htt=
+ps://descargas.uned.es/publico/pdf/Politica_privacidad_UNED.pdf>.--===============1163386721677432486==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

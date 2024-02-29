@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Encoding and analysis of phonemic information
+Date: Fri, 23 Oct 2009 15:06:06 +0200
+Message-ID: <1256303166.4479.18.camel@Odin>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6029376843923316496=="

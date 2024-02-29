@@ -1,0 +1,15 @@
+--===============5013192690574615882==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableOn Wed, 12 Jun 2013  "Heinrich C. Kuhn" <hck(a)lrz.uni-muenchen.de> wrote:> My personal favourites are web forums (they offer threading, usable
+> archives, search interfaces, RSS-feeds, the option to give different
+> "rights" to different people, direct messaging, ... ).You have all this (perhaps without RSS feed and direct messaging) in
+the sympa mailserver recommended by me earlier.What most forums (at least those I know) are missing is a convenient
+way to selectively quote other postings, which negatively affects
+exchange of views.RegardsJanusz--=20
+                           ,  =20
+Prof. dr hab. Janusz S. Bien -  Uniwersytet Warszawski (Katedra Lingwistyki F=
+ormalnej)
+Prof. Janusz S. Bien - University of Warsaw (Formal Linguistics Department)
+jsbien(a)uw.edu.pl, jsbien(a)mimuw.edu.pl, http://fleksem.klf.uw.edu.pl/~jsbi=
+en/
+--===============5013192690574615882==--

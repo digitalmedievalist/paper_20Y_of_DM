@@ -1,0 +1,9 @@
+From: Peter Robinson <peter.robinson@dmu.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?] Problems	with
+ port 8080??
+Date: Thu, 08 Jul 2004 10:55:18 +0100
+Message-ID: <BD12D897.E3BD%peter.robinson@dmu.ac.uk>
+In-Reply-To: <Pine.LNX.4.60.0407081017480.30191@localhost>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6016659808964628420=="

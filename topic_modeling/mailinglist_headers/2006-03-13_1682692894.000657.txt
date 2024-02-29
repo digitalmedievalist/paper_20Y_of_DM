@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <caedmon@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] [Fwd: PhiloLogic Maintenance Release (3.002)]
+Date: Mon, 13 Mar 2006 15:26:59 -0700
+Message-ID: <1142288819.11662.2.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0407179865700414082=="

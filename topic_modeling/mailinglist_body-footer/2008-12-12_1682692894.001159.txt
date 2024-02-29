@@ -1,0 +1,25 @@
+--===============3596222457490848116==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableIt is with great pleasure that we would like to draw your attention to =20
+the Catalogue of Digitized Medieval Manuscripts.  Hosted by UCLA's =20
+Center for Medieval and Renaissance Studies, the Catalogue seeks to =20
+provide a technological solution to a simple and rather delightful =20
+"problem": the breathtaking increase in the number of medieval =20
+manuscripts available on the web in their entirety, but in a =20
+bewildering range of venues and formats.Currently, almost one thousand manuscripts, digitized and available in =20
+their entirety on the web, have been entered into the Catalogue.   =20
+Users can search the Catalogue on basic information about manuscripts, =20
+such as the location, language, or date of a codex, or browse through =20
+the complete Catalogue.We welcome feedback on your experience using the website, and =20
+particularly welcome suggestions for sites not currently represented =20
+in the Catalogue.The Catalogue can be accessed at: http://manuscripts.cmrs.ucla.edu
+More information about the project: http://manuscripts.cmrs.ucla.edu/about.ph=
+p=20
+, or by contacting Matthew Fisher at fisher[at]humnet[dot]ucla[dot]eduRegards,Matthew Fisher
+Assistant Professor
+Department of English
+University of California, Los Angeles
+--===============3596222457490848116==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

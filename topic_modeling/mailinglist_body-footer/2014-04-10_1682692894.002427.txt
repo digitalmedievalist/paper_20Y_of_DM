@@ -1,0 +1,63 @@
+--===============5777267909109327407==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Digital Medievalists,Many of you on this list have patiently helped members of our team, so I am p=
+leased to let you all know that we have now officially published our historic=
+al gazetteer. A press release is below.A special thanks goes to Tom Elliott and Winona Salesky our XML architects an=
+d Hugh Cayless who has answered many questions along the way.Thank you to the DM-L community for all of your help,DaveDavid A. Michelson
+Assistant Professor of the History of Christianity
+Vanderbilt UniversityPress Release 04/08/2014
+Syriaca.org publishes The Syriac Gazetteer (http://syriaca.org/geo/)Editors: Thomas A. Carlson and David A. MichelsonSenior Programmers: Winona Salesky and Thomas Elliott________________________________
+Syriaca.org<http://syriaca.org/> is pleased to announce publication of The Sy=
+riac Gazetteer<http://syriaca.org/geo/>(http://syriaca.org/geo/), an online g=
+eographical dictionary to document Syriac culture in the Middle East, Asia, a=
+nd around the globe. The Syriac Gazetteer<http://syriaca.org/geo/> is a born-=
+digital publication employing eXistDB, TEI XML, and Linked Open Data URIs. Al=
+l publications of Syriaca.org are made available online in a free and open fo=
+rmat using the Creative Commons<http://creativecommons.org/>licenses. Project=
+ data and code are available in a public Github repository<https://github.com=
+/srophe/>.What is Syriac?Syriac is a language which once flourished on the Mesopotamian plateau. A dia=
+lect of Aramaic, Syriac was widely used during much of the first millenium of=
+ the common era. Syriac speaking communities could be found in what today wou=
+ld be Turkey, Lebanon, Syria, Iraq, Iran, India, Central Asia, China, and Mon=
+golia. Sources in Syriac hold immense value for increasing our historical und=
+erstanding of the Mediterranean, the Middle East and Asia. In particular, Syr=
+iac sources document key moments in the development and interaction of Judais=
+m, Christianity, Islam, and other religions of Late Antiquity.What is The Syriac Gazetteer?The Syriac Gazetteer<http://syriaca.org/geo/> is the first in a suite of refe=
+rence works to be published as a part of Syriaca.org: The Syriac Reference Po=
+rtal<http://syriaca.org/>. The gazetteer contains multilingual entries (in En=
+glish, Syriac, and Arabic) covering over 2400 places relevant to Syriac Studi=
+es, from ancient centers of Syriac culture (such as the city of Edessa<http:/=
+/syriaca.org/place/78>) to modern diaspora communities (such as the monastery=
+ of Mor Awgen<http://syriaca.org/place/680> in Switzerland). The  Syriac Gaze=
+tteer<http://syriaca.org/geo/> is an ever-expanding resource created by and f=
+or users based on the principles of Linked Open Data. This publication is int=
+ended to serve a broad scholarly audience including students of Middle Easter=
+n studies, classics, medieval history, religious studies, biblical studies, a=
+nd linguistics as well as Syriac heritage communities and the interested gene=
+ral public.
+Users are encouraged to begin exploring The Syriac Gazetteer<http://syriaca.o=
+rg/geo/> through these links:Main page: http://syriaca.org/geo/About the Gazetteer: http://syriaca.org/geo/about.htmlBrowse the Collection: http://syriaca.org/geo/browse.htmlBrowse via Interactive Map: http://syriaca.org/geo/browse.html?view=3DmapEdessa, the model entry: http://syriaca.org/place/78Documentation: http://syriaca.org/geo/help/Related Online ResourcesSyriaca.org<http://syriaca.org/> is also preparing a number of other publicat=
+ions:  *   Clavis Syriaca: A two volume reference guide to Syriac authors and thei=
+r works for use in cataloguing Syriac manuscripts. An initial fasicule has al=
+ready been published as part of The Virtual International Authority File<http=
+://viaf.org/viaf/search?query=3Dlocal.names+all+%22ephrem%22+and+local.source=
+s+any+%22srp%22&sortKeys=3Dholdingscount>.  *   The Syriac Prosopography: A text-based prosopography similar to the The=
+ Prosopography of Anglo-Saxon England (PASE)<http://www.pase.ac.uk/>.  *   Gateway to the Syriac Saints: A two volume reference guide to Syriac sa=
+ints and their vitae.  *   Digital Catalogue of Syriac Manuscripts in the British Library: A digit=
+al catalogue of Syriac manuscripts using the TEI XML standards<http://jtei.re=
+vues.org/372> for manuscript cataloguing.  *   A Union Catalogue of Syriac Manuscripts: A digital catalogue of Syriac =
+manuscripts following the model of the Fihrist<http://www.fihrist.org.uk/> un=
+ion catalogue.
+These publications are the result of the collaboration and good will of the m=
+any scholars who have helped create them. Technical design of the project was=
+ completed by Winona Salesky and Thomas Elliott, Senior Programmers. Funding =
+has come from the Andrew W. Mellon Foundation, Fondazione Internazionale Balz=
+an, and the National Endowment for the Humanities (U.S.A.).
+The editors of the project welcome inquiries from the media and offers of col=
+laboration from the scholarly community. They may be reached at info(a)syriac=
+a.org<mailto:info(a)syriaca.org>.
+Sincerely,David A. Michelson, Vanderbilt University, Co-editorThomas A. Carlson, Princeton University, Co-editor
+--===============5777267909109327407==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

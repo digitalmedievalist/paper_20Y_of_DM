@@ -1,0 +1,7 @@
+From: Peter Robinson <p.m.robinson@bham.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] re: Relational database and TEI
+Date: Tue, 22 Nov 2005 15:32:42 +0000
+Message-ID: <9964672A-FB29-472E-AFED-4DFCC46D82DD@bham.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0793878034616484388=="

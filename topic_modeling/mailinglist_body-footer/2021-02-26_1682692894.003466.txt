@@ -1,0 +1,43 @@
+--===============7334874264545565903==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Dear all,
+At the professorship of Digital History at the Humboldt University of Berlin,=
+ we are looking for a:
+Postdoctoral Research Assistant in Digital History (m/f/d)
+Full-time, max. 6 years (subject to WissZeitVG)
+Field of activity:
+=C2=B7         Scientific services in research and teaching
+=C2=B7         Participation in the development of projects and the acquisiti=
+on of third-party funding as well as the implementation of your own innovativ=
+e research projects, especially in the fields of NLP, Machine Learning or Res=
+earch Software Engineering
+=C2=B7         Your own academic qualification (habilitation)
+Requirements:
+=C2=B7         Completed university studies and doctorate in the fields of co=
+mputer science, history, computational linguistics or related subjects
+=C2=B7         In-depth knowledge of current methods and technologies in at l=
+east one of the following areas: NLP, Machine Learning or Research Software E=
+ngineering (RSE)
+=C2=B7         Solid programming skills in Python and optionally other progra=
+mming languages
+=C2=B7         A good command of written and spoken English as well as a basi=
+c knowledge of German (and the willingness to develop this upon taking up the=
+ position)
+=C2=B7         Experience in the interdisciplinary work between computer scie=
+nce and humanities
+For more detailed information, please visit: https://dhistory.hypotheses.org/=
+525
+Deadline: 18 March 2021The candidature of digital medievalists is of course very welcome!
+Please contact me if you have any questions.Best regards,Torsten Hiltmann__________________________________________
+Prof. Dr. Torsten HiltmannProfessur für Digital History
+Institut für Geschichtswissenschaften
+Humboldt-Universität zu Berlin
+Unter den Linden 6
+D-10099 Berlinhttps://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/digital-histo=
+ry
+--===============7334874264545565903==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,20 @@
+--===============7169909605439373872==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear colleagues and friends,As part of the competitions organized for the 15th International Conference
+on Frontiers in Handwriting Recognition, we organise a competition focussed
+on (Latin) Medieval Scripts, as described here: ICFHR2016 Competition on
+the Classification of Medieval Handwritings in Latin Script | Écriture
+médiévale & numérique <http://oriflamms.hypotheses.org/1388>The challenge for Computer Scientists is to identify correctly the main
+script types (e.g. uncial, caroline, textualis, humanistic), having two
+aims in mind: 1) automated cataloguing in large digital libraries, not only
+for whole volumes, but even at a page level; 2) preparing text recognition.
+As many of you, we are well aware that the given categories are far from
+representing the complexity and the dynamics, but it is a first step.Best regards,
+Dominique Stutzmann, Marlène Helias-Baron, Florence Cloppet, Véronique
+Eglin, Nicole Vincent––
+M. Dominique Stutzmann
+Chargé de recherche à l'Institut de Recherche et d'Histoire des Textes
+(CNRS, UPR 841)--===============7169909605439373872==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

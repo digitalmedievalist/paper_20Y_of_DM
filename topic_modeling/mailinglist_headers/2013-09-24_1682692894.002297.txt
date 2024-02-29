@@ -1,0 +1,8 @@
+From: Questionnaire Biblissima <questionnaire@biblissima-condorcet.fr>
+To: dm-l@uleth.ca
+Subject: [dm-l] Biblissima - Overview of the XML editors for TEI / EAD survey
+Date: Tue, 24 Sep 2013 12:48:38 +0200
+Message-ID: <a7a2611d-b52a-470b-8f7c-c8eac802e00d@zimbra-hsp-1.enovance.com>
+In-Reply-To: <ae069bed-31d3-4d3a-820b-12a83bcdfb7d@zimbra-hsp-1.enovance.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2174829237803038951=="

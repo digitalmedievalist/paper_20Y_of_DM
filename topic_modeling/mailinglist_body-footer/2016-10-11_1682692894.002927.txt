@@ -1,0 +1,36 @@
+--===============6991364840447745319==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableThe Schoenberg Institute for Manuscript Studies at the University of Pennsylv=
+ania Libraries is pleased to announce the beta release of the New Schoenberg =
+Database of Manuscripts (SDBM)<https://sdbm.library.upenn.edu/about/>. Thanks=
+ to support from the National Endowment for the Humanities, the New SDBM is b=
+eing redeveloped to allow you-the members of our user community-to help us bu=
+ild a finding aid for the world's manuscripts.Members of our user community can now sign up to contribute data, including y=
+our own personal observations of a manuscript or group of manuscripts, and to=
+ engage with other users to facilitate research and conversations about curre=
+nt and historical locations of manuscripts and the data gathered in the proce=
+ss of recording this history.The final release of the New SDBM is scheduled for April 2017. In the meantim=
+e, we invite you to sign up now at https://sdbm.library.upenn.edu to start co=
+ntributing and testing new features and functionality. Your participation and=
+ feedback will help us build a better tool for your research.New features currently available:
+*          New data model
+*          Enhanced provenance data
+*          Ability to enter and manage your own contributions, track your sea=
+rch history, bookmark, tag, and download search results
+*          Export the entire contents of the SDBM for your own use under a Cr=
+eative Commons Attribution-ShareAlike 4.0 Unported License<https://creativeco=
+mmons.org/licenses/by-nc-sa/4.0/>
+*          A growing VIAF-based Name Authority for individuals and institutio=
+ns associated with manuscript production and trade to which users can contrib=
+ute
+*          Google group for User feedback and discussion: new-sdbm-feedback-p=
+hase 2<https://groups.google.com/forum/#!forum/new-sdbm-feedback_phase-2>.New features coming soon:
+*          Public approval system for Entries, Manuscript Records, and Names
+*          Group activity workspace for collaborative projects
+*          Ability to advance from Contributor to Editor and Super-Editor via=
+ a user community approval system
+*          More refined and user-friendly interfaceFor more information, go to https://sdbm.library.upenn.edu or email us at sdb=
+m(a)pobox.upenn.edu<mailto:sdbm(a)pobox.upenn.edu>.--===============6991364840447745319==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

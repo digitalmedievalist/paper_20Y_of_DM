@@ -1,0 +1,8 @@
+From: Lou Burnard <lou.burnard@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Help in customizing the TEI DTD
+Date: Mon, 25 Apr 2005 12:04:38 +0100
+Message-ID: <426CCEC6.1010108@oucs.ox.ac.uk>
+In-Reply-To: <1114423707.8430.39.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2498259443956633101=="

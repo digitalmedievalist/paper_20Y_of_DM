@@ -1,0 +1,7 @@
+From: Paolo Monella <paolo.monella@uniroma1.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] VeDPH Workshop: Error Correcting HTR
+Date: Wed, 02 Nov 2022 14:26:24 +0100
+Message-ID: <69d51c65-5bfb-a946-fd0e-850ce8863d36@uniroma1.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0797157221946014961=="

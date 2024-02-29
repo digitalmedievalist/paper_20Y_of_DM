@@ -1,0 +1,104 @@
+--===============7393313273104431216==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableOn Sat, Jun 25, 2011 at 8:18 AM, Peter Damian
+<peter.damian(a)btinternet.com>wrote:>  Of course I forgot to add the link which is:
+>>> http://jeffreycwitt.com/plaoul
+>>>
+>>
+> Jeffrey Witt's lovely critical edition project. I do recommend this.
+>  Nicely laid out, I love the way you can match the image of the manuscript
+> with the Latin transcription (as well as toggle through the ms).  Having
+> done this myself, I recognise there is a problem with 'cutting' the digital
+> images so that they match the text.  The line spacing of the MS is never
+> consistent from page to page, nor within the page (it is effectively
+> handwriting after all).  Could semi-intelligent software scan the MS to
+> determine the lines, and automatically line up with the transcript?  I don't
+> bother doing this any more after much experimentation. I simply have the
+> text in one window, the image in another, and use the mouse to line up.
+>
+> The Text-Image Linking Environment does this: http://tileproject.org, and
+it can provide any kind of output (although you'd have to provide an output
+script - there is documentation on how to do this on the site). As of Monday
+of this week there was work being done on the Auto Line Recognizer plugin
+(that's the piece of TILE that does to auto line recognition) however
+version 1.0 should be out any day now if it's not already.Dot
+> Two comments, Jeffrey, and a preliminary remark.  Preliminary remark: the
+> three main components of value/reward for academic publishing are (a)
+> accredition - giving an author recognition for the work they have put in (b)
+> authority - having a recognised name or panel of specialists review the work
+> (c) archiving - not just giving a 'how to cite' reference, but also a place
+> that people are guaranteed to find the work, i.e. a library, usually a large
+> number of libraries which store a physical representation of the work, which
+> researchers are guaranteed to find.
+>
+> With those preliminary remarks in mind, here are my comments.
+>
+> 1.  I made two corrections to the transcription via the form provided.
+>  This disappeared into the ether without any recognition.  The system
+> therefore fails the accreditation test.  I contributed to the project, but
+> it is unlikely I will be recognised.  I'm not complaining of course, just
+> noting that in order to give an incentive for people to work on the project,
+> they are likely to need some reward - wiki software can do this, by the way,
+> because you can estimate the amount each person contributed, though an art
+> not a science.
+>
+> 2.  The project also fails the 'archiving' test - it is on a personal
+> website.  If I link to the edition, how do I know it won't break in a year
+> or two?  I used to create external links when I started my website 6 years
+> ago. So many of them broke that I don't bother.  If I want to point to
+> something, I just load it onto my own website, and link internally (always
+> accrediting the orignal owner of the text, of course - no one has complained
+> so far).
+>
+> BTW archiving, I believe, is what explains the strange economics of
+> academic publishing.  There are three components, as I said, of which the
+> first two are given free of cash payment.  The labour of the author is
+> rewarded by the accreditation - stuff you can put on your CV.  The labour of
+> those who give authority is unpaid,but rewarded by the prestige of being a
+> series editor, or journal editor, or serving on a panel.  The publishing, by
+> contrast, is rewarded in cash, to the publisher.  The printing costs are
+> negligible (I was told by a good friend who works).  The value provided is
+> in distributing the work to archivists - university libraries - who pay
+> handsomely for this. The critical edition I am using for my current
+> translation project cost =C2=A380, of which the main labour - the writing a=
+nd
+> peer review - was free, and the printing cost probably =C2=A35.  The rest g=
+oes to
+> the publisher.  And this odd state of affairs will continue until some
+> organisation provides a very large server onto which all such material can
+> be uploaded, for the use of everyone.  But no one has an incentive to go to
+> this expense, because it will be unpaid.  (A university library, which costs
+> between =C2=A35m and =C2=A310m a year to run, will go to this expense, beca=
+use of the
+> value it provides to the university, which will bear the cost. The value to
+> the university, in turn, is to provide access to the library in return for a
+> portion of the tuition fees.
+>
+>
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.**org/<http://www.dig=
+italmedievalist.org/>
+> Journal: http://www.digitalmedievalist.**org/journal/<http://www.digitalmed=
+ievalist.org/journal/>
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.**org/news/<http://www.digitalmedievali=
+st.org/news/>
+> Wiki: http://www.digitalmedievalist.**org/wiki/<http://www.digitalmedievali=
+st.org/wiki/>
+> Twitter: http://twitter.com/**digitalmedieval<http://twitter.com/digitalmed=
+ieval>
+> Facebook: http://www.facebook.com/group.**php?gid=3D49320313760<http://www.=
+facebook.com/group.php?gid=3D49320313760>
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/**mailman/listinfo/dm-l<http:=
+//listserv.uleth.ca/mailman/listinfo/dm-l>
+>--=20
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+*~*~*~*~*~*~*~*~*~*~*--===============7393313273104431216==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

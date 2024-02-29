@@ -1,0 +1,27 @@
+--===============5644587601077838582==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Please forward suspicious emails to phishing(a)uleth.ca.Dear Researchers,I would like to recommend a free, multilingual, shared database for historian=
+s called FactGrid, a joint initiative of German research centers. The platfor=
+m runs on the versatile Wikibase (like Wikidata), the data can be used freely=
+ by anyone but can be edited only by historians. At the moment there are alre=
+ady 150,000 items in the data set and it's constantly expanding with new proj=
+ects and will have the full database of the German National Library integrate=
+d.They welcome new research projects but it is also possible to upload older da=
+tasets or migrate finished projects to the website. Feel free to browse and r=
+equest an account: https://database.factgrid.de<https://t.co/Z3DS8jGPuw?amp=
+=3D1> More detailed information: https://blog.factgrid.de/archives/1591<https=
+://t.co/J2QINMRjcR?amp=3D1>I hope you find it useful, let me know if you have any questions, and if you =
+can, please share the information with other researchers.Best wishes,
+Adam Harangoz=C3=B3
+--
+[https://ovo-brand-assets.s3-eu-west-1.amazonaws.com/CarbonCapper3.png]
+'Thank you' emails have a massive carbon footprint:
+so this is me saying thanks without sending it. Every email has a carbon foot=
+print, reduce it by sending less<https://www.ovoenergy.com/blog/ovo-news/thin=
+k-before-you-thank.html>.
+#WhatWeCanDo--===============5644587601077838582==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

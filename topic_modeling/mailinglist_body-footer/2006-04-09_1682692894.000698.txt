@@ -1,0 +1,6 @@
+--===============5386102592676313400==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitFYI--===============5386102592676313400==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

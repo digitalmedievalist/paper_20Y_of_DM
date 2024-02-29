@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Font editors for Linux
+Date: Fri, 30 Sep 2005 09:57:53 +0200
+Message-ID: <1128067073.8179.8.camel@localhost.localdomain>
+In-Reply-To: <1128061824.12215.22.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0610762523739485125=="

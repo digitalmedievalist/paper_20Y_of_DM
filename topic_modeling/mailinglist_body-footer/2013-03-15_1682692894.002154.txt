@@ -1,0 +1,45 @@
+--===============2518283113001726611==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi All, Since I'm in the process of building my own digital critical edition
+(http://petrusplaoul.org) I thought I'd chime.First off thanks to Dot for a thoughtful paper and I really agree that the
+distinction between digitized and digital editions is not well understood in
+our field and that this misunderstanding lies at the heart of any
+resistance. I think it is special impediment to getting scholars to create
+digital editions or for that matter do their transcriptions  TEI XML or
+really any kind of semantic markup, or to even understand why semantic
+mark-up is important.To Godfried: I agree that longevity of the presentation vs. content are two
+different issues. However, I think that web-based editions (because of the
+web's ubiquity) ensure a level of permanence that editions built on
+non-web-platforms  do not achieve.Andrew brings up a number of good points, but I'd like to reiterate his
+final point: NONE OF THESE ISSUES ARE INSURMOUNTABLE.I'd be interested to hear reacting to my own attempts to create stable
+citations (which I'm still developing, but which is visible on my site). All
+changes to every lectio are tracked using GIT (source control) and
+particular versions are given a version tag. As the text improves, old
+version remain accessible through a drop down list. Simply click on the
+earlier version and the older version will appear. (the drop down list also
+includes a link to a version log which gives the user a description of the
+status of the current version). Thus, a user simply needs to cite the
+paragraph number and the version he/she is using (v. 2012.11 etc). Then if
+the text changes, a reader can simply select version 2012.11 from the drop
+dow list and they will see the exact same version that was used in the
+citation. You can see a couple of examples of this here:
+http://www.petrusplaoul.org/text/textdisplay.php?flag=dTlecture67 and
+http://www.petrusplaoul.org/text/textdisplay.php?flag=prollecture1I generally feel the same way about the point that digital editions are
+"miserable" to read. They certainly can be. But they don't have to be, a
+clean uncluttered book-like view is easy enough to design and can make
+reading very easy and fluid. That's been my goal at least.So those are just of my thoughts.
+Sincerely,
+jaw
+p.s I'm still constantly working on my digital edition, so if you stay long
+enough, you'll be sure to find some bugs which I would be happy if you
+reported at 
+https://bitbucket.org/jeffreycwitt/plaoul/issues?status=new&status=open-- 
+Dr. Jeffrey C. Witt
+Philosophy Department
+Loyola University Maryland
+4501 N. Charles St.
+Baltimore, MD 21210
+www.jeffreycwitt.com <http://www.jeffreycwitt.com/>--===============2518283113001726611==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

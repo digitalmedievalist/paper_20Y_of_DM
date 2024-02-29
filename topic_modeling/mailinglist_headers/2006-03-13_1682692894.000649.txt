@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@oucs.ox.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Switching XSL on the web (Lazy question)
+Date: Mon, 13 Mar 2006 10:00:26 +0000
+Message-ID: <441542BA.7010301@oucs.ox.ac.uk>
+In-Reply-To: <1142214398.21484.4.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6268527466470424950=="

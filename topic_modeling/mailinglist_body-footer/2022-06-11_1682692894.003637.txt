@@ -1,0 +1,28 @@
+--===============5126442735104839378==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.The evaluation period for HTREC Challenge has been extended until July 1st, 2=
+022.
+Handwritten Text Recognition (HTR) concerns the conversion of digital images =
+of handwritten text into machine-encoded text. HTR Error-Correction (HTREC) c=
+an improve the results and speed up human transcription.
+The HTREC Challenge is using recent advancements in Natural Language Processi=
+ng (NLP) for the correction of errors, focusing on Greek papyri and Byzantine=
+ manuscripts. Simple rules may make a positive difference. Interdisciplinary =
+teams of IT specialists, Byzantinists, historians and philologists are partic=
+ularly encouraged to join the challenge.
+All details and data sets: https://www.aicrowd.com/challenges/htrec-2022
+--Franz Fischer
+Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
+Dipartimento di Studi Umanistici
+Universit=C3=A0 Ca' Foscari
+Palazzo Malcanton Marcor=C3=A0
+Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+https://www.unive.it/vedph
+https://www.i-d-e.de/
+https://journal.digitalmedievalist.org/
+--===============5126442735104839378==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

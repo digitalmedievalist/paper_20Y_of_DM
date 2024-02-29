@@ -1,0 +1,21 @@
+--===============4735115183879761593==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitThis may be of interest to members of this list. This year's TEI members' meeting (which is open to non-members) at the
+University of Maryland is introducing conference-style sessions, of
+which two may be of particular interest to members of this list: markup
+as theory, and manuscript markup.For a complete programme, see
+http://www.lib.umd.edu/dcr/events/teiconference/schedule.html-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Department Chair and Associate Professor of English
+Director, Digital Medievalist Project http://www.digitalmedievalist.org/
+Chair, Text Encoding Initiative http://www.tei-c.org/Department of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Vox +1 403 329-2377
+Fax +1 403 382-7191
+Email: daniel.odonnell(a)uleth.ca
+WWW: http://people.uleth.ca/~daniel.odonnell/--===============4735115183879761593==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

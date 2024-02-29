@@ -1,0 +1,37 @@
+--===============0869752069014707272==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues (with apologies for cross-posting),On =C2=ABAd fontes=C2=BB, an e-learning platform provided by the University o=
+f Zurich, all abbreviations from the =C2=ABCappelli=C2=BB have been digitised=
+ and are now fully searchable.In October 2015, the University of Zurich hosted the Cappelli-Hackathon, a ve=
+ry successful crowd sourcing project, during which all 14'357 abbreviations c=
+ollected in Adriano Cappellis' =C2=ABLexicon abbreviaturarum=C2=BB were digit=
+ally registered and systematised through a specifically for the task designed=
+ web interface. Since then, the registered abbreviations have been checked an=
+d =E2=80=93 where necessary =E2=80=93 corrected through expert validation. Th=
+ey are as of now freely available, either as part of the Ad fontes platform (=
+Cappelli online) or through the new app, App fontes.The search interface not only allows to search by the readable letters, with =
+the possiblity to set wildcards for non-identifiable characters, but also to =
+search by visual criteria. Through the use of a 3x3 grid, the abbreviations h=
+ave been systematised by the placement of abbreviation marks and other visual=
+ features; user may now use this grid in the search interface to help them fi=
+nd results.Thus, the project allows a better and easier way to access the =C2=ABCappelli=
+=C2=BB, an invaluable tool for everyone working with handwritten sources. Sin=
+ce =C2=ABAd fontes=C2=BB offers also a link to the digitised original page, i=
+t is even possible to cite from the =C2=ABLexicon abbreviaturarum=C2=BB using=
+ the project.P.S.: The data as well as the pictures can be downloaded (http://www.adfontes=
+.uzh.ch/5232.php)
+------=20
+Tobias Hodel, lic. phil.=20
+Koordinator=20
+Universität Zürich=20
+Historisches Seminar=20
+Projekt =C2=ABAd fontes=C2=BB=20
+Culmannstrasse 1=20
+CH-8006 Zürich=20tobias.hodel(a)hist.uzh.ch=20t.uzh.ch/69
+http://www.hist.uzh.ch/fachbereiche/mittelalter/lehrstuehle/teuscher/forschun=
+g/projekte/adfontes.html+41 (0) 44 634 28 85=20
++41 (0) 79 750 70 57
+--===============0869752069014707272==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

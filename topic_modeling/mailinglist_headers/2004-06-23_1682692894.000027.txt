@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Useful free tools for finding unicode characters
+Date: Wed, 23 Jun 2004 23:28:34 -0600
+Message-ID: <40DA6682.1000106@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2994912230402016585=="

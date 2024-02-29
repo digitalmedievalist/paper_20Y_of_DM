@@ -1,0 +1,55 @@
+--===============2328158583417803971==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitNEW BOOK: Apologies for multiple postings.Gian Piero ZARRI
+Representation and Management of Narrative Information, Theoretical 
+Principles and Implementation
+Series: Advanced Information and Knowledge Processing
+2009, X, 302 p. 55 illus., Hardcover
+ISBN: 978-1-84800-077-3
+Springer-Verlag London
+http://www.springer.com/computer/artificial/book/978-1-84800-077-3
+A big amount of important, economically relevant information, is buried 
+within the huge mass of multimedia documents that correspond to some 
+form of 'narrative' description.Due to the ubiquity of these narrative resources, representing in a 
+general, accurate, and effective way their semantic content - i.e., 
+their key 'meaning' - is then both conceptually relevant and 
+economically important. In this book, we present the main properties of 
+NKRL ('Narrative Knowledge Representation Language'), a language 
+expressly designed for representing and managing, in a standardised way, 
+the 'meaning' of complex multimedia narrative documents. NKRL is also a 
+fully implemented environment that exists in two versions: a relational 
+database-supported version and a file-oriented one. It constitutes 
+probably the most complete and realistic effort realised so far to deal 
+with the huge industrial potentialities of the narrative domain.
+    
+Written from a multidisciplinary perspective, this book not only 
+supplies an exhaustive description of NKRL and of the associated 
+knowledge representation principles, it also constitutes a source of 
+reference for practitioners, researchers and graduates in domains that 
+range over narrative theories, linguistics and computational 
+linguistics, artificial intelligence, knowledge bases, information 
+retrieval, and languages for the ontologies and the semantic web.Contents:- Narratology and NKRL.
+- The notion of 'event' in an NKRL context.
+- Knowledge representation and NKRL.
+- Architecture of NKRL, the four 'components'.
+- Second order structures.
+- The semantic and ontological contents.
+- Ontology of 'concepts' and ontology of 'events'.
+- The query and inference procedures.
+- Temporal information and indexing.
+- High-level inference procedures.
+- Technological enhancements and theoretical enhancements.
+- Appendix A: NKRL software.
+- Appendix B: Plural entities in NKRL.
+Professional address of the author from February 1st, 2009:Gian Piero Zarri
+University Paris-Est - LISSI Laboratory
+120-122, rue Paul Armangot
+94400 Vitry-sur-Seine
+France
+Phone: 33-1-41807383
+Fax: 33-1-41807369
+Email: zarri(a)noos.fr, gian-piero.zarri(a)univ-paris12.fr
+--===============2328158583417803971==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,49 @@
+--===============5673363449751314359==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Thanks to everyone who has signed up for a VCEditor account, the response has=
+ been great! I've scheduled a workshop on Wednesday, October 27, at 12pm ET, =
+for people who are interested in finding out more about how VCEditor works. T=
+his workshop will walk through the process of setting up a project, how to bu=
+ild a collation model, how to upload and attach images to the model, and how =
+to download different visualizations of the model.Register here: https://libcal.library.upenn.edu/event/8430035If you want to come but that date and time doesn't work for you please let me=
+ know, I'm open to scheduling more workshops at times people can attend and p=
+erhaps focusing on particular elements or uses of VCEditor.Thank you,
+Dot PorterOn Thu, Sep 30, 2021 at 9:39 AM Alberto Campagnolo <alberto.campagnolo(a)gmai=
+l.com<mailto:alberto.campagnolo(a)gmail.com>> wrote:
+Caution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca<mailto:phishin=
+g(a)uleth.ca>.The VisColl team at the Schoenberg Institute for Manuscript Studies, Universi=
+ty of Pennsylvania, are pleased to announce the launch of VCEditor. Use VCEdi=
+tor to model and visualize medieval manuscripts and books in codex format in =
+general. We welcome your feedback! https://vceditor.library.upenn.edu<https:/=
+/vceditor.library.upenn.edu/>
+[viscoll-collations-mode-01.png]
+VCEditor is based on the VisColl specification https://viscoll.org<https://vi=
+scoll.org/> and is adapted from the VisCodex application by @oldbooksnewsci (=
+https://github.com/utlib/VisualCollation).For help, see our 'How to page' (https://viscoll.org/help/) and the project W=
+iki (https://github.com/KislakCenter/VisualCollation/wiki).Please share the news and let us know how we can improve this for your needs!Thank you,
+Alberto Campagnolo
+Digital Medievalist --  http://www.digitalmedievalist.org/
+Journal: https://journal.digitalmedievalist.org/
+Journal Editors: https://journal.digitalmedievalist.org/contact/
+News: https://digitalmedievalist.wordpress.com/news/
+Twitter: http://twitter.com/digitalmedieval
+Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+Discussion list: dm-l(a)uleth.ca<mailto:dm-l(a)uleth.ca>
+Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l*Please note: Posts to this unmoderated list do not imply endorsement by Digi=
+tal Medievalist or by any members of its Executive Board of content expressed=
+ therein.
+--
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com<mailto:dot.porter(a)gmail.com>
+Penn Manuscripts on Tumblr: http://upennmanuscripts.tumblr.com/
+MESA: http://mesa-medieval.org
+*~*~*~*~*~*~*~*~*~*~*--===============5673363449751314359==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,33 @@
+--===============1872847020466110586==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit From Barbara Bordalejo (and me):
+> Dear colleagues,
+>
+> GO::DH and RedHD are organising a conference and series of workshops 
+> on 19-20 May (Workshops) and 21-23 May (conference).
+>
+> The deadline for proposals is January 20th.
+>
+> Paper proposals should be submitted via the easy chair system. 
+> Instructions can be found here: 
+> http://humanidadesdigitales.net/index.php/encuentro2014/encuentro2014-en
+>
+> We are also organizing two days of workshops for the 19^th  and 20^th 
+>  of May, immediately before the conference.
+>
+> If you would like to offer a workshop on any aspect of Digital 
+> Humanities, please contact me privately with your ideas. We are 
+> interested both in workshops for users and developers. Some examples 
+> of workshops that might be offered are: Omeka, Phyton, TEI, WordPress, 
+> Juxta and Web design for DHers among others. But other topics are 
+> certainly welcome.
+>
+>
+>
+> BB
+>
+>
+--===============1872847020466110586==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

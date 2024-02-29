@@ -1,0 +1,7 @@
+From: Matthew Davis <matthew@matthewedavis.net>
+To: dm-l@uleth.ca
+Subject: [dm-l] Stemming code/list for 15th century Middle English
+Date: Mon, 04 Apr 2022 13:07:36 +0100
+Message-ID: <c0c2ef5f-9f5b-7968-c362-b0395e2b3b85@matthewedavis.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4630674489396815459=="

@@ -1,0 +1,7 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Letter database: languages, character sets, names etc
+Date: Fri, 10 Jun 2005 00:05:15 -0600
+Message-ID: <1118383515.7966.6.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============2116005833411691267=="

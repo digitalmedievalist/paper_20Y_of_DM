@@ -1,0 +1,65 @@
+--===============6582045873116099431==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit----------------------------
+  * Apologies for potential cross posting
+  * Please distribute freely and widely=== Deadline Extension: deadline Sun 29 January 2012 (23.59 GMT+1) ===We are extending the deadline of the call below to a final definite date
+and time of Sunday 29 January 2012, 23.59 GMT+1.Apologies for confusing the community with being 'a year off' in the
+initial call, we hope this wasn't reason for anyone not to submit: we do
+stress the symposium is indeed taking place from 19-20 March 2012.=== Call for Papers: Scholarly Digital Editions, Tools and Infrastructure
+===
+== Interedition - An Interoperable Supranational Infrastructure for Digital
+Editions ==
+== 19-20 March 2012, Huygens ING, The Hague, The Netherlands ==Huygens ING is pleased to host a symposium to mark the achievements of
+Interedition, COST (European Cooperation in Science and Technology) Action
+IS0704. This event will also serve as a springboard for further work based
+on the principles of interoperability promoted by Interedition within the
+domain of digital scholarly editing and research.One of the key objectives of Interedition has been to produce a ‘roadmap’
+conceptualizing the development of a technical infrastructure for
+collaborative digital preparation, editing, publication, analysis and
+visualization of literary research materials. Interedition has approached
+the problem of interoperable infrastructure from the perspectives of
+methodology, technology, and community. At present Interedition is
+realizing the ‘nuts and bolts’ of a bottom-up generalizable architecture,
+focusing on the development community and the prototyping of distributed
+lightweight services. This grassroots approach is emerging from the ‘engine
+rooms’ where Web 2.0 digital editions are being built and promises a
+generalizable and viable approach to collaborative digital humanities tool
+building.Creators and/or users of tools for textual scholarship are invited to
+submit paper proposals dealing with tools and methodologies that promote,
+exemplify, and otherwise address the issues of interoperability and
+sustainability in the field of digital scholarly editing and research. In
+particular, we encourage papers which address, but are not limited to the
+following areas:  * Development and application of tools to achieve interoperability and
+sustainability in the arena of digital textual scholarship
+  * Development methodology and the problem of bottom-up versus top-down
+approaches
+  * Development and application of tools for digital scholarly editions
+  * Theoretical and practical problems of digital editing and scholarly
+information exchange
+  * Community and user aspects of interoperability in textual scholarship
+  * Crowd sourcing solutions
+  * Architectural approaches towards interoperability for tools in digital
+scholarship
+  * Digital techniques and methodologies from scholars working on textual
+data in the humanitiesSpeakers are asked to submit abstracts of 750 words. This should also
+include the names, titles, institutional affiliations, addresses, phone
+numbers and email addresses of all authors. Abstracts must be submitted via
+email to joris.van.zundert(a)huygens.knaw.nl by 15 January 2012.Please note that we will be publishing the proceedings and that
+contributions will be peer reviewed.A bursary scheme will be in place to facilitate travel and accommodation
+for selected papers. Details will be forthcoming*** Keeping true to Interedition’s principles a bootcamp oriented towards
+collaborative coding opportunities for researchers/developers will be
+attached to this symposium. More details about this will be forthcoming. ***Further details will be available at: http://www.interedition.eu/== Symposium organizing committee ==
+Peter Boot (Huygens Institute for the History of The Netherlands)
+Karina van Dalen-Oskam (Huygens Institute for the History of The
+Netherlands)
+Fotis Jannidis (Universität Würzburg)
+Kathryn E. Piquette (University College London)
+Susan Schreibman (Trinity College Dublin)
+Joris van Zundert (Huygens Institute for the History of The Netherlands)== Links of Interest ==
+About Interedition: http://www.interedition.eu
+About the Huygens ING: http://www.huygens.knaw.nl/en/over-ons/
+About COST and Interedition:
+http://www.cost.esf.org/domains_actions/isch/Actions/IS0704------------------------===============6582045873116099431==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

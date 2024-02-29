@@ -1,0 +1,7 @@
+From: Daniel Paul O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] dtd/schema generators?
+Date: Mon, 18 Jul 2005 21:48:27 -0600
+Message-ID: <1121744907.15663.4.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1197588741651528336=="

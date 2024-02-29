@@ -1,0 +1,66 @@
+--===============0186448589570950736==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableApologies for cross-posting.---------- Forwarded message ----------
+From: *Chad Nelson*
+Date: Friday, November 22, 2013
+Subject: [PhillyDigitalHumanities] GLAM Hack Philly - Feb 1-2, 2014
+To: phillydh <phillydigitalhumanities(a)googlegroups.com>
+   GLAM Hack Philly is a free, weekend-long hackathon focused on building
+apps with open data from Galleries, Libraries, Archives, and Museums. It
+will take place the weekend of February 1-2, 2012 at the University of
+Pennsylvania's Kislak Center for Special Collections.The event will bring together programmers, curators, librarians, designers,
+archivists, and anyone else with a passion for GLAM data, to build fun and
+interesting apps with the tremendous amount of GLAM data that is openly and
+freely available. On the morning of Saturday, February 1st, participants
+can pitch ideas for projects related to a specific data set or for broader
+GLAM-related applications. This could be anything from creating Omeka
+plug-ins to building a virtual city tour app using local digital
+collections. Small groups will form and participants will begin working on
+their projects through Sunday, with a goal to present a working prototype
+by Sunday afternoon.
+Challenges and DataWe are seeking proposals of Data Challenges for teams to work on during the
+hackathon. Challenges can be as simple as a dataset and a vague idea of
+what could be done with that data, or could be an already identified
+problem with your data that you are seeking help to solve.The only requirements for proposing a challenge are:   -   Someone from your organization commits to participating in the event.
+   They will help steward teams who take up that challenge by giving context
+   to your data.
+   -   If you r challange includes a dataset, that data should be made
+   available for use and reuse. Providing your data openly means that anyone
+   can build applications with your data before, during, and after the
+   hackathon.
+Submit a Challenge Now <http://bit.ly/1bp5xpV>If you're not sure how your organization's data could be used or want=
+ some
+help brainstorming a challenge, just get in touch with
+glamhackphilly(a)gmail.com <javascript:_e({}, 'cvml',
+'glamhackphilly(a)gmail.com');>, we're happy to help.You can also submit your dataset without proposing a
+challenge<http://bit.ly/1cg6bEr>.
+We'll highlight your dataset on our website for attendees consideration.But I'm not a programmer -- can I participate?The input of content specialists like museum curators, librarians,
+archivists, catalogers,GLA researchers and others who know the data
+produced by GLAM organizations, is crucial to creating successful projects.
+We don't just want your participation, we need it!You can find more information on http://glamhack.comThanks,
+Philly GLAM Hack organizers --
+You received this message because you are subscribed to the Google Groups
+"Greater Philadelphia Digital Humanities Group" group.
+To unsubscribe from this group and stop receiving emails from it, send an
+email to PhillyDigitalHumanities+unsubscribe(a)googlegroups.com<javascript:_e=
+({},
+'cvml',
+'PhillyDigitalHumanities%2Bunsubscribe(a)googlegroups.com');>.
+To post to this group, send email to
+PhillyDigitalHumanities(a)googlegroups.com <javascript:_e({}, 'cvml',
+'PhillyDigitalHumanities(a)googlegroups.com');>.
+Visit this group at http://groups.google.com/group/PhillyDigitalHumanities.
+For more options, visit https://groups.google.com/groups/opt_out.--=20
+*~*~*~*~*~*~*~*~*~*~*
+Dot Porter (MA, MSLS)
+Digital Medievalist, Digital Librarian
+Email: dot.porter(a)gmail.com
+Personal blog: dotporterdigital.org
+Medieval Electronic Scholarly Alliance: http://www.mesa-medieval.org
+MESA blog: http://mesamedieval.wordpress.com/
+MESA on Facebook:
+https://www.facebook.com/MedievalElectronicScholarlyAlliance
+*~*~*~*~*~*~*~*~*~*~*--===============0186448589570950736==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

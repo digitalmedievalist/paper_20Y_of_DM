@@ -1,0 +1,14 @@
+--===============4737039910186760697==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Colleagues,I was recently asked by a colleague about standards for digitizing microfilm =
+of medieval MSS. Does anyone on this list have a recommendation as to what th=
+e optimal file format and resolution would be for digitizing black and white =
+microfilm? (I am, perhaps naively, assuming that because the source image is =
+a b/w microfilm that there is a certain resolution limit after which point hi=
+gher resolution would be of no value since the original image is limited).Any advice?Thank you,
+DM
+David A. MichelsonAssistant Professor of the History of Christianity, Divinity School
+Affiliate Assistant Professor of Classics, College of Arts & SciencesVanderbilt University--===============4737039910186760697==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

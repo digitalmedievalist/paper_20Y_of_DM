@@ -1,0 +1,23 @@
+--===============9175963804874060791==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitSuda online (http://www.stoa.org/sol/) is online quite long now, the Virtual
+Humanities Lab (http://dev.stg.brown.edu/projects/VHL/about.php) is quite
+new. Both require some sort of registration for users to contribute to the
+content. Is some sort of quality control possible without some sort of
+registration?
+Notis2006/3/19, Daniel O'Donnell <caedmon(a)uleth.ca>:
+>
+>
+>
+> Does anybody know of any scholarly projects that have actually
+> implemented such virtual piazza-type interaction? I'm interested in
+> projects that allows arbitrary users to contribute to the content,
+> either with or without refereeing.
+>
+> -d
+>--
+University of Cambridge
+Grammar of Medieval Greek project--===============9175963804874060791==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

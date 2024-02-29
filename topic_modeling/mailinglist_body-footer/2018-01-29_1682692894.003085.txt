@@ -1,0 +1,90 @@
+--===============1469490395920912519==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit**Apologies for cross-posting**International conference
+Textual Heritage and Information Technologies - El’Manuscript 2018
+Vienna and Krems, Austria
+14-18 September 2018Deadline for submitting abstracts : 28 February 2018
+http://textualheritage.org/elmanuscript2018
+Dear colleagues,The Textual Heritage community and Vienna University are pleased to 
+invite submissions of abstracts for the El’Manuscript-2018 international 
+conference on the creation and development of information systems for 
+storage, description, processing, analysis, and publication of medieval 
+and early modern handwritten and printed texts and documentary records. 
+Any person involved in the creation or application of these 
+resources—including researchers; instructors; staff of libraries, 
+museums, and archives; programmers, and undergraduate and graduate 
+students—is welcome to participate.
+El’Manuscript-2018 is the seventh in a series of biennial international 
+conferences entitled “Textual Heritage and Information Technologies” 
+that brings together linguists, specialists in historical source 
+criticism, IT specialists, and others involved in studying and 
+publishing our textual heritage. Along with the lectures, a summer 
+school will be part of the conference, which will allow practitioners to 
+become familiar with various systems and methods for working with 
+manuscripts and texts.
+The working language of the 2018 conference is English. In the 
+philological sections talks in Russian are welcome, but should be 
+accompanied by powerpoint slides in English. Papers presented at the 
+conference will be published in a volume of proceedings and on the 
+textualheritage.org website.Conference topics
+1. The physical document – Material and technology
+- Codicology
+- Instrumental analysis
+- Visual observation of documents
+- Recognition of relevant features of historic book binding techniques
+- Water mark data base
+- DNA analysis
+- Isotope analysis
+2. The script and writing system
+- Photographing
+- Visualization
+- Digitisation
+- Handwritten Text Recognition, Optical Character Recognition
+- Digital Palaeography
+- Digital Graphemics
+3. The text, Its processing and presentation
+- Textology and textual criticism
+- Digital editions
+- Digital publishing
+- Text mark-up formats
+- Lemmatisation and morphological mark-up
+4. Beyond document, script, and text – Analytics and interpretation
+- Digital libraries and databases
+- Corpora
+- Storage formats
+- Long term storage
+- Lexicography
+- Data mining
+- Quantitative and statistical analysis
+- Navigation and access
+- Web technologies
+- Open science**General Information**
+Conference dates: 14-18 September 2018
+Venue: Department of Slavonic Studies, Vienna University; European Research
+Centre for Book and Paper Conservation-Restoration, Centre for Cultural 
+PropertyProtection, Department for Building and Environment, University for 
+Continuing Edu-
+cation, KremsPostal Address: Institut für Slawistik der Universität Wien, Spitalgasse 
+2, Hof 3, A-
+1090 Vienna; Dr. Karl Dorrekstrasse 30, A-3500 KremsOrganization Committee Chair: Prof. Dr. Viktor A. Baranov, Prof. Dr. 
+Heinz Miklas, Dr. Patricia Engel, Dr. Juergen Fuchsbauer
+Contact person: Dr. Juergen Fuchsbauer, phone +43 664 39 13 812
+E-mail (Organization Committee): elmanuscript2018.slawistik(a)univie.ac.at
+Conference Website: http://textualheritage.org/elmanuscript2018**Abstract submission**
+Abstracts are limited to 200 words and should be sent in both 
+.DOC/.DOCX/.ODT and PDF formats to 
+elmanuscript2018.slawistik(a)univie.ac.at. The following information has 
+to be included:- Paper title;
+- 5-10 keywords;
+- Author’s (authors’) first and last names;
+- Affiliation (institution);Deadline for abstracts: 28 February 2018.
+Reviewing: The abstracts submitted to the conference will be 
+peer-reviewed. The Programme Committee will reject papers not meeting 
+the conference themes or quality requirements. The reviewers’ comments 
+will be transmitted to the authors.Notifications of acceptance by the Program Committee will be sent by 
+email before 15 March 2018. The accepted abstracts will be published 
+before the conference.Registration opens 15 Mai and ends 31 August 2018.
+--===============1469490395920912519==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

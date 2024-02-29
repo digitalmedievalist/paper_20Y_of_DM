@@ -1,0 +1,17 @@
+--===============5061428915318514620==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitFor your information...-d
+-- 
+Please avoid sending me Word or PowerPoint attachments. These are
+proprietary formats and often contain viruses. See
+http://www.gnu.org/philosophy/no-word-attachments.html----------------------------Daniel Paul O'Donnell, PhD
+Acting Chair and Associate Professor of English
+Director, Digital Medievalist Project
+<http://www.digitalmedievalist.org/>
+University of Lethbridge
+Lethbridge AB T1K 3M4
+CanadaVox: +1 (403) 329-2378/-2377
+Fax: +1 (403) 382-7191@caedmon/ubuntu linux 5.10--===============5061428915318514620==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

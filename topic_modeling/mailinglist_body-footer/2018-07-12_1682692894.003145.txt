@@ -1,0 +1,46 @@
+--===============4323909746006685667==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable(Apologies for cross-posting)The application period for the 2nd International summer school on "Deep Learn=
+ing and Visual Data Analysis" at the University of Vienna is now open. The sc=
+hool aims at bringing together students, researchers, and professionals from =
+different fields and different countries to explore the challenges and recent=
+ developments in the field.=20
+=20
+Dates & Facts:=20
+=C2=B7       The Summer School will take place from 03/09/2018 to 07/09/2018
+=C2=B7       Application is open till 23/07/2018
+=C2=B7       Apply here: datascience.univie.ac.at/summer-school-2018/applicat=
+ion <http://datascience.univie.ac.at/summer-school-2018/application/>
+=20
+Who can apply?=20
+=C2=B7       As we are aiming for a diverse and interdisciplinary group, a ba=
+ckground in machine learning or visualization is not required. But we do requ=
+ire a technical background with some programming experience. There will be in=
+troductory courses focusing on Deep Learning and Visualization.=20
+=20
+What to expect:
+=C2=B7       Lectures, workshops, and hands-on tutorials on Deep Learning and=
+ Visual Data Analysis.=20
+=C2=B7       Tutorials on Tableau and Deep Learning frameworks will help you =
+build your skills in Data Science.
+=C2=B7       There will be a practical 1-day-challenge where you can put your=
+ newly acquired knowledge to the test.=20
+=C2=B7       Get to know other people interested in Data Science at our organ=
+ized social events, lunches, and dinners.=20
+Fees:
+=C2=B7       Austrian students: 90 EUR (including lunch)
+=C2=B7       Czech students: 90 EUR (including accommodation, breakfast and l=
+unch)
+=C2=B7       Others: 210 EUR
+=20
+Link:  http://datascience.univie.ac.at/summer-school-2018/ <http://datascienc=
+e.univie.ac.at/summer-school-2018/>
+--
+Univ.-Prof. Dr. Tara L Andrews
+Digital Humanities
+Institut für Geschichte, Universität Wien
+Universitätsring 1, A-1010 Wien
+--===============4323909746006685667==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

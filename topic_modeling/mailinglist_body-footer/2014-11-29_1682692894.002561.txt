@@ -1,0 +1,54 @@
+--===============2844712434220504401==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear DM-L Colleagues,I and two colleagues have just published a study correcting a =E2=80=9Cmisdia=
+gnosed=E2=80=9D plague image from the 14th century:  Monica H. Green, Kathlee=
+n Walker-Meikle, and Wolfgang Müller, =E2=80=9CDiagnosis of a =E2=80=98P=
+lague' Image: A Digital Cautionary Tale,=E2=80=9D in Pandemic Disease=
+ in the Medieval World: Rethinking the Black Death, inaugural issue of The Me=
+dieval Globe 1 (Fall 2014), 309-26, available open-access at: http://scholarw=
+orks.wmich.edu/medieval_globe/1/.  (Open-access funding was underwritten in t=
+his case by the World History Center at the University of Pittsburgh.)I'm sending notification to this list because this study may have imp=
+lications for the wider Digital Medievalist community. What we argue is that =
+a mistaken label was attached to an image being sold in the British Library=
+'s =E2=80=9CImages Online=E2=80=9D database (where high-quality image=
+s are sold for a fee): the BL labels it =E2=80=9CPlague victims blessed by pr=
+iest." As far as we were able to determine, the misinformation originated wit=
+h the staff of the BL and did not come from earlier scholarly misinterpretati=
+ons. We argue that in fact it is clearly an image of leprosy=E2=80=94a =E2=80=
+=9Creading=E2=80=9D of the image supported both by medieval iconographic trad=
+itions and, more importantly, by the text which surrounds the image in its or=
+iginal manuscript context.  (We provide a full edition and translation of the=
+ Latin text in our study.)The British Library has been apprised of our study, and they responded that t=
+hey do intend to alter the meta-data attached to the image in their databases=
+. I assume that also means that they will cease to market it as a =E2=80=9Cpl=
+ague=E2=80=9D image. (Images Online is the fee-based distribution office of t=
+he BL; the image is also available, at a lower resolution, in the BL Illumina=
+ted Manuscripts catalogue, where it is under a CC0 license.) Even if they cor=
+rect the metadata, however, there is no way to =E2=80=9Ctake back=E2=80=9D al=
+l the incorrect uses of the image, given how widely it has already been disse=
+minated into popular culture with the mistaken interpretation. (Most recently=
+, in the BBC's History magazine, October 2014, p. 90.)I am not a coder myself and have only a user's appreciation of the te=
+chnical side of Digital Humanities.  Still, given that metadata might well be=
+ seen as having a comparable value to the medieval texts and images we are co=
+ncerned to digitize and/or analyze digitally, I thought this might be a case =
+that people might find instructive.Please feel free to contact me directly (monica.green(a)asu.edu) should you h=
+ave any further questions about the image or our study.--
+Monica Green
+Professor of History
+School of Historical, Philosophical, and Religious Studies
+Box 874302
+975 S Myrtle Ave
+Arizona State University
+Tempe, AZ  85287-4302
+U.S.A.
+monica.green(a)asu.edu<mailto:monica.green(a)asu.edu>
+http://www.nytimes.com/2014/07/01/science/leprosy-still-claiming-victims.html
+Pandemic Disease in the Medieval World:  Rethinking the Black Death - inaugur=
+al issue of
+The Medieval Globe (published 21 November 2014)
+http://scholarworks.wmich.edu/medieval_globe/1/
+https://asu.academia.edu/MonicaHGreen
+https://webapp4.asu.edu/directory/person/384868--===============2844712434220504401==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

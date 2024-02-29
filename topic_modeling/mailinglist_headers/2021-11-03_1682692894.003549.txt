@@ -1,0 +1,8 @@
+From: Georg Vogeler <georg.vogeler@gmx.de>
+To: dm-l@uleth.ca
+Subject: [dm-l] Graph Data-Models and Semantic Web Technologies in Scholarly
+ Digital Editing - New publication!
+Date: Wed, 03 Nov 2021 16:45:04 +0100
+Message-ID: <8f87c3ca-66a9-db96-37cf-513f4c42604e@gmx.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7928802032731212254=="

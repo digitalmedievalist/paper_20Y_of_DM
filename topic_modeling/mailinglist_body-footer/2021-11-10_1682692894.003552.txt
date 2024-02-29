@@ -1,0 +1,48 @@
+--===============7464474144820961460==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.Digital Classicist London Seminar
+Friday November 12, 2021, 17:00 (UK time/UTC)Mariarosaria Zinzi (Universit=C3=A0 degli Studi di Firenze)
+Languages and Cultures of Ancient Italy.Join us live at: <https://youtu.be/g9qCK6ntNPY>The languages of ancient Italy are fragmentarily attested and documented almo=
+st exclusively in epigraphic texts. Recent advancements in information techno=
+logies would make it possible to make their data available both within and be=
+yond the limits of epigraphy, philology, and historical linguistics. The proj=
+ect Languages and Cultures of Ancient Italy. Historical Linguistics and Digit=
+al Models is a multidisciplinary research initiative which involves a consort=
+ium established by the University Ca' Foscari of Venice, the Universi=
+ty of Florence, and the Institute for Computational Linguistics of the Italia=
+n National Research Council.The main objective of the project is to investigate chosen cultures of ancien=
+t Italy, namely Venetic, Oscan, Faliscan, and Celtic, on the basis of the rel=
+evant linguistic documentation, in order to show the forms of linguistic vari=
+ability in Italy before romanisation. It will combine the traditional methods=
+ of epigraphy and historical linguistics with digital tools adapted to the hi=
+ghly fragmentary nature of the epigraphic documentation of such languages.The expected results of the project are:
+=E2=80=93 producing a searchable digital corpus of the inscriptions containin=
+g all the relevant contextual information together with their formal represen=
+tation leveraging the TEI/EpiDoc encoding schema (may be necessary to create =
+an ad-hoc schema for the peculiarities of such languages). This will ensure t=
+he interoperability with other digital corpora and, thus, their availability =
+for the whole research community and the general public;
+=E2=80=93 creating a computational lexicon, linked with the corpus and based =
+on a computational lexical model specifically dedicated to languages of fragm=
+entary attestation;
+=E2=80=93 experimenting a semantic codification by means of CRMtex, the exten=
+sion of CIDOC CRM, the de facto standard ontology in the DH, for the represen=
+tation of the texts.The corpus will include for each inscription an edition of the text, contextu=
+al information, a commentary, a translation, searchable bibliographical refer=
+ences, and possibly photographs and drawings.
+________________________________________________Full programme for 2021=E2=80=932 Digital Classicist seminar: <https://www.di=
+gitalclassicist.org/wip/wip2021.html>
+=3D=3D
+Dr Gabriel BODARD (he/him)
+Reader in Digital ClassicsInstitute of Classical Studies / Digital Humanities Research Hub
+University of London
+Senate House
+Malet Street
+London WC1E 7HUE: Gabriel.bodard(a)sas.ac.uk
+T: +44 (0)20 78628752
+--===============7464474144820961460==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,8 @@
+From: "Joris van.Zundert" <Joris.van.Zundert@niwi.knaw.nl>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Fwd: encoding  maps, graphics with text?]	Problemswith
+ port 8080??
+Date: Thu, 08 Jul 2004 12:05:37 +0200
+Message-ID: <s0ed38b3.010@apps.niwi.knaw.nl>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5480143281344880561=="

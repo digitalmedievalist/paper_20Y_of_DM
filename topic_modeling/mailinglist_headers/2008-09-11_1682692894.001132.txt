@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Image-text aligning using TEI P5 and IMT
+Date: Thu, 11 Sep 2008 17:21:13 +0200
+Message-ID: <1221146473.6860.10.camel@Tyr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7108356614659773205=="

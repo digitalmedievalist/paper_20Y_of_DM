@@ -1,0 +1,30 @@
+--===============6368813902003216181==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitA Day in the Life of the Digital Humanities (Day of DH) is a community
+publication project that will bring together digital humanists from around
+the world to document what they do on one day, March 18th. The goal of the
+project is to create a web site that weaves together the journals of the
+participants into a picture that answers the question, ³Just what do
+computing humanists really do?² Participants will document their day through
+photographs and commentary in a blog-like journal. The collection of these
+journals with links, tags, and comments will make up the final work which
+will be published online.On March 18th, participants will document and share the events of their day.
+However participants will also become co-authors, and the direction of the
+entire project will be influenced by their choices, both before and after
+the day of documentation. Eventually, the data will be grouped together,
+undergo some light semantic editing, and released for others to study. We
+hope that, beyond the original online publication, the raw data will be of
+use to those interested in further visualization or ethnographic
+experiments.
+A reminder to those who want to participate in the Day of Digital Humanities
+2010 that we would appreciate you registering by the end of the 10th of
+March. We will be creating the blogs on the 11th so you have time to
+experiment.To find out about this project and to register go to:http://tapor.ualberta.ca/taporwiki/index.php/Day_in_the_Life_of_the_Digital_
+Humanities_2010This is not a project just for "important" digital humanists. We want a
+diversity of perspectives including students, librarians, programmers and
+those who feel what they do is modest!So please invite your students and colleagues.For those who like to lurk during such online events we will have an RSS
+feed you can follow, as we did last year. There is also a twitter hashtag,
+#dayofdh for those who want to have a parallel discussion.Yours,Geoffrey Rockwell--===============6368813902003216181==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

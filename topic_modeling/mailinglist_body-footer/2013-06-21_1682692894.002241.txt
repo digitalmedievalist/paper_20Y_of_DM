@@ -1,0 +1,92 @@
+--===============0062524129600505225==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableHI David
+I think you are hitting upon a very sore point in the DH/editorial communitie=
+s.  We have had editorial projects launched all over the place, with great en=
+thusiasm and often, substantial funding.  Many now face exactly the problem y=
+ou outline: what happens after the PI/institution move on?
+So, here are three things you can do which will help immensely:
+1.  Explicitly declare all your materials as Creative Commons Share-alike att=
+ribution: that is, **without** the 'non-commercial' use restrictions so often=
+ (and wrongly) imposed by many projects. =20
+2.  Place the data, so licensed, on any open server.  The Oxford Text Archive=
+ is, after so many years, still the best place I know to put your data.
+That alone should be enough to make your data live forever.  And wonderfully,=
+ these two options will cost you not a cent, and maybe just  a few hours of y=
+our time to deal with the OTA deposit pack.Optionally, you could also:
+3.  Place the data within an institutional repositiory.  This gives you the o=
+ption to use the IR tools to construct an interface, and provide basic search=
+ and other tools.  In my mind, this option has been scandalously underused by=
+ DH projects, for reasons which might be the subject of another post.  But th=
+is does provide the opportunity for you to present your project in a way that=
+ will connect its metadata with the whole world of OASIS etc tools, and offer=
+ a sustainable interface.  The University of Birmingham Research Archive give=
+s some idea of how this might work: see (for example) the entries for the Min=
+gana collection (eg http://epapers.bham.ac.uk/84/) and Codex Sinaiticus ( htt=
+p://epapers.bham.ac.uk/1690/).There is another answer:
+1.  Keep the 'non-commercial' licence restriction on your data.  You can ther=
+eby claim that you are allowing all your fellow academics to use it freely, w=
+hile (if you choose) not actually making it freely available outside your int=
+erface.
+2.  Create an elaborate and very attractive interface to your data
+3.  Persuade your university, or someone, to set up a DH centre, with a minim=
+um staff of a director and programmer, space and dedicated equipment (say, 10=
+0K a year if you can swing this with part-time staff etc).  This DH centre wi=
+ll then have the task of maintaining your data (which of course, only the cen=
+tre has), interface and project.  This centre can then deal with all the issu=
+es you raise in your post.
+4.  Persuade your university, or someone, to support data, interface and proj=
+ect, in perpetuityWell, good luck with that!Peter
+On 20 Jun 2013, at 23:28, Michelson, David Allen wrote:> Dear Colleagues,
+>=20
+> I'd like to add a follow up question to this very informative discussion.
+>=20
+> I am also in the process of building a DH sub-community for a specific disc=
+iplinary niche.
+>=20
+> I would like to ask your advice on governance and standards.
+> I am looking for models and best practices to ensure long term sustainabili=
+ty of my collaborative DH project once it hopefully outgrows its incubation s=
+tage.=20
+> Could you please point me to long running DH projects whose protocols for g=
+overnance, editorial oversight, institutional ownership/hosting I might emula=
+te? I am thinking of medium sized DH projects as models, so bigger than one s=
+cholar publishing a digital project, but much smaller than the TEI consortium=
+ or Digital Medievalist.=20
+> Given the concerns over sustainability inherent in DH, I am also interested=
+ in advice on how to transition a project from the stage where a grant-funded=
+ PI is the leader in getting content online to where a volunteer editorial bo=
+ard (and institutional hosts) maintain a project longer term. Also, how do DH=
+ projects handle the preservation of content for such a project? The data wil=
+l be licensed open source, but who should hold the copyright and renew the do=
+main name after the project is launched? A university library? An s-corporati=
+on independent of any institution (like some non-profit scholarly journals or=
+ professional societies)? the public domain, the original scholarly contribut=
+ors?
+> Please suggest links to examples to follow from existing projects if you ar=
+e aware of them.=20
+> Thank you!
+>=20
+> Dave
+>=20
+> David A. Michelson
+>=20
+> Assistant Professor
+> Vanderbilt University=20
+> www.syriaca.org
+>=20
+>=20
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-lPeter RobinsonHonorary Research Fellow, ITSEE, University of Birmingham, UKBateman Professor of English
+9 Campus Drive, University of Saskatchewan
+Saskatoon SK S7N 5A5, Canada--===============0062524129600505225==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

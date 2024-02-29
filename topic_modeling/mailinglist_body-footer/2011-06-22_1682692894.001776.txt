@@ -1,0 +1,202 @@
+--===============2701610446577189154==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableI remember hearing this same enthusiastic rhetoric about how new technology
+would transform the humanities in 1979 when the latest in digital technology
+was a microfiche concordance.  The actual optical technology to read the
+carbonized papyri at Herculaneum or to optically reconstruct destroyed
+sections of manuscripts are a few instances I can think of where machines
+will do something that humans cannot.  Other than that, while it's great to
+have manuscript facsimiles available on the web and to catalog and
+communicate over the Internet, how does this change anything other than the
+ease with which we can do our research?
+   Like you, I have been waiting for years to hear about how digital
+humanities is fundamentally different from the old humanities in a new
+medium.  And this is not to denigrate new projects for new media, but to
+keep some historical perspective on the long term value of what scholars
+have been doing since ancient times.
+NancyOn Wed, Jun 22, 2011 at 1:23 PM, Peter Damian
+<peter.damian(a)btinternet.com>wrote:> ** ************************
+> >>Digital technologies have the potential to transform the types of
+> research questions that we ask in the Humanities
+>
+> How exactly?  I know that conferences invite solutions to provocative
+> questions such as these but ...
+>
+> >>but ultimately they will also allow us to answer questions that we were
+> not even aware we could ask, hence the title of this conference. How
+>
+> How on earth do we know this?  I asked this question to this group a few
+> years ago and got no satisfactory answer.  I have a very simple need, which
+> is a Latin spell-checker.  This would revolutionise our approach to
+> digitisation of Latin texts. It is a relatively simple task, because I
+> looked at the problem a few years ago.  I did not have the time or resource
+> to solve it myself.  Perhaps I will look at the problem again.  But, then,
+> there seems to be a whole humanities research industry devoted to 'digital
+> humanities', so why hasn't someone provided a solution to this simple
+> problem?
+>
+> Edward
+>
+>
+>
+>
+> ----- Original Message -----
+> *From:* Matthew James Driscoll <mjd(a)hum.ku.dk>
+> *To:* Digital Medievalist <dm-l(a)uleth.ca>
+> *Sent:* Wednesday, June 22, 2011 2:12 PM
+> *Subject:* [dm-l] SDH 2011 Supporting Digital Humanities
+>
+>  First call for papers**** SDH 2011 Supporting the Digital Humanities:
+> Answering the unaskable
+>
+> *17-18 November, Copenhagen*
+>
+> ** **
+>
+> Following the first successful SDH conference in **Vienna** in 2010, the
+> CLARIN <http://www.clarin.eu/> and DARIAH <http://www.dariah.eu/>initiative=
+s have decided to jointly organise the second SDH conference in
+> ****Copenhagen**, **Denmark**** in November 2011. The conference venue
+> will be at the ****University** of **Copenhagen****, a participant in both
+> CLARIN and DARIAH.****
+>
+> * *
+>
+> Digital technologies have the potential to transform the types of research
+> questions that we ask in the Humanities, and to allow us to address
+> traditional questions in new and exciting ways, but ultimately they will
+> also allow us to answer questions that we were not even aware we could ask,
+> hence the title of this conference. How can digital humanities help us not
+> just to find the answers to our research questions more quickly and more
+> easily, but also to formulate research questions we would never have been
+> able to ask without access to large quantities of digital data and
+> sophisticated tools for their analysis? *Supporting the Digital Humanities
+> * will be a forum for the discussion of these innovations, and of the ways
+> in which these new forms of research can be facilitated and supported.****
+>
+> ** **
+>
+> CLARIN and DARIAH are creating European research infrastructures for the
+> humanities and related disciplines. SDH2011 aims to bring together
+> infrastructure providers and users from the communities involved with the
+> two infrastructure initiatives. The conference will consist of a number of
+> topical sessions where providers and users will present and discuss results,
+> obstacles and opportunities for digitally-supported humanities research.
+> Participants are encouraged to engage with honest assessments of the
+> intellectual problems and practical barriers in an open and constructive
+> atmosphere. ****
+>
+> ** **
+>
+> The first SDH conference in 2010 gave a broad and multi-facetted
+> presentation of the domains of interest to CLARIN and DARIAH. This time we
+> have chosen a somewhat more focussed approach, focussing on two major
+> themes, but not excluding other themes of interest for the humanities. The
+> two themes are:****
+>
+> ** **
+>
+> **=C2=B7        **Sound and movement =E2=80=93 music, spoken word, dance an=
+d theatre***
+> *
+>
+> **=C2=B7        **Text and things =E2=80=93 text, and the relationship betw=
+een text and
+> material artefacts, such as manuscript, stone or other carriers of text***
+> *
+>
+> ** **
+>
+> Submissions are invited for individual papers and posters, as well as
+> panels. Focus should be on tools and methods for the analysis of digital
+> data rather than on digitisation processes themselves, both from the
+> provider and from the user perspective. We want to pay special attention to
+> inspiring showcases that demonstrate the innovative power of digital methods
+> in the humanities.****
+>
+> ** **
+>
+> Some important dates:****
+>
+> July 15, 2011: Submission of suggestion for panels****
+>
+> July 24, 2011: Submission of abstracts (4 pages) ****
+>
+> August 15, 2011: Notification on panel proposals****
+>
+> September 15, 2011: Author notification****
+>
+> October 15, 2011: Final version of papers for publication (8 pages).****
+>
+> November 17-18: Conference in ****Copenhagen**, **Denmark********
+>
+> ** **
+>
+> *Programme committee*
+>
+> ** **
+>
+> **Bente Maegaard**, ****University of Copenhagen**, **Denmark********
+>
+> Steven Krauwer, ****Utrecht University**, **Netherlands********
+>
+> Helen Bailey, ****University of Bedfordshire**, **UK**** ****
+>
+> Tim Crawford, Goldsmith's ****University of London**, **UK********
+>
+> Matthew Driscoll, ****University of Copenhagen**, **Denmark********
+>
+> Neil Fraistat, ****University of Maryland**, **United States********
+>
+> Erhard Hinrichs, ****Tübingen University**, **Germany********
+>
+> Fotis Jannidis, ****Würzburg University**, **Germany**** ****
+>
+> Helen Katsiadakis, ****Academy of Athens**, **Greece**** ****
+>
+> Krister Lind=C3=A9n, ****Helsinki University**, **Finland********
+>
+> Heike Neuroth, **Göttingen** **State** and University ****Library**, **
+> Germany**** ****
+>
+> Laurent Romary, INRIA, France****
+>
+> Nina Vodopivec, Institute for Contemporary History, ****Ljubljana**, **
+> Slovenia********
+>
+> Peter Wittenburg, MPI, Netherlands/Germany****
+>
+> **Martin Wynne**, ****Oxford University**, **UK********
+>
+> ** **
+>
+> ** **
+>
+> ** **
+>
+> ------------------------------
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============2701610446577189154==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

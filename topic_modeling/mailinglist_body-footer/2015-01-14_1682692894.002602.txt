@@ -1,0 +1,52 @@
+--===============4256665142965337639==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit[Deadline Extended] International Conference: Digital Literary Studies
+Date: May 14-15, 2015
+Location: School of Arts and Humanities, University of Coimbra, Portugal'Digital Literary Studies' is an international conference exploring
+methods, tools, objects and digital practices in the field of literary
+studies. The digitization of artifacts and literary practices, the adoption
+of computational methods for aggregating, editing and analyzing texts as
+well as the development of collaborative forms of research and teaching
+through networking and communication platforms are three dimensions of the
+ongoing relocation of literature and literary studies in the digital
+medium. The aim of this two-day conference is to contribute to the mapping
+of material practices and interpretative processes of literary studies in a
+changing media ecology.We invite researchers to submit papers and posters on projects concerned
+with the digital reinvention of literary studies. Possible topics include,
+but are not limited to:   - computational literary analysis (macro analysis, data mining, distant
+   reading, topic modelling; visualization, corpora);
+   - digital philology (electronic editions and archives, textual
+   databases);
+   - computational literary creation (automatic generation of text, textual
+   instruments, kinetic texts, locative narrative, etc.);
+   - the teaching of literature in a digital context;
+   - peer review and open access (new practices of collaboration,
+   dissemination, transfer and validation of knowledge production).
+The ‘Digital Literary Studies’ conference will take place at the School of
+Arts and Humanities, University of Coimbra on May 14-15, 2015. Paper and
+poster proposals should be submitted by *January 31, 2015* through
+EasyChair (https://easychair.org/conferences/?conf=eld2015). We also
+welcome panel proposals (three presenters per panel). All paper proposals
+must be between 1500 and 2000 words (including references). Authors should
+provide name, contact details, and institutional affiliation, as well as
+title, abstract, and keywords for their paper. Authors will be notified of
+the peer review results by February 15, 2015. Proposals can use any of the
+following languages: Portuguese, English, Spanish, French, and Italian.
+Selected articles resulting from the conference papers will be published in
+a special issue of the journal MATLIT (http://iduc.uc.pt/matlit).For additional updated information, please check the conference website at
+http://eld2015.wordpress.com/
+The Organizing Committee may be contacted via the e-mail
+eldcol2015 at gmail.com
+Keynote Speakers   - Florian Cramer (Creating 010, Rotterdam University of Applied
+   Sciences)
+   - Matthew Kirschenbaum (University of Maryland)
+   - Paulo Franchetti (Unicamp - Universidade Estadual de Campinas)
+   - Susan Schreibman (Trinity College Dublin)
+Organization   - PhD Programme in Materialities of Literature (FCT PhD Programme)
+   - No Problem Has a Solution: A Digital Archive of the Book of Disquiet
+   (research project PTDC/CLE-LLI/118713/2010)
+   - Research Group “Digital Mediation and Materialities of Literature”
+   - Centre for Portuguese Literature at the University of Coimbra (CLP)--===============4256665142965337639==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

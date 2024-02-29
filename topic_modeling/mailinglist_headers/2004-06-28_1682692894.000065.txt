@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Useful free tools for finding unicode characters
+Date: Mon, 28 Jun 2004 12:47:53 +0200
+Message-ID: <1088419586.3412.50.camel@loki.grendelsmere>
+In-Reply-To: <40DA6682.1000106@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3143142460630791341=="

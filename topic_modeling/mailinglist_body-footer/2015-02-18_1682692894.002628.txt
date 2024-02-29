@@ -1,0 +1,75 @@
+--===============1170390724546616014==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableI would go with Mirador hands down. It is already cool and it has an active
+development community who get what MSS are about (full disclosure, my
+center is part of that community). More importantly. It is IIIF compliant
+which is a powerful standard for exposing ms images for scholarly research
+and use.Jim
+On Wednesday, February 18, 2015, Sara L. Uckelman <s.l.uckelman(a)durham.ac.u=
+k>
+wrote:> Yesterday I attended a planning meaning concerning the Durham priory
+> library's manuscript collection, which is planned for digitisation
+> over the next 5-10 years.  A question came up about whether there's
+> been any study done on the relative *technical* merits of different
+> platforms/programmes for viewing manuscripts, either online or
+> downloaded locally.  (The person was specifically interested in reviews
+> or comparisons done by people with the relevant computational know-
+> how).
+>
+> I confess to not being very familiar with this terrain; I've used
+> Uni-HD's reader online (see, e.g., the Manesse codex:
+> http://digi.ub.uni-heidelberg.de/diglit/cpg848/0001?sid=3D
+> c1e158af8bb04a02441c48d73cfba985)
+> and the reader used by, e.g.,
+> http://daten.digitale-sammlungen.de/0000/bsb00001649/images/, but I
+> don't even know what the programmes behind these sites are!  The one
+> that was demonstrated to us is Mirador:
+> http://www.biblissima-condorcet.fr/en/news/interoperable-viewer-
+> prototype-now-online-mirador, http://iiif.io/, and it was really
+> cool.  I'd love to know how it stacks up against the competition.
+>
+> Cheers,
+> -Sara
+>
+>
+> --
+> Dr. Sara L. Uckelman
+> Department of Philosophy
+> Durham University
+> https://www.dur.ac.uk/philosophy/staff/?id=3D12928
+> http://dmnes.wordpress.com/
+>
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>
+--=20
+----------
+James R. Ginther, PhD
+Professor of Medieval Theology,
+Chair, Department of Theology
+& Director, Center for Digital Humanities
+Saint Louis University
+-------------------------
+ginthej(a)slu.edu
+Faculty Page: Departmental Page
+<https://sites.google.com/a/slu.edu/james-ginther/>
+<https://sites.google.com/a/slu.edu/james-ginther/>Research Blog:
+http://digital-editor.blogspot.com
+Twitter: DH_editor <http://twitter.com/#!/DH_editor>
+T-PEN: www.t-pen.org/NOTE: This e-mail message may contain information that may be privileged,
+confidential, and exempt from disclosure. It is intended for use only by
+the person(s) to whom it is addressed. If you have received this message in
+error, please do not forward or use this information in any way; delete it
+immediately, and contact the sender as soon as possible by the reply option
+or by telephone at 314-977-2867.--===============1170390724546616014==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

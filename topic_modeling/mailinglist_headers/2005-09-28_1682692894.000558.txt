@@ -1,0 +1,8 @@
+From: Peter Baker <psb6m@virginia.edu>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] xsltproc and xsl
+Date: Wed, 28 Sep 2005 21:29:30 -0400
+Message-ID: <433B437A.9060406@virginia.edu>
+In-Reply-To: <1127943888.10689.2.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3545183576747232225=="

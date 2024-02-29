@@ -1,0 +1,194 @@
+--===============7852843620102091075==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableHi all,I do believe this is slowly changing and electronic use of images held by
+libraries is becoming easier.  For example the Bodleian hired a new
+Associate Director for Digital Library Programmes and Information
+Technologies in 2012 who is very much in favour of and pushing an open
+access / open licensing policy wherever possible, but it will take years
+for that to have a real effect (changing old resources, making new
+resources available).  http://digital.bodleian.ox.ac.uk/ has a growing
+collection of resources but most of them are still under old licenses, some
+have CC like licenses but only for 'private use'.But a couple years ago we were able to convince them to license all the
+images for our William Godwin's Diary project as Creative Commons
+Attribution Non-Commercial.
+See for example http://godwindiary.bodleian.ox.ac.uk/folio/e.203_0025v where
+although there is a (google maps based) pan/zoom image viewer there is a
+link to the full image so that it can be used. (The TEI XML for the
+transcription is also available.) This page randomly chosen just happens to
+have Mary Shelley's birth recorded on it.  (Sorry... wrong time period).Wearing a @godwindiary tshirt,
+James
+On Mon, Feb 4, 2013 at 4:19 PM, James Ginther <ginthej(a)slu.edu> wrote:>
+> We have to see all of this as baby steps.  In 2010, I was at a conference
+> in Paris where a regular visitor to the Vatican Library pronounced that the
+> Vatican would NEVER digitize, much less release in any way, their
+> manuscript collection.   A little over a year later, I sat in a meeting
+> with the Vice-Prefect of the Vatican LIbrary where he outlined their plans
+> to begin digitizing the collection.
+>
+> I was shocked that even these images have been made available, but this is
+> probably becasue they are connected to the Lorsch Project.
+>
+> I would not say that this policy of contol will last.  I remain optimistic
+> that all the libraries in Europe will eventually come around to open data.
+>  It is a challenging decision to make, given the history of these
+> institutions.  There is a lot of tradition and institutional intertia to
+> overcome.  We must continue to exter pressure and demonstrate how valuable
+> open data can be for scholarship.
+>
+> Jim
+>
+>
+> On Mon, Feb 4, 2013 at 9:26 AM, centrostudicomparati(a)libero.it <
+> centrostudicomparati(a)libero.it> wrote:
+>
+>> I am afraid this is the same procedure as for British Library, Bodleian
+>> Library, Oesterreichische Nationalbibliothek Wien, Paris BNF and many
+>> others, even if these are public institutions and not private, as BAV
+>> is. According to my experience, one has to pay for getting and reproducing
+>> images of the mss such libraries preserve. The law for Italian (not
+>> Vatican) State libraries, for example, allows to give free permission just
+>> for non commercial publications under a given print run.
+>>
+>> Best wishes
+>>
+>> F. Stella
+>>
+>> ----Messaggio originale----
+>> Da: cormierrj(a)longwood.edu
+>> Data: 03/02/2013 22.50
+>> A: "dm-l(a)uleth.ca"<dm-l(a)uleth.ca>
+>> Ogg: Fwd: [dm-l] Jan 2013: 256 BAV MSs accessible on-line
+>>
+>>
+>>
+>> Back in late 2009, I tried to obtain permission from the BAV to use one
+>> image of a folio from a Virgil manuscript as a cover or at least as a
+>> frontispiece for my forthcoming monograph, "The Methods of Medieval
+>> Translators (2011).
+>>       Permission denied.
+>>      -Raymond Cormier
+>>
+>>
+>>
+>>  Sent from my Samsung Galaxy Tab
+>>
+>>
+>>
+>> -------- Original message --------
+>> Subject:Re: [dm-l] Jan 2013: 256 BAV MSs accessible on-line
+>> From:Neven Jovanovi=C4=87 <neven.jovanovic(a)ffzg.hr>
+>> To:dm-l(a)uleth.ca
+>> Cc:
+>>
+>>
+>> Hi,
+>>
+>> regarding Vatican's copyright statement, I think that there are some
+>> things that can be built, or prototyped -- e. g. a text linking to a page
+>> of a MS like they did in <monumenta.ch> -- that do not infringe Vatican
+>> Library's copyright.  Such projects, surely, risk that the link will
+>> vanish overnight -- but the site does offer us (in German, I guess)
+>> "Persistente URL" for its images.
+>>
+>> And I guess that it would depend what we ask the authorisation for. A
+>> scholarly undertaking, such as publishing an on-line edition which uses
+>> BAV's images, should be acceptable, and they should actually be glad that
+>> somebody wants to do this. Otherwise, why spend so much money for
+>> digitisation?
+>>
+>> Best,
+>>
+>> Neven Jovanovic
+>> Zagreb, Croatia
+>>
+>>
+>>
+>> > On 2 February 2013 02:58, Dot Porter <dot.porter(a)gmail.com> wrote:
+>> >
+>> >> "Neither the text nor the images may be reproduced, in any form,
+>> without
+>> >> the authorisation of the Vatican Library, 00120, Vatican City. "
+>> >>
+>> >
+>> > Is this from the BAV website? I haven't noticed that... If it means the
+>> > BAV
+>> > think they hold a copyright on the *TEXT* in the manuscript, that's
+>> totaly
+>> > unheard of - and absurd! :s
+>> > Or does "text" refer to the manuscript descriptions? In this case, fair
+>> > enough.
+>> >
+>> > Marjorie, a bit puzzled :)
+>> > Digital Medievalist --  http://www.digitalmedievalist.org/
+>> > Journal: http://www.digitalmedievalist.org/journal/
+>> > Journal Editors: editors _AT_ digitalmedievalist.org
+>> > News: http://www.digitalmedievalist.org/news/
+>> > Wiki: http://www.digitalmedievalist.org/wiki/
+>> > Twitter: http://twitter.com/digitalmedieval
+>> > Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> > Discussion list: dm-l(a)uleth.ca
+>> > Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gidI320313760
+>> Discussion list: dm-l(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>>
+>>
+>> Digital Medievalist --  http://www.digitalmedievalist.org/
+>> Journal: http://www.digitalmedievalist.org/journal/
+>> Journal Editors: editors _AT_ digitalmedievalist.org
+>> News: http://www.digitalmedievalist.org/news/
+>> Wiki: http://www.digitalmedievalist.org/wiki/
+>> Twitter: http://twitter.com/digitalmedieval
+>> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+>> Discussion list: dm-l(a)uleth.ca
+>> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>>
+>
+>
+>
+> --
+> ----------
+> James R. Ginther, PhD
+> Professor of Medieval Theology,
+> Associate Chair, Department of Theology
+> & Director, Center for Digital Theology
+> Saint Louis University
+> -------------------------
+> ginthej(a)slu.edu
+> Faculty Page: Departmental Page<https://sites.google.com/a/slu.edu/james-gi=
+nther/>
+> <https://sites.google.com/a/slu.edu/james-ginther/>Research Blog:
+> http://digital-editor.blogspot.com
+> Twitter: DH_editor <http://twitter.com/#!/DH_editor>
+> T-PEN: www.tpen.org/
+>
+> NOTE: This e-mail message may contain information that may be privileged,
+> confidential, and exempt from disclosure. It is intended for use only by
+> the person(s) to whom it is addressed. If you have received this message in
+> error, please do not forward or use this information in any way; delete it
+> immediately, and contact the sender as soon as possible by the reply option
+> or by telephone at 314-977-4248.
+>
+> Digital Medievalist --  http://www.digitalmedievalist.org/
+> Journal: http://www.digitalmedievalist.org/journal/
+> Journal Editors: editors _AT_ digitalmedievalist.org
+> News: http://www.digitalmedievalist.org/news/
+> Wiki: http://www.digitalmedievalist.org/wiki/
+> Twitter: http://twitter.com/digitalmedieval
+> Facebook: http://www.facebook.com/group.php?gid=3D49320313760
+> Discussion list: dm-l(a)uleth.ca
+> Change list options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============7852843620102091075==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

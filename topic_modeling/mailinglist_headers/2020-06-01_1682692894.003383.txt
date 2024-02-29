@@ -1,0 +1,7 @@
+From: Gabriel Bodard <gabriel.bodard@sas.ac.uk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Machine learning for epigraphic text restoration (seminar)
+Date: Mon, 01 Jun 2020 16:48:45 +0000
+Message-ID: <LNXP123MB1915D2A8D64D7EDE800D461DC18A0@LNXP123MB1915.GBRP123.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1230125035060705145=="

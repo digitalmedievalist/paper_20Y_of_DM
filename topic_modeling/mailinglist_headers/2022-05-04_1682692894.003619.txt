@@ -1,0 +1,9 @@
+From: Franz FISCHER <franz.fischer@unive.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Improving HTR output from Greek papyri and Byzantine
+ manuscripts - HTREC challenge 2022
+Date: Wed, 04 May 2022 10:33:07 +0200
+Message-ID:
+ <CAEa-J=Bc9VmE=fCdH4SPSH3hXPxrn9a+6xE7hzDDas1joxTo7w@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1599804739200226553=="

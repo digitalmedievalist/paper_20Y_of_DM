@@ -1,0 +1,8 @@
+--===============2776069679903375705==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitJe suis absent. Je vous répondrai à mon retour.
+Cordialement,
+Abbès Zouache.--===============2776069679903375705==
+Content-Type: text/rfc822-headers
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.bin"

@@ -1,0 +1,7 @@
+From: "Digital Medievalist: robertordt" <DONOTREPLY@digitalmedievalist.org>
+To: dm-l@uleth.ca
+Subject: [dm-l] Semantic Interoperability of Linked Data
+Date: Tue, 25 Aug 2009 09:30:04 +0000
+Message-ID: <20090825093004.ED26B258ED@catwoman.dreamhost.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5354374765492603213=="

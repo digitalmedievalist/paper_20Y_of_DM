@@ -1,0 +1,32 @@
+--===============2496541491287858140==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableCaution: This email was sent from someone outside of the University of Lethbr=
+idge. Do not click on links or open attachments unless you know they are safe=
+. Suspicious emails should be forwarded to phishing(a)uleth.ca.
+Dear Digital Medievalists,We are pleased to announce the fourteenth issue of the review journal RIDE, p=
+ublished since 2014 by the Institute of Documentology and Scholarly Editing (=
+IDE). The current issue is dedicated to digital scholarly editions and edited=
+ by Torsten Roeder and Martina Scholger.
+The current issue is the first issue in RIDE that is published on a =E2=80=98=
+rolling release' basis. Three reviews (two in English, one in German)=
+ are available now, two more will follow within the next few weeks.
+* Reviewing the bread and butter of CoReMa, Cooking Recipes of the Middle Age=
+s by Helena Berm=C3=BAdez Sabel: https://ride.i-d-e.de/issues/issue-14/corema/* Review of Galileo Galilei's Notes on Motion by Anna Sofia Lippolis:=
+ https://ride.i-d-e.de/issues/issue-14/galileo/* Digitale Edition der Augsburger Baumeisterbücher (mittelalterlichen St=
+adtrechnungen von 1320 bis 1466) by Franziska Klemstein: https://ride.i-d-e.d=
+e/issues/issue-14/baumeisterbuecher/
+All reviews are available at https://ride.i-d-e.de/issues/issue-14.On behalf of the editors
+Franz
+--Franz Fischer
+Direttore, Venice Centre for Digital & Public Humanities (VeDPH)
+Dipartimento di Studi Umanistici
+Universit=C3=A0 Ca' Foscari
+Palazzo Malcanton Marcor=C3=A0
+Dorsoduro 3484/D - 30123 VeneziaTel.: +39 041 234 6266 (ufficio), +39 041 234 9863 (segreteria del centro)
+https://www.unive.it/vedph
+https://www.i-d-e.de/
+https://journal.digitalmedievalist.org/
+--===============2496541491287858140==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

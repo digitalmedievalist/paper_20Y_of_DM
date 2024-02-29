@@ -1,0 +1,11 @@
+--===============0215160513904095938==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+This on-line ressource may be of interest to some of you: 
+https://wiki.hiit.fi/display/stemmatology/Parvum+lexicon+stemmatologicumThe Parvum lexicon stemmatologicum (PLS) is a scholarly digital resource 
+providing explanations for technical terms related to stemmatology, a 
+discipline of classical and mediaeval philology aiming at understanding 
+the historical evolution of textual traditions.Remarks, corrections and suggestions can be sent to: stemmatolgy(a)gmail.com.Caroline Macé & Philippe Roelli--===============0215160513904095938==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

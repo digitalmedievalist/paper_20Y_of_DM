@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] Experience using Microsoft's XSLT? and Is there a good acronym
+ FAQ anywhere?
+Date: Tue, 22 Jun 2004 20:19:16 -0600
+Message-ID: <40D8E8A4.5050004@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1808655490045344255=="

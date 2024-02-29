@@ -1,0 +1,24 @@
+--===============2136226876508849908==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDigital Classicist London 2016 SeminarInstitute of Classical Studies
+Senate House, Malet Street, London WC1E 7HU
+Friday July 8th at 16:30 in room 234*Chiara Palladino (Leipzig & Bari)*
+*Annotating and resolving geographical names in historical sources*This seminar will focus on ancient Greek and Roman texts containing geographi=
+cal information referred to real-world space. These sources challenge our per=
+spective on way-finding and navigation, as the way they interpreted and expre=
+ssed space was substantially different from ours. We will inspect currently e=
+xisting strategies for the representation geospatial documents in the digital=
+ environment, focusing on the topics of Named Entity Recognition, semi-automa=
+tic and geo- annotation. We will highlight existing problems in the encoding =
+of geospatial patterns in ancient geographical descriptions, focusing on what=
+ is currently available and what can be done to improve this research.
+ALL WELCOMERecommended reading: http://www.digitalclassicist.org/wip/wip2016-06cp.htmlLive screencast: https://youtu.be/Ng4pJNdkRWQValeria Vitale
+PhD candidate
+King's College London
+Department of Digital Humanities
+26-29 Drury Lane, Boris Karloff Building
+WC2B 5RL London UK
++44(0)7413335591--===============2136226876508849908==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

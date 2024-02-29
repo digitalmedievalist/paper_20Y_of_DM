@@ -1,0 +1,22 @@
+--===============6605010039623814701==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printablewith apologies for cross-postingThe Ad fontes project (www.adfontes.uzh.ch <http://www.adfontes.uzh.ch/>) is =
+going to hack Cappelli!We want to digitally hack the Lexicon abbreviaturarum of Adriano Cappelli int=
+o pieces in order to digitize and make each and every abbreviation systematic=
+ally searchable.The =E2=80=9ECappelli=E2=80=9C, printed in 1899, is a benchmark book for abbr=
+eviations in Latin and Italian, containing about 15'000 abbreviations.By crowdsourcing Cappelli, the abbreviations are going to be searchable beyon=
+d alphabetical traits. Browsing through the pages of Cappelli will be a thing=
+ of the past. You will be able to filter the abbreviations by identified lett=
+ers or the position of abbreviation or contraction signs.The data gathered will be made available to the public for free (using a crea=
+tive commons license).We aim to digitize all of Cappelli's abbreviations by the end of 2015.Help us hack Cappelli and be part of this global endeavor (see also the trail=
+er:  https://www.youtube.com/watch?v=3DwVkorEJPTlc <https://www.youtube.com/w=
+atch?v=3DwVkorEJPTlc>):http://www.adfontes.uzh.ch/cappelli <http://www.adfontes.uzh.ch/cappelli>
+For inquiries and questions: adfontes(a)hist.uzh.ch <mailto:adfontes(a)hist.u=
+zh.ch>
+Best,TobiasWebinterface to crowdsource Cappelli=20------=20
+Tobias Hodel
+Projekt =C2=ABAd fontes=C2=BB=20
+Universität Zürich=20--===============6605010039623814701==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

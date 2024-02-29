@@ -1,0 +1,9 @@
+From: "Stuart A. Yeates" <syeates@gmail.com>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] [Technical]: Suggestions for a replacement for	Subversion?
+Date: Tue, 30 Dec 2014 17:39:04 +1300
+Message-ID:
+ <CAC_Lu0abjef-BrOxXTgWtk-Epfd5+zLh2OapNE9taoiY0P_Ecg@mail.gmail.com>
+In-Reply-To: <54A22A44.4030703@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4200163566738346323=="

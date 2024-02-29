@@ -1,0 +1,8 @@
+From: Lou Burnard <lou.burnard@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Re: Experience using Microsoft's XSLT?
+Date: Wed, 23 Jun 2004 17:20:47 +0100
+Message-ID: <40D9ADDF.8080702@computing-services.oxford.ac.uk>
+In-Reply-To: <BCFF6530.DFC9%peter.robinson@dmu.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5883575797679775571=="

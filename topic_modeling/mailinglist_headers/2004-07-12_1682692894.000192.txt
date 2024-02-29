@@ -1,0 +1,8 @@
+From: "Juris G. Lidaka" <lidaka@oscar.wvsc.edu>
+To: dm-l@uleth.ca
+Subject: [dm-l] TAN: UTF-8 vs. German characters
+Date: Mon, 12 Jul 2004 19:58:40 -0400
+Message-ID: <Pine.LNX.4.44.0407121948120.7109-100000@oscar.wvsc.edu>
+In-Reply-To: <Pine.LNX.4.60.0406281508090.18655@localhost>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1513271872456594842=="

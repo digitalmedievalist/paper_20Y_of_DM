@@ -1,0 +1,128 @@
+--===============4181209602074608174==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+>=20
+>> Da: corpora-bounces(a)uib.no <corpora-bounces(a)uib.no> per conto di Passa=
+rotti Marco Carlo <marco.passarotti(a)unicatt.it>
+>> Inviato: luned=C3=AC 5 ottobre 2015 18.16
+>> A: corpora(a)uib.no
+>> Oggetto: [Corpora-List] Call for abstracts: Diachronic Treebanks (Workshop=
+ at SLE-2016)
+>> =20
+>> ***Diachronic Treebanks***
+>>=20
+>> - Workshop at the 49th SLE meeting, Naples Aug. 31-Sept. 3, 2016 -
+>>=20
+>>=20
+>>=20
+>> Convenors: Hanne Eckhoff (University of Troms=C3=B8, Norway), Silvia Lurag=
+hi (Universit=C3=A0 di Pavia, Italy), Marco Passarotti (Universit=C3=A0 Catto=
+lica del Sacro Cuore, Milan, Italy)
+>>=20
+>> =20
+>>=20
+>> The workshop aims at bringing together researchers interested in historica=
+l linguistics, who combine a solid linguistic background with an interest for=
+ the exploitation of electronic resources, and in particular of syntactically=
+ parsed corpora, in research on language change. We welcome proposals address=
+ing diachronic issues under any type of approach and methodology, provided th=
+at they highlight the contribution of empirical evidence retrieved from treeb=
+anks in achieving meaningful results.
+>>=20
+>> =20
+>>=20
+>> MOTIVATION AND AIMS
+>> Over the last two decades, treebanks have become an increasingly useful in=
+strument for data-driven study of linguistic structures at various levels. Th=
+e proliferation of treebanks has led to a very large number of resources avai=
+lable for different languages, which can support comparative research of vari=
+ous issues cross-linguistically. In recent years, a growing number of treeban=
+ks has also become available for ancient  languages and for different histori=
+cal stages of the same language: the York-Toronto-Helsinki corpus (http://www=
+-users.york.ac.uk/~lang22/YcoeHome1.htm) and the Penn Corpora of Historical E=
+nglish (https://www.ling.upenn.edu/hist-corpora/) for English, Troms=C3=B8 Ol=
+d Russian and OCS Treebank (https://nestor.uit.no) and RRuDi (https://www.sla=
+wistik.hu-berlin.de/de/member/meyerrol/subjekte/rrudi) for Russian, PROIEL (h=
+ttp://www.hf.uio.no/ifikk/english/research/projects/proiel/) for various anci=
+ent Indo-European languages and recently extended to host treebanks for medie=
+val stages of Romance and Germanic languages, Perseus Latin and Ancient Greek=
+ Dependency Treebanks (http://nlp.perseus.tufts.edu/syntax/treebank/) for Lat=
+in and Ancient Greek, the Index Thomisticus Treebank (http://itreebank.margin=
+alia.it) for Latin, and several others. This allows data extraction aimed to =
+assessing the scope and the effects of diachronic developments, managing a la=
+rge amount of data and retrieving information whose relevance can then be eva=
+luated through statistical methods. Possible issues that can be tackled throu=
+gh diachronic treebanks are potentially numerous and of different nature, and=
+ include increasing or decreasing productivity of syntactic or morphological =
+constructions, and, most interesting, interrelationships between different ch=
+anges that have previously been considered unrelated or whose interrelation i=
+s otherwise hard to prove.
+>>=20
+>> =20
+>>=20
+>> Possible TOPICS include (but are not limited to):
+>>=20
+>> - historical developments of constructions as evidenced by data extracted =
+from diachronic treebanks;
+>>=20
+>> - suitability of different types of treebanks (constituent-based vs. depen=
+dency-based) for research on specific diachronic changes;
+>>=20
+>> - correlations between developments in different areas of a language=E2=80=
+=99s grammar;
+>>=20
+>> - similarities and differences between parallel developments of similar ch=
+anges in different languages;
+>>=20
+>> - how evidence from already known and documented diachronic change can giv=
+e input for annotation;
+>>=20
+>> - how semantic and/or pragmatic information can be supplied in order to be=
+tter understand the rationale of changes highlighted by data extracted from t=
+reebanks;
+>>=20
+>> - specific issues raised by the development of diachronic treebanks;
+>>=20
+>> - methods and tools to build and access diachronic treebanks;
+>>=20
+>> - issues in data selection for representativeness purposes;
+>>=20
+>> - issues pertaining to scarce and non-standardised data
+>>=20
+>> =20
+>>=20
+>> CALL FOR ABSTRACTS
+>>=20
+>> We invite you to submit abstracts up to 300 words (references not included=
+) describing original, unpublished research related to the topics of the work=
+shop. Abstracts should be in an editable format (e.g. .doc or .docx; no pdf w=
+ill be considered), and should be sent to all workshop organizers:
+>>=20
+>> - hanne.m.eckhoff(a)uit.no
+>>=20
+>> - silvia.luraghi(a)unipv.it
+>>=20
+>> - marco.passarotti(a)unicatt.it
+>>=20
+>> =20
+>>=20
+>> The DEADLINE FOR THE SUBMISSION of the short abstract is NOVEMBER 15, 2015=
+. Abstracts will be evaluated by the convenors, and selected abstracts will a=
+ccompany the workshop proposal. We will notify you of inclusion in the worksh=
+op proposal when we submit it on Nov. 25th.=20
+>> Note that if the workshop has been accepted, you will also have to prepare=
+ a full abstract and submit it to be reviewed by the SLE scientific committee=
+. The deadline for the submission of full abstracts is January 15, 2016.
+>>=20
+>> For further information, please refer to the SLE meeting webpage at http:/=
+/sle2016.eu/call-for-papers
+>>=20
+>>=20
+>> _______________________________________________
+>> UNSUBSCRIBE from this page: http://mailman.uib.no/options/corpora
+>> Corpora mailing list
+>> Corpora(a)uib.no
+>> http://mailman.uib.no/listinfo/corpora--===============4181209602074608174==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

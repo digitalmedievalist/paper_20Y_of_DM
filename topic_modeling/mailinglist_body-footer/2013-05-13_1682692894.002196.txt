@@ -1,0 +1,30 @@
+--===============0730751366506920881==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear all,I am happy to announce that I have 16 interactive 3D images of Lichfield Cath=
+edral's St Chad Gospels available online, with plans to have the complete man=
+uscript up by summer's end: http://lichfield.as.uky.edu . This is a beta vers=
+ion but very stable. Chrome offers the best 3D support for browsers, but Safa=
+ri works well as does Opera. Foxfire and Internet Explorer should have the ne=
+cessary support in their next releases.Features include the ability to measure any aspect of a page, offering seven =
+different measurements (by color) and each measurement able to comprise multi=
+ple points (for a point, line or polygon); allowing viewers to generate a URL=
+ for an exact view that they have manipulated a 3D rendering into for later r=
+eturn or to send to a colleague or friend (or for citation); annotate any fea=
+ture on a page and save it to the server, loading it and its view later (I ha=
+ve an annotation for page 5, the Chi-Rho); and my favorite viewing feature=E2=
+=80=94by holding down the alt key, left clicking the mouse and dragging it, t=
+he cursor location becomes the point around which the page rotates (potential=
+ly making any point on a page its own epicenter).There is a key at the top of the viewer for the 3D images giving the various =
+functions and movements, including full-screen mode, panning the camera, zoom=
+ing in and out, and dragging the image (by clicking and holding down the mous=
+ewheel=E2=80=94we'll have a keystroke for this movement soon so that all of t=
+he functionality will work on the touchpad of a laptop.If anyone has any comments or suggestions, please contact me: bill.endres(a)u=
+ky.edu .Best,
+Bill--
+Bill Endres
+University of Kentucky
+Division of Writing, Rhetoric & Digital Media
+Lexington, KY 40506859-257-8337--===============0730751366506920881==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

@@ -1,0 +1,7 @@
+From: Christian Schwaderer <christian.schwaderer@uni-tuebingen.de>
+To: dm-l@uleth.ca
+Subject: [dm-l] xslt functions for roman dates and numerals
+Date: Thu, 27 Feb 2014 10:21:44 +0100
+Message-ID: <20140227102144.17601ffn847h2o4o@webmail.uni-tuebingen.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5886248807293575817=="

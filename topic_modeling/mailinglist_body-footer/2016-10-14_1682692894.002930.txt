@@ -1,0 +1,37 @@
+--===============5001467605817535853==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable**apologies for cross-posting**
+Dear colleagues,
+=C2=A0
+It is a pleasure for me to announce the official release of our Virtual Resea=
+rchEnvironment EVI-LINHD www.evilinhd.com
+=C2=A0
+EVI-LINHDis a cloud platform free and open-source to create Digital Humanitie=
+s projectswhich contains a XML-TEI digital edition tool and processing model =
+based oneXist, a space to create digital libraries using Omeka and the power =
+ofWordpress to design beautiful websites for the projects. Users are able toc=
+reate a project from the beginning to the end and share it with their teammem=
+bers.=20
+=C2=A0
+The launchevent will take place on next Wednesday 19th October, at the School=
+of Economics of UNED, Sala Saenz Torrecilla, at 16:00h, and it will also bebr=
+oadcasted online.
+=C2=A0
+Moreinformation about the event, free registration, agenda and links to broad=
+castcan be found here: http://linhd.uned.es/en/news/launch_evilinhd/
+=C2=A0
+Please, feel free to send this information to all peoplethat could be interes=
+ted,
+=C2=A0
+Best regards
+=C2=A0
+ElenaGonz=C3=A1lez-Blanco Garc=C3=ADa
+=C2=A0
+Dpto. de LiteraturaEspa=C3=B1ola y Teor=C3=ADa de la Literatura, Despacho 722Facultad deFilolog=C3=ADa, UNEDPaseo Senda del Rey7
+28040 MADRIDtel. 91 3986873
+=C2=A0
+http://linhd.uned.eshttp://filindig.hypotheses.org/=C2=A0www.uned.es/personal/elenagonzalezblanco@elenagbg=C2=A0
+=C2=A0=C2=A0--===============5001467605817535853==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

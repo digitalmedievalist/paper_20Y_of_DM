@@ -1,0 +1,8 @@
+From: Martin Holmes <mholmes@uvic.ca>
+To: dm-l@uleth.ca
+Subject: Re: Multiple Stylesheets (was Re: [dm-l] Hacks: an example)
+Date: Wed, 30 Jun 2004 09:42:30 -0700
+Message-ID: <6.1.1.1.0.20040630093529.01d0bb68@pop.uvic.ca>
+In-Reply-To: <40E2E607.9070403@springnet1.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0959421563649744284=="

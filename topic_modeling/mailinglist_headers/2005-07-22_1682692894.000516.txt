@@ -1,0 +1,8 @@
+From: James Cummings <James.Cummings@computing-services.oxford.ac.uk>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] dtd/schema generators?
+Date: Fri, 22 Jul 2005 16:39:57 +0100
+Message-ID: <42E1134D.8040902@computing-services.oxford.ac.uk>
+In-Reply-To: <1121744907.15663.4.camel@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3816743674493428383=="

@@ -1,0 +1,121 @@
+--===============3547518380704331843==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableA few things you might look into spring to my mind:- Are all machines running on the same platform (Win32 vs Unix)?
+- Do all machines share the same platform encoding (e.g. utf-8 vs cp1285)?
+- Has access been properly configured to the XSL-file, or does trying to
+reach it by http generate a 'forbidden' message?
+- Do the FIrefox versions match?y.s.,
+JorisOn 2/11/06, Daniel O'Donnell <daniel.odonnell(a)uleth.ca> wrote:
+>
+> Yes. All the machines have the same directory structure and the files
+> are kept in sync on all three.
+>
+> -d
+>
+> On Fri, 2006-10-02 at 23:16 -0800, travis(a)lacuna.ca wrote:
+> > Is the stylesheet in the same location on each machine?
+> >
+> > -----Original Message-----
+> > From: dm-l-bounces(a)uleth.ca [mailto:dm-l-bounces(a)uleth.ca] On Behalf =
+Of
+> > Daniel O'Donnell
+> > Sent: Friday, February 10, 2006 7:37 PM
+> > To: Digital Medievalist Community mailing list
+> > Subject: [dm-l] Weird Firefox error
+> >
+> > Hi all,
+> >
+> > I have a question I'm hoping somebody here might be able to help me
+> > with: I run Firefox on several machines. When I load in a local xml file
+> > with associated style information, the browser transforms the file
+> > correctly on two of my three computers. On the third, however, I get the
+> > following error:
+> >
+> > Error loading stylesheet: (null)
+> >
+> > file:///<path_to_stylesheet>
+> >
+> > I googled the error and saw that a common source for this error is an
+> > error in the mime type declarations, but in my case I wonder if this
+> > could be true, since Firefox is accepting the same files on other
+> > machines. In any event, here is the beginning of the file:
+> >
+> >
+> > > <?xml version=3D"1.0" encoding=3D"utf-8"?>
+> > > <?xml-stylesheet type=3D"text/xsl"
+> > href=3D"file:/home/dan/documents/xml/xslt/dm1_2.xsl"?>
+> > > <TEI.2 rend=3D"article">
+> > >
+> > (I've also tried text/xml and application/xml and application/xsl).
+> >
+> > Any ideas where to hunt for the problem?
+> >
+> >
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server:
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options:
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+> > Contact editorial Board: digitalmedievalist(a)uleth.ca
+> > dm-l mailing list
+> > dm-l(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> >
+> >
+> > _______________________________________________
+> > Digital Medievalist Project
+> > Homepage: http://www.digitalmedievalist.org
+> > Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> > RSS (announcements) server:
+> http://www.digitalmedievalist.org/rss/rss2.cfm
+> > Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> > Change membership options:
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+> > Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+> > Contact editorial Board: digitalmedievalist(a)uleth.ca
+> > dm-l mailing list
+> > dm-l(a)uleth.ca
+> > http://listserv.uleth.ca/mailman/listinfo/dm-l
+> --
+> Daniel Paul O'Donnell
+> Associate Professor and Acting Chair
+> Director, Digital Medievalist Project
+> <http://www.digitalmedievalist.org/>
+> Department of English
+> University of Lethbridge
+> Lethbridge AB T1K 3M4
+> Canada
+>
+> Vox +1 403 329-2377
+> Fax +1 403 382-7191
+>
+> :@caedmon/ubuntu
+>
+>
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+> Contact editorial Board: digitalmedievalist(a)uleth.ca
+> dm-l mailing list
+> dm-l(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--
+Mr. Joris J. van Zundert (MA)
+Huygens Institute
+Royal Academy of Arts and SciencesContact information can be found at http://www.brandaen.orgA disclaimer is applicable to this e-mail, please refer to
+http://www.brandaen.org/emaildisclaimer for more information--===============3547518380704331843==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

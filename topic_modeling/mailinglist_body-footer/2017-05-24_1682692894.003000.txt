@@ -1,0 +1,41 @@
+--===============1170706049912174710==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear colleagues,We are pleased to inform you that from July 3rd =C2=A0to 5th,=
+ 2017, LINHD UNED will host the 4th DH(a)Madrid Summer School: =E2=80=9CSeman=
+tic Technologies and Linguistic Tools for Digital Humanities=E2=80=9D.This ye=
+ar's DH Summer School is also part of the activities led by the ERC P=
+OSTDATA project. The course is sponsored by the CLARIN-ERIC European infrastr=
+ucture and brings together a varied group of leading international experts in=
+ Digital Humanities, Natural Language Processing and language technologies.Ou=
+r Summer School will be of special interest for humanists focused in digital =
+research methods applied to the humanities. It can be followed online or dela=
+yed, and in face-to-face classroom mode.Discounts are available for students,=
+ unemployed people and members of Spanish DH associations.More information an=
+d registration: http://linhd.es/en/p/dh-summer-2017-lang-en/ Elena Gonz=C3=A1=
+lez-Blanco & Gimena del R=C3=ADoLINHD=C2=A0---=C2=A0Queridos amigos,Nos compl=
+ace anunciaros que del 3 al 5 de julio de 2017 se llevar=C3=A1 a cabo en la U=
+NED el curso de verano de este a=C3=B1o: =E2=80=9CTecnolog=C3=ADas sem=C3=A1n=
+ticas y herramientas lingü=C3=ADsticas para Humanidades Digitales=E2=80=
+=9D.
+Este curso, que cuenta con la colaboraci=C3=B3n de importantes expertos inter=
+nacionales en Humanidades Digitales, tecnolog=C3=ADa sem=C3=A1ntica y procesa=
+miento del lenguaje, constituye la cuarta edici=C3=B3n de la DH(a)Madrid Summ=
+er School. Este a=C3=B1o cuenta adem=C3=A1s con dos importantes patrocinadore=
+s, pues forma parte de las actividades del proyecto ERC POSTDATA, y adem=C3=
+=A1s est=C3=A1 patrocinado por la infraestructura europea CLARIN. =C2=A0Est=
+=C3=A1 dirigido a todos aquellos interesados en m=C3=A9todos digitales de inv=
+estigaci=C3=B3n aplicados a las humanidades, y centrado principalmente en per=
+sonas con formaci=C3=B3n human=C3=ADstica. El curso de este a=C3=B1o se centr=
+a en la ense=C3=B1anza de herramientas y tecnolog=C3=ADas del lenguaje, en ge=
+neral, y m=C3=A1s particularmente en tecnolog=C3=ADas sem=C3=A1nticas que pue=
+dan utilizarse en proyectos de investigaci=C3=B3n. Puede seguirse de forma pr=
+esencial, semipresencial, o completamente online en directo o en diferido des=
+de cualquier lugar del mundo.Los estudiantes, miembros de asociaciones hisp=
+=C3=A1nicas de HD y personas en paro cuentan adem=C3=A1s con descuentos espec=
+iales.=20
+M=C3=A1s informaci=C3=B3n en:=C2=A0http://linhd.es/p/dh-summer-2017-es/ =C2=
+=A0=C2=A1Os esperamos!Elena Gonz=C3=A1lez-Blanco y Gimena del R=C3=ADoLINHD=
+=C2=A0=C2=A0--===============1170706049912174710==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

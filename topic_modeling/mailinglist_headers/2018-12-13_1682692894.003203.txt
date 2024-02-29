@@ -1,0 +1,7 @@
+From: Franz Fischer <franz.fischer@uni-koeln.de>
+To: dm-l@uleth.ca
+Subject: [dm-l] Digital Scholarly Editions as Interfaces
+Date: Thu, 13 Dec 2018 12:16:28 +0100
+Message-ID: <eb9fe1c9-97b8-03f1-cb2c-2c59591a7b2a@uni-koeln.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3908667398658845264=="

@@ -1,0 +1,14 @@
+--===============8448624057881623326==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear all, I have a quick question about TEI encoding. Actually it is a request for
+help. We at Croatian Center for Digital Humanities are working (among other)
+on digital representation of Croatian medieval chronicles (in Latin and
+Croatian) from 14th and 15th century.  What we need is simply examples of
+similar projects in the world so that we can learn from them.  Any help in
+pointing us to the right direction is most welcome and I thank you in
+advance. P.S. Some of the project links on TEI web are dead so I am asking you
+directly through this lists Sincerely, Daniel MondekarVice DirectorCenter for Digital HumanitiesZagrebCroatiawww.digitalna-humanistika.org   
+--===============8448624057881623326==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

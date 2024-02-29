@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] Second beta version of the Digital Vercelli Book available
+Date: Wed, 23 Mar 2016 17:24:18 +0100
+Message-ID: <56F2C332.5070200@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9176027695052832128=="

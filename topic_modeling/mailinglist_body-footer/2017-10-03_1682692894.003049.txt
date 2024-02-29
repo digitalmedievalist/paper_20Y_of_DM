@@ -1,0 +1,72 @@
+--===============0683775627309787281==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableThis might be of interest to some list members. The call is in German and
+unfortunately only papers in German are accepted.Call for Articles: Themenheft: Digitale MediävistikDas Mittelalter. Perspektiven mediävistischer ForschungDer Mediävistenverband e.V. veröffentlicht seit 1996 die halbj=C3=
+=A4hrlich
+erscheinende Zeitschrift =E2=80=9EDas Mittelalter. Perspektiven mediävis=
+tischer
+Forschung=E2=80=9C. Für 2019 ist ein Themenheft mit dem Titel =E2=80=9ED=
+igitale
+Mediävistik=E2=80=9C vorgesehen, das gemeinsam von Roman Bleier (Zentrum=
+ für
+Informationsmodellierung, Universität Graz), Franz Fischer (Cologne Cent=
+er
+for eHumanities der Universität zu Köln), Torsten Hiltmann (Univers=
+ität
+Münster), Gabriel Viehhauser (Universität Stuttgart) und Georg Voge=
+ler
+(Zentrum für Informationsmodellierung, Universität Graz) herausgege=
+ben
+wird.Bewerbungsfrist: 30. November 2017Autorenkonferenz in Stuttgart: 13./14. September 2018AbstractElektronische Informationstechnolgien sind dabei, die Arbeitsweisen der
+mediävistischen Forschung grundlegend und nachhaltig zu verändern. =
+Gerade
+mediävistische Forschungsprojekte gehören zu den Motoren einer digi=
+talen
+Durchdringung der geisteswissenschaftlichen Forschung, und dies bereits
+seit den Tagen des Jesuitenpaters Roberto Busa (1913-2011), dessen Index zu
+den Werken des Thomas von Aquin als das erste Digital-Humanities-Projekt
+überhaupt gilt.Seither sind die Auswirkungen der Digitalisierung auf die Mediävistik
+einerseits anhand der rasant steigenden digitalen Verfügbarkeit von Quel=
+len
+und Forschungsergebnissen spürbar. In stetig wachsendem Umfang kann in F=
+orm
+hochaufgelöster Digitalisate, digitaler Archive und Editionen auf
+Primärquellen zugegriffen werden, und die Palette von digitalen Methoden,
+die in der mediävistischen Forschung zum Einsatz kommen, reicht von
+Algorithmus-basierten Analyseverfahren historischer Textcorpora über
+automatische Bilderkennung, Netzwerkanalyse und geographische
+Informationssysteme, bis hin zur formalen Erschlie=C3=9Fung von Daten und
+Informationen mit Technologien des Semantic Web. Andererseits verändert =
+die
+Anwendung digitaler Hilfsmittel und Methoden sowohl die Forschungsprozesse
+als auch die Fragestellungen selbst. Daher gilt es, deren Nutzen und
+Auswirkungen auf unser Verständnis vom Mittelalter zu beleuchten. Das ist
+umso dringlicher, als eine inter- und transdisziplinär ausgerichtete
+digitale Forschungspraxis in allen Bereichen der Mediävistik Einzug h=C3=
+=A4lt.Das Themenheft soll anhand aktueller Forschungsprojekte einen =C3=9Cberblick
+über die in der mediävistischen Forschung genutzten Methoden der Di=
+gital
+Humanities geben und deren Einsatz in der Praxis diskutieren und bewerten.
+Es soll damit eine Orientierung auf dem Gebiet der digitalen Mediävistik
+bieten und zugleich vereinzelte Aktivitäten im deutschsprachigen Raum
+zusammenführen. Vor allem aber soll es zur Reflexion anregen, welche neu=
+en
+Erkenntnisse über die Welt des Mittelalters mit Hilfe digitaler Methoden,
+Werkzeuge und Ressourcen gewonnen werden können.Die Beiträge können beispielsweise folgende Themenbereiche behandel=
+n:=E2=97=8F     Mediävistik und Computer Vision (Bilderkennung)=E2=97=8F     Mediävistik und Netzwerkanalyse=E2=97=8F     Mediävistik und geographische Informationssysteme=E2=97=8F     Mediävistik und Semantic Web=E2=97=8F     Digitale Erschlie=C3=9Fung und Präsentation von mediä=
+vistischen Daten und
+Informationen=E2=97=8F     Text-mining und automatische Sprachverarbeitung in der Medi=C3=
+=A4vistikZeitplan:30. November 2017Frist für die Einsendung der Vorschläge15. Januar 2018Zusage an die Autoren1. Juli 2018Einsenden der ausformulierten und formatierten Beiträge zum Peer Review13./14. SeptemberAutorenkonferenz in Stuttgart30. November 2018Frist für die Abgabe der überarbeiteten BeiträgeJuni 2019Erscheinen des ThemenheftsBitte schicken Sie ihren Vorschlag für einen Beitrag als max. zweiseitig=
+en
+Abstract bis zum 30. November 2017 an Roman Bleier (roman.bleier(at)
+uni-graz.at).
+With best wishes,
+Roman--=20
+Roman Bleier
+Centre for Information Modelling - ACDH
+University of GrazKompetenznetzwerk Digitale Edition <http://www.digitale-edition.at/>
+Institut für Dokumentologie und Editorik e.V. <http://www.i-d-e.de>
+Digital Medievalist <http://digitalmedievalist.org>--===============0683775627309787281==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

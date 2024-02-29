@@ -1,0 +1,8 @@
+From: Gabriel Bodard <gabriel.bodard@sas.ac.uk>
+To: dm-l@uleth.ca
+Subject:
+ [dm-l] Applying machine learning to the study of inscribing texts	(seminar)
+Date: Tue, 04 Aug 2020 11:13:48 +0000
+Message-ID: <LNXP123MB1915B501EB5AC245C73E014FC14A0@LNXP123MB1915.GBRP123.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3713829725782680973=="

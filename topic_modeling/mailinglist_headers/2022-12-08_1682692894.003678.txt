@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] EVT 3 alpha released!
+Date: Thu, 08 Dec 2022 15:55:31 +0100
+Message-ID: <685bb06f82b4f1a4b836696f313df989@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4151479753909176854=="

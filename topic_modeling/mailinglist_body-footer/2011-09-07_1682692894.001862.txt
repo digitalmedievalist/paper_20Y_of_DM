@@ -1,0 +1,81 @@
+--===============6835820294741413710==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Colleagues:I know it is very late in the game for this kind of posting, but
+circumstances are such that I am looking for a post-doc research fellow for
+the T-PEN project for immediate hire.  At this point, residence in St Louis
+is negotiable (although the successful candidate must already be able to
+work legally in the USA).  Feel free to share the details with everyone and
+anyone.Jim__________________________Saint Louis University, a Jesuit Catholic institution dedicated to
+education, research, healthcare and service, seeks applications for a
+full-time, limited contract, Research Fellow (Senior Research Assistant) in
+the Center for Digital Theology. The successful candidate will join a
+research team which is developing a web-based application in digital
+humanities: T-PEN (Transcription for Paleographical and Editorial Notation)
+is a web-based tool that assist scholars who wish to transcribe from
+digitized, unpublished manuscripts. T-PEN has been in development for a
+year, and the new Research Fellow will contribute to its completion over the
+next year. Details of the project may be found at
+digital-editor.blogspot.com<http://www.slu.edu/jobs/digital-editor.blogspot.c=
+om>Reporting to the Principal Investigator, the Research Fellow works alongside
+a Java Developer and GUI Developer as well as the project's other Co-PI,
+Professor Abigail Firey (University of Kentucky). The Research Fellow
+contributes to T-PEN's general development (which features to create or
+modify, how to make the application more usable, etc.), participates in bug
+reporting and usability testing, attends weekly staff meetings, and executes
+a transcription project that will act as a major use case for T-PEN. That
+project will be based on one or more the 2,600 manuscripts that T-PEN
+currently has permission to use, which are drawn from five partnering
+digital repositories (Parker on the Web, e-codices, CEEC, Hougthon Library
+[Harvard] and Assisi). The Research Fellow will publish a working digital
+edition of the text based on the transcription work using T-PEN throughout
+the academic year. The Research Fellow also contributes posts to T-PEN's
+blog and must be willing to "tweet" about the project on a regular basis on
+Twitter.The successful candidate will possess a doctorate in medieval studies (or a
+single humanities discipline with a medieval research focus) and will have
+strong, demonstrated skills in paleography and Latin and/or a medieval
+vernacular language. Some experience in text editing would also be an asset.
+The successful candidate must have demonstrable experience in the digital
+humanities (such as digital text editing, software development, digital
+image analysis, database development, etc.). Experience with XML encoding
+would also be an asset. (S)he must also possess strong interpersonal skills,
+be able to work in a team environment, and be able to work to set deadlines.
+The position will begin immediately upon hire and will terminate on 30 April
+2011. The annual salary will be $40,000, paid on a monthly basis. The
+position includes medical and other minor benefits.Summary of Qualifications
+Required- PhD in Medieval Studies (or a single humanities discipline with a medieval
+research focus)
+- Demonstrated skill in Paleography and Latin (and/or a medieval vernacular
+language)
+- Demonstrable experience in digital humanities
+- Strong interpersonal skills and the ability to work in a team environment
+- Able to work to set deadlinesDesirable
+- Experience in text editing
+- Experience with XML encodingApplications are to be submitted on line at http://jobs.slu.edu. Please
+include a letter of application, a CV, a list of URLs of previous projects
+or a sample written piece that engages the methods of digital humanities,
+and a list of three referees. Potential applicants are welcome to contact
+Professor James Ginther, Director, Center for Digital Theology, for any
+additional information at
+ginthej(a)slu.edu<https://mail.google.com/mail/?view=3Dcm&fs=3D1&tf=3D1&to=3D=
+ginthej(a)slu.edu>
+.Saint Louis University is an Affirmative Action/Equal Opportunity Employer
+and strongly encourages applications from women and minority candidates.--=20
+----------
+James R. Ginther, PhD
+Professor of Medieval Theology
+& Director,
+Center for Digital Theology
+Saint Louis University
+-------------------------
+ginthej(a)slu.edu
+Faculty Page: Departmental
+Page<https://sites.google.com/a/slu.edu/james-ginther/>
+<https://sites.google.com/a/slu.edu/james-ginther/>Research Blog:
+http://digital-editor.blogspot.com
+Twitter: DH_editor <http://twitter.com/#!/DH_editor>
+<http://digital-editor.blogspot.com>"Blessed are the Geeks for they shall encode the Earth""...debet esse oratio devota, ne mens sit in foro dum os psallit in choro."
+- Robert Grosseteste"Walking on water and developing software from a specification are easy if
+both are frozen." -Edward V. Berard--===============6835820294741413710==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

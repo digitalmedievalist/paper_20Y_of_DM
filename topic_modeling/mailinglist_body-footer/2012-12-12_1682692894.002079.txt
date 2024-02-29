@@ -1,0 +1,19 @@
+--===============2155927755084971334==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableA new vacancy has come up for a programmer on the DigiPal team (http:/digipal=
+.eu).The position is for 18 months and is for a developer with Python (ideally Dja=
+ngo) and relational database skills, preferably also
+with knowledge of JavaScript/JQuery and AJAX and an interest in interface des=
+ign, data modelling and medieval manuscripts.You will be working closely with the existing DigiPal team as the principal d=
+eveloper and will be responsible for most of the development
+work in practice.The appointment is for 100% (full time) and you will be based in the Departme=
+nt of Digital Humanities at King's College London but dedicated
+to the DigiPal project .Applications close on 1 January 2013, with interviews planned for soon after =
+that. We are looking for an immediate start, though of course we
+understand that you may have other commitments. Although the formal contract =
+is 18 months, but an extension to 30 September 2014 is very
+likely in practice.For further details and to apply, see: http://www.digipal.eu/blogs/news/digip=
+al-developer-job-vacancy/--===============2155927755084971334==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

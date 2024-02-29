@@ -1,0 +1,17 @@
+--===============6649196876335440143==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitForgot the link to the page I meant:<http://sql.uleth.ca/dmorgwiki/index.php/Convert_character_references>.BTW: if anybody is interested in keeping track of changes to the Wiki, 
+it is possible to receive recent edits and editions as a news feed. You 
+log in, go to recent changes, and add the RSS link to your favorite 
+reader. The DM main site news feed isn't working today for some reason. 
+I've asked the boffins.
+-dan
+-- 
+Daniel Paul O'Donnell, PhD
+Associate Professor of English
+University of Lethbridge
+Lethbridge AB T1K 3M4
+Tel. (403) 329-2377
+Fax. (403) 382-7191
+E-mail <daniel.odonnell(a)uleth.ca>
+Home Page <http://people.uleth.ca/~daniel.odonnell/>--===============6649196876335440143==--

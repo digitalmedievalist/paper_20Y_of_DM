@@ -1,0 +1,27 @@
+--===============6925708126575381154==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitHi all,I tend to agree on Martin Holmes point. Apparently however, he's talking 
+from a luxurious position. Wow, having your own Humanities Computing Centre, 
+with stable funding and reliable job opportunities for 
+researcher/programmers. Brilliant, I'm truly jealous! In The Netherlands 
+(and I guess in other countries too) we're only having a toehold on stable 
+funding for computational aspects in Humanities. Most programming, research 
+and development in Humanities Computing is still ad hoc and moreover ad hoc 
+funded. Imagine: lone researchers that somewhere along the way grasped the 
+potentials of information technology cowboy coding away. Do not even think 
+of stable coding environments, shared languages, good programming practices 
+and standards compliance! (Okay, I might be exaggerating somewhat for the 
+benefit of clearness:)It's of course only in proving the added value of computational approaches 
+that we should be able to gain firmer ground. But in that case it would 
+clearly help us a lot when building tools would also benefit one's academic 
+esteem.Having said that, I totally disagree with Martin's last point. Open sourcing 
+is not about abandoning your source code. It's about giving the Humanities 
+community insight in what you are doing for benefit of academic review and 
+control. Research based on computation should always be reproducible and 
+controllable by peers. Also peers should be able to do code review to 
+control the exact and correct working of any algorithm. That can only be 
+accomplished by open sourcing your code bases. y.s.,
+Joris van Zundert--===============6925708126575381154==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

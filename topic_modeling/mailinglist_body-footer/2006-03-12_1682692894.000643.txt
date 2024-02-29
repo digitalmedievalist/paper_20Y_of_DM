@@ -1,0 +1,64 @@
+--===============1566955980406691485==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit Take a look at the work of the Piers Plowman Electronic Archive and its
+parent organization, SEENET.  Both were founded by Hoyt Duggan at UVa.
+Their websites:   http://www.iath.virginia.edu/seenet/ and
+http://jefferson.village.virginia.edu/seenet/piers/
+<http://jefferson.village.virginia.edu/seenet/piers/>
+The first contains a listing of SEENET's TEI compliant DTD developed over
+the last 14 years.  It's provision for marginalia elements is an important
+step.  The PPEA site lists the group's Transcriptional Protocols hammered
+out over the same period first for SGML and now adopted for XML markup.
+SEENET and the PPEA remain active, publishing documentary editions in CD-ROM
+format.regards,
+ Gene LymanOn 3/12/06, Martin K. Foys <foys(a)hermes.hood.edu> wrote:
+>
+> Dear DM's
+>
+> I looking for a bit of an update on current initiatives for encoding
+> medieval MSS with TEI or XML, and being out of the loop of such things
+> recently, I have been having trouble figuring out what is, actually,
+> still current and active.
+>
+> I've know of a few from past and recent work (TEI workgroup Medieval
+> Manuscript Description, the MARC initiative, the MASTER  program, and
+> of course, EPT), but what ones (those and others) should be considered
+> as still active and working -- leading the charge, if you will,
+> towards the markup of medieval MSS?
+>
+> Much thanks in advance,
+>
+> Martin
+>
+>
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+> "Semper aut discere aut docere aut
+> scribere dulce habui"  -- Bede, HE, 5.24
+> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>
+> Martin K. Foys
+> Associate Professor
+> Department of English
+> Hood College
+> Frederick, MD 21701
+>
+> vox: 301~696~3740
+> fax: 301~696~3586
+> ether: foys(a)hood.edu
+>
+> _______________________________________________
+> Digital Medievalist Project
+> Homepage: http://www.digitalmedievalist.org
+> Journal (Spring 2005-): http://www.digitalmedievalist.org/journal.cfm
+> RSS (announcements) server: http://www.digitalmedievalist.org/rss/rss2.cfm
+> Wiki: http://sql.uleth.ca/dmorgwiki/index.php
+> Change membership options: http://listserv.uleth.ca/mailman/listinfo/dm-l
+> Submit RSS announcement: http://www.digitalmedievalist.org/newitem.cfm
+> Contact editorial Board: digitalmedievalist(a)uleth.ca
+> dm-l mailing list
+> dm-l(a)uleth.ca
+> http://listserv.uleth.ca/mailman/listinfo/dm-l
+>--===============1566955980406691485==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

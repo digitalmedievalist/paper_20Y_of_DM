@@ -1,0 +1,7 @@
+From: Roberto Rosselli Del Turco <roberto.rossellidelturco@fileli.unipi.it>
+To: dm-l@uleth.ca
+Subject: [dm-l] EVT version 1.0 has been released
+Date: Mon, 07 Mar 2016 19:21:36 +0100
+Message-ID: <56DDC6B0.5000300@fileli.unipi.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0582061697335569519=="

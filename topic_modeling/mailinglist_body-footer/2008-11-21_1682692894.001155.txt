@@ -1,0 +1,91 @@
+--===============4932332023969915559==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitHi!
+Here's the program of a symposium soon to be held in Rome, at the Ecole 
+française de Rome. It is organized jointly by French and Italian 
+medievalists (from the Ecole française de Rome, LAMOP, and Reti 
+Medievali), yet it is not restricted to the Middle Ages. Papers will be 
+given in French and Italian.
+If you want to attend, please contact Marilyn Nicoud or Grazia Parrino, 
+secrma(a)efrome.it
+Best wishes, Marjorie*Les historiens et l’informatique : un métier à réinventer
+*
+*Jeudi 4 décembre – 14 h 30
+*Marilyn Nicoud (École française de Rome)
+/Accueil des participants
+/Jean-Philippe Genet (Université de Paris I)
+/Peut-on prévoir l’impact des transformations de l’informatique sur le 
+travail scientifique de l’historien ?
+/
+*L’historien et ses sources : archives et bibliothèques - 15 h 00
+*Anna Maria Tammaro (Università di Parma)
+/La biblioteca digitale verso la realizzazione dell'infrastruttura 
+globale per gli studi umanistici
+/Roberto Delle Donne (Università di Napoli Federico II)
+/Storia e Open Archive
+/Christophe Dessaux (Ministère de la Culture et de la Communication)
+/De la numérisation des collections à Europeana : des contenus culturels 
+pour la recherche
+/Gino Roncaglia (Università della Tuscia)
+/Libri elettronici : un panorama in evoluzione
+/Stefano Vitali (Archivio di Stato di Firenze)
+/I mutamenti nel mondo degli archivi
+/
+17 h 45-18 h 45 : Discussion*Vendredi 5 décembre – 9 h 00
+**Éditer
+*Michele Ansani (Università di Pavia) et Antonella Ghignoli (Università 
+di Firenze)
+/Testi digitali : nuovi media e documenti medievali
+/Pierre Bauduin (Université de Caen) et Catherine Jacquemard (Université 
+de Caen)
+/La pratique de l’édition en ligne : expériences et questionnements
+/Paul Bertrand (IRHT, CNRS)
+/Autour de l’édition électronique et des digital humanities : nouvelle 
+érudition, nouvelle critique ?
+/
+10 h 30-11 h 00 : Discussion*Enseigner
+*Rolando Minuti (Università di Firenze)
+/Insegnare storia al tempo del web 2.0 : considerazioni su esperienze e 
+problemi aperti
+/Giulio Romero (Atelhis)
+/Métier d’historiens, métiers d’historien : les impératifs d’une 
+formation ouverte
+/
+12 h 45-13 h 15 : Discussion*Communiquer* - 15 h 00
+Pietro Corrao (Università di Palermo)
+/L’esperienza di Reti Medievali
+/Christine Ducourtieux (Université de Paris I) et Marc Smith (École 
+nationale des Chartes),
+/L’expérience de Ménestrel
+/
+16 h 00 - 16 h. 30 Discussion*Les nouveaux horizons du métier d’historien
+*Aude Mairey (CESCM, CNRS-Université de Poitiers)
+/Quelles perspectives pour la textométrie ?
+/Julien Alerini (Université de Paris I) et Stéphane Lamassé (Université 
+de Paris I)
+/Données et statistiques : l’avenir du travail en ligne pour l’historien
+/
+17 h 45-18 h 15 : Discussion*Samedi 6 décembre – 9 h 00
+*François Giligny (Université de Paris I)
+/L’informatique en archéologie : une révolution tranquille ?
+/Jean-Luc Arnaud (Telemme, CNRS-Université de Provence)
+/Nouvelles méthodes, nouveaux usages de la cartographie et de l’analyse 
+spatiale en histoire
+/Margherita Azzari (Università di Firenze)
+/Geographic Information Systems and Science. Stato dell’arte, sfide future
+/
+10 h-30-11 h 00 : Discussion*L’historien et l’outil informatique
+*Serge Noiret (European University Institute)
+/Fare storia a più mani con il web 2.0 : cosa cambia nelle pratiche 
+degli storici ?
+/Philippe Rygiel (Université de Paris I)
+/De quoi le web est-il l’archive ? Lectures historiennes de l’activité 
+réseau
+/Jean-Michel Dalle (Université Pierre et Marie Curie, Paris VI)
+/Peut-on penser le futur d’une communauté scientifique sans tenir compte 
+de l’économie de l’innovation et de la créativité ?
+/
+12 h 45-13 h 30 : Discussion*Conclusions d’Andrea Zorzi (Università di Firenze)*--===============4932332023969915559==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

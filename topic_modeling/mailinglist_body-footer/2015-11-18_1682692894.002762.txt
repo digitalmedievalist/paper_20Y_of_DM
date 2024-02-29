@@ -1,0 +1,63 @@
+--===============6168066340272858602==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitDear list members,Apologies for possible cross posting. I'd thought colleagues in the field
+might be interested in the following workshop announcement.All the best
+--Joris van Zundert
+====WORKSHOP AUTOMATED HANDWRITTEN TEXT RECOGNITION TRANSKRIBUS AND THE
+‘RESOLUTIONS OF THE DUTCH STATES-GENERAL’ (Den Haag, Netherlands, 25
+November 2015)The workshop introduces Transkribus and is organized by Huygens ING, INL
+and the tranScriptorium project. Transkribus is developed in the EU funded
+project tranScriptorium, a research infrastructure for transcribing and
+automated text recognition of historical documents.Automated recognition of handwritten documents (HTR) is no longer wishful
+thinking but a real option. Whether it concerns medieval codices or modern
+archival documents, HTR is not only able to create an automated
+transcription, it also offers significantly improved search capabilities
+through new search methods (“keyword spotting”).Until recently, intensive efforts by specialized researchers have been the
+only way to make the content of the resolutions accessible. In the new
+project, alternative ways to make the content of the resolutions accessible
+for researchers and other users are explored. Huygens-ING carries out a
+number of pilot projects to clarify to which extent advanced ICT techniques
+and tools can reduce the dependency on manual labor. Working with HTR is
+one of these pilots.The workshop  shows preliminary results of a training set of the 17th
+century resolutions of the Dutch Staten-Generaal (Estates General), of
+automated structuring of printed 18th century resolutions. Moreover, it
+also offers a hands-on Transkribus session for the participants.The transcripts of the *Resolutions of the States-General *consist of
+200.000 pages of handwritten text that not only reflect the invention and
+early development of the new Dutch State, but also are a witness of the
+daily political activities of the “Hoogmogende Heren”.*Programme*Automated Handwritten Text Recognition – Transkribus and the project
+‘Resolutions of the Dutch States-General’. Friday, 27 November 2015 The
+Hague.   - 10.30-12.15 Lectures – This session offers an insight into the
+   technology behind Handwritten Text Recognition (HTR), introduces the
+   Transkribus platform and will reveal the results of HTR applied to the
+   resolutions of the Dutch Staten-Generaal. In addition, it shows the results
+   automated structuring and interpretation of printed 18th century
+   resolutions.
+   - 10.00   Walk in, coffee and tea
+   - 10.30   Introduction by Lex Heerma van Voss, director of the Huygens
+   ING
+   - 10.40   Véronica Romero (Universitat Politècnica de València) –
+   Interactive Handwritten Text Recognition and indexing of historical
+   documents: the tranScriptorum Project
+   - 11.00   Ronald Sluijter (Huygens ING) – Introduction to the
+   Resolutions of the Staten-Generaal
+   - 11.10   Jesse de Does (Institute for Dutch Lexicology) – HTR on the
+   hand-written Resolutions of the Staten-Generaal
+   - 11.30   Walter Ravenek (Huygens ING)– Structure and interpretation of
+   the printed Resolutions of the Staten-Generaal 1725
+   - 11.50   Günter Mühlberger (University of Innsbruck)- Recognition and
+   Enrichment of Archival Documents – the READ Project. e-Infrastructure for
+   Humanities Scholars, Archives, Computer Scientists and the Public.
+   - 12.15   Lunch
+   - 13.30   Hands-on session TranskribusDuring the second part the participants get the opportunity to try out
+Transkribus on their own laptops to get a sense of the stage the technology
+is in and what it can mean for their own work.For this goal we ask participants to install Transkribus beforehand.
+Instructions for this will be send to you prior to the meeting.16.00   Drinks*Place*Huygens Institute for the History of the Netherlands, Prins
+Willem-Alexanderhof 5, The Hague (the Netherlands)*Links*   - EU FP7 Projekt tranScriptorium: http://transcriptorium.eu/
+   - TRANSKRIBUS Plattform: http://transkribus.eu/*Registration*Register via: congres(a)huygens.knaw.nl. Please indicate whether you intend
+to attend just the morning program or the hands-on session as well.The workshop is aimed at scholars who are involved in the transcription and
+editing of historical documents. The number of participants is limited,
+registrations will be accepted in the order of arrival. Registration
+deadline is 20 November 2015.Please bring your own laptop to the Workshop!====--===============6168066340272858602==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

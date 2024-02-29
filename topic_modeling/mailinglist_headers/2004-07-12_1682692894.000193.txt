@@ -1,0 +1,8 @@
+From: Peter Binkley <pbinkley@telus.net>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TAN: UTF-8 vs. German characters
+Date: Mon, 12 Jul 2004 19:08:15 -0600
+Message-ID: <40F335FF.10904@telus.net>
+In-Reply-To: <Pine.LNX.4.44.0407121948120.7109-100000@oscar.wvsc.edu>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============0451044333252898928=="

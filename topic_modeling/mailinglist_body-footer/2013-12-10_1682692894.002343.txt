@@ -1,0 +1,32 @@
+--===============2791902863668117893==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear DM-L subscribers,With apologies for cross-posting, please consider joining us for this event:Vanderbilt University invites you to participate in a summer seminar for huma=
+nities scholars working with XML documents (such as TEI, EAD, or MODS).The XQuery Summer Institute is designed for scholars with basic experience ma=
+rking up texts who would like to acquire advanced skills in how to query and =
+computationally analyze XML documents.We welcome applications from archivists, faculty members, librarians, alt-ac =
+professionals, and advanced graduate students. Over the course of two weeks, =
+we will teach you how to program in XQuery, a language designed for querying =
+and manipulating XML documents. You will leave the Institute knowing how to m=
+aximize the value of your XML encoding.The Institute will take place from Monday, June 9 to Friday, June 20 in 2014 =
+on the campus of Vanderbilt University in Nashville, Tennessee. It will be le=
+d by six instructors with experience in the digital humanities (see http://xq=
+ueryinstitute.org/instructors), including Jonathan Robie, Lead Editor of the =
+XQuery and XPath specifications at the World Wide Web Consortium (W3C).There are no registration costs to the Institute thanks to generous support f=
+rom the Office of Digital Humanities at the National Endowment for the Humani=
+ties (see the announcement of Institutes for Advanced Topics in the Digital H=
+umanities http://www.neh.gov/divisions/odh/grant- ... -july-2013<http://www.n=
+eh.gov/divisions/odh/grant-news/announcing-3-institutes-advanced-topics-award=
+s-july-2013>). We will also provide subventions for participants' tra=
+vel, lodging, and meals. Participation is limited to twelve. Applications are=
+ due by February 14, 2014.Please join us! Take your XML skills to the next level in Nashville this summ=
+er. For information about the Institute and the application process, see http=
+://xqueryinstitute.org/. Questions? Please email Clifford Anderson, Director =
+for Scholarly Communications, at Vanderbilt University: clifford.anderson(a)v=
+anderbilt.edu<mailto:clifford.anderson(a)vanderbilt.edu>.Best,
+DavidDavid A. MichelsonAssistant Professor of the History of Christianity, Divinity School
+Affiliate Assistant Professor of Classics, College of Arts & Sciences
+Vanderbilt Universitywww.syriaca.org
+--===============2791902863668117893==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

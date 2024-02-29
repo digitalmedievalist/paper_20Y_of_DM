@@ -1,0 +1,16 @@
+--===============4361536922954728424==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitFor your information.
+-- 
+Daniel Paul O'Donnell
+Acting Chair and Associate Professor
+Director, Digital Medievalist Project
+Department of English,
+University of Lethbridge
+Lethbridge AB T1K 3M4
+CanadaTel. +1 (403) 329-2378
+Fax +1 (403) 382-7191http://www.uleth.ca/fas/eng/
+http://www.digitalmedievalist.org/--===============4361536922954728424==
+Content-Type: message/rfc822
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.eml"

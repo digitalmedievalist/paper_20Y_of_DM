@@ -1,0 +1,57 @@
+--===============8866843392853588633==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitFeel free to contact me with questions.Hugh> New York University
+> Programmer/Analyst
+> 
+> New York University's Division of the Libraries seeks a
+> Programmer/Analyst to work on the "Papyrological Navigator"
+> (http://papyri.info) and associated systems.  Papyri.info is a
+> web-based research portal that provides scholars worldwide with the
+> ability to search, browse and collaboratively edit texts,
+> transcriptions, images and metadata relating to ancient texts on
+> papyri, pottery fragments and other material.  The incumbent will work
+> closely with the Project Coordinator and with scholars involved in the
+> project at NYU's Institute for the Study of the Ancient World, Duke
+> University, the University of Kentucky and the University of
+> Heidelberg, as well as with NYU Digital Library Technology staff.
+> 
+> The incumbent's initial responsibilities will include: close
+> collaboration with project team members to enhance and extend a robust
+> production environment at NYU for the ongoing ingest and processing of
+> new and updated text transcriptions, metadata and digital images;
+> performing both analysis and programming of any required changes or
+> enhancements to current PN applications.
+> 
+> Candidates should have the following skills:
+>    * Bachelor's degree in computer or information science and 3 years
+>      of relevant experience or equivalent combination
+>    * Must include experience developing web applications using Java
+>    * Demonstrated knowledge of Java, Javascript, Tomcat, Saxon,
+>      Lucene, Apache, SQL, XML, XSLT
+>    * Experience with metadata standards (e.g. TEI, EpiDoc)
+>    * Experience working in Unix/Linux environments
+>    * Preferred: Experience with Apache Solr, RDF triple stores
+>        (e.g. Mulgara), Clojure
+>    * Preferred: Experience designing, building, and deploying
+>        distributed systems
+>    * Preferred: Experience working with non-Roman Unicode-based
+>        textual data (esp. Greek)
+>    * Excellent communication and analytical skills
+> 
+> Applicants should submit resume and cover letter, which reflects how
+> applicant's education and experience match the job requirements.
+> 
+> NYU offers a competitive salary and superior benefit package, which
+> includes tuition benefits for self and eligible family members,
+> generous vacation, medical, dental, and retirement plans. For more
+> information about working at NYU visit our website at: www.nyucareers.com.
+> 
+> To apply:
+> 
+> To apply for this position online, visit
+> http://www.nyucareers.com/applicants/Central?quickFind=52507
+> 
+> NYU is an Equal Opportunity/Affirmative Action Employer.--===============8866843392853588633==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

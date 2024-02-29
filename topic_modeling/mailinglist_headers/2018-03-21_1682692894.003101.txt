@@ -1,0 +1,7 @@
+From: Michael =?utf-8?q?Stenskj=C3=A6r?= Christensen <michaelsc@hum.ku.dk>
+To: dm-l@uleth.ca
+Subject: [dm-l] Samewords: a tool for word disambiguation in critical	editions
+Date: Wed, 21 Mar 2018 04:37:41 +0000
+Message-ID: <etPan.5ab1e26b.6809000e.4aa3@hum.ku.dk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1777669797978642858=="

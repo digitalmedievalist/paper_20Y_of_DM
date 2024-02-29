@@ -1,0 +1,7 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: [dm-l] MS-Internet Explorer 6 and standards based computing
+Date: Thu, 24 Jun 2004 17:18:11 -0600
+Message-ID: <40DB6133.5070008@uleth.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1175433236389719985=="

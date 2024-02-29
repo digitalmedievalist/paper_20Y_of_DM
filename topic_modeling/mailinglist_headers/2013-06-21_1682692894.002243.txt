@@ -1,0 +1,9 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] How to make your data live forever (and maybe your	project?)
+Date: Fri, 21 Jun 2013 12:59:59 -0600
+Message-ID: <51C4A2AF.3000007@uleth.ca>
+In-Reply-To: <D1D0B962-735D-4762-905C-69F213FA0CB7@bham.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8034940360618172458=="

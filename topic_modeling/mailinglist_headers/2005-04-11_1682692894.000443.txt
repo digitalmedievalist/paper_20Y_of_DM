@@ -1,0 +1,9 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Question about CSS and IE
+Date: Mon, 11 Apr 2005 13:40:08 -0600
+Message-ID: <425AD298.7020003@uleth.ca>
+In-Reply-To:
+ <908893006339C0409519E4065DF3B2491E80C6@mailserver.ualibrary.ualberta.ca>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6008386480845583301=="

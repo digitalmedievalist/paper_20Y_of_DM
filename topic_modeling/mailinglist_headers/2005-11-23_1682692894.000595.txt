@@ -1,0 +1,8 @@
+From: travis@lacuna.ca
+To: dm-l@uleth.ca
+Subject: RE: [dm-l] re: Relational database and TEI
+Date: Wed, 23 Nov 2005 12:34:42 -0800
+Message-ID: <006f01c5f06d$56ea8a00$6800a8c0@bluerobot>
+In-Reply-To: <872562B97D471D4AB39FF78E9C921F6401D08EEF@Saffron.cfs.le.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1680232064065007215=="

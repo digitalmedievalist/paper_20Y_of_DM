@@ -1,0 +1,29 @@
+--===============7700219665632095620==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable***With apologies for cross-posting***Hacking the Past: An Archives Game Jam23-24 February 2019UCL Hatchery, Base KX, London, NC1 4PFThe National Archives (http://www.nationalarchives.gov.uk/)  in collaboration=
+ with the Bentham Project, University College London (https://www.ucl.ac.uk/b=
+entham-project/) are coming together to create a FREE game jam, focusing on g=
+ames with a purpose (GWAPs).These organisations have experience of crowdsourcing the transcription of his=
+torical documents with the assistance of interested volunteers.  They have al=
+so been experimenting with the use of Handwritten Text Recognition software t=
+o automate the transcription of documents. However, the transcription of hist=
+orical material can still be a time-consuming and complex task.The challenge for this Hackathon is to create imaginative and engaging digita=
+l games that encourage and help people to transcribe documents efficiently. T=
+hese transcriptions will open up access to historical material and make them =
+discoverable for anyone interested in historical research.As a team, participants will be invited to create exciting games based on dig=
+ital images from a diverse range of historical collections at both The Nation=
+al Archives and University College London.The event will include:*         Interesting talks about the documents from archivists and historians*         Briefing on the tasks ahead*         A chance to learn and develop exciting new digital skills*         A showcase of all the work produced over the weekend*         A lot of hacking time*         And of course, pizza!Find out more and register to attend at the Eventbrite page: https://archives=
+-gamejam.eventbrite.co.uk--------------------------------------------------
+Dr. Louise Seaward
+Research Associate
+Bentham Project, Faculty of Laws, University College London, Bentham House, 4=
+-8 Endsleigh Gardens, London, WC1H 0EGEmail: louise.seaward(a)ucl.ac.uk<mailto:louise.seaward(a)ucl.ac.uk>
+Tel: 020 3108 8397
+Web: Transcribe Bentham<http://blogs.ucl.ac.uk/transcribe-bentham/>; Recognit=
+ion and Enrichment of Archival Documents (READ)<http://read.transkribus.eu/>
+Twitter: @TranscriBentham<https://twitter.com/transcribentham>; @Transkribus<=
+https://twitter.com/Transkribus>
+--===============7700219665632095620==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

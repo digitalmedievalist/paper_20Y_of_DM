@@ -1,0 +1,20 @@
+--===============6605625584374037294==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bitDear Colleagues:The server that provides the streaming images for the QC application is now
+back up. I apologize for the inconvenience.You may continue to evaluate the line parsing application.Thanks again for your assistance in this part of the software testing and
+development.Jim
+-- 
+----------
+James R. Ginther, PhD
+Assoc. Professor of Medieval Theology
+& Co-Director,
+Center for Digital Theology
+Saint Louis University
+-------------------------
+ginthej(a)slu.edu
+http://theology.slu.edu
+" Blessed are the Geeks for they shall encode the Earth""...debet esse oratio devota, ne mens sit in foro dum os psallit in choro."
+- Robert Grosseteste"Being bored is the only time you are creative." -Freeman Dyson--===============6605625584374037294==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

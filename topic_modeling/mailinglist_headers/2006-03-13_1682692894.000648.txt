@@ -1,0 +1,8 @@
+From: Roberto Rosselli Del Turco <rosselli@ling.unipi.it>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] TEI/XML manuscript markup initiatives?
+Date: Mon, 13 Mar 2006 10:47:52 +0100
+Message-ID: <44153FC8.1020205@ling.unipi.it>
+In-Reply-To: <441491D6.4060202@oucs.ox.ac.uk>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7555713819639324348=="

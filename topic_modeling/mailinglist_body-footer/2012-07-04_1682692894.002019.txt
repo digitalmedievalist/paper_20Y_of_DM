@@ -1,0 +1,321 @@
+--===============4094190843566307547==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear Colleagues and friends,I am pleased to invite you to an informal gathering of Digital Medievalist
+on Wednesday, June 11th, 8 PM onwards, in the Stables Pub at Weetwood Hall.As you know, Digital Medievalist is an international web-based community
+for medievalists working with digital media, with more than 750 members.
+This email discussion list is the most important link among the community,
+but the IMC in Leeds offers the opportunity to meet, and as a member of the
+Executive Board of Digital Medievalist, I hope that the most of you will be
+able to show up et get a chance to meet other scholars with related
+interests and methodologies *in real life*.
+You will find below the list of some sessions and papers you might be
+interested in (selection based on key words "digit*" "comput*" "data*"
+and/or indexed under the theme "Computing in Medieval Studies").Regards,Dominique Stutzmann
+Research fellow - Institut de Recherche et d'Histoire des Textes (CNRS, UPR
+841) http://www.irht.cnrs.fr
+Lecturer - Ecole Pratique des Hautes Etudes http://www.ephe.sorbonne.fr
+Executive Board, Digital Medievalist http://www.digitalmedievalist.org/
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Session*403* Title*Seals and Sigillography: What Is Their Future in a
+Digital Age? - A Round Table Discussion* Date/TimeMonday 9 July 2012:
+19.30-20.30  SponsorSigillum  OrganiserJohn Cherry, Independent Scholar,
+Ludlow  Moderator/ChairJohn Cherry, Independent Scholar, Ludlow
+AbstractArranged
+in the year that Sigillum, the website for the encouragement of research
+and the study of seals, was established, this round table will discuss the
+future for the study of seals and sigillography in the digital age. Is
+sigillography a study in its own right or is it simply the handmaid of
+history and art history? One of the goals of Sigillum is to encourage the
+use of seal and seal matrices in the study, teaching and writing of history
+(of all kinds, including social history and art history), archaeology,
+palaeography, archival studies, and other allied subjects. Whatever its
+status, how should the study develop in this digital age? All those
+interested in seals and seal matrices, of whatever country and period, are
+warmly invited.Participants include Julian Gardner (University of Warwick), Paul D. A.
+Harvey (Durham University), and Elizabeth New (Aberystwyth University).Session*627* Title*Mabillon's Heirs: New Diplomatics - Young Scholars*
+Date/TimeTuesday 10 July 2012: 11.15-12.45  Sponsor'Diplomatique' (GDR
+3177), Institut de Recherche et d'Histoire des Textes, Centre National de
+la Recherche Scientifique, Paris  OrganiserPaul Bertrand, 'Diplomatique'
+(GDR 3177), Institut de Recherche et d'Histoire des Textes, Centre National
+de la Recherche Scientifique, Paris  Moderator/ChairPaul Bertrand,
+'Diplomatique' (GDR 3177), Institut de Recherche et d'Histoire des Textes,
+Centre National de la Recherche Scientifique, Paris   Paper 627-a *Cistercians
+and Their Archive Books in the Low Countries in the Later Middle Ages:
+Diplomatic Aspects*
+(Language: English)
+Adéle Berthout, D=C3=A9partement d'histoire, Facult=C3=A9s Universitaire=
+s Notre-Dame
+de la Paix, Namur  Paper 627-b *Writing Notarial Documents in Normandy:
+Practice and Regulations*
+(Language: English)
+Isabelle Bretthauer, Universit=C3=A9 Paris Diderot =E2=80=93 Paris VII  Paper=
+ 627-c *The
+Redaction of the Regensburg Cartulary: Some Remarks*
+(Language: English)
+Claire de Bigault de Cazanove, Laboratoire de M=C3=A9di=C3=A9vistique Occiden=
+tale de
+Paris (LAMOP), Universit=C3=A9 Paris I - Panth=C3=A9on-Sorbonne  Paper 627-d =
+*De re
+paleographia digitalia: The Charters and Chancery of the Counts of
+Holland/Hainault (1299-1345)*
+(Language: English)
+Jinna Smit, Nationaal Archief, Den Haag   AbstractDiplomatic studies, as an
+old science, have renewed themselves these last years with the new
+perspectives brought by the study of literacy. The famous technical way of
+studying documents is not only used for the *discrimen veri ac falsi*, but
+also to bring into new light the practices of writing in particular
+societies, in connection with social studies and cultural studies. These
+two sessions aim to focus on new projects initiated by young scholars at
+the beginning of their research, in order to help them to connect
+themselves with the scientific community and to improve their own way of
+searching.Session*727* Title*Producing, Keeping, and Reusing Documents: Charters and
+Cartularies from Northern Iberia, 9th-12th Century* Date/TimeTuesday 10
+July 2012: 14.15-15.45  OrganiserFrancesca Tinti, Departamento de Historia
+Medieval, Moderna y de Am=C3=A9rica, Universidad del Pais Vasco
+Moderator/ChairFrancesca
+Tinti, Departamento de Historia Medieval, Moderna y de Am=C3=A9rica, Universi=
+dad
+del Pais Vasco   Paper 727-a *Keeping Charters Before Cartularies*
+(Language: English)
+Wendy Davies, University College London  Paper 727-b *A Monastic Power in
+Reconstruction: The Versatility of the Past and the Present Time in the Becer=
+ro
+G=C3=B3tico of Sahag=C3=BAn*
+(Language: English)
+Leticia Ag=C3=BAndez San Miguel, Universidad de Cantabria  Paper 727-c *The B=
+ecerro
+G=C3=B3tico of San Mill=C3=A1n: The Reconstruction of a Lost Cartulary*
+(Language: English)
+David Peterson, Universidad del Pa=C3=ADs Vasco   AbstractThe session will
+address the ways in which documents were kept, copied and reused in
+northern Iberia in the period between the late 9th and the 12th century.
+The first paper will focus on the single charters which survive from the
+earlier end of this period to investigate how documents were produced and
+kept before the production of the later monastic cartularies, while the
+second and the third paper will discuss the rationale behind the
+construction of some of the most significant cartularies which were
+compiled in that region between the end of the 11th and the 12th century.
+Session*728* Title*Playing with the Middle Ages: Video Game Medievalisms, I*
+Date/TimeTuesday 10 July 2012: 14.15-15.45  SponsorSociety for the Public
+Understanding of the Middle Ages  OrganiserPaul B. Sturtevant, Institute
+for Medieval Studies, University of Leeds  Moderator/ChairLesley Coote,
+Andrew Marvell Centre for Medieval & Early Modern Studies, University of
+Hull   Paper 728-a *'I am a woman and I reserve the right to be
+inconsistent!': Dragon Age - Origins and Feminine Medievalisms*
+(Language: English)
+Victoria Cooper, School of English, University of Leeds  Paper 728-b *The
+Saga of Northrend: Storytelling and Norse Mythos in World of Warcraft*
+(Language: English)
+Mari Kermode, Independent Scholar, Surrey  Paper 728-c *'I base my
+knowledge on a game=E2=80=A6 ': The Trustworthiness and Tropes of Medievalist
+Strategy Computer Games*
+(Language: English)
+Paul B. Sturtevant, Institute for Medieval Studies, University of Leeds
+AbstractVideo games are one of the most popular ways in which the public
+engages with the Middle Ages today. While they often may present
+romanticised or (more often) completely fantastical versions of the period,
+these are a vibrant way in which the public comes to know the Middle Ages
+today.Session*828* Title*Playing with the Middle Ages: Video Game Medievalisms, II
+* Date/TimeTuesday 10 July 2012: 16.30-18.00  SponsorSociety for the Public
+Understanding of the Middle Ages  OrganiserPaul B. Sturtevant, Institute
+for Medieval Studies, University of Leeds  Moderator/ChairPaul B.
+Sturtevant, Institute for Medieval Studies, University of Leeds   Paper
+828-a *Ludic Jurneys through Electronic Medieval Worlds*
+(Language: English)
+Lesley Coote, Andrew Marvell Centre for Medieval & Early Modern Studies,
+University of Hull  Paper 828-b *Old Gods Do New Jobs: Deicide and the
+Nearness of the 'Otherworld' in World of Warcraft Raid Narrative*
+(Language: English)
+Sarah Gilbert, Independent Scholar, Colchester  Paper 828-c *Constructing
+and Subjugating the Medieval(ist) Body: (Re)Presentation in Medieval Court
+Texts and Video Games*
+(Language: English)
+Thomas Rowland, Department of English, Saint Louis University, Missouri
+AbstractVideo games are one of the most popular ways in which the public
+engages with the Middle Ages today. While they often may present
+romanticised or (more often) completely fantastical versions of the period,
+these are a vibrant way in which the public comes to know the Middle Ages
+today.
+Session*1015* Title*Medievalism: Medieval Rules in Modern Culture and
+Literature* Date/TimeWednesday 11 July 2012: 09.00-10.30
+SponsorInterdisziplinäres
+Zentrum für Mittelalterstudien (IZMS), Universität Salzburg  Organi=
+serSiegrid
+Schmidt, Interdisziplinäres Zentrum für Mittelalterstudien (IZMS),
+Universität Salzburg  Moderator/ChairJan Cemper-Kiesslich, Interfakult=
+ärer
+Fachbereich für Gerichtsmedizin & Forensische Neuropsychatrie, Universit=
+ät
+Salzburg   Paper 1015-a *The Rule of St Benedict: Its Origins and Its
+Modern Relevance*
+(Language: English)
+Paola Schulze-Belli, Dipartimento di Scienze dell'Uomo, Universit=C3=A0 di
+Trieste  Paper 1015-b *Medieval Literature and Its Contemporary Handling in
+the Middle-High German Conceptual Database*
+(Language: English)
+Katharina Zeppezauer-Wachauer, Mittelhochdeutsche Begriffsdatenbank,
+Universität Salzburg  Paper 1015-c *New Literary Rules for King Arthur a=
+nd
+His Knights*
+(Language: English)
+Siegrid Schmidt, Interdisziplinäres Zentrum für Mittelalterstudien =
+(IZMS),
+Universität Salzburg   AbstractThere are a lot of everyday rules, cultur=
+al
+rules and agreements, literary structures and rules, religious orders and
+rules of the Middle Aages that have survived up to modern times. But they
+have not been the same ones. For instance sometimes only a word still
+exists with another meaning or not exactly equivalent meaning, as
+'Ritterlichkeit' or with different meaning 'wib : weib'. We still know some
+religious customs and rules but they don't have this high relevance for our
+everyday life as they had in the middle ages. For some occasions we still
+have dress-codes but they are aimed other events and other groups of people
+and other dressings. We still know the lyrics and the epics, the literary
+texts of the Middle Ages but nowadays they are told in a different way,
+sometimes for a different audience and, of course, they appear in another
+media. This session will give three exemples of this turn of rules.
+Session*1119* Title*'Ruling' the Script, I: Playing with the Rule*
+Date/TimeWednesday
+11 July 2012: 11.15-12.45  SponsorAPICES - Association pal=C3=A9ographique
+internationale: Culture, =C3=89criture, Soci=C3=A9t=C3=A9 / Institut de Reche=
+rche et
+d'Histoire des Textes (CNRS), Paris  OrganiserDominique Stutzmann, Centre
+F=C3=A9lix-Grat, Institut de Recherche et d'Histoire des Textes, Centre Natio=
+nal
+de la Recherche Scientifique, Paris  Moderator/ChairGeorg Vogeler, Zentrum
+für Informationsmodellierung in den Geisteswissenschaften, Karl
+Franzens-Universität, Graz   Paper 1119-a *Writings on the Wall: The
+Discriminating Use of Scripts in Late Medieval Mural Paintings*
+(Language: English)
+Christian Nikolaus Opitz, Universität Wien  Paper 1119-b *Between Tradit=
+ion
+and Liberty: Writing Rules of Vernacular Inscriptions in France (12th-14th
+Centuries)*
+(Language: English)
+Estelle Ingrand-Varenne, Centre d'Etudes Sup=C3=A9rieures de Civilisation
+M=C3=A9di=C3=A9vale, Universit=C3=A9 de Poitiers  Paper 1119-c *Rule and Vari=
+ation in
+English Vernacular Minuscule*
+(Language: English)
+Peter A. Stokes, Department of Digital Humanities, King's College London
+AbstractMedieval writing, as part of the interpersonal communication
+process, had to follow rules that ensure the legibility and convey the
+meaning of a text. Latin or vernacular, spoken or read, charter on
+parchment, painting, or stained-glass: different functions, social
+contexts, and publics lead to variations in the use of scripts during the
+Middle Ages. This session explores the representational modes of the text
+as an image and the concept of 'liberty' for scripts in regard to the
+staging of spoken or vernacular texts in epigraphy (Latin/vernacular) and
+to the degree of stability and variation in vernacular scripts.Session*1303* Title*GIS as a Tool for Understanding Medieval Road Systems*
+Date/TimeWednesday 11 July 2012: 16.30-18.00  SponsorSouth-Eastern European
+Medievalists Network (SEEM-N)  OrganiserFrancesco Dall'Aglio, Istituto
+Italiano per gli Studi Storici, Napoli  Moderator/ChairJake Ransohoff,
+Department of Medieval Studies, University of Chicago   Paper 1303-a
+*Historical
+Geographical Information Systems: The Modelling of a Byzantine Road in the
+Strumica Valley*
+(Language: English)
+Markus Breier, Department of Geography & Regional Research, Universität
+Wien  Paper 1303-b *Moving through Medieval Macedonia: Late Modern
+Cartography, Archive Material, and Hydrographic Data Used for the
+Regressive Modelling of Transportation Networks*
+(Language: English)
+Mihailo St. Popovic, Institut für Byzanzforschung, =C3=96sterreichische =
+Akademie
+der Wissenschaften, Wien  Paper 1303-c *Setting Some Rules: The Evolution
+of the Medieval Road Network and Its Administrative Structure in Northern
+Transylvania*
+(Language: English)
+Oana Toda, Babe=C8=99-Bolyai University, Cluj-Napoca   AbstractThis session is
+primarily concerned with the use of Geographical Information Systems (GIS)
+in creating a method of modeling historical roads. Very often, medieval
+roads cited in historical sources are no longer existent, and locating a
+known route could be impossible; GIS surveys, combined with an extensive
+analysis of historical sources and archeological data, can be an excellent
+tool to reconstruct the outline of a road, or of a network of roads,
+offering the historians an invaluable help.Session*1319* Title*'Ruling' the Script, III: Measure and Sense*
+Date/TimeWednesday
+11 July 2012: 16.30-18.00  SponsorAPICES - Association pal=C3=A9ographique
+internationale: Culture, =C3=89criture, Soci=C3=A9t=C3=A9 / Institut de Reche=
+rche et
+d'Histoire des Textes (CNRS), Paris  OrganiserGeorg Vogeler, Zentrum für
+Informationsmodellierung in den Geisteswissenschaften, Karl
+Franzens-Universität, Graz  Moderator/ChairPeter A. Stokes, Department of
+Digital Humanities, King's College London   Paper 1319-a *Writing Angles:
+Palaeographic Considerations on the Inclination of the Script*
+(Language: English)
+Maria Gurrado, Independent Scholar, Paris  Paper 1319-b *Graphical System
+and Social Norms: Measuring a Collective Scribal Profile*
+(Language: English)
+Dominique Stutzmann, Centre F=C3=A9lix-Grat, Institut de Recherche et d'Histo=
+ire
+des Textes, Centre National de la Recherche Scientifique, Paris  Paper
+1319-c *Rules for a Database on Italian Notaries*
+(Language: English)
+Irene Ceccherini, Dipartimento di Scienze dell Antichit=C3=A0 Medioevo e
+Rinascimento e Linguistica, Universit=C3=A0 degli Studi di Firenze
+AbstractMedieval
+writing, as part of the interpersonal communication process, had to follow
+rules that ensure the legibility and convey the meaning of a text. The
+digital humanities in palaeography give birth to a renewed quantitative
+approach, either as computer-aided palaeography or as digital palaeography
+with automated image-analysis softwares. This session explores what can be
+measured (angles, inclination, collective scribal profiles, and allographs)
+and how this new data can be analysed (databases, factorial analysis,
+cross-validation). The results give new insights on the dynamic of script
+evolution, and how it relates to the social contexts of written production.Session*1402* Title*'The Paradox of Medieval Scotland' Database as a
+Research Tool - A Round Table Discussion* Date/TimeWednesday 11 July 2012:
+19.30-20.30  SponsorAHRC Project 'The Breaking of Britain', Universities of
+Glasgow, Lancaster, Edinburgh & King's College London  OrganiserDauvit
+Broun, School of Humanities, University of Glasgow  Moderator/ChairKeith J.
+Stringer, Department of History, Lancaster University  Abstract'The Paradox
+of Medieval Scotland' database covers all individuals mentioned in the 6014
+charters (broadly defined) that survive from the period 1093-1286.
+Relationships between individuals, as well as information about them, are
+represented as this has been constructed in the documents themselves. The
+database, completed towards the end of 2010, has been designed as a
+research tool not only for historians of Scotland, but for anyone with an
+interest in the process of 'Europeanisation', or who wishes to include a
+comparative dimension to their research. The workshop will consist of a
+brief introduction to the database, a couple of case studies where it has
+been used in research, followed by questions and discussion.Participants include Amanda Beam (Department of History (Scottish),
+University of Glasgow), Dauvit Broun (University of Glasgow), David
+Carpenter (King's College London), John Reuben Davies (University of
+Glasgow), Matthew H. Hammond (University of Edinburgh), Alice Taylor
+(King's College London), and Joanna Tucker (University of Glasgow). Session*
+1706* Title*Vicissitudes of Cultural Transfers: Case Studies from Late
+Antiquity to the Late Middle Ages* Date/TimeThursday 12 July 2012:
+14.15-15.45  OrganiserIMC Programming Committee  Moderator/ChairSieglinde
+Hartmann, Oswald von Wolkenstein-Gesellschaft, Frankfurt am Main   Paper
+1706-a *12th- and 13th-Century Ornamental Western Metalwork in Response to
+Islamic and Byzantine Luxury Objects*
+(Language: English)
+Joseph S. Ackley, Institute of Fine Arts, New York University  Paper 1706-b
+*Picturing Language and Landscapes in The Book of Sir John Mandeville*
+(Language: English)
+Galia Halpern, Institute of Fine Arts, New York University   AbstractPaper
+-a:
+My paper explores ornamental metalwork mountings (Lower Saxon and
+Venetian,12th- through 13th-century) that adorned, mimicked, and/or
+otherwise dialogued meaningfully with newly obtained treasury objects of
+Islamic and Byzantine origin. While art historians have studied overt ways
+in which high-medieval and post-1204 Western treasury objects emulated
+Islamic and Byzantine imports (e.g. regarding relic visibility), episodes
+of subtler metalwork evocation (eg, filigree patterns and ornament
+disposition) have yet to be firmly detailed and analyzed. My paper, broadly
+contextualized by debates over ornament-embodied meaning, specifically
+considers a narrow selection of Western, Byzantine, and Islamic treasury
+objects at Halberstadt, San Marco, and Eichstätt.Paper -b:
+In the late medieval period, no vernacular language text enjoyed as wide
+circulation as *The Book of Sir John Mandeville*. This travel account
+proposed an image of the knowable world, mediated by the eyewitness
+observations of its now infamous author/narrator. Included in Mandeville's
+description of diverse regions is a running commentary about the alphabets
+in use by exotic peoples. My investigation into the illustrated manuscripts
+of the Book conceives of these alphabets within cartographic and
+ethnographic systems upon which landscape and body are mutually
+constituted. This paper looks at the pictorial evolution of these alphabets
+throughout the book's transmission.--===============4094190843566307547==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

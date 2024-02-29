@@ -1,0 +1,58 @@
+--===============9174472955935981165==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bitAbstracts are now invited for a two-day workshop, jointly organised by
+Digital Humanities @ Uni Bern and Infoclio.ch, to be held 29-30 January
+2015.The full call for participation is now online:
+http://www.dh.unibe.ch/en/2014/08/software-scholarship/
+https://infoclio.ch/en/node/135615Deadline for abstract submission: 11 October 2014.With best wishes,
+Tara Andrews--
+Prof. Dr. Tara L Andrews
+Digital Humanities, Universität Bern
+http://www.dh.unibe.ch/
+*Scholarship in Software, Software as Scholarship: From Genesis to Peer
+Review**‘Expressions’, 29 January 2015: Workshop on Software-based Scholarship*
+*Organizer: Digital Humanities, Universität Bern*Computation and software analysis have entered nearly every imaginable
+field of scholarship in the last decades, in a variety of forms from
+digital publication of results to computational modelling embedded in
+experimental work. In each of these digital outputs – be it an interactive
+publication with mapping of relevant geo-referenced data, or perhaps a
+statistical program for the categorization of millions of books according
+to their literary genre – there is some manifestation directly in the
+computer code of the scholarly thought that underlies the project, of the
+intellectual argument around which the outcome is based.The fact that scholarly software includes scholarly content is reasonably
+well-accepted. What remains controversial is the attempt at identification,
+in any particular instance, of what scholarly contribution has been made by
+a piece of software. Its makers tend to express the scholarship in writing
+separate from the software itself, if they even make explicit at all the
+scholarly reasoning that went into the code; its reviewers and users tend
+either to treat the software as a ‘black box’, opaque to informed scrutiny
+and therefore to be looked on with grave suspicion, or to deny that this
+particular software has any scholarship inherent to the source code. Given
+that our mechanisms for identifying and evaluating the scholarship within
+computer code are nearly nonexistent, we must ask: how do intellectual
+arguments — how does scholarship — come to be expressed in the software of
+digital humanities? How does this scholarship, so evident in theory but so
+elusive in practice, fit into the scientific process of advancement of
+knowledge?*‘Evaluation’, 30 January 2015: Round table on Peer Review for Digital
+Scholarly Work*
+*Organizer: Infoclio.ch*Related to the question of the expression of scholarship in software, and
+in other forms of digital publication as well, is the question of how to
+evaluate it. This topic will be the focus of a half-day roundtable, Peer
+Review for Digital Scholarly Work, to be held on 30 January 2015. Digital
+scholarly works such as Digital Editions, Digital Libraries, Digital
+Exhibitions, Data Visualization, Geographical Information Systems and the
+like are increasingly frequent in the Humanities, as main or secondary
+output of research projects; the question of how best to evaluate them
+takes on ever greater importance. At the moment, researchers doing digital
+scholarly work are usually unable to obtain academic credit for their
+work—in order to obtain scholarly recognition, they must additionally
+publish a “normal” article in a print-based journal about their digital
+work.As universities and national research funding agencies across the world
+move toward encouraging more digital scholarship in the humanities, there
+is an urgent need to discuss the criteria and benchmarks that should be in
+place for evaluating digital scholarly work. We welcome contributions about
+existing initiatives in this domain as well as more theoretical
+contributions that treat the topic of peer review of digital scholarly work.--===============9174472955935981165==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

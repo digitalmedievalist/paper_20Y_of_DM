@@ -1,0 +1,8 @@
+From: Digital Medievalist =?utf-8?q?=C2=BB?= News: grantls
+ <DONOTREPLY@digitalmedievalist.org>
+To: dm-l@uleth.ca
+Subject: [dm-l] TEI Boilerplate 1.0
+Date: Tue, 24 Apr 2012 13:00:21 +0000
+Message-ID: <20120424130021.26594310640@force.dreamhost.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============6170318549943673784=="

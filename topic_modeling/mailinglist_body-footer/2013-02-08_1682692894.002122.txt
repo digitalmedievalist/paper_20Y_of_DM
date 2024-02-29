@@ -1,0 +1,54 @@
+--===============1781546113476134737==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableTraining school in codicology
+Staatsbibliothek zu Berlin, 29 April =E2=80=93 3 May 2013A five-day intensive training school in codicology organised under the auspic=
+es of COST Action IS 1005, =E2=80=98Medioevo Europeo: Medieval Studies and Te=
+chnological Resources'.
+Codicology, the study of manuscript books as material objects, is an importan=
+t discipline within manuscript studies. Topics covered will include writing m=
+aterials, formats and layout, with particular focus on presenting a typology =
+of medieval manuscripts, illustrated by Bibles, manuscripts of the Latin clas=
+sics and literary and legal manuscripts in the vernacular. A significant comp=
+onent of the school will be instruction in the use of TEI-conformant XML to r=
+ecord and analyse codicological data. There will also be a presentation of Ma=
+nuscripta mediaevalia, a joint online venture of the Staatsbibliothek zu Berl=
+in, Bayerische Staatsbibliothek München and the Deutsches Dokumentations=
+zentrum für Kunstgeschichte - Bildarchiv Foto Marburg, which gives acces=
+s to the manuscript collections of hundreds of libraries in Europe and the Un=
+ited States.
+The language of instruction will be English.Instructors:
+M. J. Driscoll, Curator, Den Arnamagn=C3=A6anske Samling, Copenhagen (XML)
+Robert Giel, Staatsbibliothek zu Berlin (Manuscripta Mediaevalia)
+J. P. Gumbert, Prof. em., Universiteit Leiden (Manuscript miscellanies)
+Silvia Hufnagel, Den Arnamagn=C3=A6anske Samling, Copenhagen (XML)
+Eef Overgaauw, Leiter, Handschriftenabteilung, Staatsbibliothek zu Berlin (Bi=
+bles and Latin classics)
+Elena Pierazzo, Department of Digital Humanities, King's College, Lon=
+don (XML)
+Lena Rohrbach, Nordeuropa-Institut, Humboldt-Universität zu Berlin (Medi=
+eval and post-medieval Scandinavian legal manuscripts)The school is open to doctoral- and post-doctoral-level students with a backg=
+round in medieval studies and at least some experience of working with manusc=
+ripts; previous experience with XML, while an advantage, is not required. Pla=
+ces are limited to a maximum of twenty students. There is no fee for the cour=
+se itself, but participants will be expected to arrange their own accommodati=
+on and travel. Ten bursaries of =E2=82=AC 800 each will be available to cover=
+ the costs of travel and accommodation. Only students registered at instituti=
+ons in countries participating in this COST Action are eligible for bursaries=
+ (for a list of participating countries see http://www.cost.eu/domains_action=
+s/isch/Actions/IS1005?parties).
+Please send applications, including a full CV, to the school's organi=
+sers, Eef Overgaauw (Everardus.Overgaauw(a)sbb.spk-berlin.de<mailto:Everardus=
+.Overgaauw(a)sbb.spk-berlin.de>) and M. J. Driscoll (mjd(a)hum.ku.dk<mailto:m=
+jd(a)hum.ku.dk>), at the latest by the end of February.
+M J Driscoll
+AfdelingslederDen Arnamagn=C3=A6anske Samling
+Nordisk Forskningsinstitut
+K=C3=B8benhavns Universitet
+Njalsgade 136, Bygn. 27,
+2300 K=C3=B8benhavn S.
+DIR 35328471
+mjd(a)hum.ku.dk<mailto:mjd(a)hum.ku.dk>
+--===============1781546113476134737==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

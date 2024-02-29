@@ -1,0 +1,68 @@
+--===============6762733915033482025==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable(Apologies for cross-posting)Dear colleagues,We are delighted to announce the full programme for the workshop and round
+table 'Software in Scholarship, Scholarship in Software', sponsored jointly
+by Digital Humanities @ Uni Bern and Infoclio.ch, to be held 29-30 January
+2015 in Bern.http://www.dh.unibe.ch/en/2015/01/scholarship-in-software-workshop-and-round-=
+table-register-now/Any and all are welcome to attend; we ask that you register your attendance
+with
+thomas.leibundgut(a)kps.unibe.ch
+by 19 January.Best wishes,
+Tara Andrews*=E2=80=98Expressions', 29 January 2015: Workshop on Software-based S=
+cholarship*10:00 =E2=80=93 Welcome10:15 =E2=80=93 Opening remarks =E2=80=93 Willard McCarty, King's Col=
+lege London
+A matter of prepositions: Software *in* scholarship and scholarship *in*
+ software?10:45 =E2=80=93 Panel 1. Assessment and process   - Eugene Lyman, Independent Scholar
+   Scholarly Software and the Enhancement of Critical Scrutiny
+   - Aris Xanthos, Universit=C3=A9 de Lausanne
+   By scholars, for scholars: a case study on quality assessment of
+   scientific software
+   - Oleksandr Makarenko, National Technical University of Ukraine
+   Mathematical Modeling in Scholarship and their Representation in Software12:15 =E2=80=93 Lunch break14:00 =E2=80=93 Panel 2. Confrontation and collaboration   - James Baker, British Library
+   Removing Black Boxes: Exposing Scholarship to Researchers
+   - Pieter Francois, University of Oxford
+   Connecting Modes of Scholarship through the Library: The genesis of the
+   Sample Generator for Digitized Texts
+   - Jonas Schneider, Universität Zürich
+   Geovisualizing History15:30 =E2=80=93 Coffee break16:00 =E2=80=93 Panel 4: Creation   - Manfred Thaller, Universität Köln
+   Engineering, Science, Art, Scholarship: On implicit assumptions in the
+   software for semantic image databases.
+   - Joris van Zundert, Huygens ING, and Gregor Middell, independent scholar
+   Code and Authorship in the Humanities17:00 =E2=80=93 Closing keynote =E2=80=93 David Berry, University of Sussex
+Softwarization, Archives, and the Digital Humanities*=E2=80=98Evaluation', 30 January 2015: Round table on Peer Review fo=
+r Digital
+Scholarly Work**Schedule:*9:00 =E2=80=93 Welcome9:10-10:40 =E2=80=93 Position papers (max. 15 min. each)10:40-11:00 =E2=80=93 Coffee Break11:00-12:30 =E2=80=93 Collective Discussion on specific issues13:00 =E2=80=93 Lunch for all roundtable participants*Participants (in alphabetical order):*   - James Baker, Digital Research Team, British Library =E2=80=93 *Stepping =
+back =E2=80=93
+   playing as research*
+   - Claire Clivaz, Laboratoire des cultures et humanit=C3=A9s digitales,
+   Universit=C3=A9 de Lausanne =E2=80=93 *Reshapping the peer-review process:=
+ heretic
+   remarks in a digital time*
+   - Seth Dembo, Director of Scholarly Communication and Digital
+   Initiatives, American Historical Association =E2=80=93 *AHA's Ad H=
+oc Committee
+   on Professional Evaluation of Digital Scholarship by Historians*
+   - Ingrid Kissling, Head of the Humanities and Social Sciences division,
+   Swiss National Science Foundation =E2=80=93 *Peer review under revision =
+=E2=80=93 The
+   digital challenge for funding agencies*
+   - Eugene Lyman, University of Boston =E2=80=93 *Publishing digital projects
+   reviews: practical suggestions*
+   - Nicolas Th=C3=A9ly, Professor for Digital Humanities, Universit=C3=A9 de=
+ Rennes
+   2 =E2=80=93 *Toward an evaluation grid for Digital Humanities projects*
+   - Philip Steinkrüger, Editor of RIDE (Review Journal for digital
+   editions and ressources); Trinity College Dublin & University of
+Cologne =E2=80=93 *Toward
+   a catalogue of criteria for the review of digital editions*
+   - Sacha Zala, Director of the Swiss Historical Association & director of
+   the Diplomatic Documents of Switzerland =E2=80=93 *Some dogmatic postulate=
+s for
+   the digital historical sciences*
+--
+Prof. Tara L Andrews
+Digital Humanities, Universität Bern
+http://www.dh.unibe.ch/--===============6762733915033482025==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

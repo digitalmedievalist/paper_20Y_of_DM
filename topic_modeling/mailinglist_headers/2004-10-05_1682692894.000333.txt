@@ -1,0 +1,8 @@
+From: David Badke <david@badke.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Character reference conversions: help?
+Date: Tue, 05 Oct 2004 23:40:43 -0700
+Message-ID: <4.3.2.7.2.20041005231710.00c2ca50@badke.ca>
+In-Reply-To: <5.2.1.1.0.20041006174117.01620cf0@pop3.philo.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============7042554850267272434=="

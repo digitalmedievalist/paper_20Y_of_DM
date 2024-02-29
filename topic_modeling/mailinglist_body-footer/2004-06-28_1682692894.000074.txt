@@ -1,0 +1,18 @@
+--===============5624645641596658776==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit>>> Daniel O'Donnell <daniel.odonnell(a)uleth.ca> 6/28/04 15:48:51 >>>
+>>This is an interesting thread in as much as it touches on best
+practice. 
+>>Leaving aside the server vs. client side serving of xml for a minute
+(do 
+>>most people still not convert xml to (x)html and serve static
+pages?), Thank you for shortcutting the tedious answer I was preparing for that
+one ;-)
+ 
+Grtz.,
+Joris
+ 
+ --===============5624645641596658776==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

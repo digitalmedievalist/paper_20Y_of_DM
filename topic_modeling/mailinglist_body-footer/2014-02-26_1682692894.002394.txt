@@ -1,0 +1,41 @@
+--===============7706964178366527027==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printableDear all,Apologies for cross-posting.Please find below the details of next week's CeRch seminar:Date: Tuesday, 4th March 2014, from 6.15pm to 7.30pm (GMT)Location: Anatomy Museum Space, 6th Floor, King's College London (Strand Camp=
+us)http://www.kcl.ac.uk/campuslife/campuses/strand/Strand.aspxAttendance is free and open to all, but registration is requested:https://www.eventbrite.com/e/cerch-seminar-founders-survivors-tasmanian-convi=
+ct-life-courses-in-historical-context-prof-janet-tickets-10115219895The seminar will be followed by wine and nibbles.All the best,Valentina Asciutti Abstract: Founders & Survivors is a multi-university and public collaborativ=
+e project that is building a transnational and inter-generational data set of=
+ life courses generated from the UNESCO recognized convict records of Tasmani=
+a. This paper outlines the technical history of the project: mass digitizatio=
+n and archiving online of over 100,000 images; manual scholarly transcription=
+; TEI standard XML data library based on automated and manual record matching=
+ and linkage; crowdsourcing using Google Docs to manage over 60 online volunt=
+eer genealogists; re-constitution of amalgamated life courses and record link=
+age; development of customized genealogical database for population and famil=
+y analysis (Yggrasil); export to statistical programmes (SPSS, Stata). Three =
+grants from the Australian Research Council have funded this work, and the ou=
+tcomes have been (1) Hamish Maxwell-Stewart's nominal dataset of around 70,00=
+0 Tasmanian convicts using Deborah Oxley's transcriptions of the probation er=
+a, amplified by full transcriptions of 1 in 25 convicts and linkages to later=
+ criminal records (at the University of Tasmania); and (2) the Life Course pr=
+oject run by the authors which has completed life courses researched for all =
+convicts from 91 convict shiploads, creating a reference population of 12,068=
+ men (around 25% of the total) and 5,549 women (around 40% of the total), wit=
+h another 6188 (at last count) from random ships (at the University of Melbou=
+rne). The proportion of convicts researched for life before, during and after=
+ sentence, marriage, fertility and death is around 37% of the total number of=
+ convicts for whom adequate records have survived. This sample is big enough =
+to enable significant analysis on all-cause and cause-specific mortality; fer=
+tility; the life course effects of insult accumulation; temperament and survi=
+val; early life influences and intergenerational effects. None of this would =
+have been possible without the combination of information technology, digitiz=
+ed archives, customized software and the thousands of hours of labour donated=
+ by volunteers, to the equivalent value of AUD 4 million!
+Speakers: Professor Janet McCalman (Centre for Health & Society, University o=
+f Melbourne), Dr Rebecca Kippen (Centre for Health & Society, University of M=
+elbourne), Ms Sandra Silcot (Centre for Health & Society, University of Melbo=
+urne), Dr Len Smith (Australian Demographic and Social Research Institute, Au=
+stralian National University).?
+--===============7706964178366527027==
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="attachment.html"

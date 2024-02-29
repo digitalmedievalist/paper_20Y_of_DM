@@ -1,0 +1,8 @@
+From: Daniel O'Donnell <daniel.odonnell@uleth.ca>
+To: dm-l@uleth.ca
+Subject: Re: [dm-l] Any experience with standoff markup?
+Date: Sun, 04 Jul 2004 16:19:28 -0600
+Message-ID: <40E88270.9010109@uleth.ca>
+In-Reply-To: <3.0.6.32.20040704142138.01ebc430@pop.rrz.uni-koeln.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5197027754076104751=="

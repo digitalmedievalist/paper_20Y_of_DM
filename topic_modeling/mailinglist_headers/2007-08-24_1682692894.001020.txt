@@ -1,0 +1,9 @@
+From: Philipp =?utf-8?q?Steinkr=C3=BCger?= <philipp.steinkrueger@uni-koeln.de>
+To: dm-l@uleth.ca
+Subject:
+ Re: [dm-l] Anybody use subversion with people who don't use,	commandlines?
+Date: Fri, 24 Aug 2007 16:13:39 +0200
+Message-ID: <46CEE793.4090904@uni-koeln.de>
+In-Reply-To: <67avfs$1s5j6@cherub.rrz.uni-koeln.de>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3548101408444110527=="
